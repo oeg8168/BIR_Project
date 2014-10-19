@@ -1,0 +1,138 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">1879540</PMID>
+        <DateCreated>
+            <Year>1991</Year>
+            <Month>10</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1991</Year>
+            <Month>10</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0014-5793</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>288</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>Aug</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FEBS letters</Title>
+                <ISOAbbreviation>FEBS Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel structurally distinct family of leucocyte surface glycoproteins including CD9, CD37, CD53 and CD63.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Several of the recently described leucocyte surface (glyco)-proteins with significant amino acid sequence similarity (human CD9, CD37, CD53, CD63, TAPA-1, CO-029 and R2 and several homologues of other species) are distinguished by the polypeptide chain apparently four times crossing the membrane. Although the biological role of none of these molecules is known, their structure, associations with other membrane components and the effects of specific monoclonal antibodies suggest that they may constitute a family of ion channels or other transport molecules.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Horejsí</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Institute of Molecular Genetics, Czechoslovak Academy of Sciences, Prague.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlcek</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>FEBS Lett</MedlineTA>
+            <NlmUniqueID>0155157</NlmUniqueID>
+            <ISSNLinking>0014-5793</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>34</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1879540</ArticleId>
+            <ArticleId IdType="pii">0014-5793(91)80988-F</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

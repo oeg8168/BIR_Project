@@ -1,0 +1,115 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12222140</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0017-7768</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>141</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Harefuah</Title>
+                <ISOAbbreviation>Harefuah</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Diagnosis of drug hypersensitivity--state of the art].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>731-5, 760</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Adverse drug reactions are ubiquitous in outpatient as well as inpatient clinical care. An allergic drug reaction is an immunologically mediated adverse drug reaction that exhibits specificity and recurrence on re-exposure to the offending drug. The diagnosis and treatment of drug allergies is limited by a number of factors. In most instances the exact epitope causing the reaction is unknown, the immunological mechanism is unclear, the presence of immunological recognition is not predictive of a clinical reaction and the gold standard for diagnosis, the drug challenge, a complicated and sometimes dangerous endeavor. Nevertheless, during the past few years a serious attempt at standardization and validation of in vitro and in vivo techniques for the diagnosis of drug allergies, has been in progress. New methods, like the basophil surface marker for activation, CD63 are replacing old ones like histamine release for immediate type hypersensitivity reactions. For instance, in the field of beta-lactam hypersensitivity, the specific epitopes are better defined and standardized protocols for both immediate and delayed type reactions are in the process of being introduced. A standardized European Network of Drug Allergies (ENDA) questioner, published in 1999, permits systematic data gathering of events surrounding the acute drug reaction, facilitating later immunological investigation and diagnosis. This review attempts to summarize the present and some of the future options in the diagnosis of this common iatrogenic complication.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Iancovici-Kidon</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Allergy and Clinical Immunology Unit, Kaplan Medical Center, Rehovot, Israel.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Handzel</LastName>
+                    <ForeName>Z T</ForeName>
+                    <Initials>ZT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>heb</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Israel</Country>
+            <MedlineTA>Harefuah</MedlineTA>
+            <NlmUniqueID>0034351</NlmUniqueID>
+            <ISSNLinking>0017-7768</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>37</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12222140</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,606 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23107341</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-3102</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Placenta</Title>
+                <ISOAbbreviation>Placenta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Immunomodulatory molecules are released from the first trimester and term placenta via exosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>982-90</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.placenta.2012.10.005</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0143-4004(12)00368-2</ELocationID>
+            <Abstract>
+                <AbstractText>The semiallogenic fetus is tolerated by the maternal immune system through control of innate and adaptive immune responses. Trophoblast cells secrete nanometer scale membranous particles called exosomes, which have been implicated in modulation of the local and systemic maternal immune system. Here we investigate the possibility that exosomes secreted from the first trimester and term placenta carry HLA-G and B7 family immunomodulators. Confocal microscopy of placental sections revealed intracellular co-localization of B7-H1 with CD63, suggesting that B7-H1 associates with subcellular vesicles that give rise to exosomes. First trimester and term placental explants were then cultured for 24 h. B7H-1 (CD274), B7-H3 (CD276) and HLA-G5 were abundant in pelleted supernatants of these cultures that contained microparticles and exosomes; the latter, however, was observed only in first trimester pellets and was nearly undetectable in term explant-derived pellets. Further purification of exosomes by sucrose density fractionation confirmed the association of these proteins specifically with exosomes. Finally, culture of purified trophoblast cells in the presence or absence of EGF suggested that despite the absence of HLA-G5 association with term explant-derived exosomes, it is present in exosomes secreted from mononuclear cytotrophoblast cells. Further, differentiation of cytotrophoblast cells reduced the presence of HLA-G5 in secreted exosomes. Together, the results suggest that the immunomodulatory proteins HLA-G5, B7-H1 and B7-H3, are secreted from early and term placenta, and have important implications in the mechanisms by which trophoblast immunomodulators modify the maternal immunological environment.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kshirsagar</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                    <Affiliation>Department of Anatomy and Cell Biology, University of Kansas Medical Center, 3901 Rainbow Boulevard, Kansas City, KS 66160, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alam</LastName>
+                    <ForeName>S M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jasti</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hodes</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nauser</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilliam</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Billstrand</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunt</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petroff</LastName>
+                    <ForeName>M G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 HD049480</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 HD049480</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR016475</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR016475</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR017686</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR017686</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR024214</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 RR024214</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HD045611</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HD045611</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Placenta</MedlineTA>
+            <NlmUniqueID>8006349</NlmUniqueID>
+            <ISSNLinking>0143-4004</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD274</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>B7 Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD274 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD276 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA-G Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunologic Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>LAMP1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosome-Associated Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Isoforms</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 2010 Jun;63(6):506-19</RefSource>
+                <PMID Version="1">20384620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Dev Immunol. 2010;2010:683875</RefSource>
+                <PMID Version="1">21127709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 2011 Jan;65(1):65-77</RefSource>
+                <PMID Version="1">20560914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2011 Mar;32 Suppl 2:S176-81</RefSource>
+                <PMID Version="1">21211836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Reprod Immunol. 2011 Mar;88(2):99-105</RefSource>
+                <PMID Version="1">21334749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Nov 1;147(3):599-610</RefSource>
+                <PMID Version="1">10545503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Obstet Gynecol. 2000 Sep;183(3):682-8</RefSource>
+                <PMID Version="1">10992193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Mar;7(3):297-303</RefSource>
+                <PMID Version="1">11231627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Jul 12;110(1):119-31</RefSource>
+                <PMID Version="1">12151002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2002 Dec;32(12):3576-86</RefSource>
+                <PMID Version="1">12516543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 2003 Mar;64(3):315-26</RefSource>
+                <PMID Version="1">12590976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2003 Apr;3(4):280-91</RefSource>
+                <PMID Version="1">12669019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2003 May;68(5):1496-504</RefSource>
+                <PMID Version="1">12606489</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Jul 1;102(1):388-93</RefSource>
+                <PMID Version="1">12649154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Aug 1;171(3):1376-84</RefSource>
+                <PMID Version="1">12874228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Hum Reprod. 2003 Nov;9(11):729-35</RefSource>
+                <PMID Version="1">14561816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Dec 1;171(11):6215-24</RefSource>
+                <PMID Version="1">14634138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Mar 1;103(5):1961-4</RefSource>
+                <PMID Version="1">14592836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1985 Jun;76:189-97</RefSource>
+                <PMID Version="1">3905837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Endocrinol Metab. 1987 Dec;65(6):1282-90</RefSource>
+                <PMID Version="1">3500181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electron Microsc Rev. 1991;4(1):129-78</RefSource>
+                <PMID Version="1">1873486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1998 May;4(5):594-600</RefSource>
+                <PMID Version="1">9585234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Antigens. 1999 Jan;53(1):14-22</RefSource>
+                <PMID Version="1">10082427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Obstet Gynaecol Br Commonw. 1961 Aug;68:611-7</RefSource>
+                <PMID Version="1">13685013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2005 Jan 31;92(2):305-11</RefSource>
+                <PMID Version="1">15655551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2005 May;19(7):681-93</RefSource>
+                <PMID Version="1">15857883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(5):e20245</RefSource>
+                <PMID Version="1">21633494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2012 Jan 1;18(1):105-17</RefSource>
+                <PMID Version="1">22080438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2005 Aug;167(2):465-73</RefSource>
+                <PMID Version="1">16049332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Jul 18;202(2):231-7</RefSource>
+                <PMID Version="1">16027236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2012 Feb;33 Suppl:S48-54</RefSource>
+                <PMID Version="1">22217911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2005 Sep-Oct;35(2):89-93</RefSource>
+                <PMID Version="1">15990342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Med. 2006;121:203-17</RefSource>
+                <PMID Version="1">16251745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Feb 1;176(3):1534-42</RefSource>
+                <PMID Version="1">16424182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2006 Feb;74(2):352-8</RefSource>
+                <PMID Version="1">16251499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Hum Reprod. 2005 Oct;11(10):715-7</RefSource>
+                <PMID Version="1">16330470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 2006 Nov-Dec;56(5-6):345-55</RefSource>
+                <PMID Version="1">17076679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2007 Jan;76(1):96-101</RefSource>
+                <PMID Version="1">16988213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2007 May-Jun;28(5-6):378-82</RefSource>
+                <PMID Version="1">16934327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Aug 31;282(35):25779-89</RefSource>
+                <PMID Version="1">17591775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 2007 Oct;122(2):179-88</RefSource>
+                <PMID Version="1">17484767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Reprod Immunol. 2007 Dec;76(1-2):61-7</RefSource>
+                <PMID Version="1">17482271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2008 Mar;29 Suppl A:S73-7</RefSource>
+                <PMID Version="1">18192006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2008 Sep;79(3):562-9</RefSource>
+                <PMID Version="1">18550794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 1;68(19):7864-71</RefSource>
+                <PMID Version="1">18829542</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2009 Jan;30(1):48-55</RefSource>
+                <PMID Version="1">19010538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Taiwan J Obstet Gynecol. 2009 Mar;48(1):28-37</RefSource>
+                <PMID Version="1">19346189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2009 May;229(1):145-51</RefSource>
+                <PMID Version="1">19426220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Reprod Immunol. 2009 Jun;80(1-2):12-21</RefSource>
+                <PMID Version="1">19368976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2009 Jul 1;183(1):340-51</RefSource>
+                <PMID Version="1">19542445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Sep 10;114(11):2263-72</RefSource>
+                <PMID Version="1">19506299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2009 Sep;11(9):2299-306</RefSource>
+                <PMID Version="1">19331544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 Jan;12(1):19-30; sup pp 1-13</RefSource>
+                <PMID Version="1">19966785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2009 Dec;9(23):5316-27</RefSource>
+                <PMID Version="1">20017148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Dev Biol. 2010;54(2-3):495-505</RefSource>
+                <PMID Version="1">19757392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Dev Biol. 2010;54(2-3):421-30</RefSource>
+                <PMID Version="1">19876825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2009 Nov;39(11):3084-90</RefSource>
+                <PMID Version="1">19757438</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD274</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">B7 Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell-Derived Microparticles</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HLA-G Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunologic Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosome-Associated Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Placenta</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Placentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Trimester, First</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Trimester, Third</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Isoforms</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Culture Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trophoblasts</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS418569</OtherID>
+        <OtherID Source="NLM">PMC3534832</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0143-4004(12)00368-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.placenta.2012.10.005</ArticleId>
+            <ArticleId IdType="pubmed">23107341</ArticleId>
+            <ArticleId IdType="pmc">PMC3534832</ArticleId>
+            <ArticleId IdType="mid">NIHMS418569</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

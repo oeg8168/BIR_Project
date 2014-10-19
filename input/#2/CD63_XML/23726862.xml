@@ -1,0 +1,250 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23726862</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-3169</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>221</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicology letters</Title>
+                <ISOAbbreviation>Toxicol. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TiO2, CeO2 and ZnO nanoparticles and modulation of the degranulation process in human neutrophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>57-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.toxlet.2013.05.010</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-4274(13)00210-5</ELocationID>
+            <Abstract>
+                <AbstractText>Inflammation is frequently associated with nanoparticle (NP) exposures. Given that excessive polymorphonuclear neutrophil cell degranulation is a common feature of inflammatory disorders, and since these cells are key players in inflammation, we decided to test the hypothesis that NPs could act as modulators of degranulation in human neutrophils. TiO2, CeO2 and ZnO NPs slightly down-regulated cell surface expression of the granule marker CD35, but increased CD66b and CD63 expression, as assessed by flow cytometry. In addition, expression of myeloperoxidase, MMP-9 and albumin stored in azurophil, specific/gelatinase and secretrory granules, respectively, was significantly increased in the supernatants of NPs-induced neutrophils when compared to untreated cells. Moreover, NPs were more potent than the classical bacterial tripeptide N-formyl-methionine-leucine-phenylalanine (fMLP) agonist. Finally, TiO2 and CeO2 markedly increased the enzymatic activity of MMP-9 released into the supernatant, as assessed by gelatin zymography, while ZnO exerted only a modest effect. We conclude that NPs can differentially affect all steps involved during neutrophil degranulation, namely, cell surface expression of granule markers, liberation of proteins in the supernatants and enzymatic activity. These results are expected to be helpful to understand the toxicity of TiO2, CeO2 and ZnO.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Babin</LastName>
+                    <ForeName>Kim</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Laboratoire de recherche en inflammation et physiologie des granulocytes, Université du Québec, INRS-Institut Armand-Frappier, Laval, QC, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Antoine</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goncalves</LastName>
+                    <ForeName>David Miguel</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Girard</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Toxicol Lett</MedlineTA>
+            <NlmUniqueID>7709027</NlmUniqueID>
+            <ISSNLinking>0378-4274</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Albumins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>15FIX9V2JP</RegistryNumber>
+                <NameOfSubstance>titanium dioxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>30K4522N6T</RegistryNumber>
+                <NameOfSubstance>Cerium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59880-97-6</RegistryNumber>
+                <NameOfSubstance>N-Formylmethionine Leucyl-Phenylalanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>619G5K328Y</RegistryNumber>
+                <NameOfSubstance>ceric oxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>D1JT611TNE</RegistryNumber>
+                <NameOfSubstance>Titanium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.7</RegistryNumber>
+                <NameOfSubstance>Peroxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.35</RegistryNumber>
+                <NameOfSubstance>Matrix Metalloproteinase 9</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SOI2LOH54Z</RegistryNumber>
+                <NameOfSubstance>Zinc Oxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actin Cytoskeleton</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Albumins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Matrix Metalloproteinase 9</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Metal Nanoparticles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">N-Formylmethionine Leucyl-Phenylalanine</DescriptorName>
+                <QualifierName MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Particle Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peroxidase</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymerization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Titanium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Zinc Oxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Degranulation</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Nanotoxicology</Keyword>
+            <Keyword MajorTopicYN="N">Neutrophils</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23726862</ArticleId>
+            <ArticleId IdType="pii">S0378-4274(13)00210-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.toxlet.2013.05.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,130 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10539116</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0955-3886</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion science</Title>
+                <ISOAbbreviation>Transfus Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flow cytometric analysis of platelet function in stored platelet concentrates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>129-39</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Platelet activation occurs during the collection, processing and storage of platelet concentrates. The effect of the platelet activation on the functional state of stored platelets remains however undefined. We employed flow cytometric analysis to evaluate the extent of platelet activation and the physiological response to thrombin stimulation of platelets stored for up to five days under routine blood bank conditions. Platelet surface expression of the activation markers CD62 and CD63 was examined, along with modulation of platelet membrane glycoproteins (GP) Ib and IIbIIIa. Platelet dense granule content was determined using a mepacrine uptake assay and the extent of platelet microparticle generation was quantified. Thirteen random-donor platelet concentrates prepared under routine conditions by a platelet-rich-plasma protocol were examined. Platelets were found to be activated following preparation on day 1. Although a gradual increase was seen with increasing storage time, this was not statistically significant for CD62 or CD63 expression, GPIIbIIIa or GPIb modulation or dense granule release; the generation of platelet microparticles did, however, increase with increasing storage time. The characteristic increase in surface expression of CD62, CD63 and GPIIbIIIa and decrease in GPIb and dense granule content in response to thrombin stimulation was observed with all concentrates, but these measures of platelet functional reserve showed decreasing platelet function with increasing storage time. The results indicate that platelets are activated by day 1, likely as a consequence of manipulation during collection and processing, but are not further progressively activated with increasing storage time; they do, however, become relatively hypofunctional with increasing storage.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Canadian Red Cross Blood Services, Toronto Centre, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mody</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herst</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sher</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freedman</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Transfus Sci</MedlineTA>
+            <NlmUniqueID>9001514</NlmUniqueID>
+            <ISSNLinking>0955-3886</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>T</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Platelets</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10539116</ArticleId>
+            <ArticleId IdType="pii">S0955-3886(99)00022-3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

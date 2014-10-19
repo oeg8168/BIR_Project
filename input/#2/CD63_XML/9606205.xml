@@ -1,0 +1,500 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9606205</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9525</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>141</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Jun</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of cell biology</Title>
+                <ISOAbbreviation>J. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Deficient peptide loading and MHC class II endosomal sorting in a human genetic immunodeficiency disease: the Chediak-Higashi syndrome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1121-34</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Chediak-Higashi syndrome (CHS) is a human recessive autosomal disease caused by mutations in a single gene encoding a protein of unknown function, called lysosomal-trafficking regulator. All cells in CHS patients bear enlarged lysosomes. In addition, T- and natural killer cell cytotoxicity is defective in these patients, causing severe immunodeficiencies. We have analyzed major histocompatibility complex class II functions and intracellular transport in Epstein Barr Virus-transformed B cells from CHS patients. Peptide loading onto major histocompatibility complex class II molecules and antigen presentation are strongly delayed these cells. A detailed electron microscopy analysis of endocytic compartments revealed that only lysosomal multilaminar compartments are enlarged (reaching 1-2 micron), whereas late multivesicular endosomes have normal size and morphology. In contrast to giant multilaminar compartments that bear most of the usual lysosomal markers in these cells (HLA-DR, HLA-DM, Lamp-1, CD63, etc.), multivesicular late endosomes displayed reduced levels of all these molecules, suggesting a defect in transport from the trans-Golgi network and/or early endosomes into late multivesicular endosomes. Further insight into a possible mechanism of this transport defect came from immunolocalizing the lysosomal trafficking regulator protein, as antibodies directed to a peptide from its COOH terminal domain decorated punctated structures partially aligned along microtubules. These results suggest that the product of the Lyst gene is required for sorting endosomal resident proteins into late multivesicular endosomes by a mechanism involving microtubules.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Faigle</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>CJF 95-01 INSERM, Institut Curie, 75005 Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raposo</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tenza</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinet</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vogt</LastName>
+                    <ForeName>A B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kropshofer</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fischer</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Saint-Basile</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amigorena</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Cell Biol</MedlineTA>
+            <NlmUniqueID>0375356</NlmUniqueID>
+            <ISSNLinking>0021-9525</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>LYST protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vesicular Transport Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1981 Oct;127(4):1403-10</RefSource>
+                <PMID Version="1">6944380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1982 Nov;12(11):942-8</RefSource>
+                <PMID Version="1">6185348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1983 Dec;50(4):613-24</RefSource>
+                <PMID Version="1">6197354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1984 Jun;3(6):1281-6</RefSource>
+                <PMID Version="1">6086314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 1985 Apr;12(4):191-211</RefSource>
+                <PMID Version="1">3921497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Feb 21;349(6311):669-76</RefSource>
+                <PMID Version="1">1847504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3150-4</RefSource>
+                <PMID Version="1">2014234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1991 Sep;88(3 Pt 1):328-38</RefSource>
+                <PMID Version="1">1716273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Sep 12;353(6340):134-9</RefSource>
+                <PMID Version="1">1891045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1991 Dec;115(5):1213-23</RefSource>
+                <PMID Version="1">1955469</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Jan 3;14(1):37-49</RefSource>
+                <PMID Version="1">7530198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 May 1;181(5):1729-41</RefSource>
+                <PMID Version="1">7722451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Jun 1;154(11):5715-24</RefSource>
+                <PMID Version="1">7751623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Jun 1;154(11):6122-31</RefSource>
+                <PMID Version="1">7751653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1995 Feb;7(1):55-64</RefSource>
+                <PMID Version="1">7755990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Jun 15;375(6532):603-6</RefSource>
+                <PMID Version="1">7540726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Jun 29;375(6534):802-6</RefSource>
+                <PMID Version="1">7596415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1985 Dec;66(6):1398-403</RefSource>
+                <PMID Version="1">4063526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 Jun 1;175(6):1493-9</RefSource>
+                <PMID Version="1">1588277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Dec 11;258(5089):1801-4</RefSource>
+                <PMID Version="1">1465617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 1993;100(2):99-106</RefSource>
+                <PMID Version="1">7680258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 May;12(5):2195-204</RefSource>
+                <PMID Version="1">8387919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Oct;13(10):6052-63</RefSource>
+                <PMID Version="1">8413207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Dec 1;178(6):1845-56</RefSource>
+                <PMID Version="1">7902407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1993 Aug;5(4):596-605</RefSource>
+                <PMID Version="1">8257600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1993 Sep;106 ( Pt 1):99-107</RefSource>
+                <PMID Version="1">8270647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Jan 28;76(2):287-99</RefSource>
+                <PMID Version="1">8293464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 May 15;152(10):4852-60</RefSource>
+                <PMID Version="1">8176208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 May 12;369(6476):113-20</RefSource>
+                <PMID Version="1">8177316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 May 12;369(6476):147-51</RefSource>
+                <PMID Version="1">8177319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1986 Oct 1;137(7):2299-306</RefSource>
+                <PMID Version="1">3760563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Feb 12;52(3):329-41</RefSource>
+                <PMID Version="1">2964276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Jun;85(11):3975-9</RefSource>
+                <PMID Version="1">3287381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Nov 16;63(4):707-16</RefSource>
+                <PMID Version="1">2121367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Dec 13;348(6302):600-5</RefSource>
+                <PMID Version="1">2250716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1995 Jan;2(1):73-88</RefSource>
+                <PMID Version="1">7600303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Jul 14;82(1):155-65</RefSource>
+                <PMID Version="1">7606781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Aug 1;182(2):325-34</RefSource>
+                <PMID Version="1">7629497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1995 Aug;130(4):781-96</RefSource>
+                <PMID Version="1">7642697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1995 Aug;130(4):797-805</RefSource>
+                <PMID Version="1">7642698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1995 Aug;7(4):564-72</RefSource>
+                <PMID Version="1">7495577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1995 Sep;3(3):335-47</RefSource>
+                <PMID Version="1">7552998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1995 Oct;11(2):115-6</RefSource>
+                <PMID Version="1">7550332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Nov 24;270(5240):1357-9</RefSource>
+                <PMID Version="1">7481823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Mar 15;271(5255):1533-9</RefSource>
+                <PMID Version="1">8599109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Mar;132(5):769-85</RefSource>
+                <PMID Version="1">8603911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1996 Apr;4(4):357-66</RefSource>
+                <PMID Version="1">8612130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Jul 18;382(6588):262-5</RefSource>
+                <PMID Version="1">8717042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 1996 Sep;59(3):625-32</RefSource>
+                <PMID Version="1">8751864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem Cell Biol. 1996 Jul;106(1):41-58</RefSource>
+                <PMID Version="1">8858366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1996 Nov;14(3):307-11</RefSource>
+                <PMID Version="1">8896560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 24;272(4):2477-85</RefSource>
+                <PMID Version="1">8999962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1997 Mar;27(3):609-17</RefSource>
+                <PMID Version="1">9079799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Apr 7;137(1):51-65</RefSource>
+                <PMID Version="1">9105036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 1997 Jul;6(7):1091-8</RefSource>
+                <PMID Version="1">9215680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Aug 11;138(3):531-45</RefSource>
+                <PMID Version="1">9245784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Aug 21;388(6644):787-92</RefSource>
+                <PMID Version="1">9285592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Nov 3;139(3):639-49</RefSource>
+                <PMID Version="1">9348281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1998 Feb 16;187(4):505-15</RefSource>
+                <PMID Version="1">9463401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Sep 22;371(6495):297-300</RefSource>
+                <PMID Version="1">8090199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1966 Aug;28(2):143-56</RefSource>
+                <PMID Version="1">5913047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1970 Aug 15;227(5259):680-5</RefSource>
+                <PMID Version="1">5432063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1975 Dec;67(3):774-88</RefSource>
+                <PMID Version="1">408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1978 Nov;79(2 Pt 1):401-8</RefSource>
+                <PMID Version="1">363727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 1979 Jan;16(1):51-60</RefSource>
+                <PMID Version="1">376435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1980 Apr 10;284(5756):553-5</RefSource>
+                <PMID Version="1">6445041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1980 May 1;151(5):1039-48</RefSource>
+                <PMID Version="1">6154765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1980 Oct;77(10):6101-4</RefSource>
+                <PMID Version="1">6160591</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Antigen Presentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Compartmentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Transformed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chediak-Higashi Syndrome</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Fusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Subcellular Fractions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vesicular Transport Proteins</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2137185</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9606205</ArticleId>
+            <ArticleId IdType="pmc">PMC2137185</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,172 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9798988</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0340-6245</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>80</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis and haemostasis</Title>
+                <ISOAbbreviation>Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ethanol inhibits thrombin-induced secretion of the contents of human platelet dense and alpha-granules and lysosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>662-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Moderate consumption of alcoholic beverages is associated with a reduction in thromboembolic complications of coronary artery disease, possibly partially attributable to inhibition by ethanol of platelet responses to some aggregating agents. Although ethanol is known to inhibit thrombin-induced secretion of platelet dense granule contents, the effect of ethanol on secretion of alpha-granule and lysosomal contents has not been studied. Using suspensions of washed platelets, and a range of thrombin concentrations (up to 0.1 U/ml), we examined the effect of 87 mM ethanol on secretion of [14C]serotonin from prelabelled platelets as a measure of secretion of dense granule contents. Secretion of alpha-granule and lysosomal contents was examined by flow cytometric measurement of the surface expression of CD62P (P-selectin) and CD63, respectively. Secretion of the lysosomal enzyme, beta-N-acetylglucosaminidase was also quantified. Results were expressed as % of maximum response induced by 1 U/ml thrombin. Ethanol inhibited the thrombin-induced secretion of both dense and alpha-granule contents (P &lt;0.001, 2-way ANOVA), and of lysosomal contents (P &lt;0.005 for CD63 expression and P &lt;0.001 for beta-N-acetylglucosaminidase secretion). When platelets were pretreated with aspirin, thrombin-induced secretion of storage granule and lysosomal contents was slightly inhibited, but secretion was inhibited by ethanol to the same extent as the untreated platelets, indicating that this inhibition was independent of thromboxane A2. Surface expression of CD63 occurred at lower thrombin concentrations than those required for secretion of beta-N-acetylglucosaminidase, possibly due to the presence of some CD63 on granule membranes. Although the role of lysosomal contents in thrombus formation is not established, some constituents of storage granules are known to augment thrombus formation; ethanol's inhibition of their secretion by stimulated platelets may contribute to its beneficial effect on thromboembolism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nguyen</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Biochemistry, University of Toronto, Ontario, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gemmell</LastName>
+                    <ForeName>C H</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yeo</LastName>
+                    <ForeName>E L</ForeName>
+                    <Initials>EL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Packham</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rand</LastName>
+                    <ForeName>M L</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Thromb Haemost</MedlineTA>
+            <NlmUniqueID>7608063</NlmUniqueID>
+            <ISSNLinking>0340-6245</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hemostatics</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Solvents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3K9958V90M</RegistryNumber>
+                <NameOfSubstance>Ethanol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Antagonism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ethanol</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemostatics</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Solvents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9798988</ArticleId>
+            <ArticleId IdType="pii">98100662</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

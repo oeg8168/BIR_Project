@@ -1,0 +1,399 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22203761</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-7755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>30</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical oncology : official journal of the American Society of Clinical Oncology</Title>
+                <ISOAbbreviation>J. Clin. Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Activation of peripheral-blood granulocytes is strongly correlated with patient outcome after immunotherapy with anti-GD2 monoclonal antibody and granulocyte-macrophage colony-stimulating factor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>426-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1200/JCO.2011.37.6236</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Adjuvant therapy using anti-GD2 monoclonal antibody and granulocyte-macrophage colony-stimulating factor (GM-CSF) has shown treatment success for patients with high-risk neuroblastoma (NB). Although there is ample evidence on how the antibody targets NB, in vivo contribution by GM-CSF remains unclear. This report investigates granulocyte activation and its correlation with treatment outcome.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">Patients enrolled onto NCT00072358 received multiple treatment cycles, each consisting of anti-GD2 antibody 3F8 plus subcutaneous (SC) GM-CSF. Peripheral-blood (PB) samples from 151 patients were collected on day 0 and day 4 of cycle 1. PB from a subgroup of 35 patients had intravenous (IV) instead of SC GM-CSF during cycle 4. Samples were analyzed by flow cytometry for CD11a, CD63, CD87, and CD11b and its activation epitope CBRM1/5.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Comparing cycle 1 day 4 PB samples with day 0 PB samples, five of five activation marker-positive granulocytes were significantly higher. The change in frequency and mean fluorescence intensity of CBRM1/5-positive granulocytes correlated with progression-free survival (PFS; P = .024 and P = .008, respectively). A multivariable analysis identified increasing CBRM1/5-positive granulocytes and missing killer immunoglobulin-like receptor ligand as positive independent prognostic factors for PFS, whereas second-line cyclophosphamide-based therapy before protocol entry negatively influenced outcome. Thirty-five patients who received SC GM-CSF at cycle 1 and IV GM-CSF at cycle 4 had significantly less CBRM1/5 activation after IV GM-CSF. In contrast, 63 patients who received SC GM-CSF at both cycles had comparable CBRM1/5 activation.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">GM-CSF-induced granulocyte activation in vivo is associated with improved patient outcome. This activation was more apparent when GM-CSF was given by the SC route instead of IV route.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cheung</LastName>
+                    <ForeName>Irene Y</ForeName>
+                    <Initials>IY</Initials>
+                    <Affiliation>Memorial Sloan-Kettering Cancer Center, 1275 York Ave, New York, NY 10065, USA. cheungi@mskcc.org</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Katharine</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheung</LastName>
+                    <ForeName>Nai-Kong V</ForeName>
+                    <Initials>NK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT00072358</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA106450</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Oncol</MedlineTA>
+            <NlmUniqueID>8309333</NlmUniqueID>
+            <ISSNLinking>0732-183X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>3F8 antibody</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>83869-56-1</RegistryNumber>
+                <NameOfSubstance>Granulocyte-Macrophage Colony-Stimulating Factor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2000;18(1):10-8</RefSource>
+                <PMID Version="1">10661568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2011 Apr;21(2):131-8</RefSource>
+                <PMID Version="1">21145968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2000 Nov;68(5):662-8</RefSource>
+                <PMID Version="1">11073105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2001 Nov 15;19(22):4189-94</RefSource>
+                <PMID Version="1">11709561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone Marrow Transplant. 2002 Feb;29(4):303-12</RefSource>
+                <PMID Version="1">11896427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2002 Jun 1;99(11):4166-73</RefSource>
+                <PMID Version="1">12010822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Jan 1;10(1 Pt 1):84-7</RefSource>
+                <PMID Version="1">14734455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2004 Sep 1;22(17):3549-57</RefSource>
+                <PMID Version="1">15337804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Sep 1;64(17):6337-43</RefSource>
+                <PMID Version="1">15342423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1985 Jun;45(6):2642-9</RefSource>
+                <PMID Version="1">2580625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1988 Apr;81(4):1122-8</RefSource>
+                <PMID Version="1">2450893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1989 May 15;73(7):1936-41</RefSource>
+                <PMID Version="1">2653466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1989 Jun 1;49(11):2857-61</RefSource>
+                <PMID Version="1">2720646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1989 Dec 20;125(1-2):191-202</RefSource>
+                <PMID Version="1">2514231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1990 Feb 15;144(4):1382-6</RefSource>
+                <PMID Version="1">2303711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Aug;87(15):5702-5</RefSource>
+                <PMID Version="1">2198570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1991 Jan 1;51(1):144-9</RefSource>
+                <PMID Version="1">1988079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1991 Sep 15;51(18):4865-70</RefSource>
+                <PMID Version="1">1654202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1992 Mar 15;79(6):1484-90</RefSource>
+                <PMID Version="1">1347707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1993 Jan 15;53(2):362-7</RefSource>
+                <PMID Version="1">8417829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Jan;120(2):545-56</RefSource>
+                <PMID Version="1">7678422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Apr 15;90(8):3539-43</RefSource>
+                <PMID Version="1">8097319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 1993 Aug;11(8):1466-77</RefSource>
+                <PMID Version="1">8336186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 Apr 15;54(8):2228-33</RefSource>
+                <PMID Version="1">8174131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1996 Jul 1;98(1):50-61</RefSource>
+                <PMID Version="1">8690804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Immunopharmacol. 1999 Apr;21(4):241-52</RefSource>
+                <PMID Version="1">10408632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1999 Oct 14;341(16):1165-73</RefSource>
+                <PMID Version="1">10519894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2005 Feb;5(2):136-48</RefSource>
+                <PMID Version="1">15688041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2006 Jun 20;24(18):2885-90</RefSource>
+                <PMID Version="1">16682723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2007 Feb;18(2):226-32</RefSource>
+                <PMID Version="1">17116643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Blood Cancer. 2007 Apr;48(4):430-4</RefSource>
+                <PMID Version="1">16421906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Invest. 2007 Feb;25(1):67-77</RefSource>
+                <PMID Version="1">17364560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2007 Jun 20;25(18):2546-53</RefSource>
+                <PMID Version="1">17577033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2007 Aug 20;97(4):539-42</RefSource>
+                <PMID Version="1">17667923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Immunol Immunother. 2008 Mar;57(3):379-88</RefSource>
+                <PMID Version="1">17676322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2008 Apr;222:180-91</RefSource>
+                <PMID Version="1">18364002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer J. 2008 May-Jun;14(3):178-83</RefSource>
+                <PMID Version="1">18536557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Biol Ther. 2008 Aug;8(8):1151-8</RefSource>
+                <PMID Version="1">18613766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Oct 15;112(8):3444-54</RefSource>
+                <PMID Version="1">18669870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2009 Jan 1;27(1):85-91</RefSource>
+                <PMID Version="1">19047298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2009 Mar 1;27(7):1007-13</RefSource>
+                <PMID Version="1">19171716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2009 Apr 15;182(8):4499-506</RefSource>
+                <PMID Version="1">19342621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2009 Dec 1;15(23):7330-4</RefSource>
+                <PMID Version="1">19934297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2010 Jan 1;184(1):512-20</RefSource>
+                <PMID Version="1">19949082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2010 Apr;22(2):238-44</RefSource>
+                <PMID Version="1">20171075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2010 Aug 1;16(15):3901-9</RefSource>
+                <PMID Version="1">20542985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2010 Sep 30;363(14):1324-34</RefSource>
+                <PMID Version="1">20879881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Dec 1;70(23):9554-61</RefSource>
+                <PMID Version="1">20935224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2000 Jun 1;60(11):3013-8</RefSource>
+                <PMID Version="1">10850450</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease-Free Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granulocyte-Macrophage Colony-Stimulating Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granulocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin G</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunotherapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuroblastoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3269968</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JCO.2011.37.6236</ArticleId>
+            <ArticleId IdType="doi">10.1200/JCO.2011.37.6236</ArticleId>
+            <ArticleId IdType="pubmed">22203761</ArticleId>
+            <ArticleId IdType="pmc">PMC3269968</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

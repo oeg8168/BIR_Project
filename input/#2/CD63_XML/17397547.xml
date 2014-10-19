@@ -1,0 +1,643 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17397547</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1472-6793</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2007</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC physiology</Title>
+                <ISOAbbreviation>BMC Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulatory network of inflammation downstream of proteinase-activated receptors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Protease-activated receptors (PAR) are present in the urinary bladder, and their expression is altered in response to inflammation. PARs are a unique class of G protein-coupled that carry their own ligands, which remain cryptic until unmasked by proteolytic cleavage. Although the canonical signal transduction pathway downstream of PAR activation and coupling with various G proteins is known and leads to the rapid transcription of genes involved in inflammation, the effect of PAR activation on the downstream transcriptome is unknown. We have shown that intravesical administration of PAR-activating peptides leads to an inflammatory reaction characterized by edema and granulocyte infiltration. Moreover, the inflammatory response to intravesical instillation of known pro-inflammatory stimuli such as E. coli lipopolysaccharide (LPS), substance P (SP), and antigen was strongly attenuated by PAR1- and to a lesser extent by PAR2-deficiency.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Here, cDNA array experiments determined inflammatory genes whose expression is dependent on PAR1 activation. For this purpose, we compared the alteration in gene expression in wild type and PAR1-/- mice induced by classical pro-inflammatory stimuli (LPS, SP, and antigen). 75 transcripts were considered to be dependent on PAR-1 activation and further annotated in silico by Ingenuity Pathways Analysis (IPA) and gene ontology (GO). Selected transcripts were target validated by quantitative PCR (Q-PCR). Among PAR1-dependent transcripts, the following have been implicated in the inflammatory process: b2m, ccl7, cd200, cd63, cdbpd, cfl1, dusp1, fkbp1a, fth1, hspb1, marcksl1, mmp2, myo5a, nfkbia, pax1, plaur, ppia, ptpn1, ptprcap, s100a10, sim2, and tnfaip2. However, a balanced response to signals of injury requires a transient cellular activation of a panel of genes together with inhibitory systems that temper the overwhelming inflammation. In this context, the activation of genes such as dusp1 and nfkbia seems to counter-balance the inflammatory response to PAR activation by limiting prolonged activation of p38 MAPK and increased cytokine production. In contrast, transcripts such as arf6 and dcnt1 that are involved in the mechanism of PAR re-sensitization would tend to perpetuate the inflammatory reaction in response to common pro-inflammatory stimuli.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The combination of cDNA array results and genomic networks reveals an overriding participation of PAR1 in bladder inflammation, provides a working model for the involvement of downstream signaling, and evokes testable hypotheses regarding the transcriptome downstream of PAR1 activation. It remains to be determined whether or not mechanisms targeting PAR1 gene silencing or PAR1 blockade will ameliorate the clinical manifestation of cystitis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saban</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Department of Physiology, The University Oklahoma Health Sciences Center, Oklahoma City, OK 73104, USA. ricardo-saban@ouhsc.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Andrea</LastName>
+                    <ForeName>Michael R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andrade-Gordon</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Derian</LastName>
+                    <ForeName>Claudia K</ForeName>
+                    <Initials>CK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dozmorov</LastName>
+                    <ForeName>Igor</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ihnat</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hurst</LastName>
+                    <ForeName>Robert E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simpson</LastName>
+                    <ForeName>Cindy</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saban</LastName>
+                    <ForeName>Marcia R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DK 55828-01</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK066101-01</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Physiol</MedlineTA>
+            <NlmUniqueID>101088687</NlmUniqueID>
+            <ISSNLinking>1472-6793</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chromatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptor, PAR-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>33507-63-0</RegistryNumber>
+                <NameOfSubstance>Substance P</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.1.-</RegistryNumber>
+                <NameOfSubstance>Phospholipases A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Regul Integr Comp Physiol. 2005 Feb;288(2):R491-500</RefSource>
+                <PMID Version="1">15458971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2005 Feb;173(2):635-9</RefSource>
+                <PMID Version="1">15643279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Feb 1;102(5):1339-44</RefSource>
+                <PMID Version="1">15677324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Rev. 2005 Feb;26(1):1-43</RefSource>
+                <PMID Version="1">15689571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Oct 27;281(43):32095-112</RefSource>
+                <PMID Version="1">16885167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2006 Nov 6;95(9):1234-8</RefSource>
+                <PMID Version="1">17024120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropharmacology. 2007 Jan;52(1):100-7</RefSource>
+                <PMID Version="1">16890965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Physiol. 2007;7:4</RefSource>
+                <PMID Version="1">17397548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Physiol. 2006;6:1</RefSource>
+                <PMID Version="1">16420690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Aliment Pharmacol Ther. 2000 Mar;14(3):257-66</RefSource>
+                <PMID Version="1">10735917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2001 Mar;22(3):146-52</RefSource>
+                <PMID Version="1">11239578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2001 Apr 2;5(3):147-60</RefSource>
+                <PMID Version="1">11285368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Rev. 2001 Jun;53(2):245-82</RefSource>
+                <PMID Version="1">11356985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 2001 Jun;165(6 Pt 1):2063-7</RefSource>
+                <PMID Version="1">11371929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Jul;7(7):821-6</RefSource>
+                <PMID Version="1">11433347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2001 Oct 10;7(1):35-43</RefSource>
+                <PMID Version="1">11595790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2001 Dec;29(4):365-71</RefSource>
+                <PMID Version="1">11726920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2002 Feb;282(2):F202-10</RefSource>
+                <PMID Version="1">11788433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Rev. 2002 Jun;54(2):203-17</RefSource>
+                <PMID Version="1">12037136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2002 Jun;160(6):2095-110</RefSource>
+                <PMID Version="1">12057914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 2002;19(3):193-207</RefSource>
+                <PMID Version="1">12067200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2002 Aug;283(2):F242-53</RefSource>
+                <PMID Version="1">12110507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2002 Oct;283(4):F616-29</RefSource>
+                <PMID Version="1">12217852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2002 Nov;283(5):F944-51</RefSource>
+                <PMID Version="1">12372769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Nov 1;169(9):5315-21</RefSource>
+                <PMID Version="1">12391252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2002 Oct 15;12(20):1792-5</RefSource>
+                <PMID Version="1">12401177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Nov 8;298(5596):1189-90</RefSource>
+                <PMID Version="1">12424362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Apr 18;103(16):6326-31</RefSource>
+                <PMID Version="1">16606835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2006 May;7(5):347-58</RefSource>
+                <PMID Version="1">16633337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Thromb Hemost. 2006 Apr;32 Suppl 1:39-48</RefSource>
+                <PMID Version="1">16673265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Jun 16;344(4):1263-70</RefSource>
+                <PMID Version="1">16650817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 May 26;281(21):14644-53</RefSource>
+                <PMID Version="1">16567801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2006 Jul;291(1):F9-21</RefSource>
+                <PMID Version="1">16609152</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jun 19;173(6):975-83</RefSource>
+                <PMID Version="1">16785325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2006 Jul 15;312(12):2203-13</RefSource>
+                <PMID Version="1">16631161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncol Rep. 2006 Aug;16(2):329-34</RefSource>
+                <PMID Version="1">16820911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2006 Aug;17(8):3689-704</RefSource>
+                <PMID Version="1">16760436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2006 Aug 7;203(8):1883-9</RefSource>
+                <PMID Version="1">16880258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Immunol. 2006;26(3):213-30</RefSource>
+                <PMID Version="1">16928187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2006 Aug;5(16):1760-71</RefSource>
+                <PMID Version="1">16931909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Phylogenet Evol. 2006 Nov;41(2):355-67</RefSource>
+                <PMID Version="1">16814572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Naunyn Schmiedebergs Arch Pharmacol. 2003 Jun;367(6):588-91</RefSource>
+                <PMID Version="1">12750876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2003 Jul 7;14(2):107-15</RefSource>
+                <PMID Version="1">12847144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2003 Aug;60(8):1716-24</RefSource>
+                <PMID Version="1">14513837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2003 Nov 11;15(3):209-22</RefSource>
+                <PMID Version="1">12966137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2003 Dec;31(Pt 6):1191-7</RefSource>
+                <PMID Version="1">14641024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Feb 6;279(6):4186-95</RefSource>
+                <PMID Version="1">14623889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2004 Apr;84(2):579-621</RefSource>
+                <PMID Version="1">15044683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 2004 Feb;83(1):27-34</RefSource>
+                <PMID Version="1">15085953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2004 May 5;24(18):4300-12</RefSource>
+                <PMID Version="1">15128844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2000 Feb;6(2):151-8</RefSource>
+                <PMID Version="1">10655102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2004 Jul 1;60(2):168-74</RefSource>
+                <PMID Version="1">15162383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2004 Jul;2(7):395-402</RefSource>
+                <PMID Version="1">15280447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Aug 10;101(32):11803-8</RefSource>
+                <PMID Version="1">15282374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2002 Dec 2;87(12):1422-30</RefSource>
+                <PMID Version="1">12454772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2003 Feb 6;12(3):239-50</RefSource>
+                <PMID Version="1">12499446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2003 Mar;162(3):907-23</RefSource>
+                <PMID Version="1">12598324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2003 Mar 1;547(Pt 2):531-42</RefSource>
+                <PMID Version="1">12562962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Mol Diagn. 2003 Mar;3(2):217-35</RefSource>
+                <PMID Version="1">12647997</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2003 May;284(5):C1319-29</RefSource>
+                <PMID Version="1">12540381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Apr 15;170(8):4296-300</RefSource>
+                <PMID Version="1">12682265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2003 Jun;17(9):1048-57</RefSource>
+                <PMID Version="1">12773487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Feb 7;201(3):385-96</RefSource>
+                <PMID Version="1">15684326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Ophthalmol Vis Sci. 2005 Mar;46(3):925-32</RefSource>
+                <PMID Version="1">15728549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2005 Apr;288(4):F714-21</RefSource>
+                <PMID Version="1">15561975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2005 Jul 10;1744(3):364-73</RefSource>
+                <PMID Version="1">15979507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2005 Aug;33(Pt 4):639-42</RefSource>
+                <PMID Version="1">16042562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Sep;16(9):3937-50</RefSource>
+                <PMID Version="1">15958488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacogenomics. 2005 Sep;6(6):575-84</RefSource>
+                <PMID Version="1">16142998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2005 Sep 21;23(1):62-71</RefSource>
+                <PMID Version="1">16033863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Oct 13;437(7061):1032-7</RefSource>
+                <PMID Version="1">16136080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2005 Nov;17(11):1391-7</RefSource>
+                <PMID Version="1">16157606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Essays Biochem. 2005;41:81-98</RefSource>
+                <PMID Version="1">16250899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2006 Feb 15;66(3):273-82</RefSource>
+                <PMID Version="1">16245281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2006 Jan 23;203(1):15-20</RefSource>
+                <PMID Version="1">16380512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Feb 1;107(3):947-54</RefSource>
+                <PMID Version="1">16223779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Jan 25;25(2):278-89</RefSource>
+                <PMID Version="1">16395330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Pharmacol. 2006 Feb;147 Suppl 2:S25-40</RefSource>
+                <PMID Version="1">16465182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2006 Mar;7(3):274-83</RefSource>
+                <PMID Version="1">16474395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2006 Mar;316(3):1017-24</RefSource>
+                <PMID Version="1">16260582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Apr 28;343(1):183-9</RefSource>
+                <PMID Version="1">16530725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Endocrinol Metab. 2004 Aug;15(6):286-93</RefSource>
+                <PMID Version="1">15358282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2004 Dec 10;112(5):777-86</RefSource>
+                <PMID Version="1">15386385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Oct 22;306(5696):704-8</RefSource>
+                <PMID Version="1">15499023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 1996 Dec;76(6):860-6</RefSource>
+                <PMID Version="1">8972001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1998 Jan;274(1 Pt 2):F205-14</RefSource>
+                <PMID Version="1">9458841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol. 1998 Jun;274(6 Pt 1):C1429-52</RefSource>
+                <PMID Version="1">9696685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Urol. 1999 Feb;161(2):438-41; discussion 441-2</RefSource>
+                <PMID Version="1">9915421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2004 Nov;114(10):1444-56</RefSource>
+                <PMID Version="1">15545995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mod Pathol. 2005 Jan;18(1):143-52</RefSource>
+                <PMID Version="1">15297858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Prostate Cancer. 2004 Dec;3(3):189-91</RefSource>
+                <PMID Version="1">15634362</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cystitis</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phospholipases A</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, PAR-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Subcellular Fractions</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Substance P</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urinary Bladder</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1853107</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1472-6793-7-3</ArticleId>
+            <ArticleId IdType="doi">10.1186/1472-6793-7-3</ArticleId>
+            <ArticleId IdType="pubmed">17397547</ArticleId>
+            <ArticleId IdType="pmc">PMC1853107</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

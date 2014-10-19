@@ -1,0 +1,120 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">25165105</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>88</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Nov</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Major Histocompatibility Complex Class I Downregulation Induced by Equine Herpesvirus Type 1 pUL56 Is through Dynamin-Dependent Endocytosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>12802-15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.02079-14</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Equine herpesvirus type 1 (EHV-1) downregulates cell surface expression of major histocompatibility complex class I (MHC-I) in infected cells. We have previously shown that pUL56 encoded by the EHV-1 ORF1 gene regulates the process (G. Ma, S. Feineis, N. Osterrieder, and G. R. Van de Walle, J. Virol. 86:3554-3563, 2012, doi:http://dx.doi.org/10.1128/JVI.06994-11). Here, we report that cell surface MHC-I in EHV-1-infected cells is internalized and degraded in the lysosomal compartment in a pUL56-dependent fashion. pUL56-induced MHC-I endocytosis required dynamin and tyrosine kinase but was independent of clathrin and caveolin-1, the main constituents of the clathrin- and raft/caveola-mediated endocytosis pathways, respectively. Downregulation of cell surface MHC-I was significantly inhibited by the ubiquitin-activating enzyme E1 inhibitor PYR41, indicating that ubiquitination is essential for the process. Finally, we show that downregulation is not specific for MHC-I and that other molecules, including CD46 and CD63, are also removed from the cell surface in a pUL56-dependent fashion.</AbstractText>
+                <AbstractText Label="IMPORTANCE" NlmCategory="OBJECTIVE">We show that alphaherpesvirus induces MHC-I downregulation through endocytosis, which is mediated by pUL56. The dynamin-dependent endocytic pathway is responsible for MHC-I internalization in infected cells. Furthermore, we discovered that this endocytic process can be disrupted by the inhibiting ubiquitin-activating E1 enzyme, which is indispensable for ubiquitination. Finally, pUL56 action extends to a number of cell surface molecules that are significant for host immunity. Therefore, the protein may exert a more general immunomodulatory effect.</AbstractText>
+                <CopyrightInformation>Copyright © 2014, American Society for Microbiology. All Rights Reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Teng</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Institut für Virologie, Freie Universität Berlin, Zentrum für Infektionsmedizin-Robert von Ostertag-Haus, Berlin, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lehmann</LastName>
+                    <ForeName>Maik J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Department of Molecular Parasitology, Humboldt University, Berlin, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Said</LastName>
+                    <ForeName>Abdelrahman</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Institut für Virologie, Freie Universität Berlin, Zentrum für Infektionsmedizin-Robert von Ostertag-Haus, Berlin, Germany Parasitology and Animal Diseases Department, National Research Center, Dokki, Giza, Egypt.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Guanggang</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Institut für Virologie, Freie Universität Berlin, Zentrum für Infektionsmedizin-Robert von Ostertag-Haus, Berlin, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osterrieder</LastName>
+                    <ForeName>Nikolaus</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Institut für Virologie, Freie Universität Berlin, Zentrum für Infektionsmedizin-Robert von Ostertag-Haus, Berlin, Germany no.34@fu-berlin.de.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.02079-14</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.02079-14</ArticleId>
+            <ArticleId IdType="pubmed">25165105</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

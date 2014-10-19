@@ -1,0 +1,408 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11042117</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>01</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0264-6021</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>351 Pt 3</Volume>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Nov</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Specific interactions among transmembrane 4 superfamily (TM4SF) proteins and phosphoinositide 4-kinase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>629-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In earlier work we established that phosphoinositide 4-kinase (PI 4-kinase) may associate with transmembrane 4 superfamily (TM4SF, tetraspanin) proteins, but critical specificity issues were not addressed. Here we demonstrate that at least five different TM4SF proteins (CD9, CD63, CD81, CD151 and A15/TALLA1) can associate with a similar or identical 55 kDa type II PI 4-kinase. These associations were specific, since we found no evidence for other phosphoinositide kinases (e.g. phosphoinositide 3-kinase and phosphoinositide-4-phosphate 5-kinase) associating with TM4SF proteins, and many other TM4SF proteins (including CD82 and CD53) did not associate with PI 4-kinase. CD63-PI 4-kinase complexes were almost entirely intracellular, and thus are distinct from other TM4SF-PI 4-kinase complexes (e.g. involving CD9), which are largely located in the plasma membrane. These results suggest that a specific subset of TM4SF proteins may recruit PI 4-kinase to specific membrane locations, and thereby influence phosphoinositide-dependent signalling.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yauch</LastName>
+                    <ForeName>R L</ForeName>
+                    <Initials>RL</Initials>
+                    <Affiliation>Dana-Farber Cancer Institute, Rm D-1430, 44 Binney Street, Boston, MA 02115, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hemler</LastName>
+                    <ForeName>M E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM38903</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.67</RegistryNumber>
+                <NameOfSubstance>1-Phosphatidylinositol 4-Kinase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1994 Dec;15(12):588-94</RefSource>
+                <PMID Version="1">7531445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Hum Reprod. 1999 Feb;5(2):162-7</RefSource>
+                <PMID Version="1">10065872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1995 Jun;129(6):1691-705</RefSource>
+                <PMID Version="1">7790364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 28;270(30):17784-90</RefSource>
+                <PMID Version="1">7629079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Oct 13;270(41):24092-9</RefSource>
+                <PMID Version="1">7592610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1996 Feb 15;87(4):1385-95</RefSource>
+                <PMID Version="1">8608228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 May 1;15(9):2094-101</RefSource>
+                <PMID Version="1">8641275</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1996 Feb;7(2):193-207</RefSource>
+                <PMID Version="1">8688552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jan 14;287(5451):319-21</RefSource>
+                <PMID Version="1">10634790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jan 14;287(5451):321-4</RefSource>
+                <PMID Version="1">10634791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Feb 18;275(7):5059-64</RefSource>
+                <PMID Version="1">10671548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Mar 31;275(13):9230-8</RefSource>
+                <PMID Version="1">10734060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1978 Jan 19;271(5642):249-51</RefSource>
+                <PMID Version="1">74805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1982 Dec;129(6):2734-8</RefSource>
+                <PMID Version="1">7142704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1984 Jun;132(6):3011-8</RefSource>
+                <PMID Version="1">6327814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hybridoma. 1981;1(1):5-11</RefSource>
+                <PMID Version="1">6821395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1985 Sep 15;260(20):10948-51</RefSource>
+                <PMID Version="1">2863269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Aug 25;262(24):11478-85</RefSource>
+                <PMID Version="1">3497921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1987 Oct 20;26(21):6845-52</RefSource>
+                <PMID Version="1">2827737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 Feb 1;140(3):905-14</RefSource>
+                <PMID Version="1">3257508</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1999 May 15;340 ( Pt 1):103-11</RefSource>
+                <PMID Version="1">10229664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Sep 20;146(6):1375-89</RefSource>
+                <PMID Version="1">10491398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1988 Aug 23;27(17):6504-11</RefSource>
+                <PMID Version="1">2851325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 Mar 25;264(9):5080-8</RefSource>
+                <PMID Version="1">2538472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1991 Jan 1;273(Pt 1):63-6</RefSource>
+                <PMID Version="1">1846531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 May 1;173(5):1099-109</RefSource>
+                <PMID Version="1">2022921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 Dec 1;174(6):1347-54</RefSource>
+                <PMID Version="1">1720807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Mar;66(3):1394-401</RefSource>
+                <PMID Version="1">1738199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1992 May 15;284 ( Pt 1):39-45</RefSource>
+                <PMID Version="1">1318025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Jan;120(2):537-43</RefSource>
+                <PMID Version="1">8421065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1993 Apr;91(4):1775-82</RefSource>
+                <PMID Version="1">7682577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 Aug 15;82(4):1184-91</RefSource>
+                <PMID Version="1">8353283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Dec;13(12):7708-17</RefSource>
+                <PMID Version="1">8246987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1994 Sep 15;84(6):1722-30</RefSource>
+                <PMID Version="1">8080982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1995 Jan;15(1 Pt 2):584-95</RefSource>
+                <PMID Version="1">7529830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Adhes Commun. 1994 Oct;2(5):455-64</RefSource>
+                <PMID Version="1">7842258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1996 Jun 7;1287(2-3):67-71</RefSource>
+                <PMID Version="1">8672529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Sep 1;157(5):2039-47</RefSource>
+                <PMID Version="1">8757325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 31;272(5):2595-8</RefSource>
+                <PMID Version="1">9006891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Adhes Commun. 1996 Nov;4(4-5):297-305</RefSource>
+                <PMID Version="1">9117348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Apr 1;158(7):3353-8</RefSource>
+                <PMID Version="1">9120293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 May 16;272(20):13236-41</RefSource>
+                <PMID Version="1">9148941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1997 May;11(6):428-42</RefSource>
+                <PMID Version="1">9194523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jul 18;272(29):18358-66</RefSource>
+                <PMID Version="1">9218477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1997 Aug;27(8):1919-27</RefSource>
+                <PMID Version="1">9295027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1997 Nov;8(11):2253-65</RefSource>
+                <PMID Version="1">9362067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Nov 14;272(46):29181-9</RefSource>
+                <PMID Version="1">9360996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 May 4;141(3):791-804</RefSource>
+                <PMID Version="1">9566977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Jul 3;273(27):17115-21</RefSource>
+                <PMID Version="1">9642278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1998 Aug 1;18(15):5594-602</RefSource>
+                <PMID Version="1">9671651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 28;273(35):22298-304</RefSource>
+                <PMID Version="1">9712847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Sep 4;273(36):23126-33</RefSource>
+                <PMID Version="1">9722541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Jul 30;1399(1):101-4</RefSource>
+                <PMID Version="1">9714763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Oct 1;161(7):3282-91</RefSource>
+                <PMID Version="1">9759843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1998;67:481-507</RefSource>
+                <PMID Version="1">9759495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1998 Oct 15;335 ( Pt 2):351-6</RefSource>
+                <PMID Version="1">9761734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Oct;9(10):2751-65</RefSource>
+                <PMID Version="1">9763442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1998 Oct;10(5):578-85</RefSource>
+                <PMID Version="1">9818167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1998 Dec;28(12):4123-9</RefSource>
+                <PMID Version="1">9862348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1999 Mar;112 ( Pt 6):833-44</RefSource>
+                <PMID Version="1">10036233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1995 May 29;61(5):706-15</RefSource>
+                <PMID Version="1">7768645</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">1-Phosphatidylinositol 4-Kinase</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Precipitin Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1221402</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11042117</ArticleId>
+            <ArticleId IdType="pmc">PMC1221402</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

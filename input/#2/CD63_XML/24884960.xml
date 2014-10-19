@@ -1,0 +1,217 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24884960</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-4598</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cancer</Title>
+                <ISOAbbreviation>Mol. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>RPN2-mediated glycosylation of tetraspanin CD63 regulates breast cancer cell malignancy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>134</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1476-4598-13-134</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The tetraspanin CD63 is a highly N-glycosylated protein that is known to regulate cancer malignancy. However, the contribution of glycosylation of CD63 to cancer malignancy remains unclear. Previously, we reported that ribophorin II (RPN2), which is part of an N-oligosaccharyle transferase complex, is responsible for drug resistance in breast cancer cells. In this study, we demonstrate that cancer malignancy associated with the glycosylation of CD63 is regulated by RPN2.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Inhibition of RPN2 expression led to a reduction in CD63 glycosylation. In addition, the localization of CD63 was deregulated by knockdown of RPN2. Interestingly, multidrug resistance protein 1 (MDR1) localization was displaced from the cell surface in CD63-silenced cells. CD63 silencing reduced the chemoresistance and invasion ability of malignant breast cancer cells. Furthermore, the enrichment of CD63/MDR1-double positive cells was associated with lymph node metastasis. Taken together, these results indicated that high glycosylation of CD63 by RPN2 is implicated in clinical outcomes in breast cancer patients.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These findings describe a novel and important function of RPN2-mediated CD63 glycosylation, which regulates MDR1 localization and cancer malignancy, including drug resistance and invasion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tominaga</LastName>
+                    <ForeName>Naoomi</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hagiwara</LastName>
+                    <ForeName>Keitaro</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kosaka</LastName>
+                    <ForeName>Nobuyoshi</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honma</LastName>
+                    <ForeName>Kimi</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakagama</LastName>
+                    <ForeName>Hitoshi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ochiya</LastName>
+                    <ForeName>Takahiro</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Division of Molecular and Cellular Medicine, National Cancer Center Research Institute, Tokyo, Japan. tochiya@ncc.go.jp.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Cancer</MedlineTA>
+            <NlmUniqueID>101147698</NlmUniqueID>
+            <ISSNLinking>1476-4598</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Genet. 1987 Oct;77(2):142-4</RefSource>
+                <PMID Version="1">3477522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1988 Jun 1;48(11):2955-62</RefSource>
+                <PMID Version="1">3365686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1995 Sep 4;62(5):631-5</RefSource>
+                <PMID Version="1">7665237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 31;272(5):2595-8</RefSource>
+                <PMID Version="1">9006891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1998 Sep;153(3):973-83</RefSource>
+                <PMID Version="1">9736046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2006 Oct;26(20):7707-18</RefSource>
+                <PMID Version="1">16908530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Jul 29;105(30):10513-8</RefSource>
+                <PMID Version="1">18663219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2008 Sep;14(9):939-48</RefSource>
+                <PMID Version="1">18724378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg Oncol. 2009 May;16(5):1421-8</RefSource>
+                <PMID Version="1">19247716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Mar 3;469(1):52-6</RefSource>
+                <PMID Version="1">10708755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Med. 2002;53:615-27</RefSource>
+                <PMID Version="1">11818492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2003 Jan;94(1):15-21</RefSource>
+                <PMID Version="1">12708468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Lab Haematol. 2003 Oct;25(5):297-306</RefSource>
+                <PMID Version="1">12974720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2003;19:397-422</RefSource>
+                <PMID Version="1">14570575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2003 Nov;24(11):610-7</RefSource>
+                <PMID Version="1">14596886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15560-5</RefSource>
+                <PMID Version="1">14660791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Rep. 2013;3:2474</RefSource>
+                <PMID Version="1">23959174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Immunol. 2009 Nov;53(11):629-35</RefSource>
+                <PMID Version="1">19903263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1985 Jun;45(6):2405-14</RefSource>
+                <PMID Version="1">3886132</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4070641</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1476-4598-13-134</ArticleId>
+            <ArticleId IdType="doi">10.1186/1476-4598-13-134</ArticleId>
+            <ArticleId IdType="pubmed">24884960</ArticleId>
+            <ArticleId IdType="pmc">PMC4070641</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

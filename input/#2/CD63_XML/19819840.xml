@@ -1,0 +1,124 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19819840</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0253-9772</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Yi chuan = Hereditas / Zhongguo yi chuan xue hui bian ji</Title>
+                <ISOAbbreviation>Yi Chuan</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Formation and function of Weibel-Palade bodies].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>882-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Weibel-Palade bodies (WPB) are specialized cigar-shaped secretory organelles in endothelial cells, which contain a variety of biologically active molecules. These contents can be released rapidly by stimulation and involved in hemostasis, inflammation and angiogenesis. The main component of WPB is von Willebrand factor (vWF), whose expression and tubulation are necessary for the formation of the unique rod-like WPBs. Different molecules such as vWF, P-selectin, CD63, Rab27A and Rab3D are recruited into WPB mediated by the AP-1, AP-3 or other transport machinery. The underlying mechanism of the formation of WPB remains further investigation, which will gain insights into its function. The molecular mechanism of WPB formation and its function were discussed in this review.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zhe</ForeName>
+                    <Initials>Z</Initials>
+                    <Affiliation>Institute of Genetics and Developmental Biology, Chinese Academy of Sciences, Beijing, China. ttzhangzhe@163.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Yi Chuan</MedlineTA>
+            <NlmUniqueID>9436478</NlmUniqueID>
+            <ISSNLinking>0253-9772</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>von Willebrand Factor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Weibel-Palade Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">von Willebrand Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>58</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0253-9772(2009)09-882-7</ArticleId>
+            <ArticleId IdType="pubmed">19819840</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

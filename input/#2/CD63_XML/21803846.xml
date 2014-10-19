@@ -1,0 +1,224 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21803846</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1528-0020</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>118</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CD63 is an essential cofactor to leukocyte recruitment by endothelial P-selectin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4265-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1182/blood-2010-11-321489</ELocationID>
+            <Abstract>
+                <AbstractText>The activation of endothelial cells is critical to initiating an inflammatory response. Activation induces the fusion of Weibel-Palade Bodies (WPB) with the plasma membrane, thus transferring P-selectin and VWF to the cell surface, where they act in the recruitment of leukocytes and platelets, respectively. CD63 has long been an established component of WPB, but the functional significance of its presence within an organelle that acts in inflammation and hemostasis was unknown. We find that ablating CD63 expression leads to a loss of P-selectin-dependent function: CD63-deficient HUVECs fail to recruit leukocytes, CD63-deficient mice exhibit a significant reduction in both leukocyte rolling and recruitment and we show a failure of leukocyte extravasation in a peritonitis model. Loss of CD63 has a similar phenotype to loss of P-selectin itself, thus CD63 is an essential cofactor to P-selectin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Doyle</LastName>
+                    <ForeName>Emily L</ForeName>
+                    <Initials>EL</Initials>
+                    <Affiliation>Medical Research Council (MRC) Laboratory for Molecular Cell Biology, University College London (UCL), London, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ridger</LastName>
+                    <ForeName>Victoria</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferraro</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turmaine</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saftig</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cutler</LastName>
+                    <ForeName>Daniel F</ForeName>
+                    <Initials>DF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MC_U122665003</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U12260000200001</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Blood. 2011 Oct 13;118(15):4012-3</RefSource>
+                <PMID Version="1">21998333</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Knockdown Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Leukocyte Rolling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peritonitis</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Weibel-Palade Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">blood-2010-11-321489</ArticleId>
+            <ArticleId IdType="doi">10.1182/blood-2010-11-321489</ArticleId>
+            <ArticleId IdType="pubmed">21803846</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

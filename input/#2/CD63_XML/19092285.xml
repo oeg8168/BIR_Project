@@ -1,0 +1,264 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19092285</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1423-0313</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>83</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacology</Title>
+                <ISOAbbreviation>Pharmacology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential involvement of Ca2+ and actin filament in leukocyte shape change.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>131-40</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000186498</ELocationID>
+            <Abstract>
+                <AbstractText>At the sites of inflammation, leukocytes are confronted with mediators which induce different cellular responses like chemotaxis, degranulation and respiratory burst. Morphologically, these responses are accompanied by changes in the cells' shape. In this study, we investigated the involvement of the actin cytoskeleton and Ca2+ in the shape change responses of human eosinophils and neutrophils to chemoattractants and correlated the obtained findings to degranulation and respiratory burst using flow cytometry. Shape change was recorded as an increase in forward scatter. Degranulation was measured as the cell surface upregulation of the granule-associated marker CD63. Respiratory burst was determined fluorimetrically as the oxidation of dihydrorhodamine 123. The involvement of actin filaments and phospholipase C (PLC) was investigated with the actin inhibitor cytochalasin B and the selective PLC inhibitor U-73122, respectively. The data that we obtained demonstrated that granulocytes exhibit 2 distinct types of shape change responses when stimulated with chemoattractants: (i) one type is induced by chemokines like eotaxin and interleukin 8, which are poor degranulators, and also by classical chemoattractants, C5a and formyl-methionyl-leucyl-phenylalanine; this shape change depends on the activation of PLC and functional actin filaments, but does not require Ca2+ influx from outside; (ii) the second type of shape change is not stimulated by chemokines, but can be seen with classical chemoattractants which are also potent inducers of degranulation and respiratory burst. This type of shape change does not require any functional actin filaments, but appears to be a consequence of degranulation and depends essentially on the activation of PLC and Ca2+ influx from the extracellular space.</AbstractText>
+                <CopyrightInformation>2008 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schratl</LastName>
+                    <ForeName>Petra</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Institute of Experimental and Clinical Pharmacology, Medical University of Graz, Graz, Austria. petra.schratl@meduni-graz.at</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heinemann</LastName>
+                    <ForeName>Akos</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Pharmacology</MedlineTA>
+            <NlmUniqueID>0152016</NlmUniqueID>
+            <ISSNLinking>0031-7012</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemotactic Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Estrenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphodiesterase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyrrolidinones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>112648-68-7</RegistryNumber>
+                <NameOfSubstance>1-(6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3CHI920QS7</RegistryNumber>
+                <NameOfSubstance>Cytochalasin B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.-</RegistryNumber>
+                <NameOfSubstance>Type C Phospholipases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actin Cytoskeleton</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Shape</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemokines</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemotactic Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytochalasin B</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eosinophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Estrenes</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphodiesterase Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrrolidinones</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Burst</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Type C Phospholipases</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">000186498</ArticleId>
+            <ArticleId IdType="doi">10.1159/000186498</ArticleId>
+            <ArticleId IdType="pubmed">19092285</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

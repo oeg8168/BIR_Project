@@ -1,0 +1,152 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12230470</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1398-9219</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Traffic (Copenhagen, Denmark)</Title>
+                <ISOAbbreviation>Traffic</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human macrophages accumulate HIV-1 particles in MHC II compartments.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>718-29</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Macrophages are important targets for HIV-1 infection and harbor the virions in an as yet unidentified organelle. To determine the location of HIV-1 in these cells, an extensive analysis of primary human macrophages infected in vitro with HIV-1 was carried out by immuno-electron microscopy. Virus particles were found to accumulate in intracellular multivesicular compartments which were enriched in major histocompatibility complex class II molecules and CD63. These features are characteristics of major histocompatibility complex class II compartments where maturing class II molecules acquire their peptide cargo. The membrane-delimited, electron-dense virus particles of 100-110 nm diameter labeled strongly for HIV-1 p24 antigen, major histocompatibility complex class II molecules, CD63 and, to a lesser extent for HIV-1 gp120 envelope protein and Lamp 1. Our data suggest that virus particles may access the lumen of the major histocompatibility complex class II compartment by budding from the limiting membrane, thus acquiring proteins of this membrane such as class II and CD63. Viral assembly and budding would therefore occur in macrophages by a process similar to the formation of the internal vesicles in multivesicular bodies and at the same location. This could account for the particular content in lipids and proteins previously found in the membrane wrapping HIV particles. Our observations also suggest direct fusion of the virus containing major histocompatibility complex class II compartment with the plasma membrane, leading to massive release of viral particles into the extracellular medium.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Raposo</LastName>
+                    <ForeName>Graça</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Institut Curie, CNRS UMR 144, Paris, France. graposo@curie.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>Marilyn</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Innes</LastName>
+                    <ForeName>Donald</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leijendekker</LastName>
+                    <ForeName>Richtje</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leigh-Brown</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benaroch</LastName>
+                    <ForeName>Philippe</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geuze</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Traffic</MedlineTA>
+            <NlmUniqueID>100939340</NlmUniqueID>
+            <ISSNLinking>1398-9219</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Compartmentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Fusion</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12230470</ArticleId>
+            <ArticleId IdType="pii">tra031004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

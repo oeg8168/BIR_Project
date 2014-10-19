@@ -1,0 +1,334 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22212466</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1755-5922</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular therapeutics</Title>
+                <ISOAbbreviation>Cardiovasc Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bivalirudin inhibits periprocedural platelet function and tissue factor expression of human smooth muscle cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>115-23</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1755-5922.2011.00305.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">A major concern of stent implantation after percutaneous coronary intervention (PCI) is acute stent thrombosis. Effective inhibition of periprocedural platelet function in patients with coronary artery disease (CAD) leads to an improved outcome. In this study, we examined the periprocedural platelet reactivity after administrating bivalirudin during PCI compared to unfractionated heparin (UFH) administration. Further, the effect of bivalirudin on induced tissue factor (TF) expression in smooth muscle cells (SMC) was determined.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with CAD (n = 58) and double antithrombotic medication were treated intraprocedural with UFH (n = 30) or bivalirudin (n = 28). Platelet activation markers were flow cytometrically measured before and after stenting. The expression of TF in SMC was determined by real-time PCR and Western blotting. The thrombogenicity of platelet-derived microparticles and SMC was assessed via a TF activity assay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Bivalirudin significantly diminished the agonist-induced platelet reactivity post-PCI. Compared to UFH treatment, the adenosine diphosphate (ADP) and thrombin receptor-activating peptide (TRAP)-induced thrombospondin expression post-PCI was reduced when bivalirudin was administrated during intervention. In contrast to UFH, bivalirudin reduced the P-selectin expression of unstimulated and ADP-induced platelets post-PCI. Moreover, bivalirudin inhibited the thrombin-, but not FVIIa- or FVIIa/FX-induced TF expression and pro-coagulant TF activity of SMC. Moreover, bivalirudin reduced the TF activity of platelet-derived microparticles postinduction with TRAP or ADP.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Bivalirudin is better than UFH in reducing periprocedural platelet activation. Moreover, thrombin-induced TF expression is inhibited by bivalirudin. Thus, bivalirudin seems to be a better anticoagulant during PCI than UFH.</AbstractText>
+                <CopyrightInformation>© 2011 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pepke</LastName>
+                    <ForeName>Wojciech</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Charitè - Universitätsmedizin Berlin, Campus Benjamin Franklin, Centrum für Herz- und Kreislaufmedizin, Berlin, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eisenreich</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jaster</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayral</LastName>
+                    <ForeName>Yunus</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bobbert</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayer</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schultheiss</LastName>
+                    <ForeName>Heinz-Peter</ForeName>
+                    <Initials>HP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rauch</LastName>
+                    <ForeName>Ursula</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cardiovasc Ther</MedlineTA>
+            <NlmUniqueID>101319630</NlmUniqueID>
+            <ISSNLinking>1755-5914</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antithrombins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hirudins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SELP protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Thrombospondins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>128270-60-0</RegistryNumber>
+                <NameOfSubstance>bivalirudin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9001-29-0</RegistryNumber>
+                <NameOfSubstance>Factor X</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-49-6</RegistryNumber>
+                <NameOfSubstance>Heparin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9035-58-9</RegistryNumber>
+                <NameOfSubstance>Thromboplastin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.21</RegistryNumber>
+                <NameOfSubstance>Factor VIIa</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anticoagulants</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antithrombins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Artery Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Factor VIIa</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Factor X</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">Germany</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heparin</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hirudins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle, Smooth, Vascular</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocytes, Smooth Muscle</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Percutaneous Coronary Intervention</DescriptorName>
+                <QualifierName MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Real-Time Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thromboplastin</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombospondins</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1755-5922.2011.00305.x</ArticleId>
+            <ArticleId IdType="pubmed">22212466</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

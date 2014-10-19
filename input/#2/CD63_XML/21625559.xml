@@ -1,0 +1,341 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21625559</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulation of zebrafish hatching by tetraspanin cd63.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e19683</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0019683</ELocationID>
+            <Abstract>
+                <AbstractText>Tetraspanins cause the clustering of membrane proteins into a level of organisation essential for cellular function. Given the importance and complicated nature of this mechanism, we attempted a novel approach to identify the function of a single component in a biologically relevant context. A morpholino knockdown strategy was used to investigate the role of cd63, a membrane protein associated with intracellular transport and a melanoma marker, in embryonic zebrafish. By using three separate morpholinos targeting cd63, we were able to identify a specific phenotype. Strikingly, morphant fish failed to hatch due to the lack of secreted proteolytic enzymes required for chorion-softening. The morphology of the hatching gland at both the cellular and intracellular levels was disorganised, suggesting a role for cd63 in the functioning of this organ. This work identifies a specific role for cd63 in the zebrafish embryo and provides evidence for the suitability of zebrafish as a model system for the investigation of tetraspanin enriched microdomains.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Triki??</LastName>
+                    <ForeName>Michael Z</ForeName>
+                    <Initials>MZ</Initials>
+                    <Affiliation>Molecular Biology and Biotechnology, University of Sheffield, Sheffield, United Kingdom. m.trikic@shef.ac.uk</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monk</LastName>
+                    <ForeName>Pete</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roehl</LastName>
+                    <ForeName>Henry</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Partridge</LastName>
+                    <ForeName>Lynda J</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1993 Dec;119(4):1203-15</RefSource>
+                <PMID Version="1">8306883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 1995 Jul;203(3):253-310</RefSource>
+                <PMID Version="1">8589427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 31;272(5):2595-8</RefSource>
+                <PMID Version="1">9006891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 1999;28:181-204</RefSource>
+                <PMID Version="1">10410800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 2004;241:1-51</RefSource>
+                <PMID Version="1">15548418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Genet. 2005;39:561-613</RefSource>
+                <PMID Version="1">16285872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 2005 Dec;234(4):992-6</RefSource>
+                <PMID Version="1">16222715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2007 Sep 1;120(Pt 17):3147-54</RefSource>
+                <PMID Version="1">17698921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2007 Sep;5(9):899-907</RefSource>
+                <PMID Version="1">17855659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Mar 21;283(12):7674-81</RefSource>
+                <PMID Version="1">18211905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2008 Apr;91(4):326-34</RefSource>
+                <PMID Version="1">18291621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Apr;9(4):540-58</RefSource>
+                <PMID Version="1">18182005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2008 May;135(10):1735-43</RefSource>
+                <PMID Version="1">18403413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Oct 15;112(8):3444-54</RefSource>
+                <PMID Version="1">18669870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Oct 17;135(2):284-94</RefSource>
+                <PMID Version="1">18957203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2009 Feb;29(4):1083-94</RefSource>
+                <PMID Version="1">19075008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2009 Aug;150(8):3547-57</RefSource>
+                <PMID Version="1">19372204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Sep;19(9):434-46</RefSource>
+                <PMID Version="1">19709882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2010 Oct;65(10):1242-55</RefSource>
+                <PMID Version="1">20337613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2006 Oct;26(20):7707-18</RefSource>
+                <PMID Version="1">16908530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2007 Jan 15;108(1):10-9</RefSource>
+                <PMID Version="1">17097742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2007 Jan;64(2):244-56</RefSource>
+                <PMID Version="1">17187173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Ophthalmol Vis Sci. 2007 Feb;48(2):881-90</RefSource>
+                <PMID Version="1">17251491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2007 Apr 15;304(2):525-40</RefSource>
+                <PMID Version="1">17306247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2007 Jul;8(7):883-92</RefSource>
+                <PMID Version="1">17587407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2000 Mar;127(5):921-32</RefSource>
+                <PMID Version="1">10662632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2000 Dec;215(1-2):93-101</RefSource>
+                <PMID Version="1">11204460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 2001 May;129(5):739-44</RefSource>
+                <PMID Version="1">11328596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 2001 Dec;222(4):637-44</RefSource>
+                <PMID Version="1">11748832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Mar;13(3):1071-82</RefSource>
+                <PMID Version="1">11907283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2003 Apr 25;304(1):160-6</RefSource>
+                <PMID Version="1">12705901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2003 Jun;270(11):2412-20</RefSource>
+                <PMID Version="1">12755696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Lab Haematol. 2003 Oct;25(5):297-306</RefSource>
+                <PMID Version="1">12974720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2003;19:397-422</RefSource>
+                <PMID Version="1">14570575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2003 Nov;4(11):1111-20</RefSource>
+                <PMID Version="1">14566336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15560-5</RefSource>
+                <PMID Version="1">14660791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Genes Evol. 2004 Apr;214(4):176-84</RefSource>
+                <PMID Version="1">15014992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Aug 15;104(4):1183-90</RefSource>
+                <PMID Version="1">15130945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1988 Jun 1;48(11):2955-62</RefSource>
+                <PMID Version="1">3365686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 Aug 15;82(4):1184-91</RefSource>
+                <PMID Version="1">8353283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1995 Oct;171(2):374-85</RefSource>
+                <PMID Version="1">7556921</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryo, Nonmammalian</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Zebrafish</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3098263</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0019683</ArticleId>
+            <ArticleId IdType="pii">PONE-D-10-06042</ArticleId>
+            <ArticleId IdType="pubmed">21625559</ArticleId>
+            <ArticleId IdType="pmc">PMC3098263</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

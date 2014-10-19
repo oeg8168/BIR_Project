@@ -1,0 +1,233 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17659434</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1023-3830</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>56</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inflammation research : official journal of the European Histamine Research Society ... [et al.]</Title>
+                <ISOAbbreviation>Inflamm. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of both CD63 up regulation and IgE down regulation for the flow cytometric analysis of allergen induced basophil activation. Definition of an activation index.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>291-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE AND DESIGN" NlmCategory="OBJECTIVE">The aim of this study was to compare the use of a late (CD63) and an early (IgE) marker of basophil activation in the flow cytometric diagnosis of beta-lactam induced allergic hypersensitivity reactions.</AbstractText>
+                <AbstractText Label="SUBJECTS" NlmCategory="METHODS">Twelve patients who had had a clear cut betalactam induced immediate reaction and 16 controls were selected, as well as 11 patients who had had an immediate reaction to bee or wasp stings.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Leukocyte suspensions were incubated with allergen dilutions as well as 2 positive controls (anti-IgE and NFormyl- Methionyl-Leucyl-Phenylalanine (fMLP)). Basophils were labelled with an anti-IgE FITC (fluorescein isothiocyanate) and an anti-CD63 PE (phycoerythrin). Results were expressed as percentage CD63 expression and index calculated according to a specific algorithm including the two activation markers.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Significant CD63 expression (&gt;5 %) was observed in 3/12 cases for the beta-lactam sensitized population, in 0/16 cases for the controls and in 11/11 cases for the venom sensitized population. A significant index (determined by a ROC analysis) was observed in 11/12 beta-lactam sensitized patients and in 0/16 controls.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">These results show that IgE (an early activation marker) is more sensitive than CD63 (a later activation marker) in the diagnosis of beta-lactam allergy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sainte-Laudy</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Laboratoire d'Immunologie, Hôpital universitaire Dupuytren, 2, avenue Martin-Luther-King, 87042 Limoges Cedex, France. jean.sainte-laudy@chu-limoges.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boumediene</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Touraine</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orsel</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brianchon</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonnaud</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cogné</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Inflamm Res</MedlineTA>
+            <NlmUniqueID>9508160</NlmUniqueID>
+            <ISSNLinking>1023-3830</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>beta-Lactams</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Insect Bites and Stings</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">ROC Curve</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta-Lactams</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00011-007-7014-5</ArticleId>
+            <ArticleId IdType="pubmed">17659434</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

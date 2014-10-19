@@ -1,0 +1,193 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8913671</PMID>
+        <DateCreated>
+            <Year>1997</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0954-6928</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Coronary artery disease</Title>
+                <ISOAbbreviation>Coron. Artery Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Early detection of platelet activation after coronary angioplasty.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>529-34</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Although platelet activation has been considered an important reaction after percutaneous transluminal coronary angioplasty (PTCA), it is still difficult to detect the activated platelets in vivo directly.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To detect platelets activated at an early stage after PTCA, blood samples were take from the coronary sinus and the aorta in 22 patients with coronary artery disease, who underwent PTCA for a lesion of the left anterior descending artery. Ten patients with coronary artery disease, who underwent diagnostic coronary angiography only, were compared with them. The expression of activation-dependent granular protein, CD62P (P-selectin) and CD63, on the platelet membrane surface was analysed using flow cytometry. The plasma thrombomodulin level was also measured.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The percentage of platelets positive for CD62P (0.53 +/- 0.04 to 0.80 +/- 0.11%, P &lt; 0.01) and CD63 (16.0 +/- 1.4 to 19.8 +/- 2.0%, P &lt; 0.05) increased after PTCA in the coronary sinus, although it did not change in the aorta. The plasma thrombomodulin level also increased after PTCA in the coronary sinus (16.7 +/- 1.0 to 20.4 +/- 2.0 mu/ml, P &lt; 0.05). However, these parameters did not change after coronary angiography only. After PTCA, the plasma thrombomodulin level was correlated with the percentage of platelets positive for CD62P (r = 0.88, P &lt; 0.001) and with that for CD63 (r = 0.69, P &lt; 0.001) in the coronary sinus.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PTCA produced activation of circulatory platelets, which might have been caused by balloon-induced vascular endothelial injury. One should take care to avoid needless vascular injury during the PTCA procedure to inhibit the platelet activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Inoue</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Cardiology, Koshigaya Hospital, Dokkyo University School of Medicine, Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoshi</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujito</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakai</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morooka</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohma</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Coron Artery Dis</MedlineTA>
+            <NlmUniqueID>9011445</NlmUniqueID>
+            <ISSNLinking>0954-6928</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Thrombomodulin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Angioplasty, Balloon, Coronary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Angiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">radiography</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombomodulin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8913671</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

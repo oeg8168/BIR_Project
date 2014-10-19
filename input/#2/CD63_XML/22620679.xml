@@ -1,0 +1,270 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22620679</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1398-9995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>67</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy</Title>
+                <ISOAbbreviation>Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bronchoalveolar lavage fluid exosomes contribute to cytokine and leukotriene production in allergic asthma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>911-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1398-9995.2012.02835.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Leukotrienes (LTs) are potent pro-inflammatory mediators involved in asthma. Exosomes, nanosized vesicles released from various cells, can stimulate or down-regulate immune responses, depending on the state and nature of the originating cell. We have recently shown an altered exosome profile in bronchoalveolar lavage fluid (BALF) of patients with sarcoidosis, but their role in asthma is unknown. Our aims were to investigate whether exosomes from BALF have LT biosynthetic capacity and to explore phenotypic and functional characteristics of BALF exosomes in asthma.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Bronchoalveolar lavage fluid exosomes were collected from healthy individuals (n = 13) and patients with mild allergic asthma to birch pollen (n = 12) before and after birch allergen provocation. Exosomes were characterized by flow cytometry and Western blot. Their capacity to induce IL-8 and LT production in the human bronchial epithelial cell (BEC) line 16HB14o- was measured by ELISA and reverse-phase HPLC, respectively.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared to BALF exosomes from healthy individuals, BALF exosomes from asthmatics displayed higher levels of exosome-associated markers, such as the tetraspanins CD63 and CD81 and the scavenger receptor CD36. No major differences were observed between BALF exosomes from before and after allergen provocation. Furthermore, we show that BALF exosomes contain enzymes for LT biosynthesis. The effect of exosomes to promote LTC(4) and IL-8 release in BEC was significantly increased for exosomes from asthmatics, and the CysLT(1) receptor antagonist Montelukast reduced exosome-induced IL-8 secretion.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Bronchoalveolar lavage fluid exosomes from asthmatic and healthy individuals exhibit distinct phenotypes and functions. BALF exosomes from asthmatics might contribute to subclinical inflammation by increasing cytokine and LTC(4) generation in airway epithelium.</AbstractText>
+                <CopyrightInformation>© 2012 John Wiley &amp; Sons A/S.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Torregrosa Paredes</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Department of Medicine Solna, Translational Immunology Unit, L2:04, Karolinska Institutet, University Hospital, Stockholm, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Esser</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Admyre</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nord</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahman</LastName>
+                    <ForeName>Q K</ForeName>
+                    <Initials>QK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lukic</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rådmark</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grönneberg</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grunewald</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eklund</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheynius</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabrielsson</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Allergy</MedlineTA>
+            <NlmUniqueID>7804028</NlmUniqueID>
+            <ISSNLinking>0105-4538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Acetates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Asthmatic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Leukotrienes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Quinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>MHM278SD3E</RegistryNumber>
+                <NameOfSubstance>montelukast</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acetates</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Asthmatic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchi</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchoalveolar Lavage Fluid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eosinophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukotrienes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quinolines</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1398-9995.2012.02835.x</ArticleId>
+            <ArticleId IdType="pubmed">22620679</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

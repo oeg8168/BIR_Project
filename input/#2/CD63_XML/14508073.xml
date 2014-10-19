@@ -1,0 +1,150 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14508073</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>05</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1226-3613</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>35</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Aug</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental &amp; molecular medicine</Title>
+                <ISOAbbreviation>Exp. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A decrease in the expression of CD63 tetraspanin protein elevates invasive potential of human melanoma cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>317-23</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>CD63, which belongs to the tetraspanin membrane proteins, has been proposed to play an important role in inhibiting melanoma metastasis. To determine whether reduction of CD63 expression, which frequently occurs in the malignant progression of human melanoma, is responsible for metastasis promotion, we transfected the antisense CD63 cDNA into MelJuso melanoma cells having endogenous CD63 expression. The antisense CD63 transfectant clones showing decreased CD63 expression displayed increased cell motility, matrix- degrading activity, and invasiveness in vitro when compared with the control transfectant cells. The antisense CD63 cDNA-transfected cells also exhibited altered adhesiveness to extracellular matrix. The results suggest that reduced CD63 expression contributes to the invasive and metastatic ability of human melanoma cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jang</LastName>
+                    <ForeName>Hwa-In</ForeName>
+                    <Initials>HI</Initials>
+                    <Affiliation>Vascular System Research Center, Division of Life Sciences, Kangwon National University, Chunchon 200-701, Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hansoo</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Exp Mol Med</MedlineTA>
+            <NlmUniqueID>9607880</NlmUniqueID>
+            <ISSNLinking>1226-3613</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Invasiveness</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14508073</ArticleId>
+            <ArticleId IdType="pii">2003083113</ArticleId>
+            <ArticleId IdType="doi">10.1038/emm.2003.43</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

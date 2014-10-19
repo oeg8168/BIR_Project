@@ -1,0 +1,171 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19903263</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0385-5600</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>53</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbiology and immunology</Title>
+                <ISOAbbreviation>Microbiol. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>N-linked glycan-dependent interaction of CD63 with CXCR4 at the Golgi apparatus induces downregulation of CXCR4.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>629-35</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1348-0421.2009.00167.x</ELocationID>
+            <Abstract>
+                <AbstractText>Efficient downregulation of CXCR4 cell surface expression by introduction of the CD63 gene has previously been reported by us. In the present study, it was found that CD63 and its mutant efficiently interact with CXCR4 in live cells and that CD63-induced downregulation and interaction are significantly abrogated by the N-linked glycosylation inhibitor, TM. Furthermore, the downregulation and interaction were clearly attenuated by alternation of all three N-linked glycosylation sites in CD63. Either CD63 or CD63DeltaN formed a complex with CXCR4 at the Golgi apparatus and the late endosomes, while CD63 GD mutants lost the ability to form a complex with CXCR4 exclusively at the Golgi apparatus. These findings suggest that CD63 interacts with CXCR4 through the N-linked glycans-portion of the CD63 protein and that the complex induces direction of CXCR4 trafficking to the endosomes/lysosomes, rather than to the plasma membrane. At the Golgi apparatus, there may be lysosome protein (CD63)-associated machinery that influences trafficking of other membrane proteins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yoshida</LastName>
+                    <ForeName>Takeshi</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Laboratory of Viral Pathogenesis, Institute for Virus Research, Kyoto University, Sakyo-ku, Kyoto 606-8507, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ebina</LastName>
+                    <ForeName>Hirotaka</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koyanagi</LastName>
+                    <ForeName>Yoshio</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Microbiol Immunol</MedlineTA>
+            <NlmUniqueID>7703966</NlmUniqueID>
+            <ISSNLinking>0385-5600</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Polysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, CXCR4</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Golgi Apparatus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polysaccharides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, CXCR4</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">MIM167</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1348-0421.2009.00167.x</ArticleId>
+            <ArticleId IdType="pubmed">19903263</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

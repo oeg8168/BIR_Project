@@ -1,0 +1,506 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16140752</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>79</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rab9 GTPase is required for replication of human immunodeficiency virus type 1, filoviruses, and measles virus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11742-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Rab proteins and their effectors facilitate vesicular transport by tethering donor vesicles to their respective target membranes. By using gene trap insertional mutagenesis, we identified Rab9, which mediates late-endosome-to-trans-Golgi-network trafficking, among several candidate host genes whose disruption allowed the survival of Marburg virus-infected cells, suggesting that Rab9 is utilized in Marburg replication. Although Rab9 has not been implicated in human immunodeficiency virus (HIV) replication, previous reports suggested that the late endosome is an initiation site for HIV assembly and that TIP47-dependent trafficking out of the late endosome to the trans-Golgi network facilitates the sorting of HIV Env into virions budding at the plasma membrane. We examined the role of Rab9 in the life cycles of HIV and several unrelated viruses, using small interfering RNA (siRNA) to silence Rab9 expression before viral infection. Silencing Rab9 expression dramatically inhibited HIV replication, as did silencing the host genes encoding TIP47, p40, and PIKfyve, which also facilitate late-endosome-to-trans-Golgi vesicular transport. In addition, silencing studies revealed that HIV replication was dependent on the expression of Rab11A, which mediates trans-Golgi-to-plasma-membrane transport, and that increased HIV Gag was sequestered in a CD63+ endocytic compartment in a cell line stably expressing Rab9 siRNA. Replication of the enveloped Ebola, Marburg, and measles viruses was inhibited with Rab9 siRNA, although the non-enveloped reovirus was insensitive to Rab9 silencing. These results suggest that Rab9 is an important cellular target for inhibiting diverse viruses and help to define a late-endosome-to-plasma-membrane vesicular transport pathway important in viral assembly.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>James L</ForeName>
+                    <Initials>JL</Initials>
+                    <Affiliation>National Center for HIV, STD, and TB Prevention, Centers for Disease Control and Prevention, Atlanta, Georgia 30333, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mavrakis</LastName>
+                    <ForeName>Manos</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McDonald</LastName>
+                    <ForeName>Natalie J</ForeName>
+                    <Initials>NJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yilla</LastName>
+                    <ForeName>Mamadi</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheng</LastName>
+                    <ForeName>Jinsong</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bellini</LastName>
+                    <ForeName>William J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Lijun</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Doux</LastName>
+                    <ForeName>Joseph M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaw</LastName>
+                    <ForeName>Michael W</ForeName>
+                    <Initials>MW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Chi-Cheng</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lippincott-Schwartz</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanchez</LastName>
+                    <ForeName>Anthony</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rubin</LastName>
+                    <ForeName>Donald H</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hodge</LastName>
+                    <ForeName>Thomas W</ForeName>
+                    <Initials>TW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gene Products, gag</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>rab GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jan;74(1):305-11</RefSource>
+                <PMID Version="1">10590118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1976 Aug 5;295(6):302-4</RefSource>
+                <PMID Version="1">778616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2000 Aug 25;259(1):257-65</RefSource>
+                <PMID Version="1">10942597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virus Res. 2003 Mar;92(1):89-98</RefSource>
+                <PMID Version="1">12606080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Jun;77(12):6931-45</RefSource>
+                <PMID Version="1">12768012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2003 Jul;5(1):161-74</RefSource>
+                <PMID Version="1">12852860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Aug 4;162(3):443-55</RefSource>
+                <PMID Version="1">12885763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Sep;77(17):9173-82</RefSource>
+                <PMID Version="1">12915533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Sep;77(17):9412-21</RefSource>
+                <PMID Version="1">12915556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Nov;4(11):785-801</RefSource>
+                <PMID Version="1">14617360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1985 Feb;53(2):391-8</RefSource>
+                <PMID Version="1">2982027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1988 Aug;62(8):2578-86</RefSource>
+                <PMID Version="1">3260631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1989 Aug;63(8):3227-33</RefSource>
+                <PMID Version="1">2545900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Oct 6;59(1):103-12</RefSource>
+                <PMID Version="1">2676191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1990 Dec;179(2):749-58</RefSource>
+                <PMID Version="1">1700541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 1992 Apr;30(4):947-50</RefSource>
+                <PMID Version="1">1572982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Feb;12(2):677-82</RefSource>
+                <PMID Version="1">8440258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1995;191:35-50</RefSource>
+                <PMID Version="1">7789161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1996 Nov;2(11):1240-3</RefSource>
+                <PMID Version="1">8898752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Nov;135(4):913-24</RefSource>
+                <PMID Version="1">8922376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Sep;74(18):8670-9</RefSource>
+                <PMID Version="1">10954568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acquir Immune Defic Syndr. 2000 Jul 1;24(3):197-202</RefSource>
+                <PMID Version="1">10969342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Feb;75(3):1459-75</RefSource>
+                <PMID Version="1">11152519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Mar;75(6):2982-92</RefSource>
+                <PMID Version="1">11222723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2001 Apr 25;283(1):1-6</RefSource>
+                <PMID Version="1">11312656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Oct 5;107(1):55-65</RefSource>
+                <PMID Version="1">11595185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Nov 20;98(24):13925-30</RefSource>
+                <PMID Version="1">11717449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Dec;7(12):1313-9</RefSource>
+                <PMID Version="1">11726971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Feb;76(4):1825-38</RefSource>
+                <PMID Version="1">11799178</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2002 Mar 4;195(5):593-602</RefSource>
+                <PMID Version="1">11877482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 May 28;99(11):7450-4</RefSource>
+                <PMID Version="1">12032303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2002 Jun;109(12):1541-50</RefSource>
+                <PMID Version="1">12070301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2002 Jul;8(7):681-6</RefSource>
+                <PMID Version="1">12042777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Aug;76(16):8285-97</RefSource>
+                <PMID Version="1">12134034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Sep;13(9):3107-22</RefSource>
+                <PMID Version="1">12221119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2002 Dec;12(12):569-79</RefSource>
+                <PMID Version="1">12495845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2003 Jan 5;305(1):219-27</RefSource>
+                <PMID Version="1">12504555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Feb;77(3):1812-9</RefSource>
+                <PMID Version="1">12525615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Jul 28;138(2):283-90</RefSource>
+                <PMID Version="1">9230071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1997 Aug;16(4):338-44</RefSource>
+                <PMID Version="1">9241269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1997 Oct 20;239(2):612-6</RefSource>
+                <PMID Version="1">9344879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Jun 19;273(25):15773-8</RefSource>
+                <PMID Version="1">9624176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1998 Jul 30;339(5):307-11</RefSource>
+                <PMID Version="1">9682043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Aug 14;1404(1-2):101-12</RefSource>
+                <PMID Version="1">9714762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Nov;9(11):3241-57</RefSource>
+                <PMID Version="1">9802909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1962 Jul;17:441-54</RefSource>
+                <PMID Version="1">13900037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1962 Jun;17:342-55</RefSource>
+                <PMID Version="1">14491769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2004 Nov 15;200(10):1337-46</RefSource>
+                <PMID Version="1">15545357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cell Biol. 2004 Nov 2;5(1):41</RefSource>
+                <PMID Version="1">15522117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Dec;4(12):902-10</RefSource>
+                <PMID Version="1">14617353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Dec 19;278(51):50863-71</RefSource>
+                <PMID Version="1">14530284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Dec 26;278(52):52347-54</RefSource>
+                <PMID Version="1">14561735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Feb;78(3):1552-63</RefSource>
+                <PMID Version="1">14722309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Mar;78(5):2382-93</RefSource>
+                <PMID Version="1">14963134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Jun;78(11):6013-23</RefSource>
+                <PMID Version="1">15140999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Aug 1;64(15):5511-7</RefSource>
+                <PMID Version="1">15289362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Sep;78(17):9552-9</RefSource>
+                <PMID Version="1">15308747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cell Biol. 2004 Aug 27;5:32</RefSource>
+                <PMID Version="1">15333144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1975 Dec;67(3):551-65</RefSource>
+                <PMID Version="1">1202014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Aug 15;165(4):1755-61</RefSource>
+                <PMID Version="1">10925252</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cercopithecus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ebolavirus</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Filoviridae</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Products, gag</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Marburgvirus</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Measles virus</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutagenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Small Interfering</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Viral</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vero Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Replication</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1212642</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>10</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">79/18/11742</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.79.18.11742-11751.2005</ArticleId>
+            <ArticleId IdType="pubmed">16140752</ArticleId>
+            <ArticleId IdType="pmc">PMC1212642</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

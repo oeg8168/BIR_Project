@@ -1,0 +1,164 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15936214</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1050-4648</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fish &amp; shellfish immunology</Title>
+                <ISOAbbreviation>Fish Shellfish Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of goldfish macrophages in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>152-71</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Over 100 years after the first description of macrophages by Metchnikoff, there are still questions as to the mechanisms leading to the heterogeneity of their lineage. Current views are based on the mononuclear phagocyte system (MPS) theory, where all mammalian macrophages are derived from circulating blood monocytes and ultimately from hematopoietic stem cells in the bone marrow. Our studies on the regulation of fish macrophage development, suggested that teleosts have alternate pathways of monopoiesis, which undoubtedly contribute to macrophage heterogeneity in the goldfish. Macrophage heterogeneity has been attributed to a network of positive and negative regulators of macrophage development, including soluble mediators known as colony-stimulating factors of which two (M-CSF and GM-CSF) promote formation and growth of mature macrophages. In contrast to our knowledge of CSFs and their receptors in mammals, there is no published information about fish macrophage CSFs. Since fish macrophages generate their own growth factors, it is reasonable to assume that pathways of fish macrophage development and hematopoiesis may be distinct from those of mammalian macrophages. More importantly, the presence of fish progenitor/stem cells and developing macrophages in long-term cultures, allowed us to address pathways of macrophage differentiation, which could not be addressed in mammalian macrophage culture systems. Characterization of primary kidney macrophage (PKM) cultures from goldfish hematopoietic tissues (kidney) indicated that three distinct subpopulations developed in response to endogenous macrophage growth factors. These macrophage subpopulations expressed several differentiation markers, including the hematopoietic stem cell antigen AC133, c-kit, granulin, CD63, macrosialin, c/EBPbeta, legumain, and the colony-stimulating factor receptor-1 (CSF-1R). In the goldfish, there appeared to be a stringent control between those early progenitors that self-renewed, and those that were recruited into the maturation pathways. We report that upon commitment, goldfish macrophages developed through two distinct differentiation pathways: one consistent with the &quot;classical&quot; pathway (MPS) of macrophage development (progenitors--&gt;monocytes--&gt;mature macrophages), and an &quot;alternate&quot; pathway (AP-macrophages) where mature macrophages appeared to rapidly develop from early progenitors in the absence of an intermediate monocyte stage. AP-macrophages represent a unique subset of spontaneously growing cells. Their self-renewal was promoted by endogenous macrophage growth factors (MGF), and effectively controlled by a novel soluble form of the CSF-1R (sCSF-1R). The discovery of sCSF-1R in the goldfish highlights the inherent complexity in the hematopoietic regulatory machinery of teleosts.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Belosevic</LastName>
+                    <ForeName>Miodrag</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Biological Sciences, University of Alberta, CW-405 Biological Sciences Building, Edmonton, AB T6G 2E9, Canada. mike.belosevic@ualberta.ca</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanington</LastName>
+                    <ForeName>Patrick C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barreda</LastName>
+                    <ForeName>Daniel R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fish Shellfish Immunol</MedlineTA>
+            <NlmUniqueID>9505220</NlmUniqueID>
+            <ISSNLinking>1050-4648</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>81627-83-0</RegistryNumber>
+                <NameOfSubstance>Macrophage Colony-Stimulating Factor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fishes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Goldfish</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hematopoiesis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophage Colony-Stimulating Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mammals</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Animal</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>110</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1050-4648(05)00059-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fsi.2004.10.010</ArticleId>
+            <ArticleId IdType="pubmed">15936214</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

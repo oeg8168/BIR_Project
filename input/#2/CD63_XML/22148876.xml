@@ -1,0 +1,201 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22148876</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>07</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-3907</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                        <Day>3</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of proteome research</Title>
+                <ISOAbbreviation>J. Proteome Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Proteomic analysis of microvesicles derived from human mesenchymal stem cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>839-49</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/pr200682z</ELocationID>
+            <Abstract>
+                <AbstractText>Mesenchymal stem cells (MSCs) have emerged as a promising means for treating degenerative or incurable diseases. Recent studies have shown that microvesicles (MVs) from MSCs (MSC-MVs) contribute to recovery of damaged tissues in animal disease models. Here, we profiled the MSC-MV proteome to investigate their therapeutic effects. LC-MS/MS analysis of MSC-MVs identified 730 MV proteins. The MSC-MV proteome included five positive and two variable known markers of MSCs, but no negative marker, as well as 43 surface receptors and signaling molecules controlling self-renewal and differentiation of MSCs. Functional enrichment analysis showed that cellular processes represented by the MSC-MV proteins include cell proliferation, adhesion, migration, and morphogenesis. Integration of MSC's self-renewal and differentiation-related genes and the proteome of MSC-conditioned media (MSC-CM) with the MSC-MV proteome revealed potential MV protein candidates that can be associated with the therapeutic effects of MSC-MVs: (1) surface receptors (PDGFRB, EGFR, and PLAUR); (2) signaling molecules (RRAS/NRAS, MAPK1, GNA13/GNG12, CDC42, and VAV2); (3) cell adhesion (FN1, EZR, IQGAP1, CD47, integrins, and LGALS1/LGALS3); and (4) MSC-associated antigens (CD9, CD63, CD81, CD109, CD151, CD248, and CD276). Therefore, the MSC-MV proteome provides a comprehensive basis for understanding the potential of MSC-MVs to affect tissue repair and regeneration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Han-Soo</ForeName>
+                    <Initials>HS</Initials>
+                    <Affiliation>Department of Laboratory Medicine, Yonsei University College of Medicine , 50 Yonsei-ro, Seodaemoon-gu, Seoul 120-752, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Do-Young</ForeName>
+                    <Initials>DY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yun</LastName>
+                    <ForeName>So Jeong</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Seong-Mi</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Jeong Won</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Jin Woo</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>Daehee</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Kwang Pyo</ForeName>
+                    <Initials>KP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dong-Wook</ForeName>
+                    <Initials>DW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Proteome Res</MedlineTA>
+            <NlmUniqueID>101128775</NlmUniqueID>
+            <ISSNLinking>1535-3893</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Growth Processes</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Discovery</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/pr200682z</ArticleId>
+            <ArticleId IdType="pubmed">22148876</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

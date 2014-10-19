@@ -1,0 +1,553 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14568979</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>198</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of experimental medicine</Title>
+                <ISOAbbreviation>J. Exp. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human decidual natural killer cells are a unique NK cell subset with immunomodulatory potential.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1201-12</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Natural killer cells constitute 50-90% of lymphocytes in human uterine decidua in early pregnancy. Here, CD56(bright) uterine decidual NK (dNK) cells were compared with the CD56(bright) and CD56(dim) peripheral NK cell subsets by microarray analysis, with verification of results by flow cytometry and RT-PCR. Among the approximately 10,000 genes studied, 278 genes showed at least a threefold change with P &lt; or = 0.001 when comparing the dNK and peripheral NK cell subsets, most displaying increased expression in dNK cells. The largest number of these encoded surface proteins, including the unusual lectinlike receptors NKG2E and Ly-49L, several killer cell Ig-like receptors, the integrin subunits alpha(D), alpha(X), beta1, and beta5, and multiple tetraspanins (CD9, CD151, CD53, CD63, and TSPAN-5). Additionally, two secreted proteins, galectin-1 and progestagen-associated protein 14, known to have immunomodulatory functions, were selectively expressed in dNK cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Koopman</LastName>
+                    <ForeName>Louise A</ForeName>
+                    <Initials>LA</Initials>
+                    <Affiliation>Department of Molecular and Cellular Biology, Harvard University, Cambridge, MA 02138, USA. louise_koopman@biogen.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kopcow</LastName>
+                    <ForeName>Hernan D</ForeName>
+                    <Initials>HD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rybalov</LastName>
+                    <ForeName>Basya</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyson</LastName>
+                    <ForeName>Jonathan E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orange</LastName>
+                    <ForeName>Jordan S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schatz</LastName>
+                    <ForeName>Frederick</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masch</LastName>
+                    <ForeName>Rachel</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lockwood</LastName>
+                    <ForeName>Charles J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schachter</LastName>
+                    <ForeName>Asher D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Peter J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strominger</LastName>
+                    <ForeName>Jack L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI053330</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA47554</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 HD008515</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 HD008515-01</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 HD008515-02</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F32 HD008515-03</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Exp Med</MedlineTA>
+            <NlmUniqueID>2985109R</NlmUniqueID>
+            <ISSNLinking>0022-1007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD56</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Galectin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Homeodomain Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>KLRC3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>NK Cell Lectin-Like Receptor Subfamily C</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PAEP protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pregnancy Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Immunologic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Natural Killer Cell</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Mar 31;275(13):9230-8</RefSource>
+                <PMID Version="1">10734060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jul 6;276(27):25005-13</RefSource>
+                <PMID Version="1">11325968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 May 11;96(10):5674-9</RefSource>
+                <PMID Version="1">10318943</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 1999 Mar;41(3):174-82</RefSource>
+                <PMID Version="1">10326620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunogenetics. 1999 Jul;49(7-8):731-4</RefSource>
+                <PMID Version="1">10369937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1953 Oct 3;172(4379):603-6</RefSource>
+                <PMID Version="1">13099277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2002 Jan;32(1):18-29</RefSource>
+                <PMID Version="1">11754000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2000 Mar-Apr;21 Suppl A:S81-5</RefSource>
+                <PMID Version="1">10831129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2000 Jun;30(6):1623-31</RefSource>
+                <PMID Version="1">10898498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Antigens. 2000 Sep;56(3):248-57</RefSource>
+                <PMID Version="1">11034561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Aug 15;167(4):1877-81</RefSource>
+                <PMID Version="1">11489965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2001 Oct;31(10):3121-7</RefSource>
+                <PMID Version="1">11592089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Nov 15;167(10):5697-707</RefSource>
+                <PMID Version="1">11698442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2001 Nov;22(11):633-40</RefSource>
+                <PMID Version="1">11698225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Dec 24;155(7):1103-7</RefSource>
+                <PMID Version="1">11756464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2001 Jul-Aug;27(4):731-43</RefSource>
+                <PMID Version="1">11778657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2002 Jan 21;195(2):277-82</RefSource>
+                <PMID Version="1">11805154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Mar 15;168(6):2745-50</RefSource>
+                <PMID Version="1">11884441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Mar;13(3):767-81</RefSource>
+                <PMID Version="1">11907260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2002 Jun;23(6):313-20</RefSource>
+                <PMID Version="1">12072371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Jul 1;169(1):220-9</RefSource>
+                <PMID Version="1">12077248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Sep;2(9):656-63</RefSource>
+                <PMID Version="1">12209134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2002 Oct;3(10):903-10</RefSource>
+                <PMID Version="1">12352967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Sep 30;158(7):1299-309</RefSource>
+                <PMID Version="1">12356873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 1;99(20):13014-9</RefSource>
+                <PMID Version="1">12271131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 15;99(21):13741-6</RefSource>
+                <PMID Version="1">12368486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Reprod Immunol. 2002 Oct-Nov;57(1-2):151-68</RefSource>
+                <PMID Version="1">12385840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2002 Nov;189:136-51</RefSource>
+                <PMID Version="1">12445271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Nov 21;420(6913):265-6</RefSource>
+                <PMID Version="1">12447413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Dec 10;99(25):16180-5</RefSource>
+                <PMID Version="1">12454284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Mar 7;278(10):8564-71</RefSource>
+                <PMID Version="1">12473675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1974 Sep;54(3):576-82</RefSource>
+                <PMID Version="1">4853116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gynakol. 1974;217(2):209-18</RefSource>
+                <PMID Version="1">4479736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1976 Aug 26;262(5571):799-802</RefSource>
+                <PMID Version="1">60709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Dec;85(23):8845-9</RefSource>
+                <PMID Version="1">3194393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Apr 13;248(4952):220-3</RefSource>
+                <PMID Version="1">2326636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 May 1;152(9):4255-61</RefSource>
+                <PMID Version="1">8157952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Immunol. 1994 Oct 1;158(1):29-45</RefSource>
+                <PMID Version="1">7522129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 1996 Mar;35(3):258-60</RefSource>
+                <PMID Version="1">8962657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Mar 15;156(6):2068-76</RefSource>
+                <PMID Version="1">8690894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Dec 1;157(11):4741-5</RefSource>
+                <PMID Version="1">8943374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1997 Feb;27(2):354-60</RefSource>
+                <PMID Version="1">9045904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1997 Apr;27(4):979-83</RefSource>
+                <PMID Version="1">9130653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 1997 Apr;34(5):419-30</RefSource>
+                <PMID Version="1">9293775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 1997 Sep;38(3):162-7</RefSource>
+                <PMID Version="1">9325487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Nov 13;390(6656):175-9</RefSource>
+                <PMID Version="1">9367155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Feb 15;160(4):1618-26</RefSource>
+                <PMID Version="1">9469418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Reprod. 1998 Mar;13(3):730-5</RefSource>
+                <PMID Version="1">9572443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Immunol. 1998 Feb 1;183(2):99-105</RefSource>
+                <PMID Version="1">9606993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1998 Jun;28(6):1839-46</RefSource>
+                <PMID Version="1">9645365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Jul 1;161(1):400-8</RefSource>
+                <PMID Version="1">9647249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 1998 Jun;8(6):693-701</RefSource>
+                <PMID Version="1">9655483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Dec 8;95(25):14863-8</RefSource>
+                <PMID Version="1">9843981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1999 Apr 5;189(7):1093-100</RefSource>
+                <PMID Version="1">10190900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1999 Apr 5;189(7):1149-56</RefSource>
+                <PMID Version="1">10190906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Oct 18;1482(1-2):284-97</RefSource>
+                <PMID Version="1">11058769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2000 Oct;30(10):2842-8</RefSource>
+                <PMID Version="1">11069065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Jan 2;98(1):31-6</RefSource>
+                <PMID Version="1">11134512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Feb 8;409(6821):733-9</RefSource>
+                <PMID Version="1">11217864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2001 Mar 1;29(5):E29</RefSource>
+                <PMID Version="1">11222780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2001 Mar;31(3):792-801</RefSource>
+                <PMID Version="1">11241284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Mar 23;104(6):809-12</RefSource>
+                <PMID Version="1">11290318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 2001 Apr;45(4):205-16</RefSource>
+                <PMID Version="1">11327547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 May 15;97(10):3146-51</RefSource>
+                <PMID Version="1">11342442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 1;166(11):6477-82</RefSource>
+                <PMID Version="1">11359797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2001 Apr 17;11(8):626-30</RefSource>
+                <PMID Version="1">11369209</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD56</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Decidua</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Galectin 1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Homeodomain Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Killer Cells, Natural</DescriptorName>
+                <QualifierName MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">NK Cell Lectin-Like Receptor Subfamily C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Immunologic</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Natural Killer Cell</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocyte Subsets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2194228</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14568979</ArticleId>
+            <ArticleId IdType="doi">10.1084/jem.20030305</ArticleId>
+            <ArticleId IdType="pii">jem.20030305</ArticleId>
+            <ArticleId IdType="pmc">PMC2194228</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

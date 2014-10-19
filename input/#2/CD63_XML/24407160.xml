@@ -1,0 +1,338 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24407160</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2399</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>42</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental hematology</Title>
+                <ISOAbbreviation>Exp. Hematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of Ponatinib as a potent inhibitor of growth, migration, and activation of neoplastic eosinophils carrying FIP1L1-PDGFRA.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>282-293.e4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.exphem.2013.12.007</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0301-472X(14)00003-4</ELocationID>
+            <Abstract>
+                <AbstractText>In chronic eosinophilic leukemia, the transforming oncoprotein FIP1L1-PDGFRA is a major target of therapy. In most patients, the tyrosine kinase inhibitor (TKI) imatinib induces complete remission. For patients who are intolerant or resistant, novel TKIs have been proposed. We examined the in vitro effects of 14 kinase blockers on growth and function of EOL-1 cells, a FIP1L1-PDGFRA(+) eosinophil cell line. Major growth-inhibitory effects were seen with all PDGFR-blocking agents, with IC50 values in the low nanomolar range: ponatinib, 0.1-0.2 nmol/L; sorafenib, 0.1-0.2 nmol/L; masitinib, 0.2-0.5 nmol/L; nilotinib, 0.2-1.0 nmol/L; dasatinib, 0.5-2.0 nmol/L; sunitinib, 1-2 nmol/L; midostaurin, 5-10 nmol/L. These drugs were also found to block activation of PDGFR-downstream signaling molecules, including Akt, S6, and STAT5 in EOL-1 cells. All effective TKIs produced apoptosis in EOL-1 cells as determined by microscopy, Annexin-V/PI, and caspase-3 staining. In addition, PDGFR-targeting TKIs were found to inhibit cytokine-induced migration of EOL-1 cells. In all bioassays used, ponatinib was found to be the most potent compound in EOL-1 cells. In addition, ponatinib was found to downregulate expression of the activation-linked surface antigen CD63 on EOL-1 cells and to suppress the growth of primary neoplastic eosinophils. We also examined drug effects on Ba/F3 cells expressing two clinically relevant, imatinib-resistant, mutant forms of FIP1L1-PDGFRA, namely T674I and D842V. Strong inhibitory effects on both mutants were seen only with ponatinib. In summary, novel PDGFR-targeting TKIs may be alternative agents for the treatment of patients with imatinib-resistant chronic eosinophilic leukemia. Although several different PDGFR-targeting agents are effective, the most potent drug appears to be ponatinib.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 ISEH - Society for Hematology and Stem Cells. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sadovnik</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lierman</LastName>
+                    <ForeName>Els</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Center for Human Genetics, KU Leuven, Leuven, Belgium; Center for Human Genetics, University Hospital Leuven, Leuven, Belgium.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peter</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria; Ludwig Boltzmann Cluster Oncology, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herrmann</LastName>
+                    <ForeName>Harald</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria; Ludwig Boltzmann Cluster Oncology, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suppan</LastName>
+                    <ForeName>Verena</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stefanzl</LastName>
+                    <ForeName>Gabriele</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haas</LastName>
+                    <ForeName>Oskar</ForeName>
+                    <Initials>O</Initials>
+                    <Affiliation>Childrens Cancer Research Institute, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lion</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Childrens Cancer Research Institute, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pickl</LastName>
+                    <ForeName>Winfried</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Institute of Immunology, Medical University of Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cools</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Center for Human Genetics, KU Leuven, Leuven, Belgium; Center for Human Genetics, University Hospital Leuven, Leuven, Belgium.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vandenberghe</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Center for Human Genetics, KU Leuven, Leuven, Belgium; Center for Human Genetics, University Hospital Leuven, Leuven, Belgium.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valent</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Austria; Ludwig Boltzmann Cluster Oncology, Vienna, Austria. Electronic address: peter.valent@meduniwien.ac.at.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Exp Hematol</MedlineTA>
+            <NlmUniqueID>0402313</NlmUniqueID>
+            <ISSNLinking>0301-472X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Annexin A5</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>FIP1L1-PDGFRA fusion protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Imidazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Oncogene Proteins, Fusion</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyridazines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>STAT5 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>mRNA Cleavage and Polyadenylation Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4340891KFS</RegistryNumber>
+                <NameOfSubstance>ponatinib</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor, Platelet-Derived Growth Factor alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-akt</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance>Ribosomal Protein S6 Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Substitution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Annexin A5</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Screening Assays, Antitumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eosinophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Leukemic</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypereosinophilic Syndrome</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Imidazoles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation, Missense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oncogene Proteins, Fusion</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-akt</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyridazines</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, Platelet-Derived Growth Factor alpha</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ribosomal Protein S6 Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">STAT5 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">mRNA Cleavage and Polyadenylation Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0301-472X(14)00003-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.exphem.2013.12.007</ArticleId>
+            <ArticleId IdType="pubmed">24407160</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

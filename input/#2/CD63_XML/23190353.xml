@@ -1,0 +1,515 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23190353</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1937-335X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>7-8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Tissue engineering. Part A</Title>
+                <ISOAbbreviation>Tissue Eng Part A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Three-stage ex vivo expansion of high-ploidy megakaryocytic cells: toward large-scale platelet production.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>998-1014</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/ten.TEA.2011.0111</ELocationID>
+            <Abstract>
+                <AbstractText>Hematopoietic stem and progenitor cells (HSPCs) have been cultured using a wide variety of cytokines to promote differentiation into megakaryocytic cells (Mks), the precursors to platelets. Greater Mk DNA content, or ploidy, has been correlated with increased platelet release. Gradients of pH, pO2, and signaling factors regulate megakaryopoiesis in the bone marrow niche. In this study, we demonstrate that a 3-phase culture process with increasing pH and pO2 and different cytokine cocktails greatly increases megakaryocyte production. CD34(+) HSPCs were first cultured at 5% O2 and pH 7.2 with a cytokine cocktail previously shown to promote Mk progenitor production. At day 5, cells were shifted to 20% O2 and pH 7.4 and maintained in 1 of 17 cytokine cocktails identified using a 2(4) factorial design of experiments method to evaluate the effects of interleukin (IL)-3, IL-6, IL-9, and high- or low-dose stem cell factor (SCF), in conjunction with thrombopoietin (Tpo) and IL-11, on expansion of mature Mks from progenitors. The combination of Tpo, high-dose SCF, IL-3, IL-9, and IL-11 best promoted Mk expansion. IL-3 greatly increased total cell fold expansion, but this was partially offset by lower Mk purity. IL-9 promoted CD41 and CD42b expression. High-dose (100?‰ng/mL) SCF increased Mk production and ploidy. Different commercial media and IL-3 sources substantially impacted differentiation, and X-VIVO 10 serum-free media best supported mature Mk expansion. Shifting from pH 7.4 to pH 7.6 at day 7 increased Mk production by 30%. Treatment with nicotinamide at day 7 or day 8 more than doubled the fraction of high-ploidy (&gt;4N) Mks. Ultimately, the 3-phase culture system gave rise to 44.5Â±8.1?‰Mks and 8.5Â±3.1 high-ploidy Mks per input HSPC. Further optimization was required to improve platelet production. Using Iscove's modified Dulbecco's medium (IMDM)+20% BSA, insulin and transferin (BIT) 9500 Serum Substitute greatly improved the frequency and quality of Mk proplatelet extensions without affecting Mk expansion, commitment, or polyploidization in the 3-phase process. Mks cultured in IMDM+20% BIT 9500 gave rise to platelets with functional activity similar to that of fresh platelets from normal donors, as evidenced by basal tubulin distribution and the expression of surface markers and spreading in response to platelet agonists.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panuganti</LastName>
+                    <ForeName>Swapna</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Chemical and Biological Engineering, Northwestern University, Evanston, IL 60208, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schlinker</LastName>
+                    <ForeName>Alaina C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindholm</LastName>
+                    <ForeName>Paul F</ForeName>
+                    <Initials>PF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papoutsakis</LastName>
+                    <ForeName>Eleftherios T</ForeName>
+                    <Initials>ET</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>William M</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>T32CA09560</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Tissue Eng Part A</MedlineTA>
+            <NlmUniqueID>101466659</NlmUniqueID>
+            <ISSNLinking>1937-3341</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Culture Media, Serum-Free</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>25X51I8RD4</RegistryNumber>
+                <NameOfSubstance>Niacinamide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2010 Dec 20;207(13):2817-30</RefSource>
+                <PMID Version="1">21098095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transfusion. 2011 Feb;51(2):313-8</RefSource>
+                <PMID Version="1">20735764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2011 Mar;21(3):530-45</RefSource>
+                <PMID Version="1">21221130</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Eng Part C Methods. 2011 Nov;17(11):1081-8</RefSource>
+                <PMID Version="1">21877917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Eng Part C Methods. 2011 Dec;17(12):1223-32</RefSource>
+                <PMID Version="1">21895494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2012;788:219-47</RefSource>
+                <PMID Version="1">22130711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2012 Aug 23;120(8):1552-61</RefSource>
+                <PMID Version="1">22665937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Oct 15;112(8):3164-74</RefSource>
+                <PMID Version="1">18684864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2009 Jan 2;378(1):112-7</RefSource>
+                <PMID Version="1">19010306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Thromb Hemost. 2009 Mar;35(2):158-67</RefSource>
+                <PMID Version="1">19408189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(7):e6461</RefSource>
+                <PMID Version="1">19649289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Aug 27;114(9):1875-83</RefSource>
+                <PMID Version="1">19525480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2009 Nov;37(11):1330-1339.e5</RefSource>
+                <PMID Version="1">19664680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2009 Nov;37(11):1340-1352.e3</RefSource>
+                <PMID Version="1">19715739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2000 Mar;28(3):267-75</RefSource>
+                <PMID Version="1">10720691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematother Stem Cell Res. 2000 Feb;9(1):89-93</RefSource>
+                <PMID Version="1">10738976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2000 Sep;28(9):1016-28</RefSource>
+                <PMID Version="1">11008014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2000 Sep;28(9):1054-61</RefSource>
+                <PMID Version="1">11008018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 2000 Dec;111(3):879-89</RefSource>
+                <PMID Version="1">11122151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematother Stem Cell Res. 2000 Dec;9(6):913-21</RefSource>
+                <PMID Version="1">11177605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematother Stem Cell Res. 2001 Feb;10(1):193-200</RefSource>
+                <PMID Version="1">11276373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Platelets. 2001 Sep;12(6):325-32</RefSource>
+                <PMID Version="1">11672471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transfusion. 2001 Dec;41(12):1567-76</RefSource>
+                <PMID Version="1">11778074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2002 Feb 1;99(3):888-97</RefSource>
+                <PMID Version="1">11806991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1995 Nov 1;86(9):3353-63</RefSource>
+                <PMID Version="1">7579438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1997 Jan 21;94(2):663-8</RefSource>
+                <PMID Version="1">9012841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 1997 Jun;97(4):889-95</RefSource>
+                <PMID Version="1">9217193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Biochem Mol Biol. 1997;32(6):437-502</RefSource>
+                <PMID Version="1">9444477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 1998 Nov;103(2):317-25</RefSource>
+                <PMID Version="1">9827900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 1998 Nov 5;60(3):341-7</RefSource>
+                <PMID Version="1">10099437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Haematol. 2005 Feb;74(2):128-35</RefSource>
+                <PMID Version="1">15654904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2005 Feb;93(2):311-8</RefSource>
+                <PMID Version="1">15711748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transfusion. 2005 Jun;45(6):856-66</RefSource>
+                <PMID Version="1">15934982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2005 Aug;25(8):1750-5</RefSource>
+                <PMID Version="1">15933244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Dev. 2005 Aug;14(4):415-24</RefSource>
+                <PMID Version="1">16137231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiology (Bethesda). 2005 Oct;20:349-56</RefSource>
+                <PMID Version="1">16174874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplant Proc. 2005 Jul-Aug;37(6):2670-2</RefSource>
+                <PMID Version="1">16182780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2005 Oct;33(10):1182-91</RefSource>
+                <PMID Version="1">16219540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Apher. 2006 Jul;21(2):92-5</RefSource>
+                <PMID Version="1">16106446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2006 Nov;39(5):978-84</RefSource>
+                <PMID Version="1">16860008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 2006 Nov;135(4):554-66</RefSource>
+                <PMID Version="1">17054670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2006 Dec;24(12):2877-87</RefSource>
+                <PMID Version="1">16960134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transfus Med. 2007 Apr;17(2):119-27</RefSource>
+                <PMID Version="1">17430468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2007 Aug 4;370(9585):427-38</RefSource>
+                <PMID Version="1">17679020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2008 Mar 20;332(1-2):82-91</RefSource>
+                <PMID Version="1">18234208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Life Sci. 2008 May 7;82(19-20):1023-31</RefSource>
+                <PMID Version="1">18407295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Jun 1;111(11):5298-306</RefSource>
+                <PMID Version="1">18388179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2008 Aug 4;205(8):1917-27</RefSource>
+                <PMID Version="1">18663123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Mater Res. 2002 May;60(2):292-9</RefSource>
+                <PMID Version="1">11857436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2002;20(4):320-8</RefSource>
+                <PMID Version="1">12110701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2003 Apr;31(4):324-30</RefSource>
+                <PMID Version="1">12691920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematother Stem Cell Res. 2003 Apr;12(2):179-88</RefSource>
+                <PMID Version="1">12804177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2003 Jul;112(1):126-35</RefSource>
+                <PMID Version="1">12840067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2003 Aug 15;21(16):3158-67</RefSource>
+                <PMID Version="1">12915607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2004 Apr;10(4):171-8</RefSource>
+                <PMID Version="1">15059608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2004 Aug;32(8):720-7</RefSource>
+                <PMID Version="1">15308323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2004;273:57-72</RefSource>
+                <PMID Version="1">15308793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2004 Sep 3;95(5):e36-44</RefSource>
+                <PMID Version="1">15297382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 1982 Sep;10(8):650-60</RefSource>
+                <PMID Version="1">6754412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Phys Physiol Meas. 1984 Aug;5(3):145-70</RefSource>
+                <PMID Version="1">6488722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2001 Aug;81(2):685-96</RefSource>
+                <PMID Version="1">11463617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 1993 Feb;21(2):372-81</RefSource>
+                <PMID Version="1">8425575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lab Clin Med. 1993 Apr;121(4):579-87</RefSource>
+                <PMID Version="1">8454940</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 1993 Mar;11(2):120-9</RefSource>
+                <PMID Version="1">7681339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 Oct 1;82(7):2031-7</RefSource>
+                <PMID Version="1">8104535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hematother. 1992 Winter;1(4):329-41</RefSource>
+                <PMID Version="1">1285382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1995 Jan 15;85(2):402-13</RefSource>
+                <PMID Version="1">7529062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1987 May 4;215(1):160-4</RefSource>
+                <PMID Version="1">2952523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2010 Mar;8(3):454-62</RefSource>
+                <PMID Version="1">20002545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytotherapy. 2010 Oct;12(6):767-82</RefSource>
+                <PMID Version="1">20482285</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 Nov 15;191(4):861-74</RefSource>
+                <PMID Version="1">21079248</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Culture Techniques</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Shape</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Culture Media, Serum-Free</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Megakaryocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Niacinamide</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Ploidies</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3592379</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/ten.TEA.2011.0111</ArticleId>
+            <ArticleId IdType="pubmed">23190353</ArticleId>
+            <ArticleId IdType="pmc">PMC3592379</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,252 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15504731</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>12</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>07</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>280</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jan</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Peptide YY and neuropeptide Y induce villin expression, reduce adhesion, and enhance migration in small intestinal cells through the regulation of CD63, matrix metalloproteinase-3, and Cdc42 activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>125-36</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Peptide YY (PYY) and neuropeptide Y (NPY) are regulatory peptides synthesized in the intestine and brain, respectively, that modify physiological functions affecting nutrient assimilation and feeding behavior. Because PYY and NPY also alter the expression of intestine-specific differentiation marker proteins and the tetraspanin CD63, which is involved in cell adhesion, we investigated whether intestinal cell differentiation could be linked to mucosal cell adhesion and migration through these peptides. PYY and NPY significantly decreased cell adhesion and increased cell migration in a dose-dependent manner prior to cell confluency in our model system, non-tumorigenic small intestinal hBRIE 380i cells. Both peptides reduced CD63 expression and CD63-dependent cell adhesion. CD63 overexpression increased and antisense CD63 cDNA decreased intestinal cell adhesion. In parallel, both PYY and NPY increased expression of matrix metalloproteinase-3 (MMP-3) to a level sufficient to induce cell migration by activating the Rho GTPase Cdc42. The effects of both peptides on cell migration were blocked in cells constitutively overexpressing dominant-negative Cdc42. PYY and NPY also significantly induced the expression of the differentiation marker villin, which could be eliminated by an MMP inhibitor at a concentration that inhibits cell migration. Increased MMP-3 activity, which enhanced cell migration, also induced villin mRNA levels. Therefore, these data indicate that the alteration of adhesion and migration by PYY and NPY occurs in part by synchronous modulation of three proteins that are involved in extracellular matrix-basolateral membrane interactions, CD63, MMP-3 and Cdc42, and that PYY/NPY regulation of expression of mucosal proteins such as villin is linked to the process of cell migration and adhesion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Mike</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Nutritional Sciences and Toxicology, University of California, Berkeley, California 94720-3104, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hadi</LastName>
+                    <ForeName>Margono</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Halldén</LastName>
+                    <ForeName>Gunnel</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aponte</LastName>
+                    <ForeName>Gregory W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DK58592</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Microfilament Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neuropeptide Y</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>villin protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>106388-42-5</RegistryNumber>
+                <NameOfSubstance>Peptide YY</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.17</RegistryNumber>
+                <NameOfSubstance>Matrix Metalloproteinase 3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>cdc42 GTP-Binding Protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intestine, Small</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Matrix Metalloproteinase 3</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microfilament Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuropeptide Y</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide YY</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">cdc42 GTP-Binding Protein</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2004</Year>
+                <Month>October</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">M408858200</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M408858200</ArticleId>
+            <ArticleId IdType="pubmed">15504731</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,152 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14522017</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0161-5890</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>40</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular immunology</Title>
+                <ISOAbbreviation>Mol. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting proteins to secretory lysosomes of natural killer cells as a principle for immunoregulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>363-72</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Secretory lysosomes of natural killer (NK) cells combine storage, regulated secretion and lysosomal activity. We asked whether one could target exogenous proteins to the secretory lysosomes of NK-cells for final delivery into a tumor site upon degranulation. cDNAs for both soluble and transmembrane (tm) proteins were expressed in the human YT-Indy NK-cell line. Targeting of a soluble TNF receptor (sTNFR1) was achieved by expressing a cDNA construct with a transmembrane sequence to facilitate ER-export and by incorporating a cytosolic sorting signal (Y) from CD63 to overcome constitutive secretion. The resulting sTNFR1-tm-Y was targeted to secretory lysosomes as confirmed by results from biosynthetic radiolabeling in combination with subcellular fractionation, immunoelectron microscopy, and immunofluorescence microscopy. A soluble sTNFR1 form was generated in the secretory lysosome by endogenous proteolytic activity. Expression of exogenous normally secretory non-membrane proteins, such as alpha1-microglobulin (alpha1-m) and alpha1-antitrypsin (alpha1-at) resulted mostly in constitutive secretion although a small amount of alpha1-microglobulin was targeted to secretory lysosomes. Our results suggest a potential for delivery of pharmacologically active agents into tumor sites by use of the NK-cell secretory lysosome as a carrier.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hansson</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Hematology, C14, BMC, SE-22184, Lund, Sweden. markus.hansson@hematologia.lu.se</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jönsson</LastName>
+                    <ForeName>Sofia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Persson</LastName>
+                    <ForeName>Ann-Maj</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calafat</LastName>
+                    <ForeName>Jero</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tapper</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsson</LastName>
+                    <ForeName>Inge</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Immunol</MedlineTA>
+            <NlmUniqueID>7905289</NlmUniqueID>
+            <ISSNLinking>0161-5890</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Killer Cells, Natural</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14522017</ArticleId>
+            <ArticleId IdType="pii">S0161589003001512</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,431 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23241026</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1462-5822</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cellular microbiology</Title>
+                <ISOAbbreviation>Cell. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extracellular amastigotes of Trypanosoma cruzi are potent inducers of phagocytosis in mammalian cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>977-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/cmi.12090</ELocationID>
+            <Abstract>
+                <AbstractText>The protozoan parasite Trypanosoma cruzi, the aetiological agent of Chagas' disease, has two infective life cycle stages, trypomastigotes and amastigotes. While trypomastigotes actively enter mammalian cells, highly infective extracellular amastigotes (type I?…T.?‰cruzi) rely on actin-mediated uptake, which is generally inefficient in non-professional phagocytes. We found that extracellular amastigotes (EAs) of T.?‰cruzi?…G strain (type I), but not Y strain (type II), were taken up 100-fold more efficiently than inert particles. Mammalian cell lines showed levels of parasite uptake comparable to macrophages, and extensive actin recruitment and polymerization was observed at the site of entry. EA uptake was not dependent on parasite-secreted molecules and required the same molecular machinery utilized by professional phagocytes during large particle phagocytosis. Transcriptional silencing of synaptotagmin VII and CD63 significantly inhibited EA internalization, demonstrating that delivery of supplemental lysosomal membrane to form the phagosome is involved in parasite uptake. Importantly, time-lapse live imaging using fluorescent reporters revealed phagosome-associated modulation of phosphoinositide metabolism during EA uptake that closely resembles what occurs during phagocytosis by macrophages. Collectively, our results demonstrate that T.?‰cruzi?…EAs are potent inducers of phagocytosis in non-professional phagocytes, a process that may facilitate parasite persistence in infected hosts.</AbstractText>
+                <CopyrightInformation>Â© 2012 John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fernandes</LastName>
+                    <ForeName>Maria Cecilia</ForeName>
+                    <Initials>MC</Initials>
+                    <Affiliation>Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flannery</LastName>
+                    <ForeName>Andrew R</ForeName>
+                    <Initials>AR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andrews</LastName>
+                    <ForeName>Norma</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mortara</LastName>
+                    <ForeName>Renato A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R37 AI034867</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 AI34867</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cell Microbiol</MedlineTA>
+            <NlmUniqueID>100883691</NlmUniqueID>
+            <ISSNLinking>1462-5814</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Actins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphatidylinositols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>134193-27-4</RegistryNumber>
+                <NameOfSubstance>Synaptotagmins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2011 Jul;13(7):943-54</RefSource>
+                <PMID Version="1">21501360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2011 May 9;208(5):909-21</RefSource>
+                <PMID Version="1">21536739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mem Inst Oswaldo Cruz. 2011 Dec;106(8):1014-6</RefSource>
+                <PMID Version="1">22241126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Negl Trop Dis. 2012;6(4):e1598</RefSource>
+                <PMID Version="1">22509418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mem Inst Oswaldo Cruz. 1999;94 Suppl 1:51-63</RefSource>
+                <PMID Version="1">10677691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1999 Dec;78(12):911-24</RefSource>
+                <PMID Version="1">10669110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(12):e51804</RefSource>
+                <PMID Version="1">23272170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2000 Mar;22(3):255-63</RefSource>
+                <PMID Version="1">10684585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 Dec 11;151(6):1269-80</RefSource>
+                <PMID Version="1">11121441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 Dec 25;151(7):1353-68</RefSource>
+                <PMID Version="1">11134066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 Feb;3(2):140-9</RefSource>
+                <PMID Version="1">11175746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Jun 25;153(7):1369-80</RefSource>
+                <PMID Version="1">11425868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Aug 6;154(3):631-44</RefSource>
+                <PMID Version="1">11489920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Oct 1;155(1):19-25</RefSource>
+                <PMID Version="1">11581283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2001 Oct 31;1533(3):190-206</RefSource>
+                <PMID Version="1">11731330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitol Res. 2004 Jan;92(2):113-20</RefSource>
+                <PMID Version="1">14634799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2004 Apr;6(5):460-7</RefSource>
+                <PMID Version="1">15109960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Microbiol. 2004 Sep;7(3):181-91</RefSource>
+                <PMID Version="1">15492932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2004 Oct 27;23(21):4166-76</RefSource>
+                <PMID Version="1">15470500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1976 Jun 1;143(6):1402-20</RefSource>
+                <PMID Version="1">775012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1983 May;40(2):836-9</RefSource>
+                <PMID Version="1">6341250</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Sep;81(17):5430-4</RefSource>
+                <PMID Version="1">6236462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 1987 Dec;64(3):474-84</RefSource>
+                <PMID Version="1">3315736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1988 Aug 1;168(2):649-59</RefSource>
+                <PMID Version="1">3045248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1991 Feb;59(2):645-54</RefSource>
+                <PMID Version="1">1987081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 1991 Jul;73(1):1-14</RefSource>
+                <PMID Version="1">2055296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1992 Dec 24;71(7):1117-30</RefSource>
+                <PMID Version="1">1473148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1995 Jun;108 ( Pt 6):2457-64</RefSource>
+                <PMID Version="1">7673360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 Mar 22;84(6):933-9</RefSource>
+                <PMID Version="1">8601316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 1996;12:221-55</RefSource>
+                <PMID Version="1">8970727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 May 2;276(5313):718-25</RefSource>
+                <PMID Version="1">9115192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1998 Mar 12;8(6):343-6</RefSource>
+                <PMID Version="1">9512420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Parasitol. 1998 Sep;90(1):1-13</RefSource>
+                <PMID Version="1">9709024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1998 Nov;30(3):625-37</RefSource>
+                <PMID Version="1">9822827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1999;17:593-623</RefSource>
+                <PMID Version="1">10358769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>An Acad Bras Cienc. 2005 Mar;77(1):77-94</RefSource>
+                <PMID Version="1">15692679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem Cell Biol. 2005 Jul;124(1):87-95</RefSource>
+                <PMID Version="1">15995880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2006 Apr 26;26(17):4630-7</RefSource>
+                <PMID Version="1">16641243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2006 Aug;18(4):429-37</RefSource>
+                <PMID Version="1">16781133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2006 Jul;8(8):2120-9</RefSource>
+                <PMID Version="1">16793313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2006 Oct;74(10):5522-8</RefSource>
+                <PMID Version="1">16988227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Sep 25;174(7):997-1007</RefSource>
+                <PMID Version="1">16982801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitol Res. 2006 Dec;100(1):59-68</RefSource>
+                <PMID Version="1">16791632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 2007 Jul;43(1):22-36</RefSource>
+                <PMID Version="1">17448629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2007 Oct;219:17-36</RefSource>
+                <PMID Version="1">17850479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Parasitol. 2007 Nov;37(13):1431-41</RefSource>
+                <PMID Version="1">17582418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Mar;10(3):549-56</RefSource>
+                <PMID Version="1">18053003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 Feb 5;327(5966):656-61</RefSource>
+                <PMID Version="1">20133564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(4):e10051</RefSource>
+                <PMID Version="1">20386614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 Nov 1;191(3):599-613</RefSource>
+                <PMID Version="1">21041449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Parasitology. 2011 Apr;138(5):593-601</RefSource>
+                <PMID Version="1">21269549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2011 Jul 26;21(14):R533-8</RefSource>
+                <PMID Version="1">21783028</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chagas Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Life Cycle Stages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipid Metabolism</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylinositols</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptotagmins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trypanosoma cruzi</DescriptorName>
+                <QualifierName MajorTopicYN="Y">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS430489</OtherID>
+        <OtherID Source="NLM">PMC3638054</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/cmi.12090</ArticleId>
+            <ArticleId IdType="pubmed">23241026</ArticleId>
+            <ArticleId IdType="pmc">PMC3638054</ArticleId>
+            <ArticleId IdType="mid">NIHMS430489</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

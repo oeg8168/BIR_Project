@@ -1,0 +1,174 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16210410</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>02</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1066-5099</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>23</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Stem cells (Dayton, Ohio)</Title>
+                <ISOAbbreviation>Stem Cells</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential expression profiling of membrane proteins by quantitative proteomics in a human mesenchymal stem cell line undergoing osteoblast differentiation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1367-77</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>One of the major limitations for understanding the biology of human mesenchymal stem cells (hMSCs) is the absence of prospective markers needed for distinguishing them from other cells and for monitoring lineage-specific differentiation. Mass spectrometry (MS)-based proteomics has proven extremely useful for analyzing complex protein expression patterns and, when applied quantitatively, can be used to resolve subtle differences between samples. Thus, we used MS to characterize changes in expression of membrane protein markers before and after short-term induction of osteoblast (OB) differentiation in a cell model of hMSCs established by overexpression of human telomerase reverse-transcriptase gene. We identified 463 unique proteins with extremely high confidence, including all known markers of hMSCs (e.g., SH3 [CD71], SH2 [CD105], CD166, CD44, Thy1, CD29, and HOP26 [CD63]) among 148 integral membrane or membrane-anchored proteins and 159 membrane-associated proteins. Twenty-nine integrins and cell adhesion molecules, 20 receptors, and 18 Ras-related small GTPases were also identified. Upon OB differentiation, the expression levels of 83 proteins increased by at least twofold whereas the levels of another 21 decreased by at least twofold. For example, alkaline phosphatase (ALP), versican core protein, and tenascin increased 27-, 12-, and 4-fold, respectively, and fatty acid synthase decreased sixfold. The observed increases in veriscan and ALP were confirmed using immunocytochemistry and cytochemistry. Quantitative real-time reverse transcription-polymerase chain reaction confirmed the presence of mRNA of these membrane proteins. However, with the exception of ALP, no concordance was detected between the changes in levels of gene and protein expression during OB differentiation. In conclusion, MS-based proteomics can reveal novel markers for MSCs that can be used for their isolation and for monitoring OB differentiation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Foster</LastName>
+                    <ForeName>Leonard J</ForeName>
+                    <Initials>LJ</Initials>
+                    <Affiliation>UBC Center for Proteomics, Department of Biochemistry and Molecular Biology, University of British Columbia, Vancouver, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeemann</LastName>
+                    <ForeName>Patricia A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mann</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jensen</LastName>
+                    <ForeName>Ole Nørregaard</ForeName>
+                    <Initials>ON</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kassem</LastName>
+                    <ForeName>Moustapha</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Stem Cells</MedlineTA>
+            <NlmUniqueID>9304532</NlmUniqueID>
+            <ISSNLinking>1066-5099</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Marrow Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatography, Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteoblasts</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">23/9/1367</ArticleId>
+            <ArticleId IdType="doi">10.1634/stemcells.2004-0372</ArticleId>
+            <ArticleId IdType="pubmed">16210410</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

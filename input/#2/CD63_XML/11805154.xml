@@ -1,0 +1,324 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11805154</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>195</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Jan</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of experimental medicine</Title>
+                <ISOAbbreviation>J. Exp. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Murine CD9 is the receptor for pregnancy-specific glycoprotein 17.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>277-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Pregnancy-specific glycoproteins (PSGs) are a family of highly similar secreted proteins produced by the placenta. PSG homologs have been identified in primates and rodents. Members of the human and murine PSG family induce secretion of antiinflammatory cytokines in mononuclear phagocytes. For the purpose of cloning the receptor, we screened a RAW 264.7 cell cDNA expression library. The PSG17 receptor was identified as the tetraspanin, CD9. We confirmed binding of PSG17 to CD9 by ELISA, flow cytometry, alkaline phosphatase binding assays, and in situ rosetting. Anti-CD9 monoclonal antibody inhibited binding of PSG17 to CD9-transfected cells and RAW 264.7 cells. Moreover, PSG17 binding to macrophages from CD9-deficient mice was significantly reduced. We then tested whether PSG17 binds to other members of the murine tetraspanin family. PSG17 did not bind to cells transfected with CD53, CD63, CD81, CD82, or CD151, suggesting that PSG17-CD9 binding is a specific interaction. We have identified the first receptor for a murine PSG as well as the first natural ligand for a member of the tetraspanin superfamily.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Waterhouse</LastName>
+                    <ForeName>Roseann</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Department of Pathology, Uniformed Services University of the Health Sciences, Bethesda, MD 20814-4799, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ha</LastName>
+                    <ForeName>Cam</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dveksler</LastName>
+                    <ForeName>Gabriela S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HD35832</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Exp Med</MedlineTA>
+            <NlmUniqueID>2985109R</NlmUniqueID>
+            <ISSNLinking>0022-1007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD9</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD9 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd9 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Complementary</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pregnancy Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Mar 1;166(5):3256-65</RefSource>
+                <PMID Version="1">11207280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Nov 13;273(46):30537-43</RefSource>
+                <PMID Version="1">9804823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jan 14;287(5451):319-21</RefSource>
+                <PMID Version="1">10634790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jan 14;287(5451):321-4</RefSource>
+                <PMID Version="1">10634791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Hum Reprod. 1999 Feb;5(2):162-7</RefSource>
+                <PMID Version="1">10065872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 1999 Mar;41(3):174-82</RefSource>
+                <PMID Version="1">10326620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Hum Reprod. 2000 Mar;6(3):252-7</RefSource>
+                <PMID Version="1">10694273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 2000 Jan;79(1):41-51</RefSource>
+                <PMID Version="1">10711425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Mar 16;1478(1):159-63</RefSource>
+                <PMID Version="1">10719184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2000 Jul;30(7):1830-40</RefSource>
+                <PMID Version="1">10940872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2000 Nov 1;351 Pt 3:629-37</RefSource>
+                <PMID Version="1">11042117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 2000;327:198-210</RefSource>
+                <PMID Version="1">11044984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Reprod Immunol. 2001 Apr;45(4):205-16</RefSource>
+                <PMID Version="1">11327547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jul 6;276(27):25005-13</RefSource>
+                <PMID Version="1">11325968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gynakol. 1971 Oct 28;210(4):440-57</RefSource>
+                <PMID Version="1">5001318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1974 Sep;54(3):576-82</RefSource>
+                <PMID Version="1">4853116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Gynakol. 1974;217(2):209-18</RefSource>
+                <PMID Version="1">4479736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Jan 5;266(1):117-22</RefSource>
+                <PMID Version="1">1840589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Jun 5;266(16):10638-45</RefSource>
+                <PMID Version="1">2037603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mamm Genome. 1992;3(5):262-73</RefSource>
+                <PMID Version="1">1638085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 1993 Sep-Oct;14(5):583-9</RefSource>
+                <PMID Version="1">8290497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunogenetics. 1994;39(4):249-56</RefSource>
+                <PMID Version="1">8119731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Aug 1;184(2):753-8</RefSource>
+                <PMID Version="1">8760830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1996 Nov;26(11):2657-65</RefSource>
+                <PMID Version="1">8921952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1996 Dec 1;242(2):280-7</RefSource>
+                <PMID Version="1">8973644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1997 May;11(6):428-42</RefSource>
+                <PMID Version="1">9194523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1997 Aug;27(8):1919-27</RefSource>
+                <PMID Version="1">9295027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Apr 27;276(17):14329-37</RefSource>
+                <PMID Version="1">11278880</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD9</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Complementary</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Placenta</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2193606</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11805154</ArticleId>
+            <ArticleId IdType="pmc">PMC2193606</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

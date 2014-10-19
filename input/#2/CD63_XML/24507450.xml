@@ -1,0 +1,357 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24507450</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1743-422X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Virology journal</Title>
+                <ISOAbbreviation>Virol. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The dual role of tetraspanin CD63 in HIV-1 replication.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>23</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1743-422X-11-23</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Previously, we showed that the tetraspanin membrane protein CD63 mediates both early and post-integration stages of the HIV-1 replication cycle. The temporal roles of CD63 were discerned using monoclonal antibodies and small interfering RNAs (siRNAs) to block CD63 function, and determining which of the sequential steps in HIV-1 replication were disrupted. Inhibition was shown to occur during early infection, suggestive of involvement in virus entry or reverse transcription. In addition, we have shown that treatment with CD63 siRNA post-infection, significantly inhibited virus production in supernatant, suggesting an important role for CD63 in macrophages during HIV-1 replication events occurring after proviral integration, and possibly during egress.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In this study we used CD63 siRNA to investigate the infectivity of pseudotyped viruses (carrying an NL4-3 Env-negative luciferase backbone) in primary human macrophages. We demonstrated that lab adapted R5- and R5X4-tropic HIV-1 strains are significantly inhibited by CD63 silencing. However, the infectivity of MLV or VSV-pseudotyped strains, which enter though receptor-mediated endocytosis, is unaffected by silencing CD63. These results indicate that CD63 may support Env-mediated entry or fusion events facilitated though CD4 and CCR5. Also, antibody and siRNA-based CD63 inhibition studies indicate a potential role for CD63 following proviral integration. Further, we show that CD63 expression is key for efficient replication in primary CD4?Å∫ T cells, complementing our prior studies with primary human macrophages and immortalized cell lines.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Collectively, these findings indicate that CD63 may support Env-mediated fusion as well as a late (post-integration) step in the HIV-1 replication cycle.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Guangyu</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Endsley</LastName>
+                    <ForeName>Mark A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Somasunderam</LastName>
+                    <ForeName>Anoma</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gbota</LastName>
+                    <ForeName>Sonia L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mbaka</LastName>
+                    <ForeName>Maryann I</ForeName>
+                    <Initials>MI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murray</LastName>
+                    <ForeName>James L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferguson</LastName>
+                    <ForeName>Monique R</ForeName>
+                    <Initials>MR</Initials>
+                    <Affiliation>Department of Internal Medicine, Division of Infectious Diseases, School of Medicine, University of Texas Medical Branch, Galveston, Texas 77555-0435, USA. mrfergus@utmb.edu.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL088999</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Virol J</MedlineTA>
+            <NlmUniqueID>101231645</NlmUniqueID>
+            <ISSNLinking>1743-422X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tetraspanins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1986 Jul 1;164(1):280-90</RefSource>
+                <PMID Version="1">3014036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1988 Nov 11;242(4880):919-22</RefSource>
+                <PMID Version="1">2460922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Nov 1;348(6296):69-73</RefSource>
+                <PMID Version="1">2172833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Dec;66(12):7517-21</RefSource>
+                <PMID Version="1">1433527</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Sep;79(18):11742-51</RefSource>
+                <PMID Version="1">16140752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Mar 13;172(6):923-35</RefSource>
+                <PMID Version="1">16533950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2006 Jun;7(6):731-45</RefSource>
+                <PMID Version="1">16683918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jun 5;173(5):795-807</RefSource>
+                <PMID Version="1">16735575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2006 Jun 16;359(4):848-62</RefSource>
+                <PMID Version="1">16682056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Jul;80(13):6487-96</RefSource>
+                <PMID Version="1">16775336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Sep;80(18):9039-52</RefSource>
+                <PMID Version="1">16940516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2007 Aug;81(15):7873-84</RefSource>
+                <PMID Version="1">17522207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Jan;82(2):1021-33</RefSource>
+                <PMID Version="1">17989173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Feb 15;319(5865):921-6</RefSource>
+                <PMID Version="1">18187620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Apr;9(4):540-58</RefSource>
+                <PMID Version="1">18182005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 May;82(10):4751-61</RefSource>
+                <PMID Version="1">18321974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2008 Sep 30;379(2):191-6</RefSource>
+                <PMID Version="1">18682304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Oct 3;135(1):49-60</RefSource>
+                <PMID Version="1">18854154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2008 Nov 13;4(5):495-504</RefSource>
+                <PMID Version="1">18976975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 May;5(5):e1000437</RefSource>
+                <PMID Version="1">19478882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 2009 Jun;127(2):237-48</RefSource>
+                <PMID Version="1">19489128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Jul 17;284(29):19463-73</RefSource>
+                <PMID Version="1">19460752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Immunol. 2009 Nov;53(11):629-35</RefSource>
+                <PMID Version="1">19903263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol J. 2010 Jan;5(1):39-49</RefSource>
+                <PMID Version="1">20013946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2011 Apr 10;412(2):315-24</RefSource>
+                <PMID Version="1">21315401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2011 Mar 1;186(5):2800-8</RefSource>
+                <PMID Version="1">21270405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Retrovirology. 2010;7:31</RefSource>
+                <PMID Version="1">20374633</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Retrovirology. 2011;8:32</RefSource>
+                <PMID Version="1">21569301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virus Res. 2011 Nov;161(2):101-14</RefSource>
+                <PMID Version="1">21871504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Retrovirology. 2011;8:94</RefSource>
+                <PMID Version="1">22082156</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Jan 19;481(7381):365-70</RefSource>
+                <PMID Version="1">22190034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 2012 Oct;28(10):1329-39</RefSource>
+                <PMID Version="1">22404213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2002 Oct;3(10):718-29</RefSource>
+                <PMID Version="1">12230470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2003 Feb;28(2):106-12</RefSource>
+                <PMID Version="1">12575999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Mar;77(6):3624-33</RefSource>
+                <PMID Version="1">12610138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Aug 4;162(3):443-55</RefSource>
+                <PMID Version="1">12885763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Sep;77(17):9173-82</RefSource>
+                <PMID Version="1">12915533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Dec;4(12):902-10</RefSource>
+                <PMID Version="1">14617353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Dec 26;278(52):52347-54</RefSource>
+                <PMID Version="1">14561735</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Knockdown Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tetraspanins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Virus Internalization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3944621</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1743-422X-11-23</ArticleId>
+            <ArticleId IdType="doi">10.1186/1743-422X-11-23</ArticleId>
+            <ArticleId IdType="pubmed">24507450</ArticleId>
+            <ArticleId IdType="pmc">PMC3944621</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

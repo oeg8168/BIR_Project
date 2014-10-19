@@ -1,0 +1,196 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19640571</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2472</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>125</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Palmitoylation supports the association of tetraspanin CD63 with CD9 and integrin alphaIIbbeta3 in activated platelets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>152-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.thromres.2009.07.005</ELocationID>
+            <Abstract>
+                <AbstractText>CD63 and CD9 are members of the tetraspanin superfamily of integral membrane proteins that function as organizers of multi-molecular signaling complexes involved in cell morphology, motility and proliferation. Tetraspanin complexes cluster dynamically in unique cholesterol-rich tetraspanin-enriched microdomains (TEMs). In resting platelets, CD63 is located in the membranes of lysosomes and dense granules. Following platelet activation and granule exocytosis, CD63 is expressed on the plasma membrane, co-localizes with the alphaIIbbeta3-CD9 complex and is incorporated into the Triton-insoluble actin cytoskeleton, dependent on fibrinogen binding to alphaIIbbeta3. In nucleated cell lines, the assembly and maintenance of TEMs depends on the palmitoylation of both tetraspanins and some partner proteins. This study investigated the role of palmitoylation in platelet TEM assembly and maintenance. [(3)H]-palmitate-labeled, washed human platelets were studied at rest, or following activation with thrombin (0.1 U/ml). CD63 and CD9 were separated by density gradient centrifugation, isolated by immunoprecipitation, and [(3)H]-palmitate was measured in each fraction. Palmitate levels increased in all fractions following thrombin activation. However, the relative inter-fraction distribution of the tetraspanins did not change. 2-bromopalmitate (2-BP), an inhibitor of protein palmitoylation as demonstrated by decreased [(3)H]-palmitate labeling of platelet proteins, blocked both thrombin-induced platelet aggregation and platelet spreading on immobilized fibrinogen in a dose-dependent manner. 2-BP also inhibited the activation-dependent association of CD63 with CD9, and the incorporation of CD63 into the Triton-insoluble actin cytoskeleton. In contrast, 2-BP had no effect on the incorporation of alphaIIbbeta3 into the activated platelet cytoskeleton. These results demonstrate that palmitoylation is required for platelet tetraspanin-tetraspanin and tetraspanin-integrin interaction and for complete platelet spreading on a fibrinogen substrate.</AbstractText>
+                <CopyrightInformation>Copyright 2009 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Israels</LastName>
+                    <ForeName>Sara J</ForeName>
+                    <Initials>SJ</Initials>
+                    <Affiliation>Department of Pediatrics, University of Manitoba, Winnipeg, Manitoba, Canada. israels@cc.umanitoba.ca</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMillan-Ward</LastName>
+                    <ForeName>Eileen M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD9</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD9 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD9</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lipoylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0049-3848(09)00323-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thromres.2009.07.005</ArticleId>
+            <ArticleId IdType="pubmed">19640571</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

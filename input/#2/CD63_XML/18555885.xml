@@ -1,0 +1,481 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18555885</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>06</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>07</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-6822</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>377</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jul</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Virology</Title>
+                <ISOAbbreviation>Virology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tsg101 can replace Nedd4 function in ASV Gag release but not membrane targeting.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>30-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.virol.2008.04.024</ELocationID>
+            <Abstract>
+                <AbstractText>The Late (L) domain of the avian sarcoma virus (ASV) Gag protein binds Nedd4 ubiquitin ligase E3 family members and is the determinant of efficient virus release in avian and mammalian cells. We previously demonstrated that Nedd4 and Tsg101 constitutively interact raising the possibility that Nedd4 links ASV Gag to the ESCRT machinery. We now demonstrate that covalently linking Tsg101 to ASV Gag lacking the Nedd4 binding site (Deltap2b-Tsg101) ablates the requirement for Nedd4, but the rescue of budding occurs by use of a different budding mechanism than that used by wild type ASV Gag. The evidence that Tsg101 and Nedd4 direct release by different pathways is: (i) Release of the virus-like particles (VLPs) assembled from Gag in DF-1, an avian cell line, was resistant to dominant-negative interference by a Tsg101 mutant previously shown to inhibit release of both HIV and Mo-MLV. (ii) Release of VLPs from DF-1 cells was resistant to siRNA-mediated depletion of the endogenous pool of Tsg101 in these cells. (iii) VLPs assembled from wild-type ASV Gag exhibited highly efficient release from endosome-like membrane domains enriched in the tetraspanin protein CD63 or a fluorescent analogue of the phospholipid phosphatidylethanolamine. However, the VLPs assembled from the L domain mutant Deltap2b or a chimeric Deltap2b-Tsg101 Gag lacked these domain markers even though the chimeric Gag was released efficiently compared to the Deltap2b mutant. These results suggest that Tsg101 and Nedd4 facilitate Gag release through functionally exchangeable but independent routes and that Tsg101 can replace Nedd4 function in facilitating budding but not directing through the same membranes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Medina</LastName>
+                    <ForeName>Gisselle</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Department of Molecular Genetics and Microbiology, Stony Brook University, Stony Brook, NY 11794-5222, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pincetic</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ehrlich</LastName>
+                    <ForeName>Lorna S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yongjun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leis</LastName>
+                    <ForeName>Jonathan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carter</LastName>
+                    <ForeName>Carol A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32 CA-09176</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI054143</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI068463</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI068463</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI068463-01A2</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI054143</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI054143-01A2</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI068463</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI068463-01A1</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI060523</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Virology</MedlineTA>
+            <NlmUniqueID>0110674</NlmUniqueID>
+            <ISSNLinking>0042-6822</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Endosomal Sorting Complexes Required for Transport</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gene Products, gag</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tsg101 protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.19</RegistryNumber>
+                <NameOfSubstance>Nedd4 ubiquitin protein ligases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.19</RegistryNumber>
+                <NameOfSubstance>Ubiquitin-Protein Ligases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2006 Jan 5;344(1):55-63</RefSource>
+                <PMID Version="1">16364736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2005 Oct;6(10):880-94</RefSource>
+                <PMID Version="1">16138902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2007 Apr;18(4):1129-42</RefSource>
+                <PMID Version="1">17229889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 May;82(10):4884-97</RefSource>
+                <PMID Version="1">18321968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 May;82(10):4898-907</RefSource>
+                <PMID Version="1">18321969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Dec;70(12):8540-8</RefSource>
+                <PMID Version="1">8970978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1990 Oct;53(1):173-84</RefSource>
+                <PMID Version="1">2076704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2004 Jul 15;18(14):1737-52</RefSource>
+                <PMID Version="1">15256501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2004 Apr12;165(1):135-44</RefSource>
+                <PMID Version="1">15078904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Apr;74(7):3046-57</RefSource>
+                <PMID Version="1">10708419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Feb 13;98(4):1619-24</RefSource>
+                <PMID Version="1">11172000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Jul 3;98(14):7724-9</RefSource>
+                <PMID Version="1">11427703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Jul 27;106(2):145-55</RefSource>
+                <PMID Version="1">11511343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11199-204</RefSource>
+                <PMID Version="1">11562473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 1991 Jun;5(6):639-54</RefSource>
+                <PMID Version="1">1883539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1992 Dec;3(12):1389-402</RefSource>
+                <PMID Version="1">1493335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Apr;68(4):2556-69</RefSource>
+                <PMID Version="1">8139035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 May;68(5):3232-42</RefSource>
+                <PMID Version="1">8151785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Oct;68(10):6605-18</RefSource>
+                <PMID Version="1">8083996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Sep;69(9):5455-60</RefSource>
+                <PMID Version="1">7636991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Oct 5;107(1):55-65</RefSource>
+                <PMID Version="1">11595185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Dec;7(12):1313-9</RefSource>
+                <PMID Version="1">11726971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 2001;15 Suppl 5:S13-20</RefSource>
+                <PMID Version="1">11816161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Apr 1;157(1):91-101</RefSource>
+                <PMID Version="1">11916981</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Jan;77(1):470-80</RefSource>
+                <PMID Version="1">12477852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Jun;77(11):6507-19</RefSource>
+                <PMID Version="1">12743307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Jun 24;100(13):7626-31</RefSource>
+                <PMID Version="1">12802020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Sep 19;114(6):689-99</RefSource>
+                <PMID Version="1">14505569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Sep 19;114(6):701-13</RefSource>
+                <PMID Version="1">14505570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Oct 14;100(21):12414-9</RefSource>
+                <PMID Version="1">14519844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Nov;77(22):12373-7</RefSource>
+                <PMID Version="1">14581576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Dec;4(12):902-10</RefSource>
+                <PMID Version="1">14617353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jun 5;173(5):795-807</RefSource>
+                <PMID Version="1">16735575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2005 Apr 1;387(Pt 1):17-26</RefSource>
+                <PMID Version="1">15511219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Mar;79(6):3775-86</RefSource>
+                <PMID Version="1">15731271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Dec;78(24):13943-53</RefSource>
+                <PMID Version="1">15564502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Aug;70(8):5695-700</RefSource>
+                <PMID Version="1">8764091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3195-9</RefSource>
+                <PMID Version="1">2014240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Sep;71(9):6541-6</RefSource>
+                <PMID Version="1">9261374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1997 Aug;110 ( Pt 16):1867-77</RefSource>
+                <PMID Version="1">9296387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Apr;72(4):2723-32</RefSource>
+                <PMID Version="1">9525590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Jun 1;17(11):2982-93</RefSource>
+                <PMID Version="1">9606181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1998 Sep 1;248(2):295-304</RefSource>
+                <PMID Version="1">9721238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1998 Sep 1;248(2):305-11</RefSource>
+                <PMID Version="1">9721239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Oct;73(10):8527-40</RefSource>
+                <PMID Version="1">10482606</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Avian Sarcoma Viruses</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Birds</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">COS Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cercopithecus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomal Sorting Complexes Required for Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Products, gag</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, gag</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ubiquitin-Protein Ligases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS57248</OtherID>
+        <OtherID Source="NLM">PMC2528022</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0042-6822(08)00239-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.virol.2008.04.024</ArticleId>
+            <ArticleId IdType="pubmed">18555885</ArticleId>
+            <ArticleId IdType="pmc">PMC2528022</ArticleId>
+            <ArticleId IdType="mid">NIHMS57248</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

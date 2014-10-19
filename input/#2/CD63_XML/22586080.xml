@@ -1,0 +1,305 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22586080</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>109</Volume>
+                    <Issue>22</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>May</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Closed-form density-based framework for automatic detection of cellular morphology changes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8382-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1117796109</ELocationID>
+            <Abstract>
+                <AbstractText>A primary method for studying cellular function is to examine cell morphology after a given manipulation. Fluorescent markers attached to proteins/intracellular structures of interest in conjunction with 3D fluorescent microscopy are frequently exploited for functional analysis. Despite the central role of morphology comparisons in cell biological approaches, few statistical tools are available that allow biological scientists without a high level of statistical training to quantify the similarity or difference of fluorescent images containing multifactorial information. We transform intracellular structures into kernels and develop a multivariate two-sample test that is nonparametric and asymptotically normal to directly and quantitatively compare cellular morphologies. The asymptotic normality bypasses the computationally intensive calculations used by the usual resampling techniques to compute the P-value. Because all parameters required for the statistical test are estimated directly from the data, it does not require any subjective decisions. Thus, we provide a black-box method for unbiased, automated comparison of cell morphology. We validate the performance of our test statistic for finite synthetic samples and experimental data. Employing our test for the comparison of the morphology of intracellular multivesicular bodies, we detect changes in their distribution after disruption of the cellular microtubule cytoskeleton with high statistical significance in fixed samples and live cell analysis. These results demonstrate that density-based comparison of multivariate image information is a powerful tool for automated detection of cell morphology changes. Moreover, the underlying mathematics of our test statistic is a general technique, which can be applied in situations where two data samples are compared.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Duong</LastName>
+                    <ForeName>Tarn</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Unité Mixte de Recherche 144, Centre National de la Recherche Scientifique, Institut Curie, 26 rue d'Ulm, 75248 Paris Cedex 05, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goud</LastName>
+                    <ForeName>Bruno</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schauer</LastName>
+                    <ForeName>Kristine</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tubulin Modulators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance>Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SH1WY3R615</RegistryNumber>
+                <NameOfSubstance>Nocodazole</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2001 Dec;17(12):1213-23</RefSource>
+                <PMID Version="1">11751230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomol Screen. 2010 Aug;15(7):840-6</RefSource>
+                <PMID Version="1">20516293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Nov 12;306(5699):1194-8</RefSource>
+                <PMID Version="1">15539606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 May 20;308(5725):1164-7</RefSource>
+                <PMID Version="1">15790806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Mar 24;124(6):1283-98</RefSource>
+                <PMID Version="1">16564017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Dec 26;103(52):19771-6</RefSource>
+                <PMID Version="1">17179050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jan;9(1):113-20</RefSource>
+                <PMID Version="1">17173037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2006;7(10):R100</RefSource>
+                <PMID Version="1">17076895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechniques. 2007 Jan;42(1):71-5</RefSource>
+                <PMID Version="1">17269487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2007 Jul 1;23(13):i66-71</RefSource>
+                <PMID Version="1">17646347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microsc. 2007 Aug;227(Pt 2):140-56</RefSource>
+                <PMID Version="1">17845709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry A. 2007 Dec;71(12):978-90</RefSource>
+                <PMID Version="1">17972315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Feb 10;106(6):1826-31</RefSource>
+                <PMID Version="1">19188593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biom J. 2009 Jun;51(3):504-21</RefSource>
+                <PMID Version="1">19588456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2009 Oct;6(10):759-65</RefSource>
+                <PMID Version="1">19767759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 Jan;12(1):19-30; sup pp 1-13</RefSource>
+                <PMID Version="1">19966785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2009 Dec;5(12):e1000603</RefSource>
+                <PMID Version="1">20041172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Syst Biol. 2010 May 11;6:369</RefSource>
+                <PMID Version="1">20461076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 Jun 14;189(6):997-1011</RefSource>
+                <PMID Version="1">20548102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2010 Jul;7(7):560-6</RefSource>
+                <PMID Version="1">20512144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2010;6(7):e1000853</RefSource>
+                <PMID Version="1">20628576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol. 2003;2(4):27</RefSource>
+                <PMID Version="1">14527345</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoskeleton</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Space</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microtubules</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Dynamics Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivesicular Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nocodazole</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tubulin Modulators</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3365204</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1117796109</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1117796109</ArticleId>
+            <ArticleId IdType="pubmed">22586080</ArticleId>
+            <ArticleId IdType="pmc">PMC3365204</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

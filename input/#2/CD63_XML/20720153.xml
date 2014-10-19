@@ -1,0 +1,502 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20720153</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1477-9137</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>123</Volume>
+                    <Issue>Pt 17</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cell science</Title>
+                <ISOAbbreviation>J. Cell. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein mobilities and P-selectin storage in Weibel-Palade bodies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2964-75</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1242/jcs.073593</ELocationID>
+            <Abstract>
+                <AbstractText>Using fluorescence recovery after photobleaching (FRAP) we measured the mobilities of EGFP-tagged soluble secretory proteins in the endoplasmic reticulum (ER) and in individual Weibel-Palade bodies (WPBs) at early (immature) and late (mature) stages in their biogenesis. Membrane proteins (P-selectin, CD63, Rab27a) were also studied in individual WPBs. In the ER, soluble secretory proteins were mobile; however, following insertion into immature WPBs larger molecules (VWF, Proregion, tPA) and P-selectin became immobilised, whereas small proteins (ssEGFP, eotaxin-3) became less mobile. WPB maturation led to further decreases in mobility of small proteins and CD63. Acute alkalinisation of mature WPBs selectively increased the mobilities of small soluble proteins without affecting larger molecules and the membrane proteins. Disruption of the Proregion-VWF paracrystalline core by prolonged incubation with NH(4)Cl rendered P-selectin mobile while VWF remained immobile. FRAP of P-selectin mutants revealed that immobilisation most probably involves steric entrapment of the P-selectin extracellular domain by the Proregion-VWF paracrystal. Significantly, immobilisation contributed to the enrichment of P-selectin in WPBs; a mutation of P-selectin preventing immobilisation led to a failure of enrichment. Together these data shed new light on the transitions that occur for soluble and membrane proteins following their entry and storage into post-Golgi-regulated secretory organelles.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kiskin</LastName>
+                    <ForeName>Nikolai I</ForeName>
+                    <Initials>NI</Initials>
+                    <Affiliation>Division of Molecular Neuroendocrinology, MRC National Institute for Medical Research, Mill Hill, London NW7 1AA, UK. nkiskin@nimr.mrc.ac.uk</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hellen</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Babich</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hewlett</LastName>
+                    <ForeName>Lindsay</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knipe</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hannah</LastName>
+                    <ForeName>Matthew J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carter</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MC_U117573808</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Cell Sci</MedlineTA>
+            <NlmUniqueID>0052457</NlmUniqueID>
+            <ISSNLinking>0021-9533</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>enhanced green fluorescent protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>01Q9PC255D</RegistryNumber>
+                <NameOfSubstance>Ammonium Chloride</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance>Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.68</RegistryNumber>
+                <NameOfSubstance>Tissue Plasminogen Activator</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>rab GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-.</RegistryNumber>
+                <NameOfSubstance>RAB27A protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2003 Mar;4(3):181-91</RefSource>
+                <PMID Version="1">12612637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1992 Mar;3(3):309-21</RefSource>
+                <PMID Version="1">1378326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2000 Oct;79(4):2084-94</RefSource>
+                <PMID Version="1">11023912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2000;16:557-89</RefSource>
+                <PMID Version="1">11031247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 Feb;3(2):140-9</RefSource>
+                <PMID Version="1">11175746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 Oct 1;116(Pt 19):3927-38</RefSource>
+                <PMID Version="1">12928328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 Oct 1;116(Pt 19):3939-48</RefSource>
+                <PMID Version="1">12928333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Mar 15;103(6):2150-6</RefSource>
+                <PMID Version="1">14630802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 May 18;101(20):7733-8</RefSource>
+                <PMID Version="1">15126669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2004 Sep;5(9):662-71</RefSource>
+                <PMID Version="1">15296491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1976 Sep;16(9):1055-69</RefSource>
+                <PMID Version="1">786399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 1981 Apr;61(2):296-434</RefSource>
+                <PMID Version="1">7012859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1980 Apr;30(1):187-92</RefSource>
+                <PMID Version="1">7260266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1981 Sep;90(3):665-9</RefSource>
+                <PMID Version="1">6169733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Jan;120(1):175-84</RefSource>
+                <PMID Version="1">8416987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1997 Apr;72(4):1900-7</RefSource>
+                <PMID Version="1">9083693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Jul 14;138(1):131-42</RefSource>
+                <PMID Version="1">9214387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Feb 23;140(4):821-9</RefSource>
+                <PMID Version="1">9472034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Apr 20;141(2):359-71</RefSource>
+                <PMID Version="1">9548715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1998 May;74(5):2722-30</RefSource>
+                <PMID Version="1">9591696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1998 Jun 15;332 ( Pt 3):593-610</RefSource>
+                <PMID Version="1">9620860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 1996 Oct;14(10):1252-6</RefSource>
+                <PMID Version="1">9631088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Nov 16;143(4):1129-41</RefSource>
+                <PMID Version="1">9817767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1999 May;76(5):2843-51</RefSource>
+                <PMID Version="1">10233100</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1964 Oct;23:101-12</RefSource>
+                <PMID Version="1">14228505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jun 17;280(24):22827-30</RefSource>
+                <PMID Version="1">15831502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2005 Aug 15;170(4):627-36</RefSource>
+                <PMID Version="1">16087708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2006 Feb;10(2):223-32</RefSource>
+                <PMID Version="1">16459301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Feb 24;281(8):4844-55</RefSource>
+                <PMID Version="1">16377632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Apr 25;103(17):6536-41</RefSource>
+                <PMID Version="1">16617114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 May 15;107(10):3922-4</RefSource>
+                <PMID Version="1">16418330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2006 Jun;7(6):647-62</RefSource>
+                <PMID Version="1">16683915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Dec 15;281(50):38266-75</RefSource>
+                <PMID Version="1">17052980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2007 Jun 15;357(4):1071-7</RefSource>
+                <PMID Version="1">17459336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2007 Jun 15;120(Pt 12):2117-25</RefSource>
+                <PMID Version="1">17535847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2007 Aug 15;583(Pt 1):195-212</RefSource>
+                <PMID Version="1">17540703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Oct 2;104(40):15647-52</RefSource>
+                <PMID Version="1">17895385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2008 Jan 14;180(1):129-43</RefSource>
+                <PMID Version="1">18195104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Struct Biol. 2008 Mar;161(3):447-58</RefSource>
+                <PMID Version="1">17888679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Jun 1;111(11):5282-90</RefSource>
+                <PMID Version="1">18252862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Aug 15;112(4):957-64</RefSource>
+                <PMID Version="1">18344423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2008 Dec;95(11):5334-48</RefSource>
+                <PMID Version="1">18567628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2009 Feb 15;122(Pt 4):443-52</RefSource>
+                <PMID Version="1">19193869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(4):e5041</RefSource>
+                <PMID Version="1">19347038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 May 1;284(18):12459-68</RefSource>
+                <PMID Version="1">19258324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2009 Aug 5;97(3):758-67</RefSource>
+                <PMID Version="1">19651034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Oct 13;106(41):17407-12</RefSource>
+                <PMID Version="1">19805028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2010 Feb 17;98(4):552-9</RefSource>
+                <PMID Version="1">20159151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2001 Mar;11(3):116-22</RefSource>
+                <PMID Version="1">11306272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2001 Jun 8;498(2-3):197-200</RefSource>
+                <PMID Version="1">11412856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2002 Jan;27(1):27-33</RefSource>
+                <PMID Version="1">11796221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Biophys J. 2002 Feb;30(8):571-87</RefSource>
+                <PMID Version="1">11908849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 May;13(5):1582-93</RefSource>
+                <PMID Version="1">12006654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cell Dev Biol. 2002 Aug;13(4):313-24</RefSource>
+                <PMID Version="1">12243731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Jan 21;275(3):1625-9</RefSource>
+                <PMID Version="1">10636854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1987 May;104(5):1423-33</RefSource>
+                <PMID Version="1">3494734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 May 15;264(14):7768-71</RefSource>
+                <PMID Version="1">2470733</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Feb 22;343(6260):757-60</RefSource>
+                <PMID Version="1">1689464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>J Cell Sci. 2010 Oct 1;123(Pt 19):3412</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ammonium Chloride</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endoplasmic Reticulum</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence Recovery After Photobleaching</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Plasminogen Activator</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Weibel-Palade Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2923571</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">123/17/2964</ArticleId>
+            <ArticleId IdType="doi">10.1242/jcs.073593</ArticleId>
+            <ArticleId IdType="pubmed">20720153</ArticleId>
+            <ArticleId IdType="pmc">PMC2923571</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,182 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12056514</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>06</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1023-3830</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>51</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inflammation research : official journal of the European Histamine Research Society ... [et al.]</Title>
+                <ISOAbbreviation>Inflamm. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential effects of amphotericin B and liposomal amphotericin B on inflammatory cells in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>259-64</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE AND DESIGN" NlmCategory="OBJECTIVE">To understand whether the pseudo-allergic reactions to amphotericin B (AmB) administration are due to AmB or to the solubilizing vehicles, a study was designed to evaluate the effects of AmB, liposomal AmB, (L-AmB), AmB-deoxycholate micellar complex (AmB-DC) and deoxycholate (DC) on the responses of rat serosal mast cells (RSMC) and of human basophils (HB), in vitro.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Serosal mast cells were obtained by density gradient centrifugations from male Wistar albino rats. Partially purified HB were obtained from healthy donors. The cells were exposed to AmB, L-AmB, AmB-DC and DC. Histamine release was measured fluorometrically, and the release of lactic dehydrogenase (LDH) was measured spectrophotometrically. HB activation was evaluated cytofluorimetrically by CD63 expression.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">AmB and L-AmB did not evoke histamine or LDH release from either RSMC or HB. CD63 expression was not induced in HB challenged with AmB and L-AMB. On the other hand, AmB-DC and DC produced a cytotoxic histamine release from both RSMC and HB, and a sustained increase of CD63 expression on HB.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Only AmB-DC was able to induce the release of inflammatory mediators from RSMC and HB. Conceivably, the cytotoxic effect is accounted for by the micellar complexes with DC, which has been confirmed as a powerful histamine releaser, and held responsible for the pseudo-allergic reactions after AmB-DC administration. The data lend support to a better safety profile of L-AmB.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Baronti</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Department of Preclinical and Clinical Pharmacology, Mario Aiazzi Mancini, University of Florence, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masini</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bacciottini</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mannaioni</LastName>
+                    <ForeName>P F</ForeName>
+                    <Initials>PF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Inflamm Res</MedlineTA>
+            <NlmUniqueID>9508160</NlmUniqueID>
+            <ISSNLinking>1023-3830</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Liposomes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>005990WHZZ</RegistryNumber>
+                <NameOfSubstance>Deoxycholic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7XU7A7DROE</RegistryNumber>
+                <NameOfSubstance>Amphotericin B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.27</RegistryNumber>
+                <NameOfSubstance>L-Lactate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amphotericin B</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Centrifugation, Density Gradient</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Deoxycholic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Release</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">L-Lactate Dehydrogenase</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liposomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12056514</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

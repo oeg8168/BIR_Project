@@ -1,0 +1,552 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23358892</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7374</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS pathogens</Title>
+                <ISOAbbreviation>PLoS Pathog.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bacterial colonization of host cells in the absence of cholesterol.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1003107</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.ppat.1003107</ELocationID>
+            <Abstract>
+                <AbstractText>Reports implicating important roles for cholesterol and cholesterol-rich lipid rafts in host-pathogen interactions have largely employed sterol sequestering agents and biosynthesis inhibitors. Because the pleiotropic effects of these compounds can complicate experimental interpretation, we developed a new model system to investigate cholesterol requirements in pathogen infection utilizing DHCR24(-/-) mouse embryonic fibroblasts (MEFs). DHCR24(-/-) MEFs lack the ??24 sterol reductase required for the final enzymatic step in cholesterol biosynthesis, and consequently accumulate desmosterol into cellular membranes. Defective lipid raft function by DHCR24(-/-) MEFs adapted to growth in cholesterol-free medium was confirmed by showing deficient uptake of cholera-toxin B and impaired signaling by epidermal growth factor. Infection in the absence of cholesterol was then investigated for three intracellular bacterial pathogens: Coxiella burnetii, Salmonella enterica serovar Typhimurium, and Chlamydia trachomatis. Invasion by S. Typhimurium and C. trachomatis was unaltered in DHCR24(-/-) MEFs. In contrast, C. burnetii entry was significantly decreased in -cholesterol MEFs, and also in +cholesterol MEFs when lipid raft-associated α(V)β(3) integrin was blocked, suggesting a role for lipid rafts in C. burnetii uptake. Once internalized, all three pathogens established their respective vacuolar niches and replicated normally. However, the C. burnetii-occupied vacuole within DHCR24(-/-) MEFs lacked the CD63-positive material and multilamellar membranes typical of vacuoles formed in wild type cells, indicating cholesterol functions in trafficking of multivesicular bodies to the pathogen vacuole. These data demonstrate that cholesterol is not essential for invasion and intracellular replication by S. Typhimurium and C. trachomatis, but plays a role in C. burnetii-host cell interactions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gilk</LastName>
+                    <ForeName>Stacey D</ForeName>
+                    <Initials>SD</Initials>
+                    <Affiliation>Coxiella Pathogenesis Section, Rocky Mountain Laboratories, National Institute of Allergy and Infectious Diseases, National Institutes of Health, Hamilton, Montana, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cockrell</LastName>
+                    <ForeName>Diane C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luterbach</LastName>
+                    <ForeName>Courtney</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansen</LastName>
+                    <ForeName>Bryan</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knodler</LastName>
+                    <ForeName>Leigh A</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ibarra</LastName>
+                    <ForeName>J Antonio</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steele-Mortimer</LastName>
+                    <ForeName>Olivia</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heinzen</LastName>
+                    <ForeName>Robert A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>RefSeq</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NC_002971</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Pathog</MedlineTA>
+            <NlmUniqueID>101238921</NlmUniqueID>
+            <ISSNLinking>1553-7366</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>97C5T2UQ7J</RegistryNumber>
+                <NameOfSubstance>Cholesterol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Nov;186(21):7344-52</RefSource>
+                <PMID Version="1">15489446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1970 Aug 28;169(3948):880-2</RefSource>
+                <PMID Version="1">5432584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1981 Mar;31(3):1161-76</RefSource>
+                <PMID Version="1">7228399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1981 May 21;291(5812):238-9</RefSource>
+                <PMID Version="1">7015147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1983 Dec 6;22(25):5687-92</RefSource>
+                <PMID Version="1">6661410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 Jul 15;264(20):11796-806</RefSource>
+                <PMID Version="1">2745416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 1991 Feb;32(2):329-39</RefSource>
+                <PMID Version="1">2066666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Biol. 1991;7:275-310</RefSource>
+                <PMID Version="1">1725600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1992 Jun;200(2):272-84</RefSource>
+                <PMID Version="1">1374036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Virol. 1993 Apr-Jun;37(2-3):143-55</RefSource>
+                <PMID Version="1">8105658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 Nov;127(4):1129-37</RefSource>
+                <PMID Version="1">7525603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Oct 12;377(6549):539-44</RefSource>
+                <PMID Version="1">7566154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Mar;64(3):796-809</RefSource>
+                <PMID Version="1">8641784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jul 4;272(27):17018-22</RefSource>
+                <PMID Version="1">9202016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Jul 27;142(2):595-607</RefSource>
+                <PMID Version="1">9679155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1998 Oct;75(4):1915-25</RefSource>
+                <PMID Version="1">9746532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1998 Nov;66(11):5527-33</RefSource>
+                <PMID Version="1">9784567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Can J Biochem Physiol. 1959 Aug;37(8):911-7</RefSource>
+                <PMID Version="1">13671378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Dec;72(12):7367-73</RefSource>
+                <PMID Version="1">15557670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Dec 2;432(7017):640-5</RefSource>
+                <PMID Version="1">15577914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lipids. 2004 Nov;39(11):1101-13</RefSource>
+                <PMID Version="1">15726825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2005 Jun 10;115(2):224-30</RefSource>
+                <PMID Version="1">15688385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2005 May;56(3):590-603</RefSource>
+                <PMID Version="1">15819617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Jun;16(6):2704-18</RefSource>
+                <PMID Version="1">15772153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Jan 6;281(1):348-55</RefSource>
+                <PMID Version="1">16249181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2006 Jan 15;119(Pt 2):350-9</RefSource>
+                <PMID Version="1">16410552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Feb;80(3):1167-80</RefSource>
+                <PMID Version="1">16414994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Jan 25;25(2):432-43</RefSource>
+                <PMID Version="1">16407971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2006 Jan;7(1):39-51</RefSource>
+                <PMID Version="1">16445685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2006 Mar;8(3):496-507</RefSource>
+                <PMID Version="1">16469060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2006 Jun;147(6):3123-32</RefSource>
+                <PMID Version="1">16513830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Aug 11;281(32):23191-206</RefSource>
+                <PMID Version="1">16737966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2006 Nov;62(4):928-40</RefSource>
+                <PMID Version="1">17038123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Steroids. 2007 Feb;72(2):210-7</RefSource>
+                <PMID Version="1">17173942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2007 May 15;195(10):1497-503</RefSource>
+                <PMID Version="1">17436230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2007 Jun;1768(6):1311-24</RefSource>
+                <PMID Version="1">17493580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2008 Jan;28(2):539-50</RefSource>
+                <PMID Version="1">17984220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2008 Feb;9(2):125-38</RefSource>
+                <PMID Version="1">18216769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microbiol Methods. 2008 Mar;72(3):321-5</RefSource>
+                <PMID Version="1">18242746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2008 Apr;1785(2):182-206</RefSource>
+                <PMID Version="1">18166162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 May 23;283(21):14610-8</RefSource>
+                <PMID Version="1">18353778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Rep. 2008 Jun;9(6):531-5</RefSource>
+                <PMID Version="1">18516088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Jul;76(7):3293-303</RefSource>
+                <PMID Version="1">18443091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2008 Jul;149(7):3267-73</RefSource>
+                <PMID Version="1">18339707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2009 Feb;77(2):642-56</RefSource>
+                <PMID Version="1">19047403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2009 Mar;191(5):1369-81</RefSource>
+                <PMID Version="1">19114492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 Mar;5(3):e1000329</RefSource>
+                <PMID Version="1">19283084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Dec;9(12):2130-40</RefSource>
+                <PMID Version="1">18778406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Dec;9(12):2117-29</RefSource>
+                <PMID Version="1">18785994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2009 Jun 1;420(2):305-15</RefSource>
+                <PMID Version="1">19260826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lipids. 2009 Jun;44(6):477-87</RefSource>
+                <PMID Version="1">19440746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2009 Jun 29;185(7):1209-25</RefSource>
+                <PMID Version="1">19564404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Res. 2010 Jan;339(1):269-80</RefSource>
+                <PMID Version="1">19693543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2010 Feb;91(Pt 2):394-403</RefSource>
+                <PMID Version="1">19828759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2010 Apr;156(Pt 4):1120-33</RefSource>
+                <PMID Version="1">20035008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2010 Aug;78(8):3465-74</RefSource>
+                <PMID Version="1">20515926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2010 Sep 1;12(9):1235-49</RefSource>
+                <PMID Version="1">20331642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Microbiol. 2010 Aug;5(8):1219-32</RefSource>
+                <PMID Version="1">20722600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2010 Dec;192(23):6154-9</RefSource>
+                <PMID Version="1">20870767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Metab Rev. 2011 Feb;43(1):69-90</RefSource>
+                <PMID Version="1">21247357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2012 Jan 19;11(1):33-45</RefSource>
+                <PMID Version="1">22264511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2012 Apr;14(4):560-76</RefSource>
+                <PMID Version="1">22212234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1999 Dec 1;163(11):6078-85</RefSource>
+                <PMID Version="1">10570297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2001 Oct;69(4):685-94</RefSource>
+                <PMID Version="1">11519011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2002 Mar;4(3):153-65</RefSource>
+                <PMID Version="1">11906452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2002 Mar;43(5):1089-103</RefSource>
+                <PMID Version="1">11918798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2002 Jun 15;115(Pt 12):2603-11</RefSource>
+                <PMID Version="1">12045230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2002 Jun;4(6):315-28</RefSource>
+                <PMID Version="1">12067317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 2002;353:131-9</RefSource>
+                <PMID Version="1">12078489</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2003 Jan;71(1):260-6</RefSource>
+                <PMID Version="1">12496174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Apr 15;170(8):4217-25</RefSource>
+                <PMID Version="1">12682255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 29;100(9):5455-60</RefSource>
+                <PMID Version="1">12704232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 May 27;100(11):6771-6</RefSource>
+                <PMID Version="1">12743366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2003 Sep;71(9):5324-31</RefSource>
+                <PMID Version="1">12933880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2003 Dec;14(12):4783-93</RefSource>
+                <PMID Version="1">13679513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2003 Dec 5;317(1):128-35</RefSource>
+                <PMID Version="1">14675631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Dec 19;302(5653):2087</RefSource>
+                <PMID Version="1">14684813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Feb;72(2):1036-42</RefSource>
+                <PMID Version="1">14742551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jul 6;101(27):10166-71</RefSource>
+                <PMID Version="1">15199184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Aug 10;101(32):11664-7</RefSource>
+                <PMID Version="1">15289597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2004 Aug 30;166(5):743-53</RefSource>
+                <PMID Version="1">15337781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2004 Oct 11;1685(1-3):28-37</RefSource>
+                <PMID Version="1">15465424</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Infections</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Physiological Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholesterol</DescriptorName>
+                <QualifierName MajorTopicYN="Y">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Colony Count, Microbial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryo, Mammalian</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3554619</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1003107</ArticleId>
+            <ArticleId IdType="pii">PPATHOGENS-D-12-01796</ArticleId>
+            <ArticleId IdType="pubmed">23358892</ArticleId>
+            <ArticleId IdType="pmc">PMC3554619</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

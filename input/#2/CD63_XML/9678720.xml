@@ -1,0 +1,173 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9678720</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0145-2126</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Leukemia research</Title>
+                <ISOAbbreviation>Leuk. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Changes in antigen expression on differentiating HL60 cells treated with dimethylsulphoxide, all-trans retinoic acid, alpha1,25-dihydroxyvitamin D3 or 12-O-tetradecanoyl phorbol-13-acetate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>537-47</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We describe changes in antigen expression on HL60 cells with differentiation into granulocytes induced by all-trans retinoic acid (ATRA) or dimethylsulphoxide (DMSO), into monocytes by alpha1,25-dihydroxyvitamin D3 (D3), or into macrophages by 12-O-tetradecanoyl phorbol-13-acetate (TPA). Undifferentiated cells expressed CD13, CD14 (at a low level), CD15, CDw17, CD32, CD33, CD49e, CD63, CD64, CDw65, CD71 and CD87 antigens and bound the unclustered mAb D171 and Mo5. Differentiated and undifferentiated cells were negative for CD16, CD34, CD61, CD66abcde, CD68, CD88, CDw90 and CD93. Four panels of markers were identified whose expression changes significantly following differentiation. CD15, CD49e, CD63, CDw65, CD71 and mAb D171 and IGR-2,1A6 for DMSO; CD13, CD15, CDw17, CD49e, CD63, CDw65, CD71, CD87, CDw92 and mAb D171 and IGR-2,1A6 for ATRA; CD14, CD31, CD35, CD71, CD87, CDw92 and mAb D171 and BRIC18 for D3; CDw12, CD13, CD15, CD31, CD35, CD49e, CD71, CD87, CDw92 and mAb D171 for TPA. These will be useful for analyzing the pathways that regulate differentiation, whether the observed changes are consequences of differentiation or more direct effects of the inducers. HL60 cells provide a model for investigating the regulation of these antigens.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Trayner</LastName>
+                    <ForeName>I D</ForeName>
+                    <Initials>ID</Initials>
+                    <Affiliation>Department of Molecular Medicine, King's College School of Medicine and Dentistry, London, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bustorff</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Etches</LastName>
+                    <ForeName>A E</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mufti</LastName>
+                    <ForeName>G J</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foss</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farzaneh</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Leuk Res</MedlineTA>
+            <NlmUniqueID>7706787</NlmUniqueID>
+            <ISSNLinking>0145-2126</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5688UTC01R</RegistryNumber>
+                <NameOfSubstance>Tretinoin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance>Calcitriol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>NI40JAQ945</RegistryNumber>
+                <NameOfSubstance>Tetradecanoylphorbol Acetate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>YOW8V9698H</RegistryNumber>
+                <NameOfSubstance>Dimethyl Sulfoxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dimethyl Sulfoxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HL-60 Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tetradecanoylphorbol Acetate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tretinoin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9678720</ArticleId>
+            <ArticleId IdType="pii">S0145212698000411</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

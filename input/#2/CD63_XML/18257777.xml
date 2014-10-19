@@ -1,0 +1,169 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18257777</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>02</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2362</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of clinical investigation</Title>
+                <ISOAbbreviation>Eur. J. Clin. Invest.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effects of maximal treadmill graded exercise testing on haemorheological, haemodynamic and flow cytometry platelet markers in patients with systolic or diastolic heart failure.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>150-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2362.2008.01909.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Acute exercise has been associated with activation of thrombosis, and this risk may be accentuated in patients with heart failure. Given the relation of platelets to atherothrombosis, we tested the hypothesis that acute exercise would adversely affect platelet indices and platelet activation markers in patients with systolic and diastolic heart failure.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">We studied 20 patients with systolic heart failure (17 men, 3 women; mean age 64 +/- 10 years, all with ejection fraction (EF) &lt; or = 40%) and 20 patients with diastolic heart failure (14 men, 6 women; mean age 64 +/- 8 years, mean EF = 66%) who were exercised to maximal intensity, who were compared to 13 healthy controls (6 men, 7 women; mean age 60 +/- 4 years, mean EF = 73%). We measured platelet indices (platelet volume, mass and component) and platelet activation markers (platelet-bound CD62P%G, CD63%G and CD40L%G using flow cytometry, as well as plasma sCD40L and soluble P-selectin (sP-sel) levels).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Baseline Mean Platelet Volume (MPV), sP-sel, CD40L%G and CD63%G levels were significantly higher in patients with systolic and diastolic heart failure, when compared with controls. The mean exercise duration and VO(2 )peak in patients with systolic and diastolic heart failure were not significantly different, but lower than that seen in healthy controls. Following exercise, mean haematocrit, CD62P%G, and CD63%G significantly increased in all three subject groups (all P &lt; 0.05). The proportional change in CD62P%G and CD63%G were not significantly different between healthy controls and heart failure patients (P &gt; 0.05).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Acute maximal graded exercise increases platelet activation markers, with no disproportionate differences between heart failure patients and healthy controls, despite the former group having a lower exercise tolerance and VO2 peak.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Haemostasis, Thrombosis, and Vascular Biology Unit, University Department of Medicine, City Hospital, Birmingham, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goyal</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macfadyen</LastName>
+                    <ForeName>R J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lip</LastName>
+                    <ForeName>G Y H</ForeName>
+                    <Initials>GY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Clin Invest</MedlineTA>
+            <NlmUniqueID>0245331</NlmUniqueID>
+            <ISSNLinking>0014-2972</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise Tolerance</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure, Diastolic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure, Systolic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ECI1909</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2362.2008.01909.x</ArticleId>
+            <ArticleId IdType="pubmed">18257777</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,524 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19015254</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>12</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5522</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>77</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human decay-accelerating factor and CEACAM receptor-mediated internalization and intracellular lifestyle of Afa/Dr diffusely adhering Escherichia coli in epithelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>517-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/IAI.00695-08</ELocationID>
+            <Abstract>
+                <AbstractText>We used transfected epithelial CHO-B2 cells as a model to identify the mechanism mediating internalization of Afa/Dr diffusely adhering Escherichia coli. We provide evidence that neither the alpha5 or beta1 integrin subunits nor alpha5beta1 integrin functioned as a receptor mediating the adhesion and/or internalization of Dr or Afa-III fimbria-positive bacteria. We also demonstrated that (i) whether or not the AfaD or DraD invasin subunits were present, there was no difference in the cell association and entry of bacteria and that (ii) DraE or AfaE-III adhesin subunits are necessary and sufficient to promote the receptor-mediated bacterial internalization into epithelial cells expressing human decay-accelerating factor (DAF), CEACAM1, CEA, or CEACAM6. Internalization of Dr fimbria-positive E. coli within CHO-DAF, CHO-CEACAM1, CHO-CEA, or CHO-CEACAM6 cells occurs through a microfilament-independent, microtubule-dependent, and lipid raft-dependent mechanism. Wild-type Dr fimbria-positive bacteria survived better within cells expressing DAF than bacteria internalized within CHO-CEACAM1, CHO-CEA, or CHO-CEACAM6 cells. In DAF-positive cells, internalized Dr fimbria-positive bacteria were located in vacuoles that contained more than one bacterium, displaying some of the features of late endosomes, including the presence of Lamp-1 and Lamp-2, and some of the features of CD63 proteins, but not of cathepsin D, and were acidic. No interaction between Dr fimbria-positive-bacterium-containing vacuoles and the autophagic pathway was observed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guignot</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>INSERM, UMR756, Signalisation et Physiopathologie des Cellules Epithéliales, Châtenay-Malabry, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hudault</LastName>
+                    <ForeName>Sylvie</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kansau</LastName>
+                    <ForeName>Imad</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chau</LastName>
+                    <ForeName>Ingrid</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Servin</LastName>
+                    <ForeName>Alain L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Adhesins, Escherichia coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD55</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD66 antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CEACAM6 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Dr adhesin, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GPI-Linked Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>afa-3 protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>carcinoembryonic antigen binding protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Mar 9;60(5):861-71</RefSource>
+                <PMID Version="1">2311122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1991 Sep;173(17):5298-307</RefSource>
+                <PMID Version="1">1679429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Feb;2(2):123-40</RefSource>
+                <PMID Version="1">15040260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 May;72(5):2742-52</RefSource>
+                <PMID Version="1">15102784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Dec 1;178(6):2115-21</RefSource>
+                <PMID Version="1">7504058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1994 Aug 15;730:290-1</RefSource>
+                <PMID Version="1">7915894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 1994 Dec 15;58(11):1222-9</RefSource>
+                <PMID Version="1">7527603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Dec 24;274(52):36921-7</RefSource>
+                <PMID Version="1">10601245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 Mar;68(3):1391-9</RefSource>
+                <PMID Version="1">10678952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 Jun;68(6):3554-63</RefSource>
+                <PMID Version="1">10816511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2000 Jul 1;60(13):3419-24</RefSource>
+                <PMID Version="1">10910050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Aug 1;97(16):8829-35</RefSource>
+                <PMID Version="1">10922042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Aug 18;479(3):111-7</RefSource>
+                <PMID Version="1">10981717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2001 Jan 1;247(1-2):205-16</RefSource>
+                <PMID Version="1">11150551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 Mar;69(3):1856-68</RefSource>
+                <PMID Version="1">11179364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2001 May 15;183(10):1526-9</RefSource>
+                <PMID Version="1">11319690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 Jul;69(7):4572-9</RefSource>
+                <PMID Version="1">11402001</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 Jul;69(7):4678-80</RefSource>
+                <PMID Version="1">11402015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2000 Oct;1(1):31-9</RefSource>
+                <PMID Version="1">11413487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2001 Aug;159(2):537-46</RefSource>
+                <PMID Version="1">11485912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1999 Nov 1;252(2):243-9</RefSource>
+                <PMID Version="1">11501563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Expr Purif. 2001 Dec;23(3):476-82</RefSource>
+                <PMID Version="1">11722186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2002 Feb;40(2):645-8</RefSource>
+                <PMID Version="1">11825986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2002 Feb 15;21(4):560-71</RefSource>
+                <PMID Version="1">11847104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2002 Apr;70(4):1694-702</RefSource>
+                <PMID Version="1">11895931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2002 Mar-Apr;4(2):151-63</RefSource>
+                <PMID Version="1">11896570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2002 Aug;70(8):4485-93</RefSource>
+                <PMID Version="1">12117960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2002 Aug;186:164-71</RefSource>
+                <PMID Version="1">12234370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2003 Oct;5(10):681-93</RefSource>
+                <PMID Version="1">12969374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Immunol Med Microbiol. 2003 Sep 22;38(2):113-6</RefSource>
+                <PMID Version="1">13129645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Feb 3;101(5):1333-8</RefSource>
+                <PMID Version="1">14739341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Apr;2(4):301-14</RefSource>
+                <PMID Version="1">15031729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Obstet Gynecol. 1996 Mar;174(3):983-9</RefSource>
+                <PMID Version="1">8633680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1996 Feb;19(4):683-93</RefSource>
+                <PMID Version="1">8820639</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1996 Dec;22(5):929-39</RefSource>
+                <PMID Version="1">8971714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1997 Jan;23(2):365-79</RefSource>
+                <PMID Version="1">9044270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1997 Apr 1;99(7):1662-72</RefSource>
+                <PMID Version="1">9120010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1997 Jun;65(6):2353-61</RefSource>
+                <PMID Version="1">9169774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1997 Jul;176(1):158-67</RefSource>
+                <PMID Version="1">9207362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1997 Sep;5(9):360-3</RefSource>
+                <PMID Version="1">9294892</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1997 Oct;65(10):4082-9</RefSource>
+                <PMID Version="1">9317011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 1999 Apr;9(2):67-81</RefSource>
+                <PMID Version="1">10202129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1999 Aug;67(8):3989-97</RefSource>
+                <PMID Version="1">10417165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2005 Jan;6(1):18-31</RefSource>
+                <PMID Version="1">15569242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 2005 Apr;18(2):264-92</RefSource>
+                <PMID Version="1">15831825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2005 May;7(5):613-20</RefSource>
+                <PMID Version="1">15839890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Sep;73(9):6119-26</RefSource>
+                <PMID Version="1">16113333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2005 Nov;12 Suppl 2:1509-18</RefSource>
+                <PMID Version="1">16247498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2005 Nov 15;252(2):183-90</RefSource>
+                <PMID Version="1">16165319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2006 Apr;8(4):704-17</RefSource>
+                <PMID Version="1">16548895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2005 Apr;1(1):23-36</RefSource>
+                <PMID Version="1">16874023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Sep 19;103(38):14170-5</RefSource>
+                <PMID Version="1">16968784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Sep 29;281(39):29120-30</RefSource>
+                <PMID Version="1">16882658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2006 Oct;62(2):356-66</RefSource>
+                <PMID Version="1">16965519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Oncol. 2006;28(5-6):223-32</RefSource>
+                <PMID Version="1">17167176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2007 Jan;5(1):48-56</RefSource>
+                <PMID Version="1">17143318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2007 Mar;210(3):757-65</RefSource>
+                <PMID Version="1">17167768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2007 Jun;211(3):791-802</RefSource>
+                <PMID Version="1">17286276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Braz J Infect Dis. 2007 Feb;11(1):44-9</RefSource>
+                <PMID Version="1">17625726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2007 Aug;75(8):4116-26</RefSource>
+                <PMID Version="1">17517873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Mar;10(3):632-54</RefSource>
+                <PMID Version="1">17979980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2007 Jul;3(7):e100</RefSource>
+                <PMID Version="1">17630833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 May;10(5):1074-92</RefSource>
+                <PMID Version="1">18081725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Sep;76(9):3869-80</RefSource>
+                <PMID Version="1">18559426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2004 May;52(4):963-83</RefSource>
+                <PMID Version="1">15130118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Jul;72(7):3733-42</RefSource>
+                <PMID Version="1">15213113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2004 Aug 27;15(4):647-57</RefSource>
+                <PMID Version="1">15327779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1986 Jun 6;45(5):721-32</RefSource>
+                <PMID Version="1">3518947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1987 Dec;55(12):3168-73</RefSource>
+                <PMID Version="1">2890586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Biochem Biophys. 1989 Jan;268(1):360-78</RefSource>
+                <PMID Version="1">2912382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Dec;109(6 Pt 1):3157-67</RefSource>
+                <PMID Version="1">2531750</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adhesins, Escherichia coli</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD55</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Bacterial Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CHO Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cricetulus</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GPI-Linked Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microbial Viability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2612289</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">IAI.00695-08</ArticleId>
+            <ArticleId IdType="doi">10.1128/IAI.00695-08</ArticleId>
+            <ArticleId IdType="pubmed">19015254</ArticleId>
+            <ArticleId IdType="pmc">PMC2612289</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,217 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14564328</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-6744</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>146</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American heart journal</Title>
+                <ISOAbbreviation>Am. Heart J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of clopidogrel and aspirin combination versus aspirin alone on platelet aggregation and major receptor expression in patients with heart failure: the Plavix Use for Treatment Of Congestive Heart Failure (PLUTO-CHF) trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>713-20</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Persistent platelet activation may contribute to thrombotic events in patients with congestive heart failure (CHF). Chronic use of mild platelet inhibitors could therefore represent an independent avenue to improve morbidity, mortality, and quality of life in this expanding population. Although clopidogrel is widely used in patients with acute coronary syndromes and ischemic stroke, the ability of this novel ADP-receptor antagonist to inhibit platelet function in patients with CHF is unknown. We assessed antiplatelet properties of clopidogrel with aspirin (C+A) versus aspirin alone (A) in patients with CHF with heightened platelet activity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with left ventricular ejection fraction &lt;40%, or CHF symptoms in the setting of preserved systolic function and New York Heart Association class II-IV were screened. Patients were considered to have platelet activation when 4 of the following 5 parameters were met: ADP-induced platelet aggregation &gt;60%; collagen-induced aggregation &gt;70%; whole blood aggregation &gt;18 ohms; expression of GP IIb/IIIa &gt;220 log MFI; and P-selectin cell positivity &gt;8%. All patients were treated with 325 mg of acetylsalycilic acid (ASA) for at least 1 month. Patients receiving an antithrombotic agent other than ASA were excluded. Patients meeting clinical and laboratory criteria were randomly assigned to C+A (n=25), A (n=25) groups, or represent screen failures (n=38). Platelet studies (conventional and whole blood aggregometry, shear-induced activation, expression of 10 major receptors and formation of platelet-leukocyte microparticles) were performed at baseline and after 30 days of therapy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were no deaths, hospitalizations, or serious adverse events. There were no changes in platelet parameters in the A group. In contrast, therapy with C+A resulted in a significant inhibition of platelet activity assessed by ADP-induced (P =.00001), and epinephrine-induced (P =.0016) aggregation, closure time (P =.04), expression of PECAM-1 (P =.009), GP Ib (P =.006), GP IIb/IIIa antigen (P =.0001), GP IIb/IIIa activity with PAC-1 (P =.0021), and CD151 (P =.0026) when compared with the A group. Therapy with C+A also resulted in the reduced formation of platelet-leukocyte microparticles (P =.021). Collagen-induced aggregation in plasma and in whole blood, expression of vitronectin receptor, P-selectin, CD63, CD107a, and CD107b did not differ among groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Treatment with C+A for 1 month provides significantly greater inhibition of platelet activity than ASA alone in patients with CHF. Patients with CHF with heightened platelet activity represent a potential target population in which addition of clopidogrel may decrease mortality rates by reducing the incidence of thrombotic vascular events.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Serebruany</LastName>
+                    <ForeName>Victor L</ForeName>
+                    <Initials>VL</Initials>
+                    <Affiliation>Sinai Center for Thrombosis Research, Johns Hopkins University, Sinai Hospital, Baltimore, Md 21215, USA. Heartdrug@aol.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malinin</LastName>
+                    <ForeName>Alex I</ForeName>
+                    <Initials>AI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jerome</LastName>
+                    <ForeName>Scott D</ForeName>
+                    <Initials>SD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lowry</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Athol W</ForeName>
+                    <Initials>AW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sane</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanguay</LastName>
+                    <ForeName>Jean-François</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steinhubl</LastName>
+                    <ForeName>Steven R</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'connor</LastName>
+                    <ForeName>Christopher M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am Heart J</MedlineTA>
+            <NlmUniqueID>0370465</NlmUniqueID>
+            <ISSNLinking>0002-8703</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Aggregation Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A74586SNO7</RegistryNumber>
+                <NameOfSubstance>clopidogrel</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OM90ZUW7M1</RegistryNumber>
+                <NameOfSubstance>Ticlopidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>R16CO5Y76E</RegistryNumber>
+                <NameOfSubstance>Aspirin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aspirin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Statistics as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ticlopidine</DescriptorName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14564328</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0002-8703(03)00260-6</ArticleId>
+            <ArticleId IdType="pii">S0002870303002606</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

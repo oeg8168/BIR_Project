@@ -1,0 +1,213 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24011924</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4847</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of nutritional biochemistry</Title>
+                <ISOAbbreviation>J. Nutr. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High glucose-induced proteome alterations in hepatocytes and its possible relevance to diabetic liver disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1889-910</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jnutbio.2013.05.006</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0955-2863(13)00115-0</ELocationID>
+            <Abstract>
+                <AbstractText>Hyperglycemia can cause several abnormalities in liver cells, including diabetic liver disease. Previous research has shown that high blood glucose levels can damage liver cells through glycoxidation. However, the detailed molecular mechanisms underlying the effects of high blood glucose on the development of diabetic liver disease have yet to be elucidated. In this study, we cultured a liver cell line (Chang liver cell) in mannitol-balanced 5.5 mM, 25 mM and 100 mM d-glucose media and evaluated protein expression and redox regulation. We identified 141 proteins that showed significant changes in protein expression and 29 proteins that showed significant changes in thiol reactivity, in response to high glucose concentration. Several proteins involved in transcription-control, signal transduction, redox regulation and cytoskeleton regulation showed significant changes in expression, whereas proteins involved in protein folding and gene regulation displayed changes in thiol reactivity. Further analyses of clinical plasma specimens confirmed that the proteins AKAP8L, galectin-3, PGK 1, syntenin-1, Abin 2, aldose reductase, CD63, GRP-78, GST-pi, RXR-gamma, TPI and vimentin showed type 2 diabetic liver disease-dependent alterations. In summary, in this study we used a comprehensive hepatocyte-based proteomic approach to identify changes in protein expression and to identify redox-associated diabetic liver disease markers induced by high glucose concentration. Some of the identified proteins were validated with clinical samples and are presented as potential targets for the prognosis and diagnosis of diabetic liver disease.</AbstractText>
+                <CopyrightInformation>© 2013.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jing-Yi</ForeName>
+                    <Initials>JY</Initials>
+                    <Affiliation>Institute of Bioinformatics and Structural Biology &amp; Department of Medical Sciences, National Tsing Hua University, Hsinchu, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chou</LastName>
+                    <ForeName>Hsiu-Chuan</ForeName>
+                    <Initials>HC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>You-Hsuan</ForeName>
+                    <Initials>YH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Hong-Lin</ForeName>
+                    <Initials>HL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Nutr Biochem</MedlineTA>
+            <NlmUniqueID>9010081</NlmUniqueID>
+            <ISSNLinking>0955-2863</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance>Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Diabetes Complications</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hepatocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxidation-Reduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Two-Dimensional Difference Gel Electrophoresis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">1-DE</Keyword>
+            <Keyword MajorTopicYN="N">2-DE</Keyword>
+            <Keyword MajorTopicYN="N">2D-DIGE</Keyword>
+            <Keyword MajorTopicYN="N">3-[(3-cholamidopropyl)-dimethylammonio]-1-propanesulfonate)</Keyword>
+            <Keyword MajorTopicYN="N">Ab</Keyword>
+            <Keyword MajorTopicYN="N">CCB</Keyword>
+            <Keyword MajorTopicYN="N">CHAPS</Keyword>
+            <Keyword MajorTopicYN="N">DIGE</Keyword>
+            <Keyword MajorTopicYN="N">DTT</Keyword>
+            <Keyword MajorTopicYN="N">FCS</Keyword>
+            <Keyword MajorTopicYN="N">Glucose proteomics</Keyword>
+            <Keyword MajorTopicYN="N">Liver cells</Keyword>
+            <Keyword MajorTopicYN="N">MALDI-TOF MS</Keyword>
+            <Keyword MajorTopicYN="N">NP-40</Keyword>
+            <Keyword MajorTopicYN="N">Nonidet P-40</Keyword>
+            <Keyword MajorTopicYN="N">Redox-proteomics</Keyword>
+            <Keyword MajorTopicYN="N">TFA</Keyword>
+            <Keyword MajorTopicYN="N">antibody</Keyword>
+            <Keyword MajorTopicYN="N">colloidal coomassie blue</Keyword>
+            <Keyword MajorTopicYN="N">ddH(2)O</Keyword>
+            <Keyword MajorTopicYN="N">differential gel electrophoresis</Keyword>
+            <Keyword MajorTopicYN="N">dithiothreitol</Keyword>
+            <Keyword MajorTopicYN="N">double deionized water</Keyword>
+            <Keyword MajorTopicYN="N">fetal calf serum</Keyword>
+            <Keyword MajorTopicYN="N">matrix assisted laser desorption ionization-time of flight mass spectrometry</Keyword>
+            <Keyword MajorTopicYN="N">one-dimensional gel electrophoresis</Keyword>
+            <Keyword MajorTopicYN="N">trifluoroacetic acid</Keyword>
+            <Keyword MajorTopicYN="N">two-dimensional gel electrophoresis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24011924</ArticleId>
+            <ArticleId IdType="pii">S0955-2863(13)00115-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jnutbio.2013.05.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,191 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14633253</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-9007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>85</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vox sanguinis</Title>
+                <ISOAbbreviation>Vox Sang.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of various dimethylsulphoxide-containing solutions for cryopreservation of leucoreduced platelet concentrates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>276-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND OBJECTIVES" NlmCategory="OBJECTIVE">Leucoreduced platelet concentrates (LR-PCs) can be stored at 20-24 degrees C for 5-7 days. When LR-PCs are cryopreserved they can be stored for several years. For cryopreservation to become applicable in blood-bank practice, an off-the-shelf cryoprotectant is needed that can be added to the LR-PC in a sterile manner. For this, we varied the composition of the cryopreservation medium and studied various parameters of cryopreserved LR-PCs for up to 24 h after thawing at room temperature.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">LR-PCs in plasma or Composol were concentrated and divided into 2 units. To each unit, an equal part of 10% dimethylsulfoxide (DMSO) in plasma, Composol with or without 5% albumin, or GPO (pasteurized plasma-protein solution) was added. Freezing occurred at 1 degrees C/min and LR-PCs were placed in the vapour phase of nitrogen. LR-PCs were thawed at 37 degrees C and stored at room temperature. LR-PCs were tested for morphology, platelet recovery, swirling effect, and activation antigens at various time-points thereafter.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">LR-PCs in 100%, 65% and 50% plasma supplemented with Composol showed good morphology scores (&gt;250), limited CD62P expression (&lt;35%), low CD63 expression (&lt;20%) and a swirling effect of about 2, at 24 h after thawing. At the same time-point, platelet recovery was &gt;80% under all conditions and CD42b expression varied between 70 and 85%. Results of LR-PCs in 15% plasma and Composol, with or without plasma substitutes, were not acceptable at 24 h after thawing, i.e. the morphology score was &lt;200 and the CD62P expression was &gt;40%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A minimum of 50% plasma in the cryopreserved LR-PC is necessary to maintain an acceptable in vitro quality of platelets up to 24 h after thawing. Composol is a good candidate for using to prepare an off-the-shelf cryoprotectant.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dijkstra-Tiekstra</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Sanquin Blood Bank north west Region, Amsterdam, The Netherlands. m.dijkstra@sanquin.nl</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Korte</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pietersz</LastName>
+                    <ForeName>R N I</ForeName>
+                    <Initials>RN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reesink</LastName>
+                    <ForeName>H W</ForeName>
+                    <Initials>HW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Meer</LastName>
+                    <ForeName>P F</ForeName>
+                    <Initials>PF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verhoeven</LastName>
+                    <ForeName>A J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Evaluation Studies</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Vox Sang</MedlineTA>
+            <NlmUniqueID>0413606</NlmUniqueID>
+            <ISSNLinking>0042-9007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cryoprotective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Serum Albumin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Solutions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>YOW8V9698H</RegistryNumber>
+                <NameOfSubstance>Dimethyl Sulfoxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cryopreservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cryoprotective Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dimethyl Sulfoxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Filtration</DescriptorName>
+                <QualifierName MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocyte Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Motion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plasma</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serum Albumin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Solutions</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14633253</ArticleId>
+            <ArticleId IdType="pii">360</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

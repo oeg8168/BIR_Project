@@ -1,0 +1,159 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14996202</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>03</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-1132</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>44</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Variables determining blockage of WBC-depleting filters by Hb sickle cell trait donations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>422-30</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Sickle cell trait donations can block leukodepletion (LD) filters or fail to LD, but the variables affecting blockage are unclear.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">To identify critical variables for further study, the relationship was investigated between filter blockage and donor characteristics, processing conditions, PLT and coagulation system activation, and microvesicle formation in donations with (n = 63) and without (n = 40) sickle trait. With eight filter types whole blood was LD either at ambient temperature on Day 0 or after overnight 4 degrees C hold. Markers of PLT activation (CD62P and CD63 expression and soluble CD62P) and coagulation activation (activated FXII and prothrombin fragment 1 + 2 [F1 + 2]), RBC microvesicles, blood gases, and residual WBCs were measured.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All Day 0 filtrations blocked (n = 7). On Day 1, no filter tested was 100 percent successful, with most achieving an approximate 50 percent success rate. Two filters blocked consistently and an additional filter did not block, but resulted in 50 percent of units with high residual WBC counts (30 x 10(6)-394 x 10(6)/unit). Day 1 filtration was not improved if performed at 4 degrees C. Donor RBC variables and prefiltration measures varied little between blocked and successful filtrations except pO2, where 9 of 17 blockages had a pO2 of less than 5.0 kPa, compared with 0 of 13 completed filtrations. F1 + 2 levels increased after filtration in sickle trait units, a consequence of slow flow rate.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Filter blockage in sickle trait donors cannot be predicted by donor characteristics or filter type and is not related to PLT or coagulation activation, but can be reduced by storing units at 4 degrees C before filtration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beard</LastName>
+                    <ForeName>Martin J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>National Blood Service, Crescent Drive, Brentwood, Essex CM15 8DP, UK. martin.beard@nbs.nhs.uk</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardigan</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seghatchian</LastName>
+                    <ForeName>Jerard</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krailadsiri</LastName>
+                    <ForeName>Pranee</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williamson</LastName>
+                    <ForeName>Lorna M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hemoglobin, Sickle</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Banks</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Component Removal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Donors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Filtration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemoglobin, Sickle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Leukocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sickle Cell Trait</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14996202</ArticleId>
+            <ArticleId IdType="pii">669</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

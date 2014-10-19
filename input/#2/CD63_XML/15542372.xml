@@ -1,0 +1,150 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15542372</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>04</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1046-2023</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods (San Diego, Calif.)</Title>
+                <ISOAbbreviation>Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Candidate epitope identification using peptide property models: application to cancer immunotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>460-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Peptides derived from pathogens or tumors are selectively presented by the major histocompatibility complex proteins (MHC) to the T lymphocytes. Antigenic peptide-MHC complexes on the cell surface are specifically recognized by T cells and, in conjunction with co-factor interactions, can activate the T cells to initiate the necessary immune response against the target cells. Peptides that are capable of binding to multiple MHC molecules are potential T cell epitopes for diverse human populations that may be useful in vaccine design. Bioinformatical approaches to predict MHC binding peptides can facilitate the resource-consuming effort of T cell epitope identification. We describe a new method for predicting MHC binding based on peptide property models constructed using biophysical parameters of the constituent amino acids and a training set of known binders. The models can be applied to development of anti-tumor vaccines by scanning proteins over-expressed in cancer cells for peptides that bind to a variety of MHC molecules. The complete algorithm is described and illustrated in the context of identifying candidate T cell epitopes for melanomas and breast cancers. We analyzed MART-1, S-100, MBP, and CD63 for melanoma and p53, MUC1, cyclin B1, HER-2/neu, and CEA for breast cancer. In general, proteins over-expressed in cancer cells may be identified using DNA microarray expression profiling. Comparisons of model predictions with available experimental data were assessed. The candidate epitopes identified by such a computational approach must be evaluated experimentally but the approach can provide an efficient and focused strategy for anti-cancer immunotherapy development.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sung</LastName>
+                    <ForeName>Myong-Hee</ForeName>
+                    <Initials>MH</Initials>
+                    <Affiliation>Molecular Statistics and Bioinformatics Section, Biometric Research Branch, National Cancer Institute, National Institutes of Health, 6130 Executive Blvd. EPN 8146, MSC 7434, Bethesda, MD 20892, USA. sungm@mail.nih.gov</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simon</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods</MedlineTA>
+            <NlmUniqueID>9426302</NlmUniqueID>
+            <ISSNLinking>1046-2023</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cancer Vaccines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptide Fragments</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cancer Vaccines</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epitope Mapping</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Immunological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>47</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>Jun</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1046-2023(04)00128-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ymeth.2004.06.001</ArticleId>
+            <ArticleId IdType="pubmed">15542372</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

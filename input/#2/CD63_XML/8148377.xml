@@ -1,0 +1,194 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8148377</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3002</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1217</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Apr</Month>
+                        <Day>6</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta</Title>
+                <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular cloning of the murine homologue of CD63/ME491 and detection of its strong expression in the kidney and activated macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>312-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mouse homologue of CD63/ME491 (Mu-CD63) was molecularly cloned and analyzed. Mu-CD63 exhibited a strikingly high similarity to CD63/ME491 and the rat homologue. Northern blot analysis revealed that Mu-CD63 mRNA was expressed strongly in the kidney of adult mice, especially in the glomerulus fraction, implying the possibility that Mu-CD63 plays an important role in maintaining normal renal function. Activated macrophages and splenocytes exhibited strong expression of Mu-CD63 mRNA, whereas cultured thymocytes barely expressed the mRNA irrespective of cell activation. Taken together, the present results suggest that Mu-CD63 expression is associated with differentiation and/or development of certain cell types, but not necessarily with cell proliferation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miyamoto</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Department of Microbiology, Kobe University School of Medicine, Hyogo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Homma</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hotta</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>D16432</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>Biochim Biophys Acta</MedlineTA>
+            <NlmUniqueID>0217513</NlmUniqueID>
+            <ISSNLinking>0006-3002</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8148377</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,183 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10030830</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0049-3848</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>93</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cilostazol inhibits the expression of activation-dependent membrane surface glycoprotein on the surface of platelets stimulated in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>137-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Cilostazol is a newly developed antiplatelet drug that has been widely applied for clinical use. Its antiplatelet action appears to be mainly related to inhibition of intracellular phosphodiesterase activity. Our study was designed to investigate inhibitory effects of cilostazol on the expression of activation-dependent platelet membrane surface glycoproteins. We performed flow cytometric analysis using monoclonal antibodies, PAC-1 (antibody against activation dependent epitope of GPIIb/IIIa), anti-CD62P (P-selectin), and anti-CD63. In vitro ADP stimulation of platelets taken from seven healthy volunteers produced significant increases in the mean channel fluorescence intensities (MFI) for PAC-1 (148% increase) and CD62P (43% increase) but did not increase in that for CD63. The enhanced MFI for CD62P was suppressed to the control level by pretreatment with 1 microM (88% suppression), 3 microM (94% suppression), and 10 microM (95% suppression) of cilostazol. However, that of PAC-1 was suppressed to a lesser degree (12, 16, and 21% suppressions, respectively). Cilostazol may inhibit P-selectin release from alpha-granule, rather than activation-dependent conformational change of GPIIb/IIIa in platelets. Cilostazol inhibits cellular interaction among platelets, leukocytes, and vascular endothelial cells mediated by P-selectin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Inoue</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Cardiology, Koshigaya Hospital, Dokkyo University School of Medicine, Koshigaya City, Saitama, Japan. inouet@dokkyomed.ac.jp</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohma</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morooka</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Aggregation Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tetrazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N7Z035406B</RegistryNumber>
+                <NameOfSubstance>cilostazol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tetrazoles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10030830</ArticleId>
+            <ArticleId IdType="pii">S0049384898001728</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

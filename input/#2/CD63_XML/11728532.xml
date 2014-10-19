@@ -1,0 +1,193 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11728532</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0049-3848</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Nov</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Paradoxical activation of major platelet receptors in the methadone-maintained patients after single pill of aspirin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>297-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Chronic drug abuse is an established cause of acute coronary events and sudden death. The association between use of narcotics and platelet abnormalities is well described. However, it is still not clear, how aspirin affects expression of major platelet receptors in chronic drug users with coronary artery disease, especially those recovering in the methadone clinic maintenance program. We sought to compare how a single pill of non-enteric coated aspirin (325-mg) affects human platelets in patients with coronary artery disease dependent on methadone use.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Data from 30 subjects were analyzed, eight of them were the chronic drug addicts, and participated in a methadone recovery program. Platelets were assessed twice at baseline (pre-aspirin), and after 3-24 hours (post-aspirin). The expression of platelet receptors was determined by using the following monoclonal antibodies: CD31 (PECAM-1), CD41 (GPIIb), CD42b (GPIb), CD51/CD61 (vitronectin receptor), CD62p (P-selectin), CD63 (LIMP or LAMP-3), CD107a (LAMP-1), CD151 (PETA-3), and PAC-1 for fibrinogen-platelet binding determination (PharMingen, San Diego, CA). Platelet-leukocyte interactions were assessed by using dual antibodies for a pan-platelet marker (CD151), together with CD14, a monocyte/macrophage marker.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In a drug free group, digestion of a single tablet of aspirin resulted in a significantly (p&lt;0.05) diminished expression of PECAM-1, GP IIb, fibrinogen binding with PAC-1 antibody, GP Ib, P-selectin, and CD151. In contrast, patients receiving methadone exhibited opposite trends, resultant in a paradoxical activation of major platelet receptors after digestion of aspirin. These differences reached statistical significance (p&lt;0.05) for PECAM-1, GPIIb, and P-selectin expression.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There are some fundamental differences in the responsiveness to aspirin in chronic methadone users when compared with drug-free patients. Suspecting narcotics abuse may be critical in patients with limited aspirin efficacy, or those who developed an aspirin resistance. Unexpected platelet activation may indeed represent a missing link between use of narcotics and enhanced incidence of vascular death in this high-risk population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Malinin</LastName>
+                    <ForeName>A I</ForeName>
+                    <Initials>AI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Callahan</LastName>
+                    <ForeName>K P</ForeName>
+                    <Initials>KP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serebruany</LastName>
+                    <ForeName>V L</ForeName>
+                    <Initials>VL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Letter</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD31</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>R16CO5Y76E</RegistryNumber>
+                <NameOfSubstance>Aspirin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>UC6VBE7V1Z</RegistryNumber>
+                <NameOfSubstance>Methadone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD31</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aspirin</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Artery Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Methadone</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Adhesiveness</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Substance-Related Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11728532</ArticleId>
+            <ArticleId IdType="pii">S0049-3848(01)00376-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

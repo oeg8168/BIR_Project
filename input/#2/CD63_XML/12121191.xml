@@ -1,0 +1,195 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12121191</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0105-4538</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>57</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy</Title>
+                <ISOAbbreviation>Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hemin, a heme oxygenase substrate analog, inhibits the cell surface expression of CD11b and CD66b on human neutrophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>718-22</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Neutrophils are signaled to sites of infection and inflammation by different chemotactic stimuli. In order to reach the airways they have to adhere to, and then migrate through, the endothelium of pulmonary vessels. Carbon monoxide (CO) is a gaseous mediator, endogenously produced in the human airways. Increased CO production has been demonstrated during airway inflammation and CO as well as hemin, a substrate for CO producing enzymes, has been shown to affect neutrophil migration. Our objective was to investigate if the neutrophil cell surface expression of CD11b, CD66b and CD63 was changed during intermittent allergic rhinitis and to establish whether CO could affect the expression of these markers of cellular activation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Blood from 10 healthy volunteers was drawn and incubated with different concentrations of hemin. Blood from 12 other healthy volunteers and from 12 patients with intermittent allergic rhinitis was also drawn during grass pollen season. Neutrophils were then isolated from all these three sets, and their expression of CD antigens measured using flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients with symptomatic intermittent allergic rhinitis exhibited lower levels of CD11b and CD66b on the neutrophil cell surface. Incubation with hemin decreased the expression of CD11b and CD66b. CD63 was generally weakly expressed and not significantly affected by hemin incubation.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our results demonstrate that expressions of neutrophil cell surface glycoproteins are changed during the season in patents with intermittent allergic rhinitis and that hemin, a substrate for CO production, may act as an inhibitor of neutrophil activation. This indicates a possible role for CO in the immune defense system.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Andersson</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                    <Affiliation>Department of Otorhinolaryngology, Malmö University Hospital, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Egesten</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cardell</LastName>
+                    <ForeName>L O</ForeName>
+                    <Initials>LO</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Allergy</MedlineTA>
+            <NlmUniqueID>7804028</NlmUniqueID>
+            <ISSNLinking>0105-4538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CEACAM8 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GPI-Linked Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Macrophage-1 Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>743LRP9S7N</RegistryNumber>
+                <NameOfSubstance>Hemin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Antigens, Neoplasm</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Adhesion Molecules</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GPI-Linked Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophage-1 Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Poaceae</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pollen</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhinitis, Allergic, Seasonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Seasons</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12121191</ArticleId>
+            <ArticleId IdType="pii">all2s3593</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

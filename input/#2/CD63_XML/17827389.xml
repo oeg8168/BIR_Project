@@ -1,0 +1,193 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17827389</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0006-4971</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>110</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Dec</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Normal prion protein trafficking in cultured human erythroblasts.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4518-25</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Normal prion protein (PrP(c)), an essential substrate for development of prion disease, is widely distributed in hematopoietic cells. Recent evidence that variant Creutzfeldt-Jakob disease can be transmitted by transfusion of red cell preparations has highlighted the need for a greater understanding of the biology of PrP(c) in blood and blood-forming tissues. Here, we show that in contrast to another glycosylphosphoinositol-anchored protein CD59, PrP(c) at the cell surface of cultured human erythroblasts is rapidly internalized through the endosomal pathway, where it colocalizes with the tetraspanin CD63. In the plasma membrane, PrP(c) colocalizes with the tetraspanin CD81. Cross-linking with anti-PrP(c) or anti-CD81 causes clustering of PrP(c) and CD81, suggesting they can share the same microdomain. These data are consistent with a role for tetraspanin-enriched microdomains in trafficking of PrP(c). These results, when taken together with recent evidence that exosomes released from cells as a result of endosomal-mediated recycling to the plasma membrane contain prion infectivity, provide a pathway for the propagation of prion diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Griffiths</LastName>
+                    <ForeName>Rebecca E</ForeName>
+                    <Initials>RE</Initials>
+                    <Affiliation>Bristol Institute for Transfusion Sciences, National Blood Service, Bristol, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heesom</LastName>
+                    <ForeName>Kate J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anstee</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>09</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD81</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD81 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Prions</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD81</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Erythroblasts</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prions</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">blood-2007-04-085183</ArticleId>
+            <ArticleId IdType="doi">10.1182/blood-2007-04-085183</ArticleId>
+            <ArticleId IdType="pubmed">17827389</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

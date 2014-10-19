@@ -1,0 +1,322 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24576111</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1399-3038</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric allergy and immunology : official publication of the European Society of Pediatric Allergy and Immunology</Title>
+                <ISOAbbreviation>Pediatr Allergy Immunol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Potential non-T cells source of interleukin-4 in food allergy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>243-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/pai.12207</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Recently, a study from the Consortium of Food Allergy Research (CoFAR) showed that allergen-induced IL-4 expression in CD25(+) mononuclear cells was increased in allergic patients. However, they did not find the expected increase in GATA-3 expression, suggesting that allergen-induced IL-4 might not be of T-cell origin. We sought to determine whether other cell types were responsible for the increased IL-4 expression in the CD25(+) cell population.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Comparing six allergic patients and six healthy controls, we analyzed the CD25(+) isolated population from PBMC for the presence of potential IL-4-expressing non-T cells. We also compared spontaneous expression levels of surface markers (CD203c, CD63, CD25, and HLA-DR) on basophils from whole blood of 42 peanut-allergic patients and from 12 non-atopic controls. Expression of these markers was also evaluated following basophil activation in eight peanut-allergic patients selected from the previous cohort.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In addition to CD4(+) T cells, a substantial proportion of non-T cells were found in the CD25(+) -isolated cell population: basophils, NK, and NK-T cells with a mean percentage ± s.e.m. of 5.24 ± 0.63%, 6.65 ± 1.01%, and 6.01 ± 1.04%, respectively. The majority of these cells exhibited positive intracytoplasmic staining for IL-4. Expression of CD63 and CD25 was significantly higher in allergic patients compared with controls (p &lt; 0.05). Interestingly, we found a significantly higher proportion of activated basophils expressing HLA-DR, compared with non-activated basophils (p &lt; 0.05).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results support the suggested key role of non-T cells secreting IL-4 in food allergy, particularly basophils, which may also play a central role in antigen presentation.</AbstractText>
+                <CopyrightInformation>© 2014 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Caubet</LastName>
+                    <ForeName>Jean-Christoph</ForeName>
+                    <Initials>JC</Initials>
+                    <Affiliation>Division of Allergy and Immunology, Department of Pediatrics and Medicine, Icahn School of Medicine at Mount Sinai, New York City, NY, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masilamani</LastName>
+                    <ForeName>Madhan</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rivers</LastName>
+                    <ForeName>Neisha A</ForeName>
+                    <Initials>NA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayer</LastName>
+                    <ForeName>Lloyd</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sampson</LastName>
+                    <ForeName>Hugh A</ForeName>
+                    <Initials>HA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI44236</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI66738</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 DK072201</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>RR026134</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Pediatr Allergy Immunol</MedlineTA>
+            <NlmUniqueID>9106718</NlmUniqueID>
+            <ISSNLinking>0905-6157</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Res. 1999 Nov;46(5):603-7</RefSource>
+                <PMID Version="1">10541325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2000 Dec;106(6):1190-5</RefSource>
+                <PMID Version="1">11112905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Aug 15;167(4):1982-8</RefSource>
+                <PMID Version="1">11489979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2002 May;32(5):1428-33</RefSource>
+                <PMID Version="1">11981831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2003 May;9(5):582-8</RefSource>
+                <PMID Version="1">12669034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2004 Aug 16;200(4):507-17</RefSource>
+                <PMID Version="1">15314076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Oct 15;173(8):4967-75</RefSource>
+                <PMID Version="1">15470039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1986 Feb;77(2):377-83</RefSource>
+                <PMID Version="1">2418093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1988 Sep 1;168(3):853-62</RefSource>
+                <PMID Version="1">3049907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1989 Jul 27;321(4):228-32</RefSource>
+                <PMID Version="1">2473400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1990 Sep 1;172(3):921-9</RefSource>
+                <PMID Version="1">2117636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1993 Jun;91(6):1155-62</RefSource>
+                <PMID Version="1">7685363</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Mar 15;152(6):3006-16</RefSource>
+                <PMID Version="1">8144899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Aug 15;153(4):1808-17</RefSource>
+                <PMID Version="1">7519213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1994 Dec;94(6 Pt 2):1189-95</RefSource>
+                <PMID Version="1">7798559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Oct 1;184(4):1295-304</RefSource>
+                <PMID Version="1">8879201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Feb 2;96(3):1036-41</RefSource>
+                <PMID Version="1">9927689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Allergy Asthma Immunol. 1999 Jan;82(1):33-40</RefSource>
+                <PMID Version="1">9988204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2005 Jan;115(1):3-12; quiz 13</RefSource>
+                <PMID Version="1">15637539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Sep 19;202(6):793-804</RefSource>
+                <PMID Version="1">16172258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Jan 15;176(2):880-8</RefSource>
+                <PMID Version="1">16393972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2006 Feb;117(2 Suppl Mini-Primer):S470-5</RefSource>
+                <PMID Version="1">16455349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Feb 1;109(3):859-61</RefSource>
+                <PMID Version="1">17003367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2007 Sep;120(3):638-46</RefSource>
+                <PMID Version="1">17628647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2008 Feb;121(2):479-85</RefSource>
+                <PMID Version="1">18061653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Mar;9(3):310-8</RefSource>
+                <PMID Version="1">18300366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Jul;9(7):733-42</RefSource>
+                <PMID Version="1">18516038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2009 Jul;10(7):697-705</RefSource>
+                <PMID Version="1">19465906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2009 Jul;10(7):713-20</RefSource>
+                <PMID Version="1">19465907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2009 Jul;10(7):706-12</RefSource>
+                <PMID Version="1">19465908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2009 Jul;10(7):679-81</RefSource>
+                <PMID Version="1">19536189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Med. 2009;60:261-77</RefSource>
+                <PMID Version="1">18729729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2010 Apr;10(4):225-35</RefSource>
+                <PMID Version="1">20336151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2010 May;125(5):975-9</RefSource>
+                <PMID Version="1">20338622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2010 May;125(5):1077-1083.e8</RefSource>
+                <PMID Version="1">20451041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2010 Sep 27;207(10):2097-111</RefSource>
+                <PMID Version="1">20819925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Jan;66(1):92-100</RefSource>
+                <PMID Version="1">20608919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2010 Dec;22(6):807-13</RefSource>
+                <PMID Version="1">21115332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2012 May;67(5):601-8</RefSource>
+                <PMID Version="1">22335568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2012 Dec;67(12):1594-600</RefSource>
+                <PMID Version="1">23066930</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS606276</OtherID>
+        <OtherID Source="NLM">PMC4139148</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">NK cells</Keyword>
+            <Keyword MajorTopicYN="N">NK-T cells</Keyword>
+            <Keyword MajorTopicYN="N">TH2 response</Keyword>
+            <Keyword MajorTopicYN="N">basophils</Keyword>
+            <Keyword MajorTopicYN="N">food allergy</Keyword>
+            <Keyword MajorTopicYN="N">interleukin-4</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24576111</ArticleId>
+            <ArticleId IdType="doi">10.1111/pai.12207</ArticleId>
+            <ArticleId IdType="pmc">PMC4139148</ArticleId>
+            <ArticleId IdType="mid">NIHMS606276</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

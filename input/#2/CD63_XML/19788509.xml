@@ -1,0 +1,154 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19788509</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-2995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>50</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pressure-aided transfusion of platelets: does it affect the platelets?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>361-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1537-2995.2009.02396.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In massively bleeding patients, pressure infusers are used for transfusion of red blood cells and plasma but not for platelets (PLTs) due to an assumed negative effect on the PLTs. This study examined whether pressure-aided in vitro transfusion affected the number, activation state, and/or function of the PLTs as measured by flow cytometry and thrombelastography (TEG).</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">PLT concentrates stored for 1 (n = 8) or 8 (n = 7) days were transfused in vitro by means of a pressure inducer (300 mmHg). Samples before and after transfusion were measured for PLT concentration and expression of CD62P, CD63, and PAC-1. These activation markers were measured by flow cytometry on resting PLTs as well as PLTs stimulated with thrombin receptor-activating peptide. Clot generation and strength was examined by TEG by measuring the angle (degree) and maximum amplitude (mm), values that are highly dependent on the PLT function.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">PLT concentrations were unchanged after pressure-aided transfusion reflecting no destruction. With respect to activation state and in vitro functional capacity either no or only minor differences (&lt;7%) were detected.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this study, use of a pressure inducer decreased the transfusion time of in vitro PLT transfusion by approximately 50%. No or only minor and inconsistent changes of the PLT number and function were observed. Consequently, this study indicates that pressure infusers could be used for transfusion of PLTs if clinically indicated, that is, in massively bleeding patients. However, in vivo studies to assess the safety and utility of pressure-aided PLT transfusion are warranted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fischer-Nielsen</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Clinical Immunology, Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark. anne.fischer-nielsen@rh.regionh.dk</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stissing</LastName>
+                    <ForeName>Trine</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maansson</LastName>
+                    <ForeName>Charlotte</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joergensen</LastName>
+                    <ForeName>Bent Gymoese</ForeName>
+                    <Initials>BG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Catheterization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Transfusion</DescriptorName>
+                <QualifierName MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Pressure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stress, Mechanical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">TRF2396</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1537-2995.2009.02396.x</ArticleId>
+            <ArticleId IdType="pubmed">19788509</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

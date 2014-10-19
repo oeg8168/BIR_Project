@@ -1,0 +1,631 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19077207</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>01</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>02</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1479-5876</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2008</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of translational medicine</Title>
+                <ISOAbbreviation>J Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interdependency of CEACAM-1, -3, -6, and -8 induced human neutrophil adhesion to endothelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>78</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1479-5876-6-78</ELocationID>
+            <Abstract>
+                <AbstractText>Members of the carcinoembryonic antigen family (CEACAMs) are widely expressed, and, depending on the tissue, capable of regulating diverse functions including tumor promotion, tumor suppression, angiogenesis, and neutrophil activation. Four members of this family, CEACAM1, CEACAM8, CEACAM6, and CEACAM3 (recognized by CD66a, CD66b, CD66c, and CD66d mAbs, respectively), are expressed on human neutrophils. CD66a, CD66b, CD66c, and CD66d antibodies each increase neutrophil adhesion to human umbilical vein endothelial cell monolayers. This increase in neutrophil adhesion caused by CD66 antibodies is blocked by CD18 mAbs and is associated with upregulation of CD11/CD18 on the neutrophil surface. To examine potential interactions of CEACAMs in neutrophil signaling, the effects on neutrophil adhesion to human umbilical vein endothelial cells of a set of CD66 mAbs was tested following desensitization to stimulation by various combinations of these mAbs. Addition of a CD66 mAb in the absence of calcium results in desensitization of neutrophils to stimulation by that CD66 mAb. The current data show that desensitization of neutrophils to any two CEACAMs results in selective desensitization to those two CEACAMs, while the cells remain responsive to the other two neutrophil CEACAMs. In addition, cells desensitized to CEACAM-3, -6, and -8 were still responsive to stimulation of CEACAM1 by CD66a mAbs. In contrast, desensitization of cells to CEACAM1 and any two of the other CEACAMs left the cells unresponsive to all CD66 mAbs. Cells desensitized to any combination of CEACAMs remained responsive to the unrelated control protein CD63. Thus, while there is significant independence of the four neutrophil CEACAMs in signaling, CEACAM1 appears to play a unique role among the neutrophil CEACAMs. A model in which CEACAMs dimerize to form signaling complexes could accommodate the observations. Similar interactions may occur in other cells expressing CEACAMs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Skubitz</LastName>
+                    <ForeName>Keith M</ForeName>
+                    <Initials>KM</Initials>
+                    <Affiliation>The Department of Medicine, University of Minnesota Medical School, Masonic Cancer Center, Minneapolis, MN 55455, USA. skubi001@tc.umn.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skubitz</LastName>
+                    <ForeName>Amy P N</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA60658</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Transl Med</MedlineTA>
+            <NlmUniqueID>101190741</NlmUniqueID>
+            <ISSNLinking>1479-5876</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD66 antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CEACAM3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CEACAM6 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CEACAM8 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Carcinoembryonic Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GPI-Linked Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1996 Nov 15;68(4):457-63</RefSource>
+                <PMID Version="1">8945616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Dec 10;93(25):14851-6</RefSource>
+                <PMID Version="1">8962144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1996 Dec;22(5):941-50</RefSource>
+                <PMID Version="1">8971715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1996 Dec;26(12):2924-32</RefSource>
+                <PMID Version="1">8977287</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1996 Dec 15;320 ( Pt 3):847-53</RefSource>
+                <PMID Version="1">9003371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1997 Feb 20;14(7):783-90</RefSource>
+                <PMID Version="1">9047385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1997 May 5;185(9):1557-64</RefSource>
+                <PMID Version="1">9151893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 May 19;137(4):939-52</RefSource>
+                <PMID Version="1">9151695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Invest. 1997 May;76(5):703-16</RefSource>
+                <PMID Version="1">9166289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1997 Jun;65(6):2353-61</RefSource>
+                <PMID Version="1">9169774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 1997;412:125-33</RefSource>
+                <PMID Version="1">9192004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1997 Jun 15;57(12):2354-7</RefSource>
+                <PMID Version="1">9192807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1997 Jul 1;57(13):2781-8</RefSource>
+                <PMID Version="1">9205090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1997 Jun 16;16(12):3435-45</RefSource>
+                <PMID Version="1">9218786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1997 Aug;151(2):521-30</RefSource>
+                <PMID Version="1">9250164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1997 Oct;9(5):616-26</RefSource>
+                <PMID Version="1">9330864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1997 Dec;26(5):971-80</RefSource>
+                <PMID Version="1">9426134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Jan 15;17(2):443-54</RefSource>
+                <PMID Version="1">9430636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1998 May 1;253(3):778-86</RefSource>
+                <PMID Version="1">9654079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1998 Nov;30(3):657-71</RefSource>
+                <PMID Version="1">9822830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1998 Nov;28(11):3664-74</RefSource>
+                <PMID Version="1">9842909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2000 Mar 1;60(5):1236-44</RefSource>
+                <PMID Version="1">10728682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2000 Feb;5(2):311-20</RefSource>
+                <PMID Version="1">10882072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Immunol. 2001 Mar 15;208(2):96-106</RefSource>
+                <PMID Version="1">11333142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 1;166(11):6537-44</RefSource>
+                <PMID Version="1">11359805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2001 Aug;159(2):537-46</RefSource>
+                <PMID Version="1">11485912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1999 Nov 1;252(2):243-9</RefSource>
+                <PMID Version="1">11501563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 May 15;168(10):5139-46</RefSource>
+                <PMID Version="1">11994468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2003 Jul;74(1):126-34</RefSource>
+                <PMID Version="1">12832451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2003 Aug;49(3):623-37</RefSource>
+                <PMID Version="1">12864848</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2003 Oct 1;21(19):3638-46</RefSource>
+                <PMID Version="1">14512395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 May;72(5):2742-52</RefSource>
+                <PMID Version="1">15102784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1979 Sep 25;254(18):8709-12</RefSource>
+                <PMID Version="1">479147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1986 May 1;136(9):3427-32</RefSource>
+                <PMID Version="1">2937846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1987 Sep 1;139(5):1631-9</RefSource>
+                <PMID Version="1">3305706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Feb;108(2):267-76</RefSource>
+                <PMID Version="1">2537311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Apr 21;57(2):327-34</RefSource>
+                <PMID Version="1">2702691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1989 Oct 16;164(1):39-45</RefSource>
+                <PMID Version="1">2803308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Feb;13(2):1273-82</RefSource>
+                <PMID Version="1">8423792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1993 Feb 26;159(1-2):93-100</RefSource>
+                <PMID Version="1">8445268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 1999 Apr;9(2):67-81</RefSource>
+                <PMID Version="1">10202129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1999 Jun;262(2):541-6</RefSource>
+                <PMID Version="1">10336640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 1999 May 3;139(1):15-22</RefSource>
+                <PMID Version="1">10408904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1999 Aug 1;163(3):1363-70</RefSource>
+                <PMID Version="1">10415036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1999 Sep 30;18(40):5563-72</RefSource>
+                <PMID Version="1">10523833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jan 21;280(3):2361-9</RefSource>
+                <PMID Version="1">15536067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 May 15;105(10):3925-34</RefSource>
+                <PMID Version="1">15687237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2005 Jul 15;307(2):427-35</RefSource>
+                <PMID Version="1">15950623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2005 Jun;35(6):1949-59</RefSource>
+                <PMID Version="1">15909305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 2005 Aug;130(4):604-13</RefSource>
+                <PMID Version="1">16098076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2005 Dec 1;118(Pt 23):5513-24</RefSource>
+                <PMID Version="1">16291724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Haematologica. 2006 Feb;91(2):285-6</RefSource>
+                <PMID Version="1">16461327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Mar 15;12(6):1868-75</RefSource>
+                <PMID Version="1">16551872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2006 Jun;6(6):433-46</RefSource>
+                <PMID Version="1">16724098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2006 Jun;116(6):1596-605</RefSource>
+                <PMID Version="1">16680193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2006 Oct;18(5):565-71</RefSource>
+                <PMID Version="1">16919437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Mar 15;178(6):3797-805</RefSource>
+                <PMID Version="1">17339478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2007 Aug;75(8):4116-26</RefSource>
+                <PMID Version="1">17517873</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Dec 15;110(13):4223-33</RefSource>
+                <PMID Version="1">17761831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Jan;67(1):1-8</RefSource>
+                <PMID Version="1">8380065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1999 Nov;34(3):538-51</RefSource>
+                <PMID Version="1">10564495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1993 Aug 15;53(16):3817-22</RefSource>
+                <PMID Version="1">7687926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Aug;122(4):951-60</RefSource>
+                <PMID Version="1">8349740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1993 Sep 9;55(2):262-8</RefSource>
+                <PMID Version="1">7690347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1993 Sep 9;55(2):311-9</RefSource>
+                <PMID Version="1">7690349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Oct;123(2):467-75</RefSource>
+                <PMID Version="1">8408226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Nov 1;151(9):4934-40</RefSource>
+                <PMID Version="1">8104998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1993 Nov;23(11):2782-91</RefSource>
+                <PMID Version="1">8223854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 1993;342:261-6</RefSource>
+                <PMID Version="1">8209740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1994 Jul 1;84(1):200-10</RefSource>
+                <PMID Version="1">8018919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1994 Jul 1;84(1):211-9</RefSource>
+                <PMID Version="1">7517208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1994 Sep 1;74(5):1575-83</RefSource>
+                <PMID Version="1">7914825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1995 Jan 1;55(1):190-7</RefSource>
+                <PMID Version="1">7805032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tumour Biol. 1995;16(1):23-31</RefSource>
+                <PMID Version="1">7863219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1995 Mar 15;55(6):1215-20</RefSource>
+                <PMID Version="1">7533659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1995 May 22;365(1):51-6</RefSource>
+                <PMID Version="1">7774714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1995 Jul 1;55(13):2831-6</RefSource>
+                <PMID Version="1">7796410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1995 Jul;58(1):40-8</RefSource>
+                <PMID Version="1">7542306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1995 Oct 19;11(8):1649-55</RefSource>
+                <PMID Version="1">7478590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Dec 1;155(11):5382-90</RefSource>
+                <PMID Version="1">7594554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 1995;380:345-50</RefSource>
+                <PMID Version="1">8830505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1995 Dec 7;11(11):2375-82</RefSource>
+                <PMID Version="1">8570189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Feb;87(4):1541-5</RefSource>
+                <PMID Version="1">2304917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1991 Feb 1;146(3):949-57</RefSource>
+                <PMID Version="1">1671052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Growth Differ. 1990 Nov;1(11):527-33</RefSource>
+                <PMID Version="1">2088478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 May 5;266(13):7995-8001</RefSource>
+                <PMID Version="1">2022629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1991 Apr 30;176(2):578-85</RefSource>
+                <PMID Version="1">2025273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1991 Jun;59(6):2051-7</RefSource>
+                <PMID Version="1">1674739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1991 Jul;59(7):2485-93</RefSource>
+                <PMID Version="1">1675630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Lab Anal. 1991;5(5):344-66</RefSource>
+                <PMID Version="1">1941355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Dec;65(12):6881-91</RefSource>
+                <PMID Version="1">1719235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Jun 15;267(17):12030-5</RefSource>
+                <PMID Version="1">1351055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1992 Jul;118(2):457-66</RefSource>
+                <PMID Version="1">1378450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1992 Jul;52(1):11-6</RefSource>
+                <PMID Version="1">1640165</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1992 Jul 31;186(2):881-7</RefSource>
+                <PMID Version="1">1497672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1992 Oct;14(2):384-90</RefSource>
+                <PMID Version="1">1427854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1992 Nov 11;52(5):718-25</RefSource>
+                <PMID Version="1">1330929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1992 Nov;52(5):551-7</RefSource>
+                <PMID Version="1">1431566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1992 Nov 15;288 ( Pt 1):23-7</RefSource>
+                <PMID Version="1">1359882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1995 Dec 1;234(2):527-35</RefSource>
+                <PMID Version="1">8536699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1996 Jul;60(1):106-17</RefSource>
+                <PMID Version="1">8699114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Growth Differ. 1996 May;7(5):655-62</RefSource>
+                <PMID Version="1">8732675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1996 Aug 1;56(15):3431-5</RefSource>
+                <PMID Version="1">8758907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Oct 15;157(8):3617-26</RefSource>
+                <PMID Version="1">8871662</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carcinoembryonic Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GPI-Linked Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2628881</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1479-5876-6-78</ArticleId>
+            <ArticleId IdType="doi">10.1186/1479-5876-6-78</ArticleId>
+            <ArticleId IdType="pubmed">19077207</ArticleId>
+            <ArticleId IdType="pmc">PMC2628881</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,211 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15916690</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>05</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1048</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>129</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of haematology</Title>
+                <ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence for a link between sphingolipid metabolism and expression of CD1d and MHC-class II: monocytes from Gaucher disease patients as a model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>667-76</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Gaucher disease (GD) is an autosomal recessive inherited defect of the lysosomal enzyme glucocerebrosidase (GluCerase) that leads to glucosylceramide (GluCer) accumulation. We previously demonstrated the existence of imbalances in certain lymphocyte populations in GD patients. We now show that GluCerase-deficient monocytes from GD patients or monocytes from healthy subjects treated with conduritol-B-epoxide (CBE), an irreversible inhibitor of GluCerase activity, display high levels of surface expression of the lipid-binding molecule CD1d. GluCerase-deficient monocytes from GD patients also showed increased surface expression of major histocompatibility complex (MHC)-class II, but not of other lysosomal trafficking molecules, such as CD63 and MHC-class I. However, CD1d and MHC-class II mRNA levels were not increased. GluCerase-deficient monocytes from GD patients undergoing enzyme replacement therapy also exhibited increased levels of CD1d and MHC-class II and imbalances in the percentage of CD4+, CD8+, and Valpha24+ T cells. Interestingly, follow-up studies revealed that enzyme replacement therapy induced a decrease in MHC-class II expression and partial correction of the CD4+ T cell imbalances. These results reveal a new link between sphingolipid accumulation in monocytes and the expression of certain MHC molecules that may result in imbalances of regulatory T cell subsets. These immunological anomalies may contribute to the clinical heterogeneity in GD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balreira</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Institute for Molecular and Cell Biology (IBMC), Porto, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lacerda</LastName>
+                    <ForeName>Lúcia</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miranda</LastName>
+                    <ForeName>Clara Sá</ForeName>
+                    <Initials>CS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arosa</LastName>
+                    <ForeName>Fernando A</ForeName>
+                    <Initials>FA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Haematol</MedlineTA>
+            <NlmUniqueID>0372544</NlmUniqueID>
+            <ISSNLinking>0007-1048</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD1d</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD1D protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Glucosylceramides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Sphingolipids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.45</RegistryNumber>
+                <NameOfSubstance>Glucosylceramidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.45</RegistryNumber>
+                <NameOfSubstance>alglucerase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD1d</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gaucher Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucosylceramidase</DescriptorName>
+                <QualifierName MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucosylceramides</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocytes, Mononuclear</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sphingolipids</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocyte Subsets</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BJH5503</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2141.2005.05503.x</ArticleId>
+            <ArticleId IdType="pubmed">15916690</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

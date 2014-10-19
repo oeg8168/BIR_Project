@@ -1,0 +1,415 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24015301</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cardiomyocyte protection by GATA-4 gene engineered mesenchymal stem cells is partially mediated by translocation of miR-221 in microvesicles.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e73304</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0073304</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">microRNAs (miRs), a novel class of small non-coding RNAs, are involved in cell proliferation, differentiation, development, and death. In this study, we found that miR-221 translocation by microvesicles (MVs) plays an important role in cardioprotection mediated by GATA-4 overexpressed mesenchymal stem cells (MSC).</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Adult rat bone marrow MSC and neonatal rat ventricle cardiomyocytes (CM) were harvested as primary cultures. MSC were transduced with GATA-4 (MSC(GATA-4)) using the murine stem cell virus (pMSCV) retroviral expression system. Empty vector transfection was used as a control (MSC(Null)). The expression of miRs was assessed by real-time PCR and localized using in situ hybridization (ISH). MVs collected from MSC cultures were characterized by expression of CD9, CD63, and HSP70, and photographed with electron microscopy. Cardioprotection during hypoxia afforded by conditioned medium (CdM) from MSC cultures was evaluated by lactate dehydrogenase (LDH) release, MTS uptake by CM, and caspase 3/7 activity. Expression of miR-221/222 was significantly higher in MSC than in CM and miR-221 was upregulated in MSC(GATA-4). MSC overexpression of miR-221 significantly enhanced cardioprotection by reducing the expression of p53 upregulated modulator of apoptosis (PUMA). Moreover, expression of PUMA was significantly decreased in CM co-cultured with MSC. MVs derived from MSC expressed high levels of miR-221, and were internalized quickly by CM as documented in images obtained from a Time-Lapse Imaging System.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results demonstrate that cardioprotection by MSC(GATA-4) may be regulated in part by a transfer of anti-apoptotic miRs contained within MVs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Department of Pathology and Laboratory Medicine, University of Cincinnati Medical Center, Cincinnati, Ohio, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gong</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yigang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Millard</LastName>
+                    <ForeName>Ronald W</ForeName>
+                    <Initials>RW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pasha</LastName>
+                    <ForeName>Zeeshan</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Yueting</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashraf</LastName>
+                    <ForeName>Muhammad</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Meifeng</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL105176</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL114654</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL105176</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL114654</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Apoptosis Regulatory Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GATA4 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gata4 protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MIRN221 microRNA, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Puma protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tumor Suppressor Protein p53</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2007 Nov 23;363(3):674-9</RefSource>
+                <PMID Version="1">17904522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2008 Nov 21;103(11):1204-19</RefSource>
+                <PMID Version="1">19028920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(3):e4722</RefSource>
+                <PMID Version="1">19266099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2009 Apr;16(4):555-63</RefSource>
+                <PMID Version="1">19079139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2009 Jun;296(6):H1888-97</RefSource>
+                <PMID Version="1">19395555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Cardiol. 2009 Jun 16;53(24):2262-9</RefSource>
+                <PMID Version="1">19520249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Aug 18;106(33):14022-7</RefSource>
+                <PMID Version="1">19666564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cardiol. 2010 Jul;33(7):E10-5</RefSource>
+                <PMID Version="1">20552656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Heart Fail. 2010 Jan;3(1):89-96</RefSource>
+                <PMID Version="1">19996415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Heart J. 2009 Dec;30(24):2978-84</RefSource>
+                <PMID Version="1">19773226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiovasc Transl Res. 2010 Oct;3(5):547-58</RefSource>
+                <PMID Version="1">20559784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:229</RefSource>
+                <PMID Version="1">20813046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2010 Nov;49(5):841-50</RefSource>
+                <PMID Version="1">20708014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2010 Dec;299(6):H1772-81</RefSource>
+                <PMID Version="1">20870802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Heart Lung Transplant. 2011 Jan;30(1):95-102</RefSource>
+                <PMID Version="1">21030271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2011 May;53(5):1651-61</RefSource>
+                <PMID Version="1">21400558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Heart J. 2011 May;32(10):1197-206</RefSource>
+                <PMID Version="1">21362705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Regen Med. 2011 Jul;6(4):481-92</RefSource>
+                <PMID Version="1">21749206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2011 Aug;213(2):253-60</RefSource>
+                <PMID Version="1">21546276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e35685</RefSource>
+                <PMID Version="1">22558198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephrol Dial Transplant. 2012 Aug;27(8):3037-42</RefSource>
+                <PMID Version="1">22851627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2013 Feb 1;41(1):283-7</RefSource>
+                <PMID Version="1">23356298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2013 Feb 15;431(3):566-71</RefSource>
+                <PMID Version="1">23318173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2013 Mar;9(3):163-8</RefSource>
+                <PMID Version="1">23340338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2000 Dec;6(6):1389-99</RefSource>
+                <PMID Version="1">11163212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Apr 5;410(6829):701-5</RefSource>
+                <PMID Version="1">11287958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Mar 15;101(6):2393-400</RefSource>
+                <PMID Version="1">12433687</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2004 Jul 10-16;364(9429):141-8</RefSource>
+                <PMID Version="1">15246726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2004 Oct 26;110(17):2658-65</RefSource>
+                <PMID Version="1">15492307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Sep 29;335(6189):440-2</RefSource>
+                <PMID Version="1">3262202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2005 Jan 7;96(1):127-37</RefSource>
+                <PMID Version="1">15569828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2006 Apr;20(6):661-9</RefSource>
+                <PMID Version="1">16581974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2006 Jun 9;98(11):1414-21</RefSource>
+                <PMID Version="1">16690882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2007 Apr 10;115(14):1866-75</RefSource>
+                <PMID Version="1">17389266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Nov 6;104(45):17783-8</RefSource>
+                <PMID Version="1">17965233</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis Regulatory Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Hypoxia</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coculture Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GATA4 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Ventricles</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocytes, Cardiac</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Suppressor Protein p53</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3756018</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0073304</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-17177</ArticleId>
+            <ArticleId IdType="pubmed">24015301</ArticleId>
+            <ArticleId IdType="pmc">PMC3756018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

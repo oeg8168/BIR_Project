@@ -1,0 +1,229 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11907077</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1767</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>168</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Apr</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology (Baltimore, Md. : 1950)</Title>
+                <ISOAbbreviation>J. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TCR activation of human T cells induces the production of exosomes bearing the TCR/CD3/zeta complex.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3235-41</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We show in this study that human T cells purified from peripheral blood, T cell clones, and Jurkat T cells release microvesicles in the culture medium. These microvesicles have a diameter of 50-100 nm, are delimited by a lipidic bilayer membrane, and bear TCR beta, CD3epsilon, and zeta. This microvesicle production is regulated because it is highly increased upon TCR activation, whereas another mitogenic signal, such as PMA and ionomycin, does not induce any release. T cell-derived microvesicles also contain the tetraspan protein CD63, suggesting that they originate from endocytic compartments. They contain adhesion molecules such as CD2 and LFA-1, MHC class I and class II, and the chemokine receptor CXCR4. These transmembrane proteins are selectively sorted in microvesicles because CD28 and CD45, which are highly expressed at the plasma membrane, are not found. The presence of phosphorylated zeta in these microvesicles suggests that the CD3/TCR found in the microvesicles come from the pool of complexes that have been activated. Proteins of the transduction machinery, tyrosine kinases of the Src family, and c-Cbl are also observed in the T cell-derived microvesicles. Our data demonstrate that T lymphocytes produce, upon TCR triggering, vesicles whose morphology and phenotype are reminiscent of vesicles of endocytic origin produced by many cell types and called exosomes. Although the exact content of T cell-derived exosomes remains to be determined, we suggest that the presence of TCR/CD3 at their surface makes them powerful vehicles to specifically deliver signals to cells bearing the right combination of peptide/MHC complexes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Blanchard</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Institut National de la Santé et de la Recherche Médicale, Unité 520, Institut Curie, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lankar</LastName>
+                    <ForeName>Danielle</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faure</LastName>
+                    <ForeName>Florence</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Regnault</LastName>
+                    <ForeName>Armelle</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumont</LastName>
+                    <ForeName>Céline</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raposo</LastName>
+                    <ForeName>Graça</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hivroz</LastName>
+                    <ForeName>Claire</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Immunol</MedlineTA>
+            <NlmUniqueID>2985117R</NlmUniqueID>
+            <ISSNLinking>0022-1767</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD3E protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptor-CD3 Complex, Antigen, T-Cell</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Antigen, T-Cell</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>antigen T cell receptor, zeta chain</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Antigens, CD3</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell-Free System</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clone Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Jurkat Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Immunoelectron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor-CD3 Complex, Antigen, T-Cell</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Antigen, T-Cell</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transport Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11907077</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

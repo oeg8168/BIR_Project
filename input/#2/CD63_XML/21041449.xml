@@ -1,0 +1,470 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21041449</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-8140</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>191</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Nov</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of cell biology</Title>
+                <ISOAbbreviation>J. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Palmitoylation-dependent association with CD63 targets the Ca2+ sensor synaptotagmin VII to lysosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>599-613</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1083/jcb.201003021</ELocationID>
+            <Abstract>
+                <AbstractText>Syt VII is a Ca(2+) sensor that regulates lysosome exocytosis and plasma membrane repair. Because it lacks motifs that mediate lysosomal targeting, it is unclear how Syt VII traffics to these organelles. In this paper, we show that mutations or inhibitors that abolish palmitoylation disrupt Syt VII targeting to lysosomes, causing its retention in the Golgi complex. In macrophages, Syt VII is translocated simultaneously with the lysosomal tetraspanin CD63 from tubular lysosomes to nascent phagosomes in a Ca(2+)-dependent process that facilitates particle uptake. Mutations in Syt VII palmitoylation sites block trafficking of Syt VII, but not CD63, to lysosomes and phagosomes, whereas tyrosine replacement in the lysosomal targeting motif of CD63 causes both proteins to accumulate on the plasma membrane. Complexes of CD63 and Syt VII are detected only when Syt VII palmitoylation sites are intact. These findings identify palmitoylation-dependent association with the tetraspanin CD63 as the mechanism by which Syt VII is targeted to lysosomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Flannery</LastName>
+                    <ForeName>Andrew R</ForeName>
+                    <Initials>AR</Initials>
+                    <Affiliation>Department of Cell Biology and Molecular Genetics, University of Maryland, College Park, MD 20742, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czibener</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andrews</LastName>
+                    <ForeName>Norma W</ForeName>
+                    <Initials>NW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F32 GM082145</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM064625</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cell Biol</MedlineTA>
+            <NlmUniqueID>0375356</NlmUniqueID>
+            <ISSNLinking>0021-9525</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Syt7 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>134193-27-4</RegistryNumber>
+                <NameOfSubstance>Synaptotagmins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2009 Aug;110(4):1135-49</RefSource>
+                <PMID Version="1">19508429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Res. 2010 Feb;125(2):152-8</RefSource>
+                <PMID Version="1">19640571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunobiology. 2009 Jul;214(7):495-505</RefSource>
+                <PMID Version="1">19157638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2005 Nov;15(11):626-31</RefSource>
+                <PMID Version="1">16168654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jan 16;172(2):309-20</RefSource>
+                <PMID Version="1">16401723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Mar 24;341(4):1177-83</RefSource>
+                <PMID Version="1">16460687</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2006 Apr;1761(4):474-83</RefSource>
+                <PMID Version="1">16647879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jul 31;174(3):369-77</RefSource>
+                <PMID Version="1">16864653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2006 Sep;8(9):971-7</RefSource>
+                <PMID Version="1">16906144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Sep 25;174(7):997-1007</RefSource>
+                <PMID Version="1">16982801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Oct 24;103(43):15945-50</RefSource>
+                <PMID Version="1">17043215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2006 Dec;17(12):5153-62</RefSource>
+                <PMID Version="1">17021253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2007;2(5):1236-47</RefSource>
+                <PMID Version="1">17546019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem Cell Biol. 2007 Jun;127(6):625-32</RefSource>
+                <PMID Version="1">17277932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2007 Oct 26;362(3):658-64</RefSource>
+                <PMID Version="1">17720139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2008 Jan;22(1):194-206</RefSource>
+                <PMID Version="1">17709608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Feb 29;319(5867):1244-7</RefSource>
+                <PMID Version="1">18309083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Mar 11;105(10):3992-7</RefSource>
+                <PMID Version="1">18308938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 2008 Apr;86(5):1036-43</RefSource>
+                <PMID Version="1">18058942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Mar;13(3):1071-82</RefSource>
+                <PMID Version="1">11907283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Aug 16;277(33):30351-8</RefSource>
+                <PMID Version="1">12048209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Sep;13(9):3294-302</RefSource>
+                <PMID Version="1">12221133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Nov 25;159(4):625-35</RefSource>
+                <PMID Version="1">12438417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 Apr 1;116(Pt 7):1327-37</RefSource>
+                <PMID Version="1">12615974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2003 Jun 5;544(1-3):57-62</RefSource>
+                <PMID Version="1">12782290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Aug 18;162(4):543-9</RefSource>
+                <PMID Version="1">12925704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2003;72:395-447</RefSource>
+                <PMID Version="1">12651740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2003 Apr 25;304(1):160-6</RefSource>
+                <PMID Version="1">12705901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15560-5</RefSource>
+                <PMID Version="1">14660791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2004 Jan 8;41(1):85-99</RefSource>
+                <PMID Version="1">14715137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 May;15(5):2205-17</RefSource>
+                <PMID Version="1">14978216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Jun 4;304(5676):1515-8</RefSource>
+                <PMID Version="1">15178804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2004 Jul 1;117(Pt 15):3119-27</RefSource>
+                <PMID Version="1">15190121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2004 Oct 27;23(21):4166-76</RefSource>
+                <PMID Version="1">15470500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1981 Oct;91(1):257-69</RefSource>
+                <PMID Version="1">7298720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Jul 25;266(21):13548-52</RefSource>
+                <PMID Version="1">1856191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Jun 15;375(6532):594-9</RefSource>
+                <PMID Version="1">7791877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroscience. 1999;88(4):999-1003</RefSource>
+                <PMID Version="1">10336114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Nov 26;279(48):50524-36</RefSource>
+                <PMID Version="1">15355980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Dec 10;279(50):52677-84</RefSource>
+                <PMID Version="1">15456748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2004 Dec 16;44(6):977-86</RefSource>
+                <PMID Version="1">15603740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2004 Dec 20;167(6):1231-40</RefSource>
+                <PMID Version="1">15611341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2005 Apr 15;118(Pt 8):1641-9</RefSource>
+                <PMID Version="1">15784685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2005 Jun;288(6):C1279-86</RefSource>
+                <PMID Version="1">15647390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2005 Sep;23(3):249-62</RefSource>
+                <PMID Version="1">16169498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Oct;16(10):4755-64</RefSource>
+                <PMID Version="1">16093350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Apr;9(4):540-58</RefSource>
+                <PMID Version="1">18182005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2008;77:615-41</RefSource>
+                <PMID Version="1">18275379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2008 Jun;14(6):914-25</RefSource>
+                <PMID Version="1">18539119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Oct 15;112(8):3444-54</RefSource>
+                <PMID Version="1">18669870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2008 Nov;18(11):552-9</RefSource>
+                <PMID Version="1">18848451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Membr Biol. 2009 Jan;26(1):55-66</RefSource>
+                <PMID Version="1">19085289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Physiol. 2009 Mar 15;587(Pt 6):1169-78</RefSource>
+                <PMID Version="1">19171650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2009 Apr;1793(4):605-14</RefSource>
+                <PMID Version="1">19046998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1999 Nov;10(11):3979-90</RefSource>
+                <PMID Version="1">10564285</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Jan 7;275(1):261-70</RefSource>
+                <PMID Version="1">10617614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Mar 3;469(1):52-6</RefSource>
+                <PMID Version="1">10708755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 Mar 20;148(6):1141-49</RefSource>
+                <PMID Version="1">10725327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2000 Apr;113 ( Pt 8):1389-404</RefSource>
+                <PMID Version="1">10725222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Sep 8;275(36):28180-5</RefSource>
+                <PMID Version="1">10871604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Nov 17;275(46):36079-85</RefSource>
+                <PMID Version="1">10938083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2001 May;77(3):730-40</RefSource>
+                <PMID Version="1">11331402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2001 May 7;193(9):1097-104</RefSource>
+                <PMID Version="1">11342594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Jul 27;106(2):157-69</RefSource>
+                <PMID Version="1">11511344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Oct 26;276(43):40319-25</RefSource>
+                <PMID Version="1">11514560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Mar;13(3):767-81</RefSource>
+                <PMID Version="1">11907260</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipoylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptotagmins</DescriptorName>
+                <QualifierName MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3003310</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jcb.201003021</ArticleId>
+            <ArticleId IdType="doi">10.1083/jcb.201003021</ArticleId>
+            <ArticleId IdType="pubmed">21041449</ArticleId>
+            <ArticleId IdType="pmc">PMC3003310</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

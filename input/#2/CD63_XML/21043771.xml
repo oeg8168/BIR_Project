@@ -1,0 +1,100 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">21043771</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0953-7104</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Platelets</Title>
+                <ISOAbbreviation>Platelets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential Expression of Platelet Activation Markers CD62P and CD63 Following Stimulation with PAF, Arachidonic Acid and Collagen.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>394-401</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/09537109509078478</ELocationID>
+            <Abstract>
+                <AbstractText>The effects of varying concentrations of platelet-activating factor (PAF), arachidonic acid (AA) and collagen on the expression of the platelet activation markers CD63 and CD62P were assessed in 10 normal subjects using flow cytometry. CD63 expression was significantly greater than CD62P expression, with PAF (80 nM) inducing mean maximum CD63 expression of 32.9 ± 6.4% and mean maximum CD62P expression of 5.5 ± 1.8%. AA (1 mM) induced maximum CD63 expression of 37.7 ± 7% and maximum CD62P expression of 9.3 ± 1%. Collagen (2-80 pg/ml) induced minimal expression but 800 pg/ml induced mean CD63 expression of 33.1 ± 4.1% and mean CD62P expression of 6.1 ± 0.8%. Greater CD63 and CD62P expression were induced by phorbol myristate acetate (1.6 pM, 70.9 ± 11% and 69.4 ± 9.9%, respectively) and thrombin (0.1 U/ml, 70.7 ± 9.3% and 73.5 ± 5.4%, respectively). With PAF and collagen only one platelet population was detected whereas with 1 mM AA two populations were observed. These results indicate that expression of platelet adhesion receptors depends on the nature and concentration of agonist and that subpopulations of platelets may exist. Importantly, PAF concentrations inducing moderate CD63 and CD62P expression did not induce platelet aggregation, suggesting that platelets can be activated independently of aggregation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>M L</ForeName>
+                    <Initials>ML</Initials>
+                    <Affiliation>Thompson, Asthma and Allergy Research Unit, Department of Medicine, University of Western Australia, Queen Elizabeth II Medical Centre, Nedlands, WA, 6009, Australia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Misso</LastName>
+                    <ForeName>N L</ForeName>
+                    <Initials>NL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stewart</LastName>
+                    <ForeName>G A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thompson</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Platelets</MedlineTA>
+            <NlmUniqueID>9208117</NlmUniqueID>
+            <ISSNLinking>0953-7104</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/09537109509078478</ArticleId>
+            <ArticleId IdType="pubmed">21043771</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

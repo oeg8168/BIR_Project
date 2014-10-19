@@ -1,0 +1,155 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16837789</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1018-2438</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>141</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International archives of allergy and immunology</Title>
+                <ISOAbbreviation>Int. Arch. Allergy Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnostic tests based on human basophils: potentials, pitfalls and perspectives.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>79-90</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Human basophils are important tools for studying immediate-type hypersensitivity reactions since they release a variety of mediators (e.g., histamine, leukotriene C4, IL-4 and IL-13) following allergen triggering. Several diagnostic tools have been introduced that measure either leukotriene production or the upregulation of surface markers (CD63 and CD203c) from these cells after antigen stimulation. However, a broad variability in basophil activity exists between different basophil donors and different antigens within one donor. This manifests itself in terms of their reactivity (maximum secretory response), based on the intracellular signaling of the basophils studied, and in terms of their sensitivity. The latter is governed by the number of IgE receptors per basophil, the ratio of antigen-specific IgE to total IgE, and by the number of cell surface antigen-specific IgE molecules for half-maximal responses, termed 'intrinsic sensitivity'. These variables give rise to shifts in the dose-response curves which, in a diagnostic setting where only a single antigen concentration is employed, may produce false-negative data. Thus, in order to meaningfully utilize the current basophil activation tests for diagnostic purposes, each allergen should be pre-evaluated separately in order to determine a suitable stimulation range. Additionally, anti-IgE or anti-FcepsilonRIalpha antibodies should serve as positive controls, bearing in mind that 10-20% of basophil donors are not responsive to IgE-mediated stimulation. Diagnostic studies using CD63 or CD203c in hymenoptera, food and drug allergy are critically discussed. Basophil-based tests are indicated for allergy testing in selected cases but should only be performed by experienced laboratories.</AbstractText>
+                <CopyrightInformation>Copyright (c) 2006 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kleine-Tebbe</LastName>
+                    <ForeName>Jörg</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Allergy and Asthma Center Westend, Berlin, Germany. kleine-tebbe@allergie-experten.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erdmann</LastName>
+                    <ForeName>Stephan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knol</LastName>
+                    <ForeName>Edward F</ForeName>
+                    <Initials>EF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacGlashan</LastName>
+                    <ForeName>Donald W</ForeName>
+                    <Initials>DW</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poulsen</LastName>
+                    <ForeName>Lars K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gibbs</LastName>
+                    <ForeName>Bernhard F</ForeName>
+                    <Initials>BF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>07</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int Arch Allergy Immunol</MedlineTA>
+            <NlmUniqueID>9211652</NlmUniqueID>
+            <ISSNLinking>1018-2438</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Immunologic Tests</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>56</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">94495</ArticleId>
+            <ArticleId IdType="doi">10.1159/000094495</ArticleId>
+            <ArticleId IdType="pubmed">16837789</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

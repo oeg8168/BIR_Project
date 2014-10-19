@@ -1,0 +1,511 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17151103</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>03</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>81</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CD4 coexpression regulates DC-SIGN-mediated transmission of human immunodeficiency virus type 1.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2497-507</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Dendritic cells (DCs) potently stimulate the cell-cell transmission of human immunodeficiency virus type 1 (HIV-1). However, the mechanisms that underlie DC transmission of HIV-1 to CD4(+) T cells are not fully understood. DC-SIGN, a C-type lectin, efficiently promotes HIV-1 trans infection. DC-SIGN is expressed in monocyte-derived DCs (MDDCs), macrophage subsets, activated B lymphocytes, and various mucosal tissues. MDDC-mediated HIV-1 transmission to CD4(+) T cells involves DC-SIGN-dependent and -independent mechanisms. DC-SIGN transmission of HIV-1 depends on the donor cell type. HIV-1 Nef can upregulate DC-SIGN expression and promote DC-T-cell clustering and HIV-1 spread. Nef also downregulates CD4 expression; however, the effect of the CD4 downmodulation on DC-mediated HIV-1 transmission has not been examined. Here, we report that CD4 expression levels correlate with inefficient HIV-1 transmission by monocytic cells expressing DC-SIGN. Expression of CD4 on Raji B cells strongly impaired DC-SIGN-mediated HIV-1 transmission to T cells. By contrast, enhanced HIV-1 transmission was observed when CD4 molecules on MDDCs and DC-SIGN-CD4-expressing cell lines were blocked with specific antibodies. Coexpression of CD4 and DC-SIGN in Raji cells promoted the internalization and intracellular retention of HIV-1. Interestingly, internalized HIV-1 particles were sorted and confined to late endosomal compartments that were positive for CD63 and CD81. Furthermore, in HIV-1-infected MDDCs, significant downregulation of CD4 by Nef expression correlated with enhanced viral transmission. These results suggest that CD4, which is present at various levels in DC-SIGN-positive primary cells, is a key regulator of HIV-1 transmission.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jian-Hua</ForeName>
+                    <Initials>JH</Initials>
+                    <Affiliation>Department of Microbiology and Molecular Genetics, Medical College of Wisconsin, 8701 Watertown Plank Road, BSB 203, Milwaukee, WI 53226, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janas</LastName>
+                    <ForeName>Alicia M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olson</LastName>
+                    <ForeName>Wendy J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>KewalRamani</LastName>
+                    <ForeName>Vineet N</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI 068493</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI068493</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DC-specific ICAM-3 grabbing nonintegrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gene Products, nef</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lectins, C-Type</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>nef Gene Products, Human Immunodeficiency Virus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>nef protein, Human immunodeficiency virus 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1997 Dec;3(12):1369-75</RefSource>
+                <PMID Version="1">9396607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Oct;72(10):7992-8001</RefSource>
+                <PMID Version="1">9733838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Mar 19;392(6673):245-52</RefSource>
+                <PMID Version="1">9521319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 May;79(9):5386-99</RefSource>
+                <PMID Version="1">15827153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 May;79(9):5762-73</RefSource>
+                <PMID Version="1">15827191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2005 Apr 26;15(8):714-23</RefSource>
+                <PMID Version="1">15854903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Apr;72(4):2733-7</RefSource>
+                <PMID Version="1">9525591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2006 Nov;6(11):859-68</RefSource>
+                <PMID Version="1">17063186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1999 Jun 7;189(11):1735-46</RefSource>
+                <PMID Version="1">10359577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1999 Apr;168:51-63</RefSource>
+                <PMID Version="1">10399064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2004 Nov 15;200(10):1279-88</RefSource>
+                <PMID Version="1">15545354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Mar;74(5):2393-405</RefSource>
+                <PMID Version="1">10666270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Mar 3;100(5):575-85</RefSource>
+                <PMID Version="1">10721994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Mar 3;100(5):587-97</RefSource>
+                <PMID Version="1">10721995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2000 Aug 24;10(16):1005-8</RefSource>
+                <PMID Version="1">10985390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Apr 2;20(7):1593-604</RefSource>
+                <PMID Version="1">11285224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Jul;75(14):6710-3</RefSource>
+                <PMID Version="1">11413340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2001 Jul 20;286(1):225-36</RefSource>
+                <PMID Version="1">11448175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 Oct 15;98(8):2482-8</RefSource>
+                <PMID Version="1">11588046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Dec;75(24):12028-38</RefSource>
+                <PMID Version="1">11711593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2001 Dec;195(5):586-92</RefSource>
+                <PMID Version="1">11745695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Feb;76(4):1866-75</RefSource>
+                <PMID Version="1">11799181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2002 Jan;16(1):135-44</RefSource>
+                <PMID Version="1">11825572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2002 Jan;16(1):145-55</RefSource>
+                <PMID Version="1">11825573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Feb 5;99(3):1568-73</RefSource>
+                <PMID Version="1">11818554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Mar;76(6):2936-51</RefSource>
+                <PMID Version="1">11861860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2002 Mar;71(3):445-57</RefSource>
+                <PMID Version="1">11867682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 2002 Mar 29;16(5):683-92</RefSource>
+                <PMID Version="1">11964524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jun;76(12):5905-14</RefSource>
+                <PMID Version="1">12021323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Aug;76(15):7812-21</RefSource>
+                <PMID Version="1">12097593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Sep;76(18):9135-42</RefSource>
+                <PMID Version="1">12186897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2002 Oct;3(10):975-83</RefSource>
+                <PMID Version="1">12352970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Oct 15;169(8):4172-82</RefSource>
+                <PMID Version="1">12370346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2003 Feb;15(2):289-98</RefSource>
+                <PMID Version="1">12578859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 May 23;300(5623):1295-7</RefSource>
+                <PMID Version="1">12730499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Jul 8;100(14):8401-6</RefSource>
+                <PMID Version="1">12815099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2003 Oct;84(Pt 10):2705-13</RefSource>
+                <PMID Version="1">13679604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Dec;77(23):12865-74</RefSource>
+                <PMID Version="1">14610207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Feb;78(3):1375-83</RefSource>
+                <PMID Version="1">14722292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2004 Jan 5;318(1):17-23</RefSource>
+                <PMID Version="1">14972530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Mar 15;103(6):2170-9</RefSource>
+                <PMID Version="1">14630806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2003 Oct;1(1):25-34</RefSource>
+                <PMID Version="1">15040177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 May;164(5):1587-95</RefSource>
+                <PMID Version="1">15111305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Oct;78(20):10848-55</RefSource>
+                <PMID Version="1">15452205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 May 17;65(4):651-62</RefSource>
+                <PMID Version="1">2032289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Jul 17;257(5068):383-7</RefSource>
+                <PMID Version="1">1352913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Dec 18;258(5090):1938-41</RefSource>
+                <PMID Version="1">1470917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Aug 12;78(3):389-98</RefSource>
+                <PMID Version="1">7914836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1995 Jan 26;332(4):228-32</RefSource>
+                <PMID Version="1">7808489</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1995 Feb 1;206(2):935-44</RefSource>
+                <PMID Version="1">7531918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 May;69(5):3216-9</RefSource>
+                <PMID Version="1">7707554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 Nov 10;270(5238):988-91</RefSource>
+                <PMID Version="1">7481804</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Dec 1;182(6):2045-56</RefSource>
+                <PMID Version="1">7500050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1996 Mar;2(3):338-42</RefSource>
+                <PMID Version="1">8612235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2005 Jun;6(6):488-501</RefSource>
+                <PMID Version="1">15882445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Jun 20;201(12):2023-33</RefSource>
+                <PMID Version="1">15967828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Jul;79(14):8861-9</RefSource>
+                <PMID Version="1">15994779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Retrovirology. 2004;1:14</RefSource>
+                <PMID Version="1">15222882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Oct 1;175(7):4265-73</RefSource>
+                <PMID Version="1">16177066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jan 17;103(3):738-43</RefSource>
+                <PMID Version="1">16407131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Feb 1;176(3):1741-9</RefSource>
+                <PMID Version="1">16424204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Mar;80(6):2949-57</RefSource>
+                <PMID Version="1">16501104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Jun 16;125(6):1055-67</RefSource>
+                <PMID Version="1">16777597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Jan 22;391(6665):397-401</RefSource>
+                <PMID Version="1">9450757</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD4</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Products, nef</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, nef</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathogenicity</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lectins, C-Type</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Internalization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">nef Gene Products, Human Immunodeficiency Virus</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1865928</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.01970-06</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01970-06</ArticleId>
+            <ArticleId IdType="pubmed">17151103</ArticleId>
+            <ArticleId IdType="pmc">PMC1865928</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

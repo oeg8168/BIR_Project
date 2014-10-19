@@ -1,0 +1,144 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17071328</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>10</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>02</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0270-9295</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>26</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Seminars in nephrology</Title>
+                <ISOAbbreviation>Semin. Nephrol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular regulation and physiology of the H+,K+ -ATPases in kidney.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>345-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Two H(+), K(+)-adenosine triphosphatase (ATPase) proteins participate in K(+) absorption and H(+) secretion in the renal medulla. Both the gastric (HKalpha(1)) and colonic (HKalpha(2)) H(+),K(+)-ATPases have been localized and characterized by a number of techniques, and are known to be highly regulated in response to acid-base and electrolyte disturbances. Both ATPases are dimers of composition alpha/beta that localize to the apical membrane and both interact with the tetraspanin protein CD63. Although CD63 interacts with the carboxy-terminus of the alpha-subunit of the colonic H(+),K(+)-ATPase, it interacts with the beta-subunit of the gastric H(+),K(+)-ATPase. Pharmacologically, both ATPases are distinct; for example, the gastric H(+),K(+)-ATPase is inhibited by Sch-28080, but the colonic H(+),K(+)-ATPase is inhibited by ouabain (a classic inhibitor of the Na(+)-pump) and is completely insensitive to Sch-28080. The alpha-subunit of the colonic H(+),K(+)-ATPase is the only subunit of the X(+),K(+)-ATPase superfamily that has 3 different splice variants that emerge by deletion or elongation of the amino-terminus. The messenger RNA and protein of one of these splice variants (HKalpha(2C)) is specifically up-regulated in newborn rats and becomes undetectable in adult rats. Therefore, HKalpha(2), in addition to its role in potassium and acid-base homeostasis, appears to play a significant role in early growth and development. Finally, because chronic hypokalemia appears to be the most potent stimulus for upregulation of HKalpha(2), we propose that the HKalpha(2) participates importantly in the maintenance of chronic metabolic alkalosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Codina</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Section on Nephrology, Department of Internal Medicine, Wake Forest University Health Sciences, Winston-Salem, NC 27157, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DuBose</LastName>
+                    <ForeName>Thomas D</ForeName>
+                    <Initials>TD</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK 30603</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Semin Nephrol</MedlineTA>
+            <NlmUniqueID>8110298</NlmUniqueID>
+            <ISSNLinking>0270-9295</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Isoenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.3.10</RegistryNumber>
+                <NameOfSubstance>H(+)-K(+)-Exchanging ATPase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Colon</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">H(+)-K(+)-Exchanging ATPase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Isoenzymes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney Medulla</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stomach</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>54</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0270-9295(06)00080-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.semnephrol.2006.07.003</ArticleId>
+            <ArticleId IdType="pubmed">17071328</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

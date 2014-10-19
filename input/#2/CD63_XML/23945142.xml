@@ -1,0 +1,428 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23945142</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1550-6606</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>191</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Sep</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology (Baltimore, Md. : 1950)</Title>
+                <ISOAbbreviation>J. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The tetraspanin CD63 is required for efficient IgE-mediated mast cell degranulation and anaphylaxis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2871-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4049/jimmunol.1202323</ELocationID>
+            <Abstract>
+                <AbstractText>Mast cell (MC) activation through the high-affinity IgE receptor FcεRI leads to the release of mediators involved in immediate-type allergic reactions. Although Abs against the tetraspanins CD63 and CD81 inhibit FcεRI-induced MC degranulation, the intrinsic role of these molecules in FcεRI-induced MC activation is unknown. In MCs, CD63 is expressed at the cell surface and in lysosomes (particularly secretory lysosomes that contain allergic mediators). In this study, we investigated the role of CD63 in MC using a CD63 knockout mouse model. CD63-deficiency did not affect in vivo MC numbers and tissue distribution. Bone marrow-derived MC developed normally in the absence of CD63 protein. However, CD63-deficient bone marrow-derived MC showed a significant decrease in FcεRI-mediated degranulation, but not PMA/ionomycin-induced degranulation, as shown by β-hexosaminidase release assays. The secretion of TNF-α, which is both released from granules and synthesized de novo upon MC activation, was also decreased. IL-6 secretion and production of the lipid mediator leukotriene C??? were unaffected. There were no ultrastructural differences in granule content and morphology, late endosomal/lysosomal marker expression, FcεRI-induced global tyrosine phosphorylation, and Akt phosphorylation. Finally, local reconstitution in genetically MC-deficient Kit(w/w-v) mice was unaffected by the absence of CD63. However, the sites reconstituted with CD63-deficient MC developed significantly attenuated cutaneous anaphylactic reactions. These findings demonstrate that the absence of CD63 results in a significant decrease of MC degranulation, which translates into a reduction of acute allergic reactions in vivo, thus identifying CD63 as an important component of allergic inflammation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kraft</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Laboratory of Allergy and Immunology, Department of Pathology, Beth Israel Deaconess Medical Center, Boston, MA 02215, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jouvin</LastName>
+                    <ForeName>Marie-Hélène</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulkarni</LastName>
+                    <ForeName>Nitin</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kissing</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>Ellen S</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dvorak</LastName>
+                    <ForeName>Ann M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schröder</LastName>
+                    <ForeName>Bernd</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saftig</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kinet</LastName>
+                    <ForeName>Jean-Pierre</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI041087</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI41087</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Immunol</MedlineTA>
+            <NlmUniqueID>2985117R</NlmUniqueID>
+            <ISSNLinking>0022-1767</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2007 May;7(5):365-78</RefSource>
+                <PMID Version="1">17438574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2011 Oct 18;21(4):708-21</RefSource>
+                <PMID Version="1">21962903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2008 Mar;38(3):855-63</RefSource>
+                <PMID Version="1">18253931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Apr 1;111(7):3665-74</RefSource>
+                <PMID Version="1">18203950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Allergy Asthma Rep. 2008 Mar;8(1):14-20</RefSource>
+                <PMID Version="1">18377769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Aug 8;134(3):485-95</RefSource>
+                <PMID Version="1">18692471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Nov;9(11):1215-23</RefSource>
+                <PMID Version="1">18936782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Immunol. 2008 Nov;28(6):671-6</RefSource>
+                <PMID Version="1">18802742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2008 Dec;20(6):717-23</RefSource>
+                <PMID Version="1">18822373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Drug Discov. 2008 Sep;7(9):747-58</RefSource>
+                <PMID Version="1">18758472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2009 Feb;29(4):1083-94</RefSource>
+                <PMID Version="1">19075008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Sep;19(9):434-46</RefSource>
+                <PMID Version="1">19709882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2010 Jul;40(7):1843-51</RefSource>
+                <PMID Version="1">20583030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2012 Aug;13(8):1113-23</RefSource>
+                <PMID Version="1">22537104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Jan 2;22(1):109-20</RefSource>
+                <PMID Version="1">12505989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Nov 1;171(9):4830-6</RefSource>
+                <PMID Version="1">14568962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 1980 May;74(5):349-53</RefSource>
+                <PMID Version="1">6771334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1986 Feb;102(2):516-22</RefSource>
+                <PMID Version="1">3511074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 1988 Jul;25(7):647-61</RefSource>
+                <PMID Version="1">2971137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Jul 19;346(6281):274-6</RefSource>
+                <PMID Version="1">2374592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Jan 25;266(3):1903-9</RefSource>
+                <PMID Version="1">1703158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1991 Sep;88(3 Pt 1):328-38</RefSource>
+                <PMID Version="1">1716273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Jun 1;164(11):5850-7</RefSource>
+                <PMID Version="1">10820264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Aug 1;97(16):9186-90</RefSource>
+                <PMID Version="1">10908668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2000 Sep;113 ( Pt 18):3289-98</RefSource>
+                <PMID Version="1">10954426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Jan;114(Pt 2):323-34</RefSource>
+                <PMID Version="1">11148134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 2001 May;129(5):739-44</RefSource>
+                <PMID Version="1">11328596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Feb;3(2):122-31</RefSource>
+                <PMID Version="1">11836514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2002 Aug;3(8):741-8</RefSource>
+                <PMID Version="1">12089510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Nov 10;270(45):27311-8</RefSource>
+                <PMID Version="1">7592993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Aug 1;149(3):862-70</RefSource>
+                <PMID Version="1">1634775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cell Dev Biol. 2002 Aug;13(4):279-84</RefSource>
+                <PMID Version="1">12243727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 1996 Apr;109(4):383-9</RefSource>
+                <PMID Version="1">8634524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1997 Oct 20;186(8):1307-14</RefSource>
+                <PMID Version="1">9334370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1997 Dec;8(12):2631-45</RefSource>
+                <PMID Version="1">9398681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Aug 21;94(4):537-48</RefSource>
+                <PMID Version="1">9727496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Feb 7;201(3):385-96</RefSource>
+                <PMID Version="1">15684326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Feb 25;280(8):6610-20</RefSource>
+                <PMID Version="1">15611044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2010 Oct;65(10):1242-55</RefSource>
+                <PMID Version="1">20337613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 Nov 1;191(3):599-613</RefSource>
+                <PMID Version="1">21041449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2010 Dec 15;584(24):4941-8</RefSource>
+                <PMID Version="1">20851120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2011;716:14-28</RefSource>
+                <PMID Version="1">21713649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2011 Oct 1;439(1):113-28</RefSource>
+                <PMID Version="1">21692750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2011 Oct 13;118(15):4265-73</RefSource>
+                <PMID Version="1">21803846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Feb 19;105(7):2580-5</RefSource>
+                <PMID Version="1">18250339</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adoptive Transfer</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anaphylaxis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Antibody Technique, Indirect</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoblotting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS509476</OtherID>
+        <OtherID Source="NLM">PMC3780990</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jimmunol.1202323</ArticleId>
+            <ArticleId IdType="doi">10.4049/jimmunol.1202323</ArticleId>
+            <ArticleId IdType="pubmed">23945142</ArticleId>
+            <ArticleId IdType="pmc">PMC3780990</ArticleId>
+            <ArticleId IdType="mid">NIHMS509476</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

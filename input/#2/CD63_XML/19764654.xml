@@ -1,0 +1,164 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19764654</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-3771</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>51</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Tsitologiia</Title>
+                <ISOAbbreviation>Tsitologiia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Ubiquitination of EGF receptors with C-terminal domain deletion and point mutations during endocytosis].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>617-23</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Analysis of ubiquitination of EGF receptor carrying different mutations of C-terminal domain was done. The mutants differed both by the set of major autophosphorylation sites that determine the way of interaction with ubiquitin-ligase c-Cbl, and by the presence of lysine residues which can be possible acceptor sites for ubiquitin. It was found that the receptor lacking tyrosine kinase activity due to lysine for phenylalanine substitution at ATP-binding site of tyrosine kinase (TK) domain (K721) failed to be ubiquitinated as well as the receptor without all binding sites for c-Cbl (CD165), while dynamics and pattern of ubiquitination of other deletion mutants was significantly different. The mutant lacking Grb2 binding sites but able to bind c-Cbl directly (CD123) was minimally ubiquitinated and only at early stages upon EGF endocytosis stimulation. At the same time, the receptor possessing all binding sites for Cbl but lacking C-terminal domain of 63 aminoacid residues (CD63) which contains two autophosphorylation sites (Y1148 and 1173) and 4 lysines, was less ubiquitinated and had more low-ubiquitinated forms comparing to the WT one. However, these lysines are not acceptor sites for ubiquitin since the full-size receptor lacking like CD63 the same major autophosphorylation sites underwent ubiquitination similar to the deletion mutant. Thus, C-terminal region of the EGF receptor, being not a substrate for ubiquitination per se, is involved in its regulation. It was also found that ubiquitination pattern at fast endocytosis differed from those at slow one. In the first case the total level of EGFR decreased dramatically as a result of efficient lysosomal degradation. The level of receptor-associated c-Cbl was practically the same, while the total intracellular c-Cbl dropped. Treatment of cells with proteasomal inhibition MG132 blocked the loss of Cbl only partially. In the second case, total amount of both EGF receptor and c-Cbl did not notably change that suggested recycling pathway for receptors even despite them beeng ubiquitinated.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kondratov</LastName>
+                    <ForeName>K A</ForeName>
+                    <Initials>KA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melikova</LastName>
+                    <ForeName>M S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chernorudskiĭ</LastName>
+                    <ForeName>A L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kornilova</LastName>
+                    <ForeName>E S</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Tsitologiia</MedlineTA>
+            <NlmUniqueID>0417363</NlmUniqueID>
+            <ISSNLinking>0041-3771</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ubiquitin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor, Epidermal Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.-</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-cbl</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">NIH 3T3 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Point Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-cbl</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, Epidermal Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ubiquitin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Ubiquitination</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19764654</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

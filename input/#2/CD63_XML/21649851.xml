@@ -1,0 +1,431 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21649851</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-7836</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of thrombosis and haemostasis : JTH</Title>
+                <ISOAbbreviation>J. Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hyperthermia inhibits platelet hemostatic functions and selectively regulates the release of alpha-granule proteins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1562-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1538-7836.2011.04394.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Hyperthermia is one of the main disturbances of homeostasis occurring during sepsis or hypermetabolic states such as cancer. Platelets are important mediators of the inflammation that accompanies these processes, but very little is known about the changes in platelet function that occur at different temperatures.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To explore the effect of higher temperatures on platelet physiology.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Platelet responses including adhesion, spreading (fluorescence microscopy), α(IIb)β(3) activation (flow cytometry), aggregation (turbidimetry), ATP release (luminescence), thromboxane A(2) generation, alpha-granule protein secretion (ELISA) and protein phosphorylation from different signaling pathways (immunoblotting) were studied.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Preincubation of platelets at temperatures higher than 37 °C (38.5-42 °C) inhibited thrombin-induced hemostasis, including platelet adhesion, aggregation, ATP release and thromboxane A(2) generation. The expression of P-selectin and CD63, as well as vascular endothelial growth factor (VEGF) release, was completely inhibited by hyperthermia, whereas von Willebrand factor (VWF) and endostatin levels remained substantially increased at high temperatures. This suggested that release of proteins from platelet granules is modulated not only by classical platelet agonists but also by microenvironmental factors. The observed gradation of response involved not only antiangiogenesis regulators, but also other cargo proteins. Some signaling pathways were more stable than others. While ERK1/2 and AKT phosphorylation were resistant to changes in temperature, Src, Syk, p38 phosphorylation and IkappaB degradation were decreased in a temperature-dependent fashion.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Higher temperatures, such as those observed with fever or tissue invasion, inhibit the hemostatic functions of platelets and selectively regulate the release of alpha-granule proteins.</AbstractText>
+                <CopyrightInformation>© 2011 International Society on Thrombosis and Haemostasis.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Etulain</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Thrombosis I Laboratory, National Academy of Medicine, CONICET, Buenos Aires, Argentina.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lapponi</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patrucchi</LastName>
+                    <ForeName>S J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Romaniuk</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benzadón</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klement</LastName>
+                    <ForeName>G L</ForeName>
+                    <Initials>GL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Negrotto</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schattner</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM093050</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM093050</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM093050-01A1</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Thromb Haemost</MedlineTA>
+            <NlmUniqueID>101170508</NlmUniqueID>
+            <ISSNLinking>1538-7836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57576-52-0</RegistryNumber>
+                <NameOfSubstance>Thromboxane A2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.-</RegistryNumber>
+                <NameOfSubstance>Protein Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2010 Aug 19;116(7):1147-56</RefSource>
+                <PMID Version="1">20439620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2009 Jul;7 Suppl 1:195-9</RefSource>
+                <PMID Version="1">19630799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MMWR Morb Mortal Wkly Rep. 2000 Jun 2;49(21):470-3</RefSource>
+                <PMID Version="1">10882294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Platelets. 2000 Feb;11(1):6-22</RefSource>
+                <PMID Version="1">10938876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 May 22;98(11):6470-5</RefSource>
+                <PMID Version="1">11353854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2002 Jun 20;346(25):1978-88</RefSource>
+                <PMID Version="1">12075060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Sep 12;301(5639):1531-4</RefSource>
+                <PMID Version="1">12970565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2004 Apr;32(Pt 2):387-92</RefSource>
+                <PMID Version="1">15046614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2004 Jun;56(6):1221-8</RefSource>
+                <PMID Version="1">15211129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Sep 15;104(6):1606-15</RefSource>
+                <PMID Version="1">15205259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2004 Aug;57(2):216-23</RefSource>
+                <PMID Version="1">15345964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 1974 Mar;26(3):373-89</RefSource>
+                <PMID Version="1">4854896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1991 Nov 16;338(8777):1223-6</RefSource>
+                <PMID Version="1">1682642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1992 Jul 1;80(1):143-52</RefSource>
+                <PMID Version="1">1377048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 1994 May;71(5):633-40</RefSource>
+                <PMID Version="1">7522354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 1998 Jul 27;83(2):117-32</RefSource>
+                <PMID Version="1">9686751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Oct 30;273(44):28766-72</RefSource>
+                <PMID Version="1">9786874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Jan 4;102(1):216-20</RefSource>
+                <PMID Version="1">15615851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2005 Jul;25(7):1321-4</RefSource>
+                <PMID Version="1">15831808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2006;11:830-7</RefSource>
+                <PMID Version="1">16146774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anesth Analg. 2006 Apr;102(4):1280-4</RefSource>
+                <PMID Version="1">16551937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Jun 1;107(11):4399-406</RefSource>
+                <PMID Version="1">16467203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2007;13(10):995-1001</RefSource>
+                <PMID Version="1">17430163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Oncol (R Coll Radiol). 2007 Aug;19(6):418-26</RefSource>
+                <PMID Version="1">17493790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2007 Jul;5 Suppl 1:203-11</RefSource>
+                <PMID Version="1">17635728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2007 Oct;5(10):2009-16</RefSource>
+                <PMID Version="1">17650077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2007 Dec;98(6):1266-75</RefSource>
+                <PMID Version="1">18064324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Feb 1;111(3):1227-33</RefSource>
+                <PMID Version="1">17962514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2008 Jun;28(6):1130-6</RefSource>
+                <PMID Version="1">18388331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Jun 1;111(11):5271-81</RefSource>
+                <PMID Version="1">18502843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Hematol Disord Drug Targets. 2008 Jun;8(2):99-117</RefSource>
+                <PMID Version="1">18537597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Res. 2008;123(2):324-30</RefSource>
+                <PMID Version="1">18694587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2008 Dec;6(12):2007-16</RefSource>
+                <PMID Version="1">18826389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cardiol. 2009 Mar 6;132(3):444-6</RefSource>
+                <PMID Version="1">18164083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Mar 19;113(12):2835-42</RefSource>
+                <PMID Version="1">19036702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Gerontol. 2009 Jun-Jul;44(6-7):406-12</RefSource>
+                <PMID Version="1">19298849</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Jul 15;69(14):5623-6</RefSource>
+                <PMID Version="1">19584268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2009 Aug;7(8):1333-43</RefSource>
+                <PMID Version="1">19566544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2009 Nov;15(11):1273-80</RefSource>
+                <PMID Version="1">19783995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2010 Mar;30(3):591-8</RefSource>
+                <PMID Version="1">20042710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Microbiol. 2010 Mar;5(3):471-506</RefSource>
+                <PMID Version="1">20210555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jun 11;285(24):18352-63</RefSource>
+                <PMID Version="1">20356841</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2010 Dec 15;432(3):535-47</RefSource>
+                <PMID Version="1">20858220</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fever</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hemostasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nephelometry and Turbidimetry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Adhesiveness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Secretory Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thromboxane A2</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS302799</OtherID>
+        <OtherID Source="NLM">PMC3155010</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1538-7836.2011.04394.x</ArticleId>
+            <ArticleId IdType="pubmed">21649851</ArticleId>
+            <ArticleId IdType="pmc">PMC3155010</ArticleId>
+            <ArticleId IdType="mid">NIHMS302799</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

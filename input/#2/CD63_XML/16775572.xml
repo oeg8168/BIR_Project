@@ -1,0 +1,199 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16775572</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>08</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0090-3493</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical care medicine</Title>
+                <ISOAbbreviation>Crit. Care Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of recombinant activated protein C and low-dose heparin on neutrophil-endothelial cell interactions in septic shock.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2207-12</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To examine the effects of recombinant activated protein C (rhAPC) and low-dose heparin on neutrophil-platelet-endothelial cell interactions in septic shock.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Controlled experiments using phase contrast microscopy to study neutrophil, platelet, and endothelial cell interactions in flowing cell suspensions under simulated physiologic conditions.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">University research laboratory.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Adult patients with septic shock and normal volunteers.</AbstractText>
+                <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">Neutrophils and platelets removed from control subjects were stimulated with plasma and serum from 21 patients in septic shock and perfused over endothelial cells. Activated protein C, low-dose heparin, and low-dose heparin with rhAPC were added to cells suspended in septic plasma. Neutrophil rolling velocity and the number of neutrophils adherent to endothelial cells and in aggregates were determined. Flow cytometric analysis of CD11b/CD63 cells was used to identify platelet-neutrophil aggregates.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Activated protein C significantly decreased neutrophil adhesion and aggregation and increased rolling velocity in cells stimulated with both septic serum and septic plasma. Significant decreases in platelet-neutrophil aggregates induced by septic plasma were also observed. Low-dose heparin alone had no effects on these variables. The addition of low-dose heparin to cells suspended in septic plasma and rhAPC attenuated the benefits observed with rhAPC alone in each of these variables.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data suggest that the in vitro addition of rhAPC decreases sepsis-induced interactions between isolated platelets, neutrophils, and endothelial cells. Low-dose heparin attenuates the benefits observed with rhAPC. The changes in neutrophil-endothelial cell interactions demonstrated with rhAPC may play a role in preserving microvascular patency in patients with septic shock.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kirschenbaum</LastName>
+                    <ForeName>Linda A</ForeName>
+                    <Initials>LA</Initials>
+                    <Affiliation>Department of Medicine, New York Medical College, Valhalla, New York, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopez</LastName>
+                    <ForeName>Wilma Correa</ForeName>
+                    <Initials>WC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ohrum</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsen</LastName>
+                    <ForeName>Anita</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khazin</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Astiz</LastName>
+                    <ForeName>Mark E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Crit Care Med</MedlineTA>
+            <NlmUniqueID>0355501</NlmUniqueID>
+            <ISSNLinking>0090-3493</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein C</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-49-6</RegistryNumber>
+                <NameOfSubstance>Heparin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Crit Care Med. 2006 Aug;34(8):2256-7</RefSource>
+                <PMID Version="1">16883202</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anticoagulants</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heparin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein C</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Shock, Septic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.CCM.0000229880.41513.86</ArticleId>
+            <ArticleId IdType="pubmed">16775572</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

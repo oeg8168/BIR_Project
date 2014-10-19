@@ -1,0 +1,232 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17306868</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0049-3848</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>120</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of physiologic shear stresses and calcium on agonist-induced platelet aggregation, secretion, and thromboxane A2 formation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>885-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Platelets in vivo react under low-shear venous-flow as well as high-shear arterial-flow conditions. Because most studies were carried out at low shear stresses, platelet granule secretion at high shear has not been examined thoroughly. We investigated the secretion of all three types of platelet granules and thromboxane A(2) formation at high shear after stimulation with ADP or thrombin.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Washed human platelets were reacted rapidly (&lt;5 s) in a quenched-flow system simulating high-shear arterial-flow conditions (30 dyn/cm(2)). For comparison, we employed a low-shear stirring system (1-5 dyn/cm(2)). Serotonin release and membrane exposure of P-selectin (alpha), CD63 (dense), and CD107a (lysosomes) were used to assess granule secretion. Aggregation was evaluated by resistive-particle counting of the remaining platelet singlets.</AbstractText>
+                <AbstractText Label="RESULTS AND CONCLUSIONS" NlmCategory="CONCLUSIONS">ADP and thrombin induced similar strong levels of aggregation ( approximately 70%) at high shear by 5 s. Thrombin also caused release of about 40% of all alpha and dense granules within 5 s. However, by 5 s at high shear, ADP failed to induce significant granule secretion or thromboxane A(2) formation (&lt;5%, p&gt;0.05). By 10 min at low shear, ADP caused secretion and thromboxane A(2) formation only at non-physiological, micromolar extracellular Ca(2+) concentrations. These results emphasize the ability of thrombin to initiate multiple aspects of platelet function within seconds, while ADP was only able to induce rapid aggregation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Viisoreanu</LastName>
+                    <ForeName>Delia</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Department of Biochemistry and Molecular Genetics, University of Virginia School of Medicine, Charlottesville, VA 22908, USA. dv9x@virginia.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gear</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>02</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hemostatics</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2968PHW8QP</RegistryNumber>
+                <NameOfSubstance>Citric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>333DO1RDJY</RegistryNumber>
+                <NameOfSubstance>Serotonin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>57576-52-0</RegistryNumber>
+                <NameOfSubstance>Thromboxane A2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>61D2G4IYVH</RegistryNumber>
+                <NameOfSubstance>Adenosine Diphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance>Protein Kinase C-delta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Diphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anticoagulants</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Citric Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemostatics</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet-Rich Plasma</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Kinase C-delta</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Secretory Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serotonin</DescriptorName>
+                <QualifierName MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stress, Mechanical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thromboxane A2</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0049-3848(07)00036-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thromres.2007.01.007</ArticleId>
+            <ArticleId IdType="pubmed">17306868</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

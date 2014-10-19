@@ -1,0 +1,566 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20352044</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutations in CHMP2B in lower motor neuron predominant amyotrophic lateral sclerosis (ALS).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e9872</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0009872</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Amyotrophic lateral sclerosis (ALS), a common late-onset neurodegenerative disease, is associated with fronto-temporal dementia (FTD) in 3-10% of patients. A mutation in CHMP2B was recently identified in a Danish pedigree with autosomal dominant FTD. Subsequently, two unrelated patients with familial ALS, one of whom also showed features of FTD, were shown to carry missense mutations in CHMP2B. The initial aim of this study was to determine whether mutations in CHMP2B contribute more broadly to ALS pathogenesis.</AbstractText>
+                <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">Sequencing of CHMP2B in 433 ALS cases from the North of England identified 4 cases carrying 3 missense mutations, including one novel mutation, p.Thr104Asn, none of which were present in 500 neurologically normal controls. Analysis of clinical and neuropathological data of these 4 cases showed a phenotype consistent with the lower motor neuron predominant (progressive muscular atrophy (PMA)) variant of ALS. Only one had a recognised family history of ALS and none had clinically apparent dementia. Microarray analysis of motor neurons from CHMP2B cases, compared to controls, showed a distinct gene expression signature with significant differential expression predicting disassembly of cell structure; increased calcium concentration in the ER lumen; decrease in the availability of ATP; down-regulation of the classical and p38 MAPK signalling pathways, reduction in autophagy initiation and a global repression of translation. Transfection of mutant CHMP2B into HEK-293 and COS-7 cells resulted in the formation of large cytoplasmic vacuoles, aberrant lysosomal localisation demonstrated by CD63 staining and impairment of autophagy indicated by increased levels of LC3-II protein. These changes were absent in control cells transfected with wild-type CHMP2B.</AbstractText>
+                <AbstractText Label="CONCLUSIONS/SIGNIFICANCE" NlmCategory="CONCLUSIONS">We conclude that in a population drawn from North of England pathogenic CHMP2B mutations are found in approximately 1% of cases of ALS and 10% of those with lower motor neuron predominant ALS. We provide a body of evidence indicating the likely pathogenicity of the reported gene alterations. However, absolute confirmation of pathogenicity requires further evidence, including documentation of familial transmission in ALS pedigrees which might be most fruitfully explored in cases with a LMN predominant phenotype.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cox</LastName>
+                    <ForeName>Laura E</ForeName>
+                    <Initials>LE</Initials>
+                    <Affiliation>Department of Neuroscience, University of Sheffield, Sheffield, South Yorkshire, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferraiuolo</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodall</LastName>
+                    <ForeName>Emily F</ForeName>
+                    <Initials>EF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heath</LastName>
+                    <ForeName>Paul R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higginbottom</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mortiboys</LastName>
+                    <ForeName>Heather</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hollinger</LastName>
+                    <ForeName>Hannah C</ForeName>
+                    <Initials>HC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartley</LastName>
+                    <ForeName>Judith A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brockington</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burness</LastName>
+                    <ForeName>Christine E</ForeName>
+                    <Initials>CE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrison</LastName>
+                    <ForeName>Karen E</ForeName>
+                    <Initials>KE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wharton</LastName>
+                    <ForeName>Stephen B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grierson</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ince</LastName>
+                    <ForeName>Paul G</ForeName>
+                    <Initials>PG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kirby</LastName>
+                    <ForeName>Janine</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaw</LastName>
+                    <ForeName>Pamela J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>069388/Z/02/Z</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0400074</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0502157</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0900652</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CHMP2B protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Endosomal Sorting Complexes Required for Transport</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nerve Tissue Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Neurol. 2007 May;61(5):427-34</RefSource>
+                <PMID Version="1">17469116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Genet. 2007;8:23</RefSource>
+                <PMID Version="1">17456229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Jun 1;282(22):16599-611</RefSource>
+                <PMID Version="1">17409386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 2004 Nov;75(5):822-31</RefSource>
+                <PMID Version="1">15372378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 Nov;165(5):1701-18</RefSource>
+                <PMID Version="1">15509539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Mar;87(5):1663-7</RefSource>
+                <PMID Version="1">1689846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 1991 Nov;54(11):993-6</RefSource>
+                <PMID Version="1">1800672</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1993 Jul 22;364(6435):362</RefSource>
+                <PMID Version="1">8332197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Probes. 1994 Aug;8(4):329-30</RefSource>
+                <PMID Version="1">7870076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1995 May;10(1):61-6</RefSource>
+                <PMID Version="1">7647793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 1997 Jun;62(6):562-9</RefSource>
+                <PMID Version="1">9219739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurochem Int. 2007 Jul-Sep;51(2-4):74-84</RefSource>
+                <PMID Version="1">17566607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2007 Aug 22;27(34):9201-19</RefSource>
+                <PMID Version="1">17715356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2007 Sep 18;17(18):1561-7</RefSource>
+                <PMID Version="1">17683935</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2007 Nov 5;179(3):485-500</RefSource>
+                <PMID Version="1">17984323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2008 Jan 15;17(2):170-8</RefSource>
+                <PMID Version="1">17921520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2008 Jan 15;17(2):313-22</RefSource>
+                <PMID Version="1">17956895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2008 Feb;4(2):151-75</RefSource>
+                <PMID Version="1">18188003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2008 Feb;19(2):668-81</RefSource>
+                <PMID Version="1">18077553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiology (Bethesda). 2008 Apr;23:84-94</RefSource>
+                <PMID Version="1">18400691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(6):e2450</RefSource>
+                <PMID Version="1">18545701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Jul 27;106(2):145-55</RefSource>
+                <PMID Version="1">11511343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Nov 30;294(5548):1942-5</RefSource>
+                <PMID Version="1">11729323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2001 Dec;25(4):402-8</RefSource>
+                <PMID Version="1">11846609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pflugers Arch. 2002 Aug;444(5):644-53</RefSource>
+                <PMID Version="1">12194018</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2002 Aug;3(2):271-82</RefSource>
+                <PMID Version="1">12194857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2003 Apr 22;60(8):1252-8</RefSource>
+                <PMID Version="1">12707426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2003 Apr;11(4):895-904</RefSource>
+                <PMID Version="1">12718876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2003;4(5):P3</RefSource>
+                <PMID Version="1">12734009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Jul 15;22(14):3664-74</RefSource>
+                <PMID Version="1">12853481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jul 25;278(30):27828-35</RefSource>
+                <PMID Version="1">12740362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 2008;31:151-73</RefSource>
+                <PMID Version="1">18558852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2008 Jul;79(7):849-50</RefSource>
+                <PMID Version="1">18270236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Phys Med Rehabil Clin N Am. 2008 Aug;19(3):429-39, vii</RefSource>
+                <PMID Version="1">18625408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Mol Sci. 2009 Jan;10(1):232-46</RefSource>
+                <PMID Version="1">19333444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Aging. 2009 Aug;30(8):1329-31</RefSource>
+                <PMID Version="1">18068872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2009 Jul;5(5):585-9</RefSource>
+                <PMID Version="1">19411822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2009 Jul 1;29(26):8506-11</RefSource>
+                <PMID Version="1">19571141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2009 Oct;5(7):1070-2</RefSource>
+                <PMID Version="1">19738424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mutat. 2010 Feb;31(2):E1126-40</RefSource>
+                <PMID Version="1">20020531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2010 May;81(5):562-6</RefSource>
+                <PMID Version="1">19965850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2004 Apr 15;295(1):173-82</RefSource>
+                <PMID Version="1">15051500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2004 Apr 21;23(8):1761-9</RefSource>
+                <PMID Version="1">15071500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2004 Jun;68(2):320-44</RefSource>
+                <PMID Version="1">15187187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2004 Aug;24(15):6539-49</RefSource>
+                <PMID Version="1">15254222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2004 Aug 15;18(16):1926-45</RefSource>
+                <PMID Version="1">15314020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Neurol. 1997 Nov;42(5):803-7</RefSource>
+                <PMID Version="1">9392581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Jun 1;17(11):2982-93</RefSource>
+                <PMID Version="1">9606181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2005 Aug;76(8):1046-57</RefSource>
+                <PMID Version="1">16024877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2005 Aug;37(8):806-8</RefSource>
+                <PMID Version="1">16041373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Aug 5;280(31):28251-64</RefSource>
+                <PMID Version="1">15946946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Calcium. 2005 Sep-Oct;38(3-4):409-15</RefSource>
+                <PMID Version="1">16087231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 Nov 18;123(4):569-80</RefSource>
+                <PMID Version="1">16286006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2006 Jan 15;15(2):233-50</RefSource>
+                <PMID Version="1">16321985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Neurol. 2006 Mar;59(3):570-4</RefSource>
+                <PMID Version="1">16358336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Lett. 2006 May 1;398(1-2):83-4</RefSource>
+                <PMID Version="1">16431024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Sci. 2006 Jul 15;246(1-2):21-30</RefSource>
+                <PMID Version="1">16545397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Jun 15;441(7095):885-9</RefSource>
+                <PMID Version="1">16625204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Jun 15;441(7095):880-4</RefSource>
+                <PMID Version="1">16625205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Jun 21;25(12):2781-91</RefSource>
+                <PMID Version="1">16763566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 Aug 24;442(7105):916-9</RefSource>
+                <PMID Version="1">16862116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2006;7(6):224</RefSource>
+                <PMID Version="1">16938900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurology. 2006 Sep 26;67(6):1074-7</RefSource>
+                <PMID Version="1">16807408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2006 Dec 22;351(3):602-11</RefSource>
+                <PMID Version="1">17084815</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2007 Jan-Feb;3(1):57-9</RefSource>
+                <PMID Version="1">17102581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Neurol. 2007 Apr;6(4):352-61</RefSource>
+                <PMID Version="1">17362839</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amyotrophic Lateral Sclerosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">COS Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cercopithecus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomal Sorting Complexes Required for Transport</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N" Type="Geographic">England</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Motor Neurons</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation, Missense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nerve Tissue Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neurodegenerative Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spinal Cord</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2844426</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0009872</ArticleId>
+            <ArticleId IdType="pubmed">20352044</ArticleId>
+            <ArticleId IdType="pmc">PMC2844426</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,199 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">25241362</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>9</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1556-5653</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fertility and sterility</Title>
+                <ISOAbbreviation>Fertil. Steril.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular characterization of?�exosomes and their microRNA cargo in human follicular fluid: bioinformatic analysis reveals that exosomal microRNAs control pathways involved in follicular maturation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">S0015-0282(14)02064-0</ELocationID>
+            <ELocationID EIdType="doi">10.1016/j.fertnstert.2014.08.005</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To characterize well-represented microRNAs in human follicular fluid (FF) and to ascertain whether they are cargo of FF exosomes and whether they are involved in the regulation of follicle maturation.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">FF exosomes were characterized by nanosight, flow cytometry, and exosome-specific surface markers. Expression microRNA profiles from total and exosomal FF were compared with those from plasma of the same women.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">University laboratory and an IVF center.</AbstractText>
+                <AbstractText Label="PATIENT(S)" NlmCategory="METHODS">Fifteen healthy women who had undergone intracytoplasmic sperm injection.</AbstractText>
+                <AbstractText Label="INTERVENTION(S)" NlmCategory="METHODS">None.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURE(S)" NlmCategory="METHODS">TaqMan low-density array to investigate the expression profile of 384 microRNAs; DataAssist and geNorm for endogenous control identification; significance analysis of microarrays to identify differentially expressed microRNAs; nanosight, flow-cytometry, and bioanalyzer for exosome characterization; bioinformatic tools for microRNAs target prediction, gene ontology, and pathway analysis.</AbstractText>
+                <AbstractText Label="RESULT(S)" NlmCategory="RESULTS">We identified 37 microRNAs upregulated in FF as compared with plasma from the same women. Thirty-two were carried by microvesicles that showed the well-characterized exosomal markers CD63 and CD81. These FF microRNAs are involved in critically important pathways for follicle growth and oocyte maturation. Specifically, nine of them target and negatively regulate mRNAs expressed in the follicular microenvironment encoding inhibitors of follicle maturation and meiosis resumption.</AbstractText>
+                <AbstractText Label="CONCLUSION(S)" NlmCategory="CONCLUSIONS">This study identified a series of exosomal microRNAs that are highly represented in human FF and are involved in follicular maturation. They could represent noninvasive biomarkers of oocyte quality in assisted reproductive technology.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 American Society for Reproductive Medicine. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Santonocito</LastName>
+                    <ForeName>Manuela</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Vento</LastName>
+                    <ForeName>Marilena</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Servizio di PMA/Azienda Ospedaliera Cannizzaro, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Guglielmino</LastName>
+                    <ForeName>Maria Rosa</ForeName>
+                    <Initials>MR</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Battaglia</LastName>
+                    <ForeName>Rosalia</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Wahlgren</LastName>
+                    <ForeName>Jessica</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Department of Rheumatology and Inflammation Research, University of Gothenburg, Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Ragusa</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Barbagallo</LastName>
+                    <ForeName>Davide</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Borzì</LastName>
+                    <ForeName>Placido</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Servizio di PMA/Azienda Ospedaliera Cannizzaro, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Rizzari</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Servizio di PMA/Azienda Ospedaliera Cannizzaro, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Maugeri</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Scollo</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Servizio di PMA/Azienda Ospedaliera Cannizzaro, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Tatone</LastName>
+                    <ForeName>Carla</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Department of Life, Health and Environmental Sciences, University of L'Aquila, L'Aquila, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Valadi</LastName>
+                    <ForeName>Hadi</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Department of Rheumatology and Inflammation Research, University of Gothenburg, Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Purrello</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Di Pietro</LastName>
+                    <ForeName>Cinzia</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Department Gian Filippo Ingrassia, Biologia Cellulare e Molecolare, Genetica, Genomica Giovanni Sichel, Universit?? di Catania, Catania, Italy. Electronic address: dipietro@unict.it.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Fertil Steril</MedlineTA>
+            <NlmUniqueID>0372772</NlmUniqueID>
+            <ISSNLinking>0015-0282</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Follicular fluid</Keyword>
+            <Keyword MajorTopicYN="N">exosomes</Keyword>
+            <Keyword MajorTopicYN="N">intrafollicle molecular communication</Keyword>
+            <Keyword MajorTopicYN="N">microRNA profile</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0015-0282(14)02064-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.fertnstert.2014.08.005</ArticleId>
+            <ArticleId IdType="pubmed">25241362</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

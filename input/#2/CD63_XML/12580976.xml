@@ -1,0 +1,168 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12580976</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1048</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>120</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of haematology</Title>
+                <ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hemolink, an o-raffinose cross-linked haemoglobin-based oxygen carrier, does not affect activation and function of human platelets in whole blood in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>535-41</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Haemoglobin-based oxygen carriers (HBOCs) are anticipated to be safe and efficient alternatives to RBC transfusions. Haemoglobin (Hb) raffimer (Hemolink; Hemosol, Toronto, ON, Canada) is polymerized human Hb, cross-linked with o-raffinose. As administration of cell-free Hb may affect blood cells and tissues, this study was focused on evaluating effects of Hb raffimer on human platelets in whole blood in vitro. Citrated blood from healthy donors was incubated with Hb raffimer to achieve raffimer concentrations of 2-50 vol percentage (2-50 g/l). Platelet activation, phosphatidylserine exposure and microparticle generation were measured by flow cytometry. Aperture closure time on collagen/ADP- and collagen/epinephrine-coated membranes was determined by a platelet function analyser (PFA-100). We found that addition of Hb raffimer to blood samples up to 50 vol % did not affect human platelets as measured by various markers of platelet activation (CD42b, CD41, PAC-1, CD62, CD63), procoagulant activity (annexin V) and microparticle formation; differences between Hb raffimer- and lactated Ringer's-diluted blood were not significant. Similarly, no adverse effect of Hb raffimer on closure time was observed at concentrations up to 50 vol %, in comparison with Ringer's solution. These data indicate that exposure of human blood to high concentrations of Hb raffimer in vitro did not cause platelet activation nor affect platelet function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Leytin</LastName>
+                    <ForeName>Valery</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Department of Transfusion Medicine, St. Michael's Hospital, Toronto, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazer</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mody</LastName>
+                    <ForeName>Meera</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garvey</LastName>
+                    <ForeName>Bernadette</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freedman</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Haematol</MedlineTA>
+            <NlmUniqueID>0372544</NlmUniqueID>
+            <ISSNLinking>0007-1048</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Blood Substitutes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hemoglobins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>O-raffinose cross-linked human hemoglobin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N5O3QU595M</RegistryNumber>
+                <NameOfSubstance>Raffinose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Substitutes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemoglobins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemostasis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Raffinose</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12580976</ArticleId>
+            <ArticleId IdType="pii">4068</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

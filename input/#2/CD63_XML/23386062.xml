@@ -1,0 +1,556 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23386062</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2075</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                        <Day>6</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The EMBO journal</Title>
+                <ISOAbbreviation>EMBO J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rac and Rab GTPases dual effector Nischarin regulates vesicle maturation to facilitate survival of intracellular bacteria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>713-27</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/emboj.2013.10</ELocationID>
+            <Abstract>
+                <AbstractText>The intracellular pathogenic bacterium Salmonella enterica serovar typhimurium (Salmonella) relies on acidification of the Salmonella-containing vacuole (SCV) for survival inside host cells. The transport and fusion of membrane-bound compartments in a cell is regulated by small GTPases, including Rac and members of the Rab GTPase family, and their effector proteins. However, the role of these components in survival of intracellular pathogens is not completely understood. Here, we identify Nischarin as a novel dual effector that can interact with members of Rac and Rab GTPase (Rab4, Rab14 and Rab9) families at different endosomal compartments. Nischarin interacts with GTP-bound Rab14 and PI(3)P to direct the maturation of early endosomes to Rab9/CD63-containing late endosomes. Nischarin is recruited to the SCV in a Rab14-dependent manner and enhances acidification of the SCV. Depletion of Nischarin or the Nischarin binding partners--Rac1, Rab14 and Rab9 GTPases--reduced the intracellular growth of Salmonella. Thus, interaction of Nischarin with GTPases may regulate maturation and subsequent acidification of vacuoles produced after phagocytosis of pathogens.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuijl</LastName>
+                    <ForeName>Coenraad</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Genentech Inc., South San Francisco, CA 94080, USA. kuijlc@gene.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pilli</LastName>
+                    <ForeName>Manohar</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alahari</LastName>
+                    <ForeName>Suresh K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janssen</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khoo</LastName>
+                    <ForeName>Poh-Sim</ForeName>
+                    <Initials>PS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ervin</LastName>
+                    <ForeName>Karen E</ForeName>
+                    <Initials>KE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calero</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jonnalagadda</LastName>
+                    <ForeName>Sobhanaditya</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheller</LastName>
+                    <ForeName>Richard H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neefjes</LastName>
+                    <ForeName>Jacques</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Junutula</LastName>
+                    <ForeName>Jagath R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5R01CA115706</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>EMBO J</MedlineTA>
+            <NlmUniqueID>8208664</NlmUniqueID>
+            <ISSNLinking>0261-4189</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Imidazoline Receptors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Intracellular Signaling Peptides and Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>NISCH protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphatidylinositol Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>phosphatidylinositol 3-phosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>86-01-1</RegistryNumber>
+                <NameOfSubstance>Guanosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>RAB9A protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Rab14 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>rab GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>rac GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1994 Jul 1;180(1):15-23</RefSource>
+                <PMID Version="1">8006579</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1995 Apr;129(1):81-97</RefSource>
+                <PMID Version="1">7698996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Jul;64(7):2765-73</RefSource>
+                <PMID Version="1">8698506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2007 Mar;8(3):212-25</RefSource>
+                <PMID Version="1">17233756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2007 Mar 27;46(12):3775-83</RefSource>
+                <PMID Version="1">17323929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2007 Oct;219:17-36</RefSource>
+                <PMID Version="1">17850479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Nov 29;450(7170):725-30</RefSource>
+                <PMID Version="1">18046412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2007 Dec;71(4):636-52</RefSource>
+                <PMID Version="1">18063721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2008 Jan;6(1):53-66</RefSource>
+                <PMID Version="1">18026123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Rep. 2008 Feb;9(2):164-70</RefSource>
+                <PMID Version="1">18188180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Jul 11;134(1):135-47</RefSource>
+                <PMID Version="1">18614017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2008 Aug 25;182(4):741-52</RefSource>
+                <PMID Version="1">18725540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 2008 Aug;124(4):522-33</RefSource>
+                <PMID Version="1">18266715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Endocrinol. 2008 Dec;22(12):2703-15</RefSource>
+                <PMID Version="1">18801932</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2009 Feb;12(1):117-24</RefSource>
+                <PMID Version="1">19157959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2009 Jun 15;182(12):7473-81</RefSource>
+                <PMID Version="1">19494270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Apr 1;464(7289):778-82</RefSource>
+                <PMID Version="1">20305638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 May;125(3):573-82</RefSource>
+                <PMID Version="1">7909812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1996;173(1 Spec No):33-8</RefSource>
+                <PMID Version="1">8707053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 May 29;93(5):815-26</RefSource>
+                <PMID Version="1">9630225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1998 Oct;30(1):163-74</RefSource>
+                <PMID Version="1">9786193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1999 May 3;189(9):1479-88</RefSource>
+                <PMID Version="1">10224288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1999 Aug;33(4):806-16</RefSource>
+                <PMID Version="1">10447889</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1999 Aug 16;18(16):4394-403</RefSource>
+                <PMID Version="1">10449405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Dec;15(12):5420-30</RefSource>
+                <PMID Version="1">15456905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Dec 24;279(52):54770-82</RefSource>
+                <PMID Version="1">15475348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Jul 21;436(7049):415-9</RefSource>
+                <PMID Version="1">16034420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Apr 30;141(3):497-508</RefSource>
+                <PMID Version="1">20434987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 May 21;328(5981):1040-3</RefSource>
+                <PMID Version="1">20395475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2010 Jun 25;7(6):453-62</RefSource>
+                <PMID Version="1">20542249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2010 Aug 1;21(15):2746-55</RefSource>
+                <PMID Version="1">20534812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Res. 2011;42:16</RefSource>
+                <PMID Version="1">21314975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2011 Dec;11(23):4514-28</RefSource>
+                <PMID Version="1">21932443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Sep 2;280(35):30994-1002</RefSource>
+                <PMID Version="1">16002401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 Sep 9;122(5):735-49</RefSource>
+                <PMID Version="1">16143105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2005 Oct 1;391(Pt 1):87-93</RefSource>
+                <PMID Version="1">15971998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Nov 11;280(45):37803-13</RefSource>
+                <PMID Version="1">16154996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2006 Feb 15;119(Pt 4):605-14</RefSource>
+                <PMID Version="1">16467569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Feb 28;103(9):3159-64</RefSource>
+                <PMID Version="1">16492770</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Nov 15;25(22):5250-9</RefSource>
+                <PMID Version="1">17082769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2006;7(10):R100</RefSource>
+                <PMID Version="1">17076895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2007 Jan 29;176(3):263-8</RefSource>
+                <PMID Version="1">17261845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 1999 Aug;1(4):249-52</RefSource>
+                <PMID Version="1">10559924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2000 Jul 1;60(13):3584-91</RefSource>
+                <PMID Version="1">10910072</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Dec 1;275(48):37718-24</RefSource>
+                <PMID Version="1">10978351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 1999 Jul;1(1):33-49</RefSource>
+                <PMID Version="1">11207539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Feb;2(2):107-17</RefSource>
+                <PMID Version="1">11252952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2001 Apr;2(4):361-7</RefSource>
+                <PMID Version="1">11276208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2001 Oct 30;11(21):1680-5</RefSource>
+                <PMID Version="1">11696325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2001 Nov-Dec;3(14-15):1281-91</RefSource>
+                <PMID Version="1">11755416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 May 31;277(22):19439-47</RefSource>
+                <PMID Version="1">11912194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2002 Oct 15;115(Pt 20):3947-56</RefSource>
+                <PMID Version="1">12244132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Feb 21;112(4):507-17</RefSource>
+                <PMID Version="1">12600314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2004 Jan 15;377(Pt 2):449-57</RefSource>
+                <PMID Version="1">14535848</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 May;15(5):2218-29</RefSource>
+                <PMID Version="1">15004230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Jun 18;304(5678):1805-7</RefSource>
+                <PMID Version="1">15205533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2004 Jul 21;23(14):2777-88</RefSource>
+                <PMID Version="1">15229651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1985 Mar 15;35(3):287-95</RefSource>
+                <PMID Version="1">3882581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Immunol. 1986;30(12):1225-37</RefSource>
+                <PMID Version="1">3553868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1993 Feb;12(2):677-82</RefSource>
+                <PMID Version="1">8440258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 Jan 6;367(6458):40-6</RefSource>
+                <PMID Version="1">8107774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Agents Dis. 1993 Aug;2(4):227-31</RefSource>
+                <PMID Version="1">8173800</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Guanosine Triphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Imidazoline Receptors</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Signaling Peptides and Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylinositol Phosphates</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Real-Time Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Salmonella Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Salmonella typhimurium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Two-Hybrid System Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rac GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3590985</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">emboj201310</ArticleId>
+            <ArticleId IdType="doi">10.1038/emboj.2013.10</ArticleId>
+            <ArticleId IdType="pubmed">23386062</ArticleId>
+            <ArticleId IdType="pmc">PMC3590985</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

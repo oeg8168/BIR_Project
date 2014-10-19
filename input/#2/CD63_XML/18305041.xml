@@ -1,0 +1,464 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18305041</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>06</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>82</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dominant negative inhibition of human immunodeficiency virus particle production by the nonmyristoylated form of gag.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4384-99</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.01953-07</ELocationID>
+            <Abstract>
+                <AbstractText>Myristoylation of human immunodeficiency virus (HIV) Gag protein is essential for membrane targeting of Gag and production of viral particles. We show here that coexpression of wild-type and nonmyristoylated forms of HIV Gag resulted in severe inhibition of viral particle production, indicating that the nonmyristoylated counterpart had a dominant negative effect on particle release. When coexpressed, the nonmyristoylated Gag partially incorporated into membrane and lipid raft fractions, likely through coassembly with the wild-type Gag. The membrane and raft associations of the wild-type Gag appeared unaffected, and yet particle production was severely impaired. When viral particles produced from the coexpressing cells were analyzed, the wild-type Gag was more abundant than the nonmyristoylated Gag. Confocal microscopy showed that both forms of Gag were diffusely distributed in the cytoplasm of coexpressing cells but that a portion of the wild-type Gag population was accumulated in EEA1- and CD63-positive endosomes. The intracellular accumulation of Gag was more frequently observed at late time points. The Gag accumulation was also observed on the cell surface protrusion. Electron microscopy of the coexpressing cells revealed budding arrest phenotypes, including the occurrence of interconnected virions on the plasma membrane, and intracellular budding. We also show that the inhibition of particle production and the Gag accumulation to endosomes were suppressed when the nucleocapsid (NC) domain was deleted from the nonmyristoylated Gag, although the NC-deleted Gag was still capable of coassembly. Overall, our data indicate that coassembly with the nonmyristoylated Gag impairs HIV particle release, a phenomenon that may involve NC-mediated Gag-Gag interaction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kawada</LastName>
+                    <ForeName>Shigeo</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Kitasato Institute for Life Sciences and Graduate School for Infection Control, Kitasato University, Shirokane 5-9-1, Minato-ku, Tokyo 108-8641, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goto</LastName>
+                    <ForeName>Toshiyuki</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haraguchi</LastName>
+                    <ForeName>Hiyori</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ono</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morikawa</LastName>
+                    <ForeName>Yuko</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gene Products, gag</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0I3V7S25AW</RegistryNumber>
+                <NameOfSubstance>Myristic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 May;78(10):5023-31</RefSource>
+                <PMID Version="1">15113883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1986 Oct;83(19):7246-50</RefSource>
+                <PMID Version="1">3489936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Jan;61(1):209-13</RefSource>
+                <PMID Version="1">3640832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Oct;73(10):8527-40</RefSource>
+                <PMID Version="1">10482606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 Mar 11;120(5):663-74</RefSource>
+                <PMID Version="1">15766529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 2005 Aug;30(8):430-6</RefSource>
+                <PMID Version="1">15996869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Nov;79(22):14131-40</RefSource>
+                <PMID Version="1">16254348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Apr;80(8):3765-72</RefSource>
+                <PMID Version="1">16571793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Apr;72(4):2723-32</RefSource>
+                <PMID Version="1">9525590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Membr Biol. 1998 Jul 15;164(2):103-14</RefSource>
+                <PMID Version="1">9662555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Oct;72(10):7950-9</RefSource>
+                <PMID Version="1">9733833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Nov;72(11):9313-7</RefSource>
+                <PMID Version="1">9765481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Apr;73(4):2604-12</RefSource>
+                <PMID Version="1">10074105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 May;73(5):4136-44</RefSource>
+                <PMID Version="1">10196310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Mar;74(6):2855-66</RefSource>
+                <PMID Version="1">10684302</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Apr;74(7):3264-72</RefSource>
+                <PMID Version="1">10708443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jun;74(11):5142-50</RefSource>
+                <PMID Version="1">10799589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Jul 3;98(14):7724-9</RefSource>
+                <PMID Version="1">11427703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Sep;75(17):7913-24</RefSource>
+                <PMID Version="1">11483736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Feb 21;103(8):2641-6</RefSource>
+                <PMID Version="1">16481622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2006 Jun;7(6):731-45</RefSource>
+                <PMID Version="1">16683918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2006 Jun;7(6):456-62</RefSource>
+                <PMID Version="1">16625153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2006 May;2(5):e39</RefSource>
+                <PMID Version="1">16699598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2006 Jun 16;359(4):848-62</RefSource>
+                <PMID Version="1">16682056</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2006 Dec;4(12):e435</RefSource>
+                <PMID Version="1">17147474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2007 Apr 23;177(2):329-41</RefSource>
+                <PMID Version="1">17438075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2007 Mar;3(3):e36</RefSource>
+                <PMID Version="1">17381240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Aug;86(15):5781-5</RefSource>
+                <PMID Version="1">2788277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Oct 6;59(1):103-12</RefSource>
+                <PMID Version="1">2676191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Nov;86(22):8655-9</RefSource>
+                <PMID Version="1">2813417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1989 Dec 29;165(3):1145-54</RefSource>
+                <PMID Version="1">2692561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Jan;87(2):523-7</RefSource>
+                <PMID Version="1">2405382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3195-9</RefSource>
+                <PMID Version="1">2014240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 1991 Aug;5(8):951-8</RefSource>
+                <PMID Version="1">1777176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Aug 25;267(24):17159-69</RefSource>
+                <PMID Version="1">1512254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Nov;66(11):6304-13</RefSource>
+                <PMID Version="1">1383561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Jun 1;90(11):5181-5</RefSource>
+                <PMID Version="1">8389472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Jun 1;90(11):5219-23</RefSource>
+                <PMID Version="1">8506369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Dec;67(12):7190-200</RefSource>
+                <PMID Version="1">8230441</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Apr;68(4):2556-69</RefSource>
+                <PMID Version="1">8139035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1994 Apr 1;13(7):1525-33</RefSource>
+                <PMID Version="1">8156990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Oct;68(10):6605-18</RefSource>
+                <PMID Version="1">8083996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Dec;68(12):8180-7</RefSource>
+                <PMID Version="1">7966609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Feb;69(2):642-50</RefSource>
+                <PMID Version="1">7815527</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Nov;69(11):6810-8</RefSource>
+                <PMID Version="1">7474093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Feb 2;271(5):2868-73</RefSource>
+                <PMID Version="1">8576268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Apr;70(4):2269-76</RefSource>
+                <PMID Version="1">8642653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Dec;70(12):8540-8</RefSource>
+                <PMID Version="1">8970978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1996 Dec 27;87(7):1285-94</RefSource>
+                <PMID Version="1">8980234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Jun 5;387(6633):569-72</RefSource>
+                <PMID Version="1">9177342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 Oct 31;278(5339):849-53</RefSource>
+                <PMID Version="1">9346481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Mar 16;17(6):1555-68</RefSource>
+                <PMID Version="1">9501077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Oct 5;107(1):55-65</RefSource>
+                <PMID Version="1">11595185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Nov 20;98(24):13925-30</RefSource>
+                <PMID Version="1">11717449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Dec;7(12):1313-9</RefSource>
+                <PMID Version="1">11726971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jan;76(1):105-17</RefSource>
+                <PMID Version="1">11739676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Jan 22;99(2):955-60</RefSource>
+                <PMID Version="1">11805336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2002 Oct;3(10):718-29</RefSource>
+                <PMID Version="1">12230470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Oct 1;99(20):13037-42</RefSource>
+                <PMID Version="1">12244217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Apr;77(8):4805-17</RefSource>
+                <PMID Version="1">12663787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 May;77(10):5547-56</RefSource>
+                <PMID Version="1">12719547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2003 Jul;5(1):161-74</RefSource>
+                <PMID Version="1">12852860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Aug 4;162(3):443-55</RefSource>
+                <PMID Version="1">12885763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Aug 4;162(3):371-5</RefSource>
+                <PMID Version="1">12900390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biophys Biomol Struct. 2003;32:257-83</RefSource>
+                <PMID Version="1">12543707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Nov;77(21):11651-60</RefSource>
+                <PMID Version="1">14557651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Nov;4(11):785-801</RefSource>
+                <PMID Version="1">14617360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Dec;4(12):902-10</RefSource>
+                <PMID Version="1">14617353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Nov 14;115(4):377-88</RefSource>
+                <PMID Version="1">14622593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Dec 26;278(52):52347-54</RefSource>
+                <PMID Version="1">14561735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Feb;78(3):1552-63</RefSource>
+                <PMID Version="1">14722309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jan 13;101(2):517-22</RefSource>
+                <PMID Version="1">14699046</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Products, gag</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Myristic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Sequence Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2293052</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.01953-07</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01953-07</ArticleId>
+            <ArticleId IdType="pubmed">18305041</ArticleId>
+            <ArticleId IdType="pmc">PMC2293052</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

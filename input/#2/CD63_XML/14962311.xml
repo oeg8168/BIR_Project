@@ -1,0 +1,164 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14962311</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-1132</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>44</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of holding buffy coats 4 or 18 hours before preparing pooled filtered PLT concentrates in plasma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>202-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Filtered PLT concentrates (PCs) were prepared in plasma pooling three (for children) or six buffy coats (BCs; for adults) after holding them a maximum of 4 hours (blood bags collected in the afternoon) or 18 hours (blood bags collected in the morning).</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">With flow cytometry, PCs prepared after holding BCs 4 or 18 hours were compared. BCs removed from whole-blood donations in quadruple bag packs (&quot;top-top&quot;) were held 4 or 18 hours before pooling them with a sterile connecting device. After the BCs were centrifuged, the supernatant was transferred through a BC filter (Autostop, Pall Medical) to a CLX bag. Samples for analysis were collected from the whole-blood bag, BCs, and PCs immediately after preparation and after 1, 3, 5, and 7 days of storage on a flat-bed agitator at 22 +/- 2 degrees C. The main PLT membrane glycoproteins (GPs, IIb-IIIa, IV, and Ibalpha), some of their ligands (fibrinogen, fibronectin, and VWF), activation-dependent antigens (CD62P and CD63), and procoagulant activity markers (annexin V and bound coagulation FV-Va) have been studied.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the 12 PCs (six pools of 3 units each group) studied, a minor increase in activation markers during preparation was observed. During the storage, a significant increase in the expression of GPIIb-IIIa, CD62P, CD63, annexin V, and FVa was measured. After 5 days of storage, only the percentage of PLTs with bound fibrinogen was significantly greater in PCs prepared after holding BCs for 4 hours.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In PCs prepared after holding BCs 4 or 18 hours before pooling and filtering, only a minor significant difference in the percentage of PLTs with bound fibrinogen was found after 5 days of storage. This difference is probably of little, if any, transfusional significance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pérez-Pujol</LastName>
+                    <ForeName>Sílvia</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Hemotherapy and Hemostasis, Biomedical Diagnostic Center, Agustí Pi i Sunyer Biomedical Research Institute, Hospital Clinic Barcelona, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lozano</LastName>
+                    <ForeName>Miguel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perea</LastName>
+                    <ForeName>Dolores</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzara</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ordinas</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escolar</LastName>
+                    <ForeName>Ginés</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Preservation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Transfusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Specimen Handling</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14962311</ArticleId>
+            <ArticleId IdType="pii">641</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,433 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23861904</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exosomal signaling during hypoxia mediates microvascular endothelial cell migration and vasculogenesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e68451</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0068451</ELocationID>
+            <Abstract>
+                <AbstractText>Vasculogenesis and angiogenesis are critical processes in fetal circulation and placental vasculature development. Placental mesenchymal stem cells (pMSC) are known to release paracrine factors (some of which are contained within exosomes) that promote angiogenesis and cell migration. The aims of this study were: to determine the effects of oxygen tension on the release of exosomes from pMSC; and to establish the effects of pMSC-derived exosomes on the migration and angiogenic tube formation of placental microvascular endothelial cells (hPMEC). pMSC were isolated from placental villi (8-12 weeks of gestation, n??=??6) and cultured under an atmosphere of 1%, 3% or 8% O2. Cell-conditioned media were collected and exosomes (exo-pMSC) isolated by differential and buoyant density centrifugation. The dose effect (5-20 Âµg exosomal protein/ml) of pMSC-derived exosomes on hPMEC migration and tube formation were established using a real-time, live-cell imaging system (Incucyte?„¢). The exosome pellet was resuspended in PBS and protein content was established by mass spectrometry (MS). Protein function and canonical pathways were identified using the PANTHER program and Ingenuity Pathway Analysis, respectively. Exo-pMSC were identified, by electron microscopy, as spherical vesicles, with a typical cup-shape and diameters around of 100 nm and positive for exosome markers: CD63, CD9 and CD81. Under hypoxic conditions (1% and 3% O2) exo-pMSC released increased by 3.3 and 6.7 folds, respectively, when compared to the controls (8% O2; p&lt;0.01). Exo-pMSC increased hPMEC migration by 1.6 fold compared to the control (p&lt;0.05) and increased hPMEC tube formation by 7.2 fold (p&lt;0.05). MS analysis identified 390 different proteins involved in cytoskeleton organization, development, immunomodulatory, and cell-to-cell communication. The data obtained support the hypothesis that pMSC-derived exosomes may contribute to placental vascular adaptation to low oxygen tension under both physiological and pathological conditions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Salomon</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>University of Queensland Centre for Clinical Research, Herston, Queensland, Australia. c.salomongallo@uq.edu.au</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryan</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sobrevia</LastName>
+                    <ForeName>Luis</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kobayashi</LastName>
+                    <ForeName>Miharu</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashman</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Murray</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rice</LastName>
+                    <ForeName>Gregory E</ForeName>
+                    <Initials>GE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>S88TT14065</RegistryNumber>
+                <NameOfSubstance>Oxygen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Oct 5;282(40):29122-9</RefSource>
+                <PMID Version="1">17684019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2011 Aug;354(1-2):291-9</RefSource>
+                <PMID Version="1">21523371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2011 Aug;32(15):1976-83</RefSource>
+                <PMID Version="1">21557262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2011;720:51-68</RefSource>
+                <PMID Version="1">21901618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2012 Feb 1;315(1):28-37</RefSource>
+                <PMID Version="1">22055459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomaterials. 2012 Mar;33(9):2656-72</RefSource>
+                <PMID Version="1">22217806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Angiogenesis. 2012 Mar;15(1):33-45</RefSource>
+                <PMID Version="1">22203239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotech Histochem. 2012 Apr;87(3):161-8</RefSource>
+                <PMID Version="1">22216980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(4):e35685</RefSource>
+                <PMID Version="1">22558198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics Clin Appl. 2012 Jun;6(5-6):268-78</RefSource>
+                <PMID Version="1">22641613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(7):e40578</RefSource>
+                <PMID Version="1">22808198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephrol Dial Transplant. 2012 Aug;27(8):3037-42</RefSource>
+                <PMID Version="1">22851627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(8):e42310</RefSource>
+                <PMID Version="1">22879938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(8):e44045</RefSource>
+                <PMID Version="1">22952868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2012 Sep 6;120(10):1975-84</RefSource>
+                <PMID Version="1">22665936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(9):e44572</RefSource>
+                <PMID Version="1">22962618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(9):e44468</RefSource>
+                <PMID Version="1">22970226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2012 Nov;113(11):3363-70</RefSource>
+                <PMID Version="1">22644871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2012 Nov;44(11):2060-4</RefSource>
+                <PMID Version="1">22903023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(9):e46158</RefSource>
+                <PMID Version="1">23029422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2012 Oct;14(10):1036-45</RefSource>
+                <PMID Version="1">22983114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2012 Nov;33(11):933-41</RefSource>
+                <PMID Version="1">22999499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2012;12:421</RefSource>
+                <PMID Version="1">22998595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2012 Dec;33(12):982-90</RefSource>
+                <PMID Version="1">23107341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Transplant. 2012;21(6):1305-20</RefSource>
+                <PMID Version="1">22455973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2012 Nov 27;126(22):2601-11</RefSource>
+                <PMID Version="1">23114789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2012 Nov 27;126(22):2553-5</RefSource>
+                <PMID Version="1">23114790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Transl Med. 2012 Feb;1(2):83-95</RefSource>
+                <PMID Version="1">23197756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Dev. 2012 Dec 10;21(18):3289-97</RefSource>
+                <PMID Version="1">22839741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Heart Fail. 2013 Jan;6(1):99-106</RefSource>
+                <PMID Version="1">23212553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2008 Apr;16(4):782-90</RefSource>
+                <PMID Version="1">18362931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2008 Feb 15;314(4):774-88</RefSource>
+                <PMID Version="1">18062965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Dev. 2013 Feb 15;22(4):643-53</RefSource>
+                <PMID Version="1">22947186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Stem Cell Biol. 2007 Jun;Chapter 1:Unit 1E.2</RefSource>
+                <PMID Version="1">18785167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2009 Feb;20(2):363-79</RefSource>
+                <PMID Version="1">19056867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Pharmacol Physiol. 2009 Feb;36(2):176-80</RefSource>
+                <PMID Version="1">18785984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cell Res. 2010 May;4(3):214-22</RefSource>
+                <PMID Version="1">20138817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Jun;9(6):1324-38</RefSource>
+                <PMID Version="1">20224111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Mol Med. 2010 May;14(5):1064-70</RefSource>
+                <PMID Version="1">20465578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytotherapy. 2010 Sep;12(5):626-36</RefSource>
+                <PMID Version="1">20438297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Nov 23;107(47):20370-5</RefSource>
+                <PMID Version="1">21059916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2010 Dec;31(23-24):3797-807</RefSource>
+                <PMID Version="1">21082674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2011 May 1;317(8):1192-202</RefSource>
+                <PMID Version="1">21276792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2011;2:282</RefSource>
+                <PMID Version="1">21505438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2011 May 10;21(9):779-86</RefSource>
+                <PMID Version="1">21514161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cell Rev. 2013 Feb;9(1):16-31</RefSource>
+                <PMID Version="1">22628114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2013 Apr 12;288(15):10849-59</RefSource>
+                <PMID Version="1">23439645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 May;164(5):1807-15</RefSource>
+                <PMID Version="1">15111327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Obstet Gynecol. 1992 Aug;80(2):283-5</RefSource>
+                <PMID Version="1">1635745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Mar 15;176(6):3585-92</RefSource>
+                <PMID Version="1">16517727</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Aug 1;179(3):1855-63</RefSource>
+                <PMID Version="1">17641052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Reprod Biomed Online. 2003 Sep;7(2):250-3</RefSource>
+                <PMID Version="1">14567901</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Hypoxia</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microvessels</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Neovascularization, Physiologic</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxygen</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Placenta</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Software</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3704530</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0068451</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-12367</ArticleId>
+            <ArticleId IdType="pubmed">23861904</ArticleId>
+            <ArticleId IdType="pmc">PMC3704530</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

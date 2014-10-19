@@ -1,0 +1,203 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16116595</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-543X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer</Title>
+                <ISOAbbreviation>Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular classification of melanoma using real-time quantitative reverse transcriptase-polymerase chain reaction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1678-86</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The early detection and characterization of metastatic melanoma are important for prognosis and management of the disease. Molecular methods are more sensitive in detecting occult lymph node metastases compared with standard histopathology and are reported to have utility in clinical diagnostics.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using real-time quantitative reverse transcriptase-polymerase chain reaction ([q]RT-PCR), the authors examined 36 samples (30 melanomas, 4 benign nevi, and 2 reactive lymph nodes) for the expression of 20 melanoma-related genes that function in cell growth and differentiation (epidermal growth factor receptor [EGFR], WNT5A, BRAF, FOS, JUN, MATP, and TMP1), cell proliferation (KI-67, TOP2A, BUB1, BIRC5, and STK6), melanoma progression (CD63, MAGEA3, and GALGT), and melanin synthesis (TYR, MLANA, SILV, PAX3, and MITF). In addition, samples were tested for mutations in BRAF (exons 11 and 15) and NRAS (exons 2 and 3).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Hierarchical clustering analysis of the expression data was able to distinguish between the melanoma and nonmelanoma samples and further stratified the melanoma samples into two groups differentiated by high expression of the genes involved in beta-catenin activation (EGFR and WNT5A) and the MAPK/ERK pathway (BRAF, FOS, and JUN). Eighteen of the 28 patients (64%) were found to have mutations in either exon 15 of BRAF (V599 substitution) or codon 61 of NRAS. The mutations were mutually exclusive and did not appear to be associated with the different expression subtypes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results of the current study demonstrate that real-time qRT-PCR can be analyzed using hierarchical clustering to identify expression patterns that differentiate between melanomas and other tissue types. Using a supervised analysis of the data, the authors found that the best discriminators for molecularly distinguishing between melanoma, benign nevi, and lymph nodes were MLANA, CD63, and BUB1. These markers could have diagnostic utility for the detection of melanoma micrometastasis in sentinel lymph nodes.</AbstractText>
+                <CopyrightInformation>Copyright 2005 American Cancer Society</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Tracey B</ForeName>
+                    <Initials>TB</Initials>
+                    <Affiliation>Research and Development, ARUP Laboratories Inc., Salt Lake City, Utah, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robison</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bastien</LastName>
+                    <ForeName>Roy</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milash</LastName>
+                    <ForeName>Brett</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boucher</LastName>
+                    <ForeName>Ken</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samlowski</LastName>
+                    <ForeName>Wolfram E</ForeName>
+                    <Initials>WE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leachman</LastName>
+                    <ForeName>Sancy A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dirk Noyes</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wittwer</LastName>
+                    <ForeName>Carl T</ForeName>
+                    <Initials>CT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perreard</LastName>
+                    <ForeName>Laurent</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernard</LastName>
+                    <ForeName>Philip S</ForeName>
+                    <Initials>PS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer</MedlineTA>
+            <NlmUniqueID>0374236</NlmUniqueID>
+            <ISSNLinking>0008-543X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tumor Markers, Biological</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphatic Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Markers, Biological</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cncr.21372</ArticleId>
+            <ArticleId IdType="pubmed">16116595</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

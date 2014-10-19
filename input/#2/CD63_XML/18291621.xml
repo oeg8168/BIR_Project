@@ -1,0 +1,184 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18291621</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>08</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-8646</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>91</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genomics</Title>
+                <ISOAbbreviation>Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Appearance of new tetraspanin genes during vertebrate evolution.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>326-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ygeno.2007.12.005</ELocationID>
+            <Abstract>
+                <AbstractText>A detailed phylogenetic analysis of tetraspanins from 10 fully sequenced metazoan genomes and several fungal and protist genomes gives insight into their evolutionary origins and organization. Our analysis suggests that the superfamily can be divided into four large families. These four families-the CD family, CD63 family, uroplakin family, and RDS family-are further classified as consisting of several ortholog groups. The clustering of several ortholog groups together, such as the CD9/Tsp2/CD81 cluster, suggests functional relatedness of those ortholog groups. The fact that our studies are based on whole genome analysis enabled us to estimate not only the phylogenetic relationships among the tetraspanins, but also the first appearance in the tree of life of certain tetraspanin ortholog groups. Taken together, our data suggest that the tetraspanins are derived from a single (or a few) ancestral gene(s) through sequence divergence, rather than convergence, and that the majority of tetraspanins found in the human genome are vertebrate (21 instances), tetrapod (4 instances), or mammalian (6 instances) inventions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Garcia-España</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Research Unit, Universitat Rovira i Virgili, Hospital Joan XXIII, Pere Virgily Institute, Tarragona 43007, Spain. agarciae.hj23.ics@gencat.net</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Pei-Jung</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarkar</LastName>
+                    <ForeName>Indra Neil</ForeName>
+                    <Initials>IN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stiner</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Tung-Tien</ForeName>
+                    <Initials>TT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Desalle</LastName>
+                    <ForeName>Rob</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DK39753</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK52206</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genomics</MedlineTA>
+            <NlmUniqueID>8800135</NlmUniqueID>
+            <ISSNLinking>0888-7543</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Biological Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vertebrates</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0888-7543(07)00308-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ygeno.2007.12.005</ArticleId>
+            <ArticleId IdType="pubmed">18291621</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

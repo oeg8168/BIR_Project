@@ -1,0 +1,546 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20419159</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7374</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS pathogens</Title>
+                <ISOAbbreviation>PLoS Pathog.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The RING-CH ligase K5 antagonizes restriction of KSHV and HIV-1 particle release by mediating ubiquitin-dependent endosomal degradation of tetherin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1000843</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.ppat.1000843</ELocationID>
+            <Abstract>
+                <AbstractText>Tetherin (CD317/BST2) is an interferon-induced membrane protein that inhibits the release of diverse enveloped viral particles. Several mammalian viruses have evolved countermeasures that inactivate tetherin, with the prototype being the HIV-1 Vpu protein. Here we show that the human herpesvirus Kaposi's sarcoma-associated herpesvirus (KSHV) is sensitive to tetherin restriction and its activity is counteracted by the KSHV encoded RING-CH E3 ubiquitin ligase K5. Tetherin expression in KSHV-infected cells inhibits viral particle release, as does depletion of K5 protein using RNA interference. K5 induces a species-specific downregulation of human tetherin from the cell surface followed by its endosomal degradation. We show that K5 targets a single lysine (K18) in the cytoplasmic tail of tetherin for ubiquitination, leading to relocalization of tetherin to CD63-positive endosomal compartments. Tetherin degradation is dependent on ESCRT-mediated endosomal sorting, but does not require a tyrosine-based sorting signal in the tetherin cytoplasmic tail. Importantly, we also show that the ability of K5 to substitute for Vpu in HIV-1 release is entirely dependent on K18 and the RING-CH domain of K5. By contrast, while Vpu induces ubiquitination of tetherin cytoplasmic tail lysine residues, mutation of these positions has no effect on its antagonism of tetherin function, and residual tetherin is associated with the trans-Golgi network (TGN) in Vpu-expressing cells. Taken together our results demonstrate that K5 is a mechanistically distinct viral countermeasure to tetherin-mediated restriction, and that herpesvirus particle release is sensitive to this mode of antiviral inhibition.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pardieu</LastName>
+                    <ForeName>Claire</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>MRC Centre for Medical Molecular Virology, University College London, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vigan</LastName>
+                    <ForeName>Raphaël</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>Sam J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calvi</LastName>
+                    <ForeName>Alessandra</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zang</LastName>
+                    <ForeName>Trinity</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bieniasz</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kellam</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Towers</LastName>
+                    <ForeName>Greg J</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neil</LastName>
+                    <ForeName>Stuart J D</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>076608</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>076608</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0801172</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0801172(87743)</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0801937</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G9721629</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>WT082274MA</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Pathog</MedlineTA>
+            <NlmUniqueID>101238921</NlmUniqueID>
+            <ISSNLinking>1553-7366</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>BST2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GPI-Linked Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Human Immunodeficiency Virus Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immediate-Early Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>K5 protein, Human herpesvirus 8</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Ubiquitin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Viral Regulatory and Accessory Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>vpu protein, Human immunodeficiency virus 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2009 Jul 23;6(1):54-67</RefSource>
+                <PMID Version="1">19501037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Sep;79(18):11580-7</RefSource>
+                <PMID Version="1">16140735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 Sep;5(9):e1000574</RefSource>
+                <PMID Version="1">19730691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2008 Feb;20(1):4-11</RefSource>
+                <PMID Version="1">18222686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2008 Apr 17;3(4):245-52</RefSource>
+                <PMID Version="1">18342597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2009 Sep;29(9):569-80</RefSource>
+                <PMID Version="1">19694548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2005 Oct;207:112-25</RefSource>
+                <PMID Version="1">16181331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2006 Jan 5;344(1):119-30</RefSource>
+                <PMID Version="1">16364743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Apr 19;25(8):1635-45</RefSource>
+                <PMID Version="1">16601694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2006 May;2(5):e39</RefSource>
+                <PMID Version="1">16699598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2006 Aug;9(4):423-9</RefSource>
+                <PMID Version="1">16814597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Sep 1;177(5):3260-5</RefSource>
+                <PMID Version="1">16920966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Sep 15;108(6):1932-40</RefSource>
+                <PMID Version="1">16601245</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2006 Oct;2(10):e107</RefSource>
+                <PMID Version="1">17238276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2007 Mar;81(5):2117-27</RefSource>
+                <PMID Version="1">17166914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2007 Nov 1;120(Pt 21):3850-8</RefSource>
+                <PMID Version="1">17940069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2007 Sep 13;2(3):193-203</RefSource>
+                <PMID Version="1">18005734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2007 Dec;81(24):13578-86</RefSource>
+                <PMID Version="1">17928342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jan 24;451(7177):425-30</RefSource>
+                <PMID Version="1">18200009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Feb 5;105(5):1656-61</RefSource>
+                <PMID Version="1">18230726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 2008;325:333-59</RefSource>
+                <PMID Version="1">18637515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Genet. 2008;42:143-63</RefSource>
+                <PMID Version="1">18624631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2008 Oct;16(10):472-9</RefSource>
+                <PMID Version="1">18789694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2008 Dec;99(12):2461-6</RefSource>
+                <PMID Version="1">19032371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 Jan;5(1):e1000255</RefSource>
+                <PMID Version="1">19119421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Jan 22;457(7228):485-9</RefSource>
+                <PMID Version="1">19043403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Feb;83(4):1837-44</RefSource>
+                <PMID Version="1">19036818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Mar;83(5):2382-5</RefSource>
+                <PMID Version="1">19091864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 Feb;5(2):e1000300</RefSource>
+                <PMID Version="1">19214216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Feb 24;106(8):2886-91</RefSource>
+                <PMID Version="1">19179289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Feb 24;106(8):2868-73</RefSource>
+                <PMID Version="1">19196977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2009 Mar;17(3):119-29</RefSource>
+                <PMID Version="1">19230674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Mar 12;458(7235):172-7</RefSource>
+                <PMID Version="1">19234443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2009 Mar 19;5(3):285-97</RefSource>
+                <PMID Version="1">19286137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 May;83(9):4574-90</RefSource>
+                <PMID Version="1">19244337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 May;5(5):e1000429</RefSource>
+                <PMID Version="1">19436700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Oct;83(19):9672-81</RefSource>
+                <PMID Version="1">19605472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2008 Jun 12;3(6):388-98</RefSource>
+                <PMID Version="1">18541215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 May;5(5):e1000443</RefSource>
+                <PMID Version="1">19461879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2009 May;5(5):e1000450</RefSource>
+                <PMID Version="1">19478868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Nov;83(22):11966-78</RefSource>
+                <PMID Version="1">19740980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Oct 30;139(3):499-511</RefSource>
+                <PMID Version="1">19879838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Dec 8;106(49):20889-94</RefSource>
+                <PMID Version="1">19864625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Nov;83(21):11254-64</RefSource>
+                <PMID Version="1">19692479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Mar;74(6):2867-75</RefSource>
+                <PMID Version="1">10684303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gene Med. 1999 Sep-Oct;1(5):352-9</RefSource>
+                <PMID Version="1">10738552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jun;74(11):5300-9</RefSource>
+                <PMID Version="1">10799607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Jul 5;97(14):8051-6</RefSource>
+                <PMID Version="1">10859362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Jul 18;97(15):8455-60</RefSource>
+                <PMID Version="1">10890918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2001 Jun;107(12):1599-606</RefSource>
+                <PMID Version="1">11413168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2001 Oct;39(10):3537-40</RefSource>
+                <PMID Version="1">11574569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2002 May 15;21(10):2418-29</RefSource>
+                <PMID Version="1">12006494</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Sep 2;100(18):10399-404</RefSource>
+                <PMID Version="1">12925741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Oct;4(10):694-709</RefSource>
+                <PMID Version="1">12956872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2004 Aug 1;325(2):225-40</RefSource>
+                <PMID Version="1">15246263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 May 19;258(3):583-91</RefSource>
+                <PMID Version="1">10329429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2005 Jan 3;168(1):89-101</RefSource>
+                <PMID Version="1">15623582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Aug;83(16):7931-47</RefSource>
+                <PMID Version="1">19515779</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Separation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GPI-Linked Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Herpesviridae Infections</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Herpesvirus 8, Human</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Human Immunodeficiency Virus Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immediate-Early Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ubiquitin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ubiquitination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Viral Regulatory and Accessory Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Release</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2855335</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.ppat.1000843</ArticleId>
+            <ArticleId IdType="pubmed">20419159</ArticleId>
+            <ArticleId IdType="pmc">PMC2855335</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

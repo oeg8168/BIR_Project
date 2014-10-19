@@ -1,0 +1,389 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24905011</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nonstructural protein 5A is incorporated into hepatitis C virus low-density particle through interaction with core protein and microtubules during intracellular transport.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e99022</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0099022</ELocationID>
+            <Abstract>
+                <AbstractText>Nonstructural protein 5A (NS5A) of hepatitis C virus (HCV) serves dual functions in viral RNA replication and virus assembly. Here, we demonstrate that HCV replication complex along with NS5A and Core protein was transported to the lipid droplet (LD) through microtubules, and NS5A-Core complexes were then transported from LD through early-to-late endosomes to the plasma membrane via microtubules. Further studies by cofractionation analysis and immunoelectron microscopy of the released particles showed that NS5A-Core complexes, but not NS4B, were present in the low-density fractions, but not in the high-density fractions, of the HCV RNA-containing virions and associated with the internal virion core. Furthermore, exosomal markers CD63 and CD81 were also detected in the low-density fractions, but not in the high-density fractions. Overall, our results suggest that HCV NS5A is associated with the core of the low-density virus particles which exit the cell through a preexisting endosome/exosome pathway and may contribute to HCV natural infection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Chao-Kuen</ForeName>
+                    <Initials>CK</Initials>
+                    <Affiliation>Institute of Molecular Biology, Academia Sinica, Taipei, Taiwan; Graduate Institute of Toxicology, National Taiwan University, Taipei, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saxena</LastName>
+                    <ForeName>Vikas</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Institute of Molecular Biology, Academia Sinica, Taipei, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tseng</LastName>
+                    <ForeName>Chung-Hsin</ForeName>
+                    <Initials>CH</Initials>
+                    <Affiliation>Department of Microbiology and Immunology, and Center of Infectious Disease and Signaling Research, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jeng</LastName>
+                    <ForeName>King-Song</ForeName>
+                    <Initials>KS</Initials>
+                    <Affiliation>Institute of Molecular Biology, Academia Sinica, Taipei, Taiwan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kohara</LastName>
+                    <ForeName>Michinori</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Microbiology and Cell Biology, Tokyo Metropolitan Institute of Medical Science, Tokyo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Michael M C</ForeName>
+                    <Initials>MM</Initials>
+                    <Affiliation>Institute of Molecular Biology, Academia Sinica, Taipei, Taiwan; Department of Molecular Microbiology and Immunology, University of Southern California, Los Angeles, California, United States of America; Department of Microbiology and Immunology, and Center of Infectious Disease and Signaling Research, National Cheng Kung University, Tainan, Taiwan.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 May;77(9):5487-92</RefSource>
+                <PMID Version="1">12692249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Apr;77(7):4160-8</RefSource>
+                <PMID Version="1">12634374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2004 Oct;34(10):2834-42</RefSource>
+                <PMID Version="1">15368299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Virol. 1991;116(1-4):69-80</RefSource>
+                <PMID Version="1">1825776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 May 9;103(19):7408-13</RefSource>
+                <PMID Version="1">16651538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Mar 7;103(10):3805-9</RefSource>
+                <PMID Version="1">16484368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Virol. 1991 Jul;34(3):206-8</RefSource>
+                <PMID Version="1">1655970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Jul;80(14):6964-72</RefSource>
+                <PMID Version="1">16809302</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Sep;9(9):1089-97</RefSource>
+                <PMID Version="1">17721513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2008 Jan 20;370(2):295-309</RefSource>
+                <PMID Version="1">17931678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2007 Jun;Chapter 24:Unit 24.2</RefSource>
+                <PMID Version="1">18228510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2008 Mar;4(3):e1000035</RefSource>
+                <PMID Version="1">18369481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Jun;82(11):5279-94</RefSource>
+                <PMID Version="1">18367524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Aug;82(16):7964-76</RefSource>
+                <PMID Version="1">18524832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Sep;82(17):8838-48</RefSource>
+                <PMID Version="1">18562541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Aug;9(8):1268-82</RefSource>
+                <PMID Version="1">18489704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Dec;82(24):12020-9</RefSource>
+                <PMID Version="1">18829747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 May 15;284(20):13778-91</RefSource>
+                <PMID Version="1">19269968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2009 Jun;49(6):1798-809</RefSource>
+                <PMID Version="1">19434724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 2009 Jun 15;81(12):4752-61</RefSource>
+                <PMID Version="1">19459601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Pept Lett. 2009;16(7):751-9</RefSource>
+                <PMID Version="1">19601904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ACS Chem Biol. 2009 Dec 18;4(12):1061-7</RefSource>
+                <PMID Version="1">19928982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2010 Feb;91(Pt 2):362-72</RefSource>
+                <PMID Version="1">19828764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2010 Mar;6(3):e1000740</RefSource>
+                <PMID Version="1">20360840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jul 23;285(30):22733-9</RefSource>
+                <PMID Version="1">20457608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2010 Nov;84(21):10999-1009</RefSource>
+                <PMID Version="1">20686033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2010 Nov;84(21):11590-8</RefSource>
+                <PMID Version="1">20739534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Jan 28;286(4):3018-32</RefSource>
+                <PMID Version="1">21056986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Apr;77(7):4401-8</RefSource>
+                <PMID Version="1">12634397</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(1):e14517</RefSource>
+                <PMID Version="1">21264300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Structure. 2011 Oct 12;19(10):1485-95</RefSource>
+                <PMID Version="1">21889351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2011 Dec;85(24):12844-54</RefSource>
+                <PMID Version="1">21976651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2012 Jan 20;422(2):377-85</RefSource>
+                <PMID Version="1">22138215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2012 Jan;8(1):e1002466</RefSource>
+                <PMID Version="1">22241992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2012 Apr;86(8):4139-50</RefSource>
+                <PMID Version="1">22301157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2012 Oct 18;12(4):558-70</RefSource>
+                <PMID Version="1">23084922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 Apr 18;496(7445):367-71</RefSource>
+                <PMID Version="1">23542590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1992 Mar;73 ( Pt 3):715-8</RefSource>
+                <PMID Version="1">1312126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1993 Mar;67(3):1385-95</RefSource>
+                <PMID Version="1">7679746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 1994 Feb;19(2):296-302</RefSource>
+                <PMID Version="1">8294087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1994 Jul;75 ( Pt 7):1755-60</RefSource>
+                <PMID Version="1">7517432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Oct;68(10):6161-9</RefSource>
+                <PMID Version="1">8083957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1996 Apr 1;218(1):43-51</RefSource>
+                <PMID Version="1">8615040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Viral Hepat. 1996 Jan;3(1):11-7</RefSource>
+                <PMID Version="1">8736235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Viral Hepat. 1995;2(5):227-34</RefSource>
+                <PMID Version="1">8745314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hepatol. 1996;24(2 Suppl):11-9</RefSource>
+                <PMID Version="1">8836884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Jul 2;285(5424):110-3</RefSource>
+                <PMID Version="1">10390360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Feb 15;102(7):2579-83</RefSource>
+                <PMID Version="1">15701697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hepatol. 2005 May;42(5):744-51</RefSource>
+                <PMID Version="1">15826725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2005 Jul;11(7):791-6</RefSource>
+                <PMID Version="1">15951748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Jul 22;309(5734):623-6</RefSource>
+                <PMID Version="1">15947137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Nov;79(22):13963-73</RefSource>
+                <PMID Version="1">16254332</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Feb;80(3):1181-90</RefSource>
+                <PMID Version="1">16414995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Mar;80(6):2832-41</RefSource>
+                <PMID Version="1">16501092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Dec;73(12):9718-25</RefSource>
+                <PMID Version="1">10559281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Dec 8;290(5498):1972-4</RefSource>
+                <PMID Version="1">11110665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1995 Apr 1;208(1):121-31</RefSource>
+                <PMID Version="1">11831692</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jun;76(12):5974-84</RefSource>
+                <PMID Version="1">12021330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jul;76(14):6919-28</RefSource>
+                <PMID Version="1">12072493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Dec;76(24):13001-14</RefSource>
+                <PMID Version="1">12438626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2004 Aug;16(4):415-21</RefSource>
+                <PMID Version="1">15261674</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4048239</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0099022</ArticleId>
+            <ArticleId IdType="pii">PONE-D-14-06533</ArticleId>
+            <ArticleId IdType="pubmed">24905011</ArticleId>
+            <ArticleId IdType="pmc">PMC4048239</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

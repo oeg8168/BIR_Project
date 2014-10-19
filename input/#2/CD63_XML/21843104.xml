@@ -1,0 +1,208 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21843104</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1750-7448</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunotherapy</Title>
+                <ISOAbbreviation>Immunotherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Laboratory markers of mast cell and basophil activation in monitoring rush immunotherapy in bee venom-allergic children.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1013-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2217/imt.11.91</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To evaluate markers of mast cell and basophil activation in children undergoing the initial phase of honeybee venom immunotherapy (VIT).</AbstractText>
+                <AbstractText Label="PATIENTS &amp; METHODS" NlmCategory="METHODS">Five children (four boys and one girl) aged 9.5-18 years with severe systemic bee sting reactions and confirmed IgE-mediated allergy were enrolled. Plasma and urine concentrations of 9α,11β-PGF2 and serum tryptase levels were measured at four time points and peripheral blood basophil count and CD63 expression were measured at three time points in the course of VIT, including 5-day rush initial immunotherapy (cumulative dose of 223 µg of bee venom allergen) and two subsequent maintenance doses of 100 µg.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the first 40 days of VIT, there was a decrease in mean plasma levels of 9α,11β-PGF2 (from 41.5 to 27.9 pg/ml; p &lt; 0.05), accompanied by an increase in baseline basophil activation (from 2 to 15%; p &lt; 0.05). The median serum tryptase levels increased from 3.45 to 4.40 ng/ml during rush phase and subsequently returned to initial values (statistically not significant). In four patients, the basophil activation test in response to bee venom allergens remained positive throughout the study. The fifth patient was basophil activation test-negative at all three measurements, and a post hoc analysis revealed clinical peculiarities that are discussed in the paper.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our preliminary results indicate that plasma levels of 9α,11β-PGF2 decrease while numbers of activated basophils increase during the initial phase of bee venom rush immunotherapy in children.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cichocka-Jarosz</LastName>
+                    <ForeName>Ewa</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Department of Pediatrics, Polish-American Children's Hospital, Medical Faculty, Jagiellonian University Medical College, Krakow, Poland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorynska</LastName>
+                    <ForeName>Agnieszka</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pietrzyk</LastName>
+                    <ForeName>Jacek J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spiewak</LastName>
+                    <ForeName>Radoslaw</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Immunotherapy</MedlineTA>
+            <NlmUniqueID>101485158</NlmUniqueID>
+            <ISSNLinking>1750-743X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bee Venoms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>79743-27-4</RegistryNumber>
+                <NameOfSubstance>prostaglandin F2alpha 9-methyl ether</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>B7IN85G1HY</RegistryNumber>
+                <NameOfSubstance>Dinoprost</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.59</RegistryNumber>
+                <NameOfSubstance>Tryptases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bee Venoms</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Desensitization, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dinoprost</DescriptorName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Monitoring, Physiologic</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tryptases</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.2217/imt.11.91</ArticleId>
+            <ArticleId IdType="pubmed">21843104</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,334 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">25065721</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-6825</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>134</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of allergy and clinical immunology</Title>
+                <ISOAbbreviation>J. Allergy Clin. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Basophil activation test discriminates between allergy and tolerance in peanut-sensitized children.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>645-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jaci.2014.04.039</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0091-6749(14)00728-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Most of the peanut-sensitized children do not have clinical peanut allergy. In equivocal cases, oral food challenges (OFCs) are required. However, OFCs are laborious and not without risk; thus, a test that could accurately diagnose peanut allergy and reduce the need for OFCs is desirable.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the performance of basophil activation test (BAT) as a diagnostic marker for peanut allergy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Peanut-allergic (n = 43), peanut-sensitized but tolerant (n = 36) and non-peanut-sensitized nonallergic (n = 25) children underwent skin prick test (SPT) and specific IgE (sIgE) to peanut and its components. BAT was performed using flow cytometry, and its diagnostic performance was evaluated in relation to allergy versus tolerance to peanut and validated in an independent population (n = 65).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">BAT in peanut-allergic children showed a peanut dose-dependent upregulation of CD63 and CD203c while there was no significant response to peanut in peanut-sensitized but tolerant (P &lt; .001) and non-peanut-sensitized nonallergic children (P &lt; .001). BAT optimal diagnostic cutoffs showed 97% accuracy, 95% positive predictive value, and 98% negative predictive value. BAT allowed reducing the number of required OFCs by two-thirds. BAT proved particularly useful in cases in which specialists could not accurately diagnose peanut allergy with SPT and sIgE to peanut and to Arah2. Using a 2-step diagnostic approach in which BAT was performed only after equivocal SPT or Arah2-sIgE, BAT had a major effect (97% reduction) on the number of OFCs required.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">BAT proved to be superior to other diagnostic tests in discriminating between peanut allergy and tolerance, particularly in difficult cases, and reduced the need for OFCs.</AbstractText>
+                <CopyrightInformation>Copyright © 2014. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Alexandra F</ForeName>
+                    <Initials>AF</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom; Immunoallergology Department, Coimbra University Hospital, Coimbra, Portugal; Gulbenkian Programme for Advanced Medical Education, Lisbon, Portugal.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Douiri</LastName>
+                    <ForeName>Abdel</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Public Health Science, School of Medicine, King's College London, London, United Kingdom; National Institute for Health Research, Biomedical Research Centre, Guy's and St Thomas' Hospital NHS Foundation Trust, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bécares</LastName>
+                    <ForeName>Natalia</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Shih-Ying</ForeName>
+                    <Initials>SY</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stephens</LastName>
+                    <ForeName>Alick</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Radulovic</LastName>
+                    <ForeName>Suzana</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Susan M H</ForeName>
+                    <Initials>SM</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom; National Institute for Health Research, Biomedical Research Centre, Guy's and St Thomas' Hospital NHS Foundation Trust, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fox</LastName>
+                    <ForeName>Adam T</ForeName>
+                    <Initials>AT</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du Toit</LastName>
+                    <ForeName>George</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turcanu</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lack</LastName>
+                    <ForeName>Gideon</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Division of Asthma, Allergy &amp; Lung Biology, Department of Pediatric Allergy, King's College London, London, United Kingdom; MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, London, United Kingdom. Electronic address: gideon.lack@kcl.ac.uk.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>G0902018</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Allergy Clin Immunol</MedlineTA>
+            <NlmUniqueID>1275002</NlmUniqueID>
+            <ISSNLinking>0091-6749</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2004 Nov;114(5):1164-8</RefSource>
+                <PMID Version="1">15536426</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2005 Feb 15;24(3):465-77</RefSource>
+                <PMID Version="1">15635678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Jan;66(1):92-100</RefSource>
+                <PMID Version="1">20608919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2009 Aug;39(8):1234-45</RefSource>
+                <PMID Version="1">19549026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2010 Jun;125(6):1391-2</RefSource>
+                <PMID Version="1">20304474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2010 Jun;125(6):1322-6</RefSource>
+                <PMID Version="1">20462634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2000 Nov;30(11):1495-8</RefSource>
+                <PMID Version="1">11069555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2001 May;107(5):891-6</RefSource>
+                <PMID Version="1">11344358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2001 Dec 1;358(9296):1871-2</RefSource>
+                <PMID Version="1">11741628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2005 Mar;64(1):28-33</RefSource>
+                <PMID Version="1">15668987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fam Med. 2005 May;37(5):360-3</RefSource>
+                <PMID Version="1">15883903</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2005 Jun;115(6):1291-6</RefSource>
+                <PMID Version="1">15940149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Allergy Immunol. 2007 May;18(3):224-30</RefSource>
+                <PMID Version="1">17433000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2008 Jul;74(4):201-10</RefSource>
+                <PMID Version="1">18412216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2009 Feb;123(2):417-23</RefSource>
+                <PMID Version="1">19203660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol Pract. 2013 Jan;1(1):75-82</RefSource>
+                <PMID Version="1">24229825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatrics. 2009 Dec;124(6):1549-55</RefSource>
+                <PMID Version="1">19917585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2010 Dec;126(6 Suppl):S1-58</RefSource>
+                <PMID Version="1">21134576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2011 Mar;127(3):603-7</RefSource>
+                <PMID Version="1">21093026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2011 Mar;127(3):684-5</RefSource>
+                <PMID Version="1">21272928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2012 Feb;67(2):242-7</RefSource>
+                <PMID Version="1">22126416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2012 Apr;129(4):1056-63</RefSource>
+                <PMID Version="1">22385632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2012 Dec;130(6):1260-74</RefSource>
+                <PMID Version="1">23195525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2013 Jan;131(1):180-6.e1-3</RefSource>
+                <PMID Version="1">22819512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2013 Jan;131(1):135-43.e1-12</RefSource>
+                <PMID Version="1">23174658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2012;22(7):508-13</RefSource>
+                <PMID Version="1">23397673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Allergy Immunol. 2013 May;24(3):276-81</RefSource>
+                <PMID Version="1">23551267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2013 Aug;132(2):502</RefSource>
+                <PMID Version="1">23763972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2013 Sep;132(3):623-9</RefSource>
+                <PMID Version="1">23608728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol Pract. 2013 Jan;1(1):1-13; quiz 14</RefSource>
+                <PMID Version="1">24229816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1997 Oct;100(4):444-51</RefSource>
+                <PMID Version="1">9338535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Mar 25;428(6981):419-22</RefSource>
+                <PMID Version="1">15042089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2002 Jun;109(6):1027-33</RefSource>
+                <PMID Version="1">12063536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Allergy Clin Immunol. 2014 Sep;134(3):653-4</RefSource>
+                <PMID Version="1">25171867</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4164910</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anaphylaxis</Keyword>
+            <Keyword MajorTopicYN="N">CD203c</Keyword>
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">ROC curve</Keyword>
+            <Keyword MajorTopicYN="N">basophil activation test</Keyword>
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">flow cytometry</Keyword>
+            <Keyword MajorTopicYN="N">food allergy</Keyword>
+            <Keyword MajorTopicYN="N">peanut allergy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25065721</ArticleId>
+            <ArticleId IdType="pii">S0091-6749(14)00728-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaci.2014.04.039</ArticleId>
+            <ArticleId IdType="pmc">PMC4164910</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

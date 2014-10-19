@@ -1,0 +1,243 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22042057</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1423-0097</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>157</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International archives of allergy and immunology</Title>
+                <ISOAbbreviation>Int. Arch. Allergy Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cultured human mast cells are heterogeneous for expression of the high-affinity IgE receptor FcεRI.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>246-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000328756</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We determined the density of FcεRI on mast cells cultured from cord (CBMC) and peripheral blood (PBMC) and studied the kinetics of the response through FcεRI.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Mast cells were cultured from CD133+ progenitors from peripheral or cord blood. FcεRI was stabilized by culture with 2 μg/ml IgE. Cells were activated by addition of anti-FcεRI antibody (1 ng/ml-10 μg/ml). Maximal activation, sensitivity, and cooperativity were determined.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All cultures were homogeneous for tryptase and metachromasy. All cells expressing FcεRI could be activated by cross-linking FcεRI to upregulate CD63. PBMC bind 203,000 molecules of IgE/cell. Stabilization of FcεRI with IgE doubled the number of CD63+ cells (p = 0.0001) and increased the sensitivity (from 0.083 to 0.013 μg/ml anti-FcεRI) and the slope factor (from 10.8 to 68) of PBMC but not of CBMC. Anti-IgE reversed these effects (p = 0.0002) but did not reduce activation levels below that of cell lines not stabilized with IgE.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Baseline expression of FcεRI is independent of anti-IgE. The fraction of PBMC that binds high levels of IgE can be activated through FcεRI.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hoffmann</LastName>
+                    <ForeName>Hans Jürgen</ForeName>
+                    <Initials>HJ</Initials>
+                    <Affiliation>Department of Respiratory Diseases, Aarhus University and Hospital, Aarhus, Denmark. hans.jurgen.hoffmann@ki.au.dk</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frandsen</LastName>
+                    <ForeName>Pernille Munk</ForeName>
+                    <Initials>PM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christensen</LastName>
+                    <ForeName>Lars Harder</ForeName>
+                    <Initials>LH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schiøtz</LastName>
+                    <ForeName>Peter Oluf</ForeName>
+                    <Initials>PO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahl</LastName>
+                    <ForeName>Ronald</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int Arch Allergy Immunol</MedlineTA>
+            <NlmUniqueID>9211652</NlmUniqueID>
+            <ISSNLinking>1018-2438</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Anti-Idiotypic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>ENPP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, IgE</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>anti-IgE antibodies</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>207137-56-2</RegistryNumber>
+                <NameOfSubstance>Interleukin-4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.-</RegistryNumber>
+                <NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.59</RegistryNumber>
+                <NameOfSubstance>Tryptases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Pyrophosphatases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Anti-Idiotypic</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fetal Blood</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hematopoietic Stem Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-4</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphoric Diester Hydrolases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrophosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, IgE</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tryptases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">000328756</ArticleId>
+            <ArticleId IdType="doi">10.1159/000328756</ArticleId>
+            <ArticleId IdType="pubmed">22042057</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

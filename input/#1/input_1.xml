@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">25188236</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sequence-based antigenic change prediction by a sparse learning method incorporating co-evolutionary information.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e106660</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0106660</ELocationID>
+            <Abstract>
+                <AbstractText>Rapid identification of influenza antigenic variants will be critical in selecting optimal vaccine candidates and thus a key to developing an effective vaccination program. Recent studies suggest that multiple simultaneous mutations at antigenic sites accumulatively enhance antigenic drift of influenza A viruses. However, pre-existing methods on antigenic variant identification are based on analyses from individual sites. Because the impacts of these co-evolved sites on influenza antigenicity may not be additive, it will be critical to quantify the impact of not only those single mutations but also multiple simultaneous mutations or co-evolved sites. Here, we developed and applied a computational method, AntigenCO, to identify and quantify both single and co-evolutionary sites driving the historical antigenic drifts. AntigenCO achieved an accuracy of up to 90.05% for antigenic variant prediction, significantly outperforming methods based on single sites. AntigenCO can be useful in antigenic variant identification in influenza surveillance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Jialiang</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Department of Basic Sciences, College of Veterinary Medicine, Mississippi State University, Starkville, Mississippi, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Tong</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Statistics, Rutgers University, Piscataway, New Jersey, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>Xiu-Feng</ForeName>
+                    <Initials>XF</Initials>
+                    <Affiliation>Department of Basic Sciences, College of Veterinary Medicine, Mississippi State University, Starkville, Mississippi, United States of America.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>09</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004;32(5):1792-7</RefSource>
+                <PMID Version="1">15034147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Jul 16;305(5682):371-6</RefSource>
+                <PMID Version="1">15218094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1999 Mar 19;287(1):187-98</RefSource>
+                <PMID Version="1">10074416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2005 Nov 15;21(22):4116-24</RefSource>
+                <PMID Version="1">16159918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Apr 10;104(15):6283-8</RefSource>
+                <PMID Version="1">17395716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2008 Feb 15;24(4):505-12</RefSource>
+                <PMID Version="1">18187440</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Bioinformatics. 2009;10 Suppl 1:S41</RefSource>
+                <PMID Version="1">19208143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Comput Biol. 2010;6(10):e1000949</RefSource>
+                <PMID Version="1">20949097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2012;3:709</RefSource>
+                <PMID Version="1">22426230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2012 May 1;28(9):1292-3</RefSource>
+                <PMID Version="1">22399675</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>MBio. 2013;4(4). pii: e00230-13. doi: 10.1128/mBio.00230-13</RefSource>
+                <PMID Version="1">23820391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Nov 22;342(6161):976-9</RefSource>
+                <PMID Version="1">24264991</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4154722</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0106660</ArticleId>
+            <ArticleId IdType="pii">PONE-D-14-12397</ArticleId>
+            <ArticleId IdType="pubmed">25188236</ArticleId>
+            <ArticleId IdType="pmc">PMC4154722</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

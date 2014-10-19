@@ -1,0 +1,268 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20533388</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1552-4957</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>78</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cytometry. Part B, Clinical cytometry</Title>
+                <ISOAbbreviation>Cytometry B Clin Cytom</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>P38 mitogen-activated protein kinase signal transduction in the diagnosis and follow up of immunotherapy of wasp venom allergy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>302-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cyto.b.20531</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">P38 mitogen-activated protein kinase (MAPK) is known to govern IgE-mediated basophil activation. Intracellular phosphorylated p38 MAPK (Pp38 MAPK) in IgE-activated basophils can be quantified flow cytometrically.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To study whether Pp38 MAPK constitutes a potential novel read-out for flow-assisted diagnosis of hymenoptera venom allergy and to investigate whether this marker allows follow-up of successful venom immunotherapy (VIT).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Fifty-two patients with documented wasp venom allergy and seven wasp-stung asymptomatic control individuals were enrolled. Wasp venom-induced basophil activation was analyzed flow cytometrically with anti-IgE, anti-CD63, and anti-Pp38 MAPK to assess their activation status before starting immunotherapy. To assess whether p38 MAPK constitutes a candidate marker for monitoring VIT, we repeated the basophil activation test (BAT) in 25 patients on the fifth day of a build-up immunotherapy. In addition, we investigated whether the Pp38 MAPK-based BAT could contribute in the decision of discontinuing VIT in a cross-sectional analysis in 13 patients receiving treatment for 3 years and 14 patients receiving treatment for 5 years.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients exhibited a dose-dependent basophil activation with phosphorylation of p38 MAPK and upregulation of downstream CD63. In contrast, stung controls demonstrated a dose-dependent but &quot;abrogated&quot; signal transduction in basophils with less and shorter duration of the phosphorylation of p38 MAPK and without subsequent upregulation of CD63. When repeated after 5 days of VIT and when investigated cross-sectionally after 3 years or 5 years of maintenance therapy, no effect of VIT on the phosphorylation of p38 MAPK was demonstrable.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study discloses that not only basophils from patients, but also from the stung control individuals, respond to wasp venom stimulation with phosphorylation of p38 MAPK, although to a lesser extend. No clear effect of VIT on the phosphorylation of p38 MAPK was shown. Thus, although p38 MAPK provides an additional tool in the diagnosis of wasp venom allergy, it does not contribute to the decision whether to stop successful VIT. © 2010 International Clinical Cytometry Society.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 International Clinical Cytometry Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Verweij</LastName>
+                    <ForeName>Marjoke M</ForeName>
+                    <Initials>MM</Initials>
+                    <Affiliation>Department of Immunology-Allergology-Rheumatology, Faculty of Medicine, University of Antwerp, Antwerp, Belgium. immuno@ua.ac.be</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Knop</LastName>
+                    <ForeName>Kathleen J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bridts</LastName>
+                    <ForeName>Chris H</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Clerck</LastName>
+                    <ForeName>Luc S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stevens</LastName>
+                    <ForeName>Wim J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ebo</LastName>
+                    <ForeName>Didier G</ForeName>
+                    <Initials>DG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cytometry B Clin Cytom</MedlineTA>
+            <NlmUniqueID>101235690</NlmUniqueID>
+            <ISSNLinking>1552-4949</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Wasp Venoms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance>p38 Mitogen-Activated Protein Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Desensitization, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Insect Bites and Stings</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wasp Venoms</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">p38 Mitogen-Activated Protein Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cyto.b.20531</ArticleId>
+            <ArticleId IdType="pubmed">20533388</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,500 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20507624</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>06</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High gene expression of inflammatory markers and IL-17A correlates with severity of injection site reactions of Atlantic salmon vaccinated with oil-adjuvanted vaccines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>336</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2164-11-336</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Two decades after the introduction of oil-based vaccines in the control of bacterial and viral diseases in farmed salmonids, the mechanisms of induced side effects manifested as intra-abdominal granulomas remain unresolved. Side effects have been associated with generation of auto-antibodies and autoimmunity but the underlying profile of inflammatory and immune response has not been characterized. This study was undertaken with the aim to elucidate the inflammatory and immune mechanisms of granuloma formation at gene expression level associated with high and low side effect (granuloma) indices.Groups of Atlantic salmon parr were injected intraperitoneally with oil-adjuvanted vaccines containing either high or low concentrations of Aeromonas salmonicida or Moritella viscosa antigens in order to induce polarized (severe and mild) granulomatous reactions. The established granulomatous reactions were confirmed by gross and histological methods at 3 months post vaccination when responses were known to have matured. The corresponding gene expression patterns in the head kidneys were profiled using salmonid cDNA microarrays followed by validation by real-time quantitative PCR (qPCR). qPCR was also used to examine the expression of additional genes known to be important in the adaptive immune response.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Granulomatous lesions were observed in all vaccinated fish. The presence of severe granulomas was associated with a profile of up-regulation of innate immunity-related genes such as complement factors C1q and C6, mannose binding protein, lysozyme C, C-type lectin receptor, CD209, Cathepsin D, CD63, LECT-2, CC chemokine and metallothionein. In addition, TGF-beta (p = 0.001), IL-17A (p = 0.007) and its receptor (IL-17AR) (p = 0.009) representing TH17 were significantly up-regulated in the group with severe granulomas as were arginase and IgM. None of the genes directly reflective of T(H)1 T cell lineage (IFN-gamma, CD4) or T(H)2 (GATA-3) responses were differentially expressed.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Granulomatous reactions following vaccination with oil-based vaccines in Atlantic salmon have the profile of strong expression of genes related to innate immune responses. The expression of TGF-beta, IL-17A and its receptor suggests an involvement of T(H)17 T cell lineage and is in conformity with strong infiltration of neutrophils and macrophages into inflamed areas. Arginase upregulation shows that macrophages in these reactions are alternatively activated, indicating also a T(H)2-profile. To what extent the expression of IL-17A and its receptor reflects an autoimmune vaccine-based reaction remains elusive but would be in conformity with previous observations of autoimmune reactions in salmon when vaccinated with oil-based vaccines.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mutoloki</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Basic Sciences and Aquatic Medicine, Norwegian School of Veterinary Sciences, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>Glenn A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marjara</LastName>
+                    <ForeName>Inderjit S</ForeName>
+                    <Initials>IS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koop</LastName>
+                    <ForeName>Ben F</ForeName>
+                    <Initials>BF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Evensen</LastName>
+                    <ForeName>?˜ystein</ForeName>
+                    <Initials>??</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Adjuvants, Immunologic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-17</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Oils</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2006 May;43(13):2089-106</RefSource>
+                <PMID Version="1">16426680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2006 May;116(5):1218-22</RefSource>
+                <PMID Version="1">16670765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Inflamm Allergy Drug Targets. 2006 Sep;5(3):179-90</RefSource>
+                <PMID Version="1">16918481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Aug 25;281(34):24138-48</RefSource>
+                <PMID Version="1">16798734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Sep 22;126(6):1121-33</RefSource>
+                <PMID Version="1">16990136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2006 Nov;21(5):561-71</RefSource>
+                <PMID Version="1">16684608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mycopathologia. 2006 Nov;162(5):331-5</RefSource>
+                <PMID Version="1">17123031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2007 Mar;44(7):1652-63</RefSource>
+                <PMID Version="1">17045340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 1997 Feb;15(3):248-56</RefSource>
+                <PMID Version="1">9139482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1997;15:297-322</RefSource>
+                <PMID Version="1">9143690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1997;15:323-50</RefSource>
+                <PMID Version="1">9143691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1997 May 5;185(9):1533-40</RefSource>
+                <PMID Version="1">9151890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Immunol. 1997 Sep;17(5):366-9</RefSource>
+                <PMID Version="1">9327335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Apr 1;160(7):3513-21</RefSource>
+                <PMID Version="1">9531313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Jun 1;160(11):5347-54</RefSource>
+                <PMID Version="1">9605134</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Comp Immunol. 1999 Jan-Feb;23(1):71-85</RefSource>
+                <PMID Version="1">10220070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1999 Oct;98(2):267-72</RefSource>
+                <PMID Version="1">10540226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Dec 1;165(11):6107-15</RefSource>
+                <PMID Version="1">11086043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2001 Apr;158(4):1503-15</RefSource>
+                <PMID Version="1">11290568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2001 Dec;29(4):365-71</RefSource>
+                <PMID Version="1">11726920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2001 Dec;70(6):849-60</RefSource>
+                <PMID Version="1">11739546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2002 Jan;71(1):1-8</RefSource>
+                <PMID Version="1">11781375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2002 May;32(5):1242-52</RefSource>
+                <PMID Version="1">11981811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jan 17;278(3):1910-4</RefSource>
+                <PMID Version="1">12417590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem Mol Biol. 2003 Jan 31;36(1):95-109</RefSource>
+                <PMID Version="1">12542980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine Growth Factor Rev. 2003 Apr;14(2):155-74</RefSource>
+                <PMID Version="1">12651226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2003 Oct;15(4):349-58</RefSource>
+                <PMID Version="1">12969656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Oct 1;171(7):3655-67</RefSource>
+                <PMID Version="1">14500663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2004 May;16(5):633-44</RefSource>
+                <PMID Version="1">15110337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2005 Feb;18(2):135-47</RefSource>
+                <PMID Version="1">15475310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2004 Nov;41(12):1199-210</RefSource>
+                <PMID Version="1">15482855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 May 1;173(5):1121-32</RefSource>
+                <PMID Version="1">2022923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1991 Aug;12(8):256-7</RefSource>
+                <PMID Version="1">1680337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1992 Sep;6(12):3051-64</RefSource>
+                <PMID Version="1">1381691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 1994 Jun;102(6):828-32</RefSource>
+                <PMID Version="1">8006444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1999 Oct 1;163(7):3771-7</RefSource>
+                <PMID Version="1">10490974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 May 1;104(18):7506-11</RefSource>
+                <PMID Version="1">17456598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2007 May;26(5):579-91</RefSource>
+                <PMID Version="1">17481928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2007 Dec;19(6):652-7</RefSource>
+                <PMID Version="1">17766098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2008 Feb;41(2):92-104</RefSource>
+                <PMID Version="1">18178098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2008 May;8(5):337-48</RefSource>
+                <PMID Version="1">18408735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Oct 1;181(7):4807-14</RefSource>
+                <PMID Version="1">18802084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2008 Oct 17;29(4):628-36</RefSource>
+                <PMID Version="1">18848474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2008 Nov;1143:188-211</RefSource>
+                <PMID Version="1">19076351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2008 Dec;226:132-46</RefSource>
+                <PMID Version="1">19161421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2009;27:485-517</RefSource>
+                <PMID Version="1">19132915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroinflammation. 2009;6:14</RefSource>
+                <PMID Version="1">19400960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2009 Aug;9(8):556-67</RefSource>
+                <PMID Version="1">19575028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2010 Jan 1;391(1):505-9</RefSource>
+                <PMID Version="1">19931506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2010 Mar;298(3):F779-87</RefSource>
+                <PMID Version="1">20042461</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2010 May;67(9):1407-21</RefSource>
+                <PMID Version="1">20054607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1994;12:991-1045</RefSource>
+                <PMID Version="1">8011301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunobiology. 1994 Oct;191(4-5):493-502</RefSource>
+                <PMID Version="1">7713563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Chem Hoppe Seyler. 1995 Jun;376(6):327-43</RefSource>
+                <PMID Version="1">7576227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1996 Jul;26(7):1641-6</RefSource>
+                <PMID Version="1">8766573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Comp Immunol. 1995 Nov-Dec;19(6):473-82</RefSource>
+                <PMID Version="1">8773198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Dec;64(12):4976-83</RefSource>
+                <PMID Version="1">8945535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Jan 17;201(2):233-40</RefSource>
+                <PMID Version="1">15657292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Comp Immunol. 2005;29(4):333-47</RefSource>
+                <PMID Version="1">15859237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol (Basel). 2005;121:25-32</RefSource>
+                <PMID Version="1">15962467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol (Basel). 2005;121:55-74</RefSource>
+                <PMID Version="1">15962470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol (Basel). 2005;121:117-25</RefSource>
+                <PMID Version="1">15962474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Jul 1;175(1):404-12</RefSource>
+                <PMID Version="1">15972674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2006 Jan;20(1):1-11</RefSource>
+                <PMID Version="1">16018934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Aug 15;175(4):2484-94</RefSource>
+                <PMID Version="1">16081820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Pathol. 2005 Sep;42(5):579-88</RefSource>
+                <PMID Version="1">16145204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2005;6:126</RefSource>
+                <PMID Version="1">16164747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2005 Nov;6(11):1133-41</RefSource>
+                <PMID Version="1">16200068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2006 Jan 30;24(5):578-88</RefSource>
+                <PMID Version="1">16221512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2006 Mar;43(8):1116-28</RefSource>
+                <PMID Version="1">16257446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2006 Apr;43(11):1900-11</RefSource>
+                <PMID Version="1">16313960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2006;24:99-146</RefSource>
+                <PMID Version="1">16551245</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adjuvants, Immunologic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granuloma</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Injections</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-17</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Oils</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Salmo salar</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vaccination</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2996971</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2164-11-336</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2164-11-336</ArticleId>
+            <ArticleId IdType="pubmed">20507624</ArticleId>
+            <ArticleId IdType="pmc">PMC2996971</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

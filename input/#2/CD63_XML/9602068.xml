@@ -1,0 +1,184 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9602068</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>07</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>07</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3002</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1398</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>May</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta</Title>
+                <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterisation of the mouse homologue of CD151 (PETA-3/SFA-1); genomic structure, chromosomal localisation and identification of 2 novel splice forms.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>75-85</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>CD151 (PETA-3/SFA-1) is a member of the Transmembrane 4 Superfamily (TM4SF) of cell-surface proteins and, like other TM4SF members CD9 and CD63, is expressed by platelets, megakaryocytes and endothelial cells. The precise function of CD151 is unknown however complexes containing CD151 and beta1 integrins have been isolated from a number of cell systems and studies using anti-CD151 monoclonal antibodies have suggested a role in transmembrane signalling and cell adhesion. To further investigate the function of CD151 we have determined the genomic organisation of mouse CD151 (Cd151). Cd151 spans 4 kb and contains six coding region exons. Using 5' RACE and reverse transcriptase-polymerase chain reaction (RT-PCR) we have identified three 5' UTR splice variants which arise through alternate splicing of three exons. Splice variants were detected in a number of mouse tissues by RT-PCR. Analysis of the Cd151 genomic structure reveals a high degree of structural conservation with other TM4SF molecules supporting the theory that family members have arisen from gene duplication of a common ancestral gene. Cd151 maps to chromosome 7, in close linkage to the p gene (OCA2 in humans), and helps define a boundary in the human/mouse homology relationships.</AbstractText>
+                <CopyrightInformation>Copyright 1998 Elsevier Science B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fitter</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>The Hanson Centre for Cancer Research, Institute of Medical and Veterinary Science, Post Office Box 14, Rundle Mall, Adelaide, South Australia 5000, Australia. stephen.fitter@imvs.sa.gov.au</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seldin</LastName>
+                    <ForeName>M F</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashman</LastName>
+                    <ForeName>L K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>AF033620</AccessionNumber>
+                        <AccessionNumber>U89772</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HG00734</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>Biochim Biophys Acta</MedlineTA>
+            <NlmUniqueID>0217513</NlmUniqueID>
+            <ISSNLinking>0006-3002</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD151</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD151 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd151 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Complementary</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Alternative Splicing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD151</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Complementary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C3H</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Biosynthesis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9602068</ArticleId>
+            <ArticleId IdType="pii">S0167-4781(98)00034-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

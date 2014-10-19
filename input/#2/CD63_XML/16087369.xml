@@ -1,0 +1,202 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16087369</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1079-9796</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>35</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2005 Sep-Oct</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood cells, molecules &amp; diseases</Title>
+                <ISOAbbreviation>Blood Cells Mol. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HIV interaction with endosomes in macrophages and dendritic cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>136-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The human immunodeficiency virus type 1 (HIV-1) is an enveloped retrovirus that undergoes assembly at specific sites in infected cells. In macrophages, at least, this assembly occurs primarily on a subset of endocytic organelles that contain some of the markers found in late endosomes or multivesicular bodies (MVBs), in particular CD63. The budding of virus particles into endosomes has many features in common with the formation of exosomes and some limited biochemical comparison of HIV-1 particles produced from macrophages with exosomes suggests that the two have similar cellular origins. Here we show that macrophages infected with HIV contain large intracellular pools of infectious virus that can be released by homogenisation of intact cells. Immunoprecipitation experiments indicate this virus has a similar complement of cellular membrane proteins to viruses that can be recovered from the extracellular medium, further suggesting that viruses released from macrophages initially bud into endosomal organelles and are then released by fusion of these organelles with the plasma membrane.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kramer</LastName>
+                    <ForeName>Beatrice</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Cell Biology Unit, MRC-Laboratory for Molecular Cell Biology, and Department of Biochemistry and Molecular Biology, University College London, Gower Street, London WC1E 6BT, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pelchen-Matthews</LastName>
+                    <ForeName>Annegret</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deneka</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garcia</LastName>
+                    <ForeName>Eduardo</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Piguet</LastName>
+                    <ForeName>Vincent</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marsh</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MC_U122665002</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U.1226.00.003.00001.01(65002)</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood Cells Mol Dis</MedlineTA>
+            <NlmUniqueID>9509932</NlmUniqueID>
+            <ISSNLinking>1079-9796</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Viral Envelope Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Fusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Viral Envelope Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1079-9796(05)00099-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bcmd.2005.06.006</ArticleId>
+            <ArticleId IdType="pubmed">16087369</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

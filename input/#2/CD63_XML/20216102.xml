@@ -1,0 +1,183 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20216102</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-5636</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Melanoma research</Title>
+                <ISOAbbreviation>Melanoma Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Metastatic potential of melanoma cells is not affected by electrochemotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>196-205</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/CMR.0b013e328337abd7</ELocationID>
+            <Abstract>
+                <AbstractText>Electrochemotherapy is a local treatment combining chemotherapy and application of electric pulses to the tumour. Electrochemotherapy with bleomycin and cisplatin has shown its effectiveness in controlling local tumour growth in the treatment of malignant melanoma. However, the effect of electrochemotherapy on the metastatic potential of tumour cells is not known. Prevention of metastasis is an important aspect of successful treatment; however, it is known that metastasis can be induced by different treatment modalities. Therefore, the aim of this study was to evaluate the effect of electrochemotherapy with cisplatin on the metastatic potential of human malignant melanoma cells. Cells treated by electrochemotherapy with cisplatin were tested for their ability to migrate and invade through Matrigel-coated porous membrane. In addition, RNA was isolated from cells after treatment and differentially expressed genes were investigated by microarray analysis to evaluate the effect of electrochemotherapy with cisplatin on gene expression. There were no significant changes observed in cell migration and invasion of melanoma cells after electrochemotherapy. In addition, there were no changes observed in cell adhesion on Matrigel. Gene expression analysis showed that a very low number of genes were differentially expressed after electrochemotherapy with cisplatin. Two genes, LAMB3 and CD63 involved in cell migration, were both downregulated after electrochemotherapy with cisplatin and the expression of metastasis promoting genes was not increased after electrochemotherapy. Our data suggest that electrochemotherapy does not increase the metastatic behaviour of human melanoma cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Todorovic</LastName>
+                    <ForeName>Vesna</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>University of Primorska, College of Health Care Izola, Izola.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sersa</LastName>
+                    <ForeName>Gregor</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mlakar</LastName>
+                    <ForeName>Vid</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glavac</LastName>
+                    <ForeName>Damjan</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flisar</LastName>
+                    <ForeName>Karel</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cemazar</LastName>
+                    <ForeName>Maja</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Case Reports</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Melanoma Res</MedlineTA>
+            <NlmUniqueID>9109623</NlmUniqueID>
+            <ISSNLinking>0960-8931</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q20Q21Q62J</RegistryNumber>
+                <NameOfSubstance>Cisplatin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cisplatin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electrochemotherapy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/CMR.0b013e328337abd7</ArticleId>
+            <ArticleId IdType="pubmed">20216102</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

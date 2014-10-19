@@ -1,0 +1,452 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23632027</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>288</Volume>
+                    <Issue>26</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tetraspanin CD63 promotes vascular endothelial growth factor receptor 2-β1 integrin complex formation, thereby regulating activation and downstream signaling in endothelial cells in vitro and in vivo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>19060-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M113.468199</ELocationID>
+            <Abstract>
+                <AbstractText>CD63 is a member of the transmembrane-4 glycoprotein superfamily (tetraspanins) implicated in the regulation of membrane protein trafficking, leukocyte recruitment, and adhesion processes. We have investigated the involvement of CD63 in endothelial cell (EC) signaling downstream of β1 integrin and VEGF. We report that silencing of CD63 in primary ECs arrested capillary sprouting and tube formation in vitro because of impaired adhesion and migration of ECs. Mechanistically, CD63 associated with both β1 integrin and the main VEGF receptor on ECs, VEGFR2. Our data suggest that CD63 serves to bridge between β1 integrin and VEGFR2 because CD63 silencing disrupted VEGFR2-β1 integrin complex formation identified using proximity ligation assays. Signaling downstream of β1 integrin and VEGFR2 was attenuated in CD63-silenced cells, although their cell surface expression levels remained unaffected. CD63 was furthermore required for efficient internalization of VEGFR2 in response to VEGF. Importantly, systemic delivery of VEGF failed to potently induce VEGFR2 phosphorylation and downstream signaling in CD63-deficient mouse lungs. Taken together, our findings demonstrate a previously unrecognized role for CD63 in coordinated integrin and receptor tyrosine kinase signaling in vitro and in vivo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tugues</LastName>
+                    <ForeName>Sònia</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Immunology, Genetics, and Pathology, Rudbeck Laboratory, Uppsala University, 75185 Uppsala, Sweden. tugues@immunology.uzh.ch</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honjo</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>König</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Padhan</LastName>
+                    <ForeName>Narendra</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kroon</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gualandi</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Xiujuan</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barkefors</LastName>
+                    <ForeName>Irmeli</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thijssen</LastName>
+                    <ForeName>Victor L</ForeName>
+                    <Initials>VL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffioen</LastName>
+                    <ForeName>Arjan W</ForeName>
+                    <Initials>AW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Claesson-Welsh</LastName>
+                    <ForeName>Lena</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD29</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Vascular Endothelial Growth Factor Receptor-2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 31;272(5):2595-8</RefSource>
+                <PMID Version="1">9006891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Dec;114(Pt 23):4143-51</RefSource>
+                <PMID Version="1">11739647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1998 May 29;246(3):841-6</RefSource>
+                <PMID Version="1">9618300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1998 Oct;10(5):578-85</RefSource>
+                <PMID Version="1">9818167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Nov 16;17(22):6622-32</RefSource>
+                <PMID Version="1">9822606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 1999 Jan;3(1):11-21</RefSource>
+                <PMID Version="1">10024875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2005 Jan;202(1):205-14</RefSource>
+                <PMID Version="1">15389531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jan 7;280(1):125-36</RefSource>
+                <PMID Version="1">15504731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiology (Bethesda). 2005 Aug;20:218-24</RefSource>
+                <PMID Version="1">16024509</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2006 Oct;18(5):516-23</RefSource>
+                <PMID Version="1">16919435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2006 Oct;26(20):7707-18</RefSource>
+                <PMID Version="1">16908530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2006 Dec;3(12):995-1000</RefSource>
+                <PMID Version="1">17072308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Feb 15;109(4):1524-32</RefSource>
+                <PMID Version="1">17023588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2007 Sep 14;101(6):570-80</RefSource>
+                <PMID Version="1">17641225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2008 Mar 1;121(Pt 5):685-94</RefSource>
+                <PMID Version="1">18270265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2009 Mar;41(3):521-30</RefSource>
+                <PMID Version="1">18762270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2009 Feb;29(4):1083-94</RefSource>
+                <PMID Version="1">19075008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Sep;19(9):434-46</RefSource>
+                <PMID Version="1">19709882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 Feb 22;188(4):595-609</RefSource>
+                <PMID Version="1">20176926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2010 Oct;22(5):617-25</RefSource>
+                <PMID Version="1">20817428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2011 Feb;31(4):783-92</RefSource>
+                <PMID Version="1">21149578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2011 Jul 15;437(2):169-83</RefSource>
+                <PMID Version="1">21711246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2011 Sep 16;413(1):128-35</RefSource>
+                <PMID Version="1">21875571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2002 Apr 1;157(1):149-60</RefSource>
+                <PMID Version="1">11927607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Signal. 2003 Jun;15(6):559-64</RefSource>
+                <PMID Version="1">12681443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2003 Jun;1(6):1161-73</RefSource>
+                <PMID Version="1">12871315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2004 Aug 15;63(3):381-90</RefSource>
+                <PMID Version="1">15276463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Aug 15;104(4):1183-90</RefSource>
+                <PMID Version="1">15130945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1988 Jun 1;48(11):2955-62</RefSource>
+                <PMID Version="1">3365686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1990 Jul 1;145(1):283-91</RefSource>
+                <PMID Version="1">1694204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 Aug 15;82(4):1184-91</RefSource>
+                <PMID Version="1">8353283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1995 Feb;15(2):954-63</RefSource>
+                <PMID Version="1">7529876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2011 Oct 13;118(15):4265-73</RefSource>
+                <PMID Version="1">21803846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2011 Dec;39(6):1667-73</RefSource>
+                <PMID Version="1">22103505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2012 Jan;13(1):9-18</RefSource>
+                <PMID Version="1">21752167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 28;270(30):17784-90</RefSource>
+                <PMID Version="1">7629079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1995 Oct 12;377(6549):539-44</RefSource>
+                <PMID Version="1">7566154</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Feb;132(4):741-52</RefSource>
+                <PMID Version="1">8647902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1996 May 6;222(1):13-8</RefSource>
+                <PMID Version="1">8630057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1996 Feb;7(2):193-207</RefSource>
+                <PMID Version="1">8688552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Aug 6;93(16):8425-30</RefSource>
+                <PMID Version="1">8710887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Sep 1;157(5):2039-47</RefSource>
+                <PMID Version="1">8757325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Oct 15;157(8):3617-26</RefSource>
+                <PMID Version="1">8871662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2011 Sep 16;146(6):873-87</RefSource>
+                <PMID Version="1">21925313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2011 Oct;23(5):607-14</RefSource>
+                <PMID Version="1">21924601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2001 Jan;85(1):134-41</RefSource>
+                <PMID Version="1">11204565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2001 Oct;13(5):563-8</RefSource>
+                <PMID Version="1">11544024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Apr 1;158(7):3353-8</RefSource>
+                <PMID Version="1">9120293</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD29</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemotaxis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Human Umbilical Vein Endothelial Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neovascularization, Pathologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Small Interfering</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vascular Endothelial Growth Factor Receptor-2</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3696679</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Angiogenesis</Keyword>
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">Endothelial Cell</Keyword>
+            <Keyword MajorTopicYN="N">Receptor Tyrosine Kinase</Keyword>
+            <Keyword MajorTopicYN="N">Tetraspanins</Keyword>
+            <Keyword MajorTopicYN="N">Vascular Endothelial Growth Factor (VEGF)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23632027</ArticleId>
+            <ArticleId IdType="pii">M113.468199</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M113.468199</ArticleId>
+            <ArticleId IdType="pmc">PMC3696679</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

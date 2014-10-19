@@ -1,0 +1,198 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10230892</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>07</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>07</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0049-3848</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>94</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of stent length and heparin coating on platelet activation: a flow cytometric analysis in a pulsed floating model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>79-86</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Platelets are involved in acute and subacute thrombotic occlusions of coronary stents and also may play a role in the pathophysiology of in-stent restenosis. This study sought to investigate the expression of activation dependent glycoproteins on platelets by flow cytometry and time until stent thrombosis in an in vitro model of stent thrombosis. Coronary stents were placed in parallel silicon tubings with circulating citrated platelet rich plasma to measure 1) influence of stent length on platelet antigens; 2) influence of heparin coating on platelet antigens; and 3) time until stent thrombosis. After recalcification aliquots of platelet-rich plasma were taken over 10 minutes in 2-minute intervals and immediately fixed and stabilized. For flow cytometric analysis monoclonal antibodies to CD41a (glycoprotein IIb/ IIIa), CD42b (glycoprotein Ib-V-IX), CD62p (P-selectin), and CD63 (glycoprotein 53) were used. Within 2 minutes after start of circulation, the expression of CD62p and CD63 increased. Longer stents resulted in more platelet activation than shorter stents (25 mm vs. 15 mm; p&lt;0.001. Time until stent thrombosis was reduced (25 mm vs. 15 mm; p&lt;0.05). Heparin coating did not significantly influence flow cytometry detectable platelet activation but prolonged time until stent thrombosis (coated vs. uncoated; p&lt;0.005). In control tubing systems without stents platelet activation was less pronounced (p&lt;0.0001). Antibodies to CD41a and CD42b did not show significant changes. In this model platelet activation detected by flow cytometry and time until stent thrombosis were dependent on stent length and coating. In vitro testing could be useful to optimize stent design and material.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Beythien</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Department of Cardiology, University Hospital Eppendorf, Hamburg, Germany. beythien@uke.uni-hamburg.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gutensohn</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bau</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamm</LastName>
+                    <ForeName>C W</ForeName>
+                    <Initials>CW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kühnl</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meinertz</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terres</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIb-IX Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-49-6</RegistryNumber>
+                <NameOfSubstance>Heparin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Analysis of Variance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heparin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIb-IX Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10230892</ArticleId>
+            <ArticleId IdType="pii">S0049384898001984</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

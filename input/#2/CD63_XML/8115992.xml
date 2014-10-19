@@ -1,0 +1,205 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8115992</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0340-6245</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>70</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Oct</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis and haemostasis</Title>
+                <ISOAbbreviation>Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of whole blood flow cytometric detection of platelet bound fibrinogen on normal subjects and patients with activated platelets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>659-66</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Activated platelets can be detected by measuring platelet-bound fibrinogen in a whole blood, flow cytometric assay, using a fluorescently-conjugated polyclonal antibody. Fibrinogen binding to unstimulated platelets from normal subjects was low in this assay, as was expression of the CD63 antigen. Single cell counting of samples prepared for flow cytometric analysis showed platelet aggregates do not form during the assay procedure. Immune complexes were not seen, and fibrinogen binding to the platelets was unaffected by the CD32 MAb, IV.3. Artefactual activation of the unfixed samples could be minimised by control of phlebotomy, time and temperature of incubation. Variations in platelet count in the range 140-430 x 10(9) 1(-1) and in plasma fibrinogen in the range 2-6 g 1(-1) did not affect the assay results. Comparison of fibrinogen binding with expression of CD63 antigen on normal platelets, stimulated with agonists in vitro, demonstrated that fibrinogen binding detects an earlier stage of platelet activation. Platelet bound fibrinogen was shown to be sensitive in detecting small numbers of activated platelets in clinical samples in twelve patients on intensive care, four undergoing haemofiltration. The patients had a significantly higher median percentage of circulating platelets with bound fibrinogen (p &lt; 0.005), but fibrinogen binding was significantly lower (p &lt; 0.02) in response to 10(-5) M ADP, compared to twelve age-matched normal controls.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Janes</LastName>
+                    <ForeName>S L</ForeName>
+                    <Initials>SL</Initials>
+                    <Affiliation>Haemophilia Centre, Royal Free Hospital and School of Medicine, London, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chronos</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodall</LastName>
+                    <ForeName>A H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Thromb Haemost</MedlineTA>
+            <NlmUniqueID>7608063</NlmUniqueID>
+            <ISSNLinking>0340-6245</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fixatives</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9001-32-5</RegistryNumber>
+                <NameOfSubstance>Fibrinogen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen-Antibody Reactions</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bloodletting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibrinogen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fixatives</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemofiltration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Standards</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8115992</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

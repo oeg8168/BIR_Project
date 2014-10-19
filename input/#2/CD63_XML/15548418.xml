@@ -1,0 +1,190 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15548418</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0074-7696</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>241</Volume>
+                    <PubDate>
+                        <Year>2004</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International review of cytology</Title>
+                <ISOAbbreviation>Int. Rev. Cytol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biosynthesis and alternate targeting of the lysosomal cysteine protease cathepsin L.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Upregulation of cathepsin L expression, whether during development or cell transformation, or mediated by ectopic expression from a plasmid, alters the targeting of the protease and thus its physiological function. Upregulated procathepsin L is targeted to small dense core vesicles and to the dense cores of multivesicular bodies, as well as to lysosomes and to the plasma membrane for selective secretion. The multivesicular vesicles resemble secretory lysosomes characterized in specialized cell types in that they are endosomes that stably store an upregulated protein and they possess the tetraspanin CD63. Morphologically the multivesicular endosomes also resemble late endosomes, but they store procathepsin L, not the active protease, and they are not the major site for LAMP-1 accumulation. Distinction between the lysosomal proenzyme and active protease thus identifies two populations of multivesicular endosomes in fibroblasts, one a storage compartment and one an enzymatically active compartment. A distinctive targeting pathway using aggregation is utilized to enrich the storage endosomes with a particular lysosomal protease that can potentially activate and be secreted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Collette</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>University of Miami School of Medicine, Department of Molecular and Cellular Pharmacology, Miami, Florida 33101 USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bocock</LastName>
+                    <ForeName>Jeffrey P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahn</LastName>
+                    <ForeName>Kyujeong</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chapman</LastName>
+                    <ForeName>Richard L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Godbold</LastName>
+                    <ForeName>Gene</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yeyeodu</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erickson</LastName>
+                    <ForeName>Ann Hart</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int Rev Cytol</MedlineTA>
+            <NlmUniqueID>2985180R</NlmUniqueID>
+            <ISSNLinking>0074-7696</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance>Cathepsins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.22.-</RegistryNumber>
+                <NameOfSubstance>Cysteine Endopeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.22.15</RegistryNumber>
+                <NameOfSubstance>CTSL1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.22.15</RegistryNumber>
+                <NameOfSubstance>Cathepsin L</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cathepsin L</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cathepsins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cysteine Endopeptidases</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Precursors</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transport Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>227</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0074769604410018</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0074-7696(04)41001-8</ArticleId>
+            <ArticleId IdType="pubmed">15548418</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

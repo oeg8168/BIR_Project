@@ -1,0 +1,339 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21569129</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2222</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology</Title>
+                <ISOAbbreviation>Clin. Exp. Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Harnessing engineered antibodies of the IgE class to combat malignancy: initial assessment of Fc?›RI-mediated basophil activation by a tumour-specific IgE antibody to evaluate the risk of type I hypersensitivity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1400-13</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2222.2011.03770.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">IgE antibodies, sequestered into tissues and retained locally by the high-affinity IgE receptor, Fc?›RI, on powerful effector cells such as mast cells, macrophages and eosinophils, may offer improvements in the therapy of solid tumours. The chimeric antibody, MOv18 IgE, against the human ovarian carcinoma antigen, folate receptor Î± (FRÎ±), is more effective than its IgG1 counterpart in xenograft models of ovarian cancer. Although MOv18 IgE binds to a single epitope on FRÎ± and cannot cross-link IgE receptors on basophils, there remains a risk that components in the circulation of ovarian cancer patients might cross-link FRÎ±-MOv18-IgE-receptor-Fc?›RI complexes on basophils to cause type I hypersensitivity.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the propensity for MOv18 used in a therapeutic setting to cause Fc?›RI-mediated type I hypersensitivity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">As validated readouts of the potential for MOv18 to cause Fc?›RI-mediated type I hypersensitivity we measured release of a granule-stored mediator from a rat basophilic leukaemia cell line RBL SX-38 stably transfected with human tetrameric (Î±Î²Î³2) Fc?›RI, and induction of CD63 on blood basophils from patients with ovarian carcinoma and healthy controls ex vivo.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Serum FRÎ± levels were increased in ovarian cancer patients compared with healthy controls. MOv18 IgE alone, or in the presence of its antigen recombinant human FRÎ±, or of healthy volunteer (n=14) or ovarian carcinoma patient (n=32) sera, did not induce RBL SX-38 cell degranulation. Exposure to FRÎ±-expressing ovarian tumour cells at target-to-effector ratios expected within tumours induced degranulation. MOv18 IgE did not induce expression of CD63 in blood basophils from either healthy volunteers (n=6), or cancer patients, despite detectable levels of circulating FRÎ± (n=5).</AbstractText>
+                <AbstractText Label="CONCLUSION AND CLINICAL RELEVANCE" NlmCategory="CONCLUSIONS">These encouraging data are compatible with the hypothesis that, when ovarian carcinoma patients are treated with MOv18, Fc?›RI-mediated activation of effector cells occurs within the tumour mass but not in the circulation mandating, with due caution, further pre-clinical studies.</AbstractText>
+                <CopyrightInformation>Â© 2011 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rudman</LastName>
+                    <ForeName>S M</ForeName>
+                    <Initials>SM</Initials>
+                    <Affiliation>NIHR Biomedical Research Centre at Guy's and St Thomas's Hospitals and King's College London, Cutaneous Medicine &amp; Immunotherapy Unit, St John's Institute of Dermatology, Division of Genetics &amp; Molecular Medicine, King's College London School of Medicine, Guy's Hospital, King's College London, London, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Josephs</LastName>
+                    <ForeName>D H</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cambrook</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karagiannis</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilbert</LastName>
+                    <ForeName>A E</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dodev</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunt</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koers</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montes</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taams</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canevari</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figini</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blower</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beavil</LastName>
+                    <ForeName>A J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicodemus</LastName>
+                    <ForeName>C F</ForeName>
+                    <Initials>CF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corrigan</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaye</LastName>
+                    <ForeName>S B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nestle</LastName>
+                    <ForeName>F O</ForeName>
+                    <Initials>FO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gould</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spicer</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karagiannis</LastName>
+                    <ForeName>S N</ForeName>
+                    <Initials>SN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>(C1519/A10331</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C30122/A11527</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0501494</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Exp Allergy</MedlineTA>
+            <NlmUniqueID>8906443</NlmUniqueID>
+            <ISSNLinking>0954-7894</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal, Murine-Derived</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Folate Receptor 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MOv18 monoclonal antibody</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, IgE</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Clin Exp Allergy. 2011 Oct;41(10):1337-40</RefSource>
+                <PMID Version="1">21545551</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal, Murine-Derived</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibody Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carcinoma</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Folate Receptor 1</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ovarian Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Engineering</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, IgE</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1365-2222.2011.03770.x</ArticleId>
+            <ArticleId IdType="pubmed">21569129</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,186 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12445271</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0105-2896</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>189</Volume>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunological reviews</Title>
+                <ISOAbbreviation>Immunol. Rev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clustering of MHC-peptide complexes prior to their engagement in the immunological synapse: lipid raft and tetraspan microdomains.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>136-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Protein reorganization at the interface of a T cell and an antigen-presenting cell (APC) plays an important role in T cell activation. Imaging techniques reveal that reorganization of particular receptor-ligand pairs gives rise to an intercellular junction, termed the immunological synapse. In this synapse antigenic peptides associated with major histocompatibility complex (MHC) molecules form multimolecular arrays on the APC side, engaging an equivalent number of clustered T cell receptors (TCRs) on the T cell. The accumulation of MHC molecules carrying cognate peptide in the APC-T cell interface was thought to depend on the specificity and presence of TCRs. Recent evidence, however, suggests that the APC is equipped to preorganize MHC-peptide complexes in the absence of T cells. To this end, MHC molecules become incorporated into two types of membrane microdomains: (i) cholesterol- and glycosphingolipid-enriched domains, denoted lipid rafts, that preconcentrate MHC class II molecules; and (ii) microdomains made up of tetraspan proteins, such as CD9, CD63, CD81 or CD82, that mediate enrichment of MHC class II molecules loaded with a select set of peptides. It follows that the integrity, composition and dynamics of these microdomains are candidate determinants favoring activation or silencing of T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vogt</LastName>
+                    <ForeName>Anne B</ForeName>
+                    <Initials>AB</Initials>
+                    <Affiliation>Roche Center for Medical Genomics, F. Hoffmann-La Roche, Ltd, Basel, Switzerland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spindeldreher</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kropshofer</LastName>
+                    <ForeName>Harald</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Immunol Rev</MedlineTA>
+            <NlmUniqueID>7702118</NlmUniqueID>
+            <ISSNLinking>0105-2896</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CDw78 antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA-D Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA-DM antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Macromolecular Substances</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen-Presenting Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HLA-D Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intercellular Junctions</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macromolecular Substances</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Immunological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Processing, Post-Translational</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>83</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12445271</ArticleId>
+            <ArticleId IdType="pii">imr18912</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

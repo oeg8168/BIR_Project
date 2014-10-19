@@ -1,0 +1,167 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16081690</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0006-4971</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>106</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Dec</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human CD8+ T cells store CXCR1 in a distinct intracellular compartment and up-regulate it rapidly to the cell surface upon activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3718-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Activation and subsequent differentiation of naive CD8+ T cells lead to the development of memory subsets with distinct homing and effector capacities. On nonlymphoid homing subsets, expression of &quot;inflammatory&quot; chemokine receptors (such as CXCR3, CCR5, CX3CR1, and CXCR1) is believed to promote migration into sites of infection/inflammation. Here we show that CXCR1 can be up-regulated to the cell surface within minutes of activating human CD8+ T cells. No concurrent up-regulation of other inflammatory chemokine receptors was observed. Up-regulation of CXCR1 preferentially occurred on central memory CD8+ T cells-that is, cells with a lymph node homing phenotype-and was functionally relevant. Immunofluorescence microscopy showed CXCR1 to be present in intracellular vesicles that do not significantly colocalize with perforin, RANTES (regulated upon activation normal T cell expressed and secreted), or the lysosomal marker CD63. By contrast, partial colocalization with the Golgi marker GM130, the constitutive secretory pathway marker beta2-microglobulin, and the early endosome marker EEA1 was observed. Up-regulation of CXCR1 did not occur after T-cell receptor cross-linking. By contrast, supernatants from activated neutrophils, but not from monocytes or dendritic cells, induced its up-regulation. These results suggest that CD8+ T cells can rapidly adapt their homing properties by mobilizing CXCR1 from a distinct intracellular compartment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gasser</LastName>
+                    <ForeName>Olivier</ForeName>
+                    <Initials>O</Initials>
+                    <Affiliation>Department of Research, Immunobiology Laboratory, University Hospital Basel, 20 Hebelstrasse, CH-4031 Basel, Switzerland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Missiou</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eken</LastName>
+                    <ForeName>Ceylan</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hess</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>08</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Interleukin-8A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CD8-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Interleukin-8A</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocyte Subsets</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">2005-04-1366</ArticleId>
+            <ArticleId IdType="doi">10.1182/blood-2005-04-1366</ArticleId>
+            <ArticleId IdType="pubmed">16081690</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

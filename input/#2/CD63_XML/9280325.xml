@@ -1,0 +1,173 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9280325</PMID>
+        <DateCreated>
+            <Year>1997</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-1132</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>37</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flow cytometric analysis of platelet membrane antigens during and after continuous-flow plateletpheresis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>809-15</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The influence, extent, and duration of changes in platelet antigen expression caused by blood-biomaterial interaction in plateletpheresis were assessed.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">Twenty-two apheresis donors were studied by using two automated continuous-flow apheresis devices. Blood samples were taken before, during, and for 4 days after extracorporeal circulation. The platelet surface expression of glycoproteins CD41a, CD42b, CD62p, and CD63 was analyzed by flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Over the course of plateletpheresis, there was a significant increase in mean channel fluorescence intensity (MCFI) of CD62p, from 25.1 +/- 7.9 (mean +/- SD) to 50.4 +/- 28.9, and of CD63, from 22.3 +/- 6.5 to 33.3 +/- 13.2. There was a significant decrease in CD41a expression as measured by the MCFI, from 1129.8 +/- 125.0 to 1066.6 +/- 102.2, and in CD42b MCFI, from 329.6 +/- 49.4 to 321.4 +/- 52.0. The two apheresis devices showed different platelet activation kinetics, but the overall MCFI of CD62p and CD63 did not significantly diverge after 60 minutes of apheresis. CD62p and CD63 expression as measured by the MCFI returned to preapheresis levels during the follow-up period in 25 and 25 of 44 procedures, respectively, within 24 hours; in 10 and 13 of 44 procedures after 48 hours; in 7 and 3 of 44 procedures after 72 hours; and in 2 and 3 of 44 procedures on Day 5.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The varying kinetics of expression, as measured by the MCFI, of platelet antigens CD62p, CD63, CD41a, and CD42b during extracorporeal circulation may be useful for biocompatibility testing. Activated platelets continue to circulate in donors for several days after cytapheresis, which suggests that a sufficient interval between apheresis procedures is necessary to avoid the collection of activated platelets.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gutensohn</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Department of Transfusion Medicine/Transplantation Immunology, University Hospital Eppendorf, University of Hamburg, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartsch</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuehnl</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Human Platelet</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Blood Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Triglycerides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>97C5T2UQ7J</RegistryNumber>
+                <NameOfSubstance>Cholesterol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Transfusion. 1998 Mar;38(3):319-21</RefSource>
+                <PMID Version="1">9563419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Transfusion. 1998 May;38(5):515-6</RefSource>
+                <PMID Version="1">9633570</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Human Platelet</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholesterol</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plateletpheresis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9280325</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

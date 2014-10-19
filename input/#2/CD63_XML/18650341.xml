@@ -1,0 +1,245 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18650341</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>07</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1529-2401</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>30</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jul</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of neuroscience : the official journal of the Society for Neuroscience</Title>
+                <ISOAbbreviation>J. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lysosomes are the major vesicular compartment undergoing Ca2+-regulated exocytosis from cortical astrocytes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7648-58</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1523/JNEUROSCI.0744-08.2008</ELocationID>
+            <Abstract>
+                <AbstractText>Although Ca(2+)-dependent exocytosis is considered to be a pathway for gliotransmitter release from astrocytes, the structural and functional bases of this process remain controversial. We studied the relationship between near-membrane Ca(2+) elevations and the dynamics of single astroglial vesicles with styryl (FM) dyes. We show that cultured astrocytes, unlike neurons, spontaneously internalize FM dyes, resulting in the labeling of the entire acidic vesicle population within minutes. Interestingly, metabotropic glutamate receptor activation did not affect the FM labeling. Most FM-stained vesicles expressed sialin, CD63/LAMP3, and VAMP7, three markers for lysosomes and late endosomes. A subset of lysosomes underwent asynchronous exocytosis that required both Ca(2+) mobilization from intracellular stores and Ca(2+) influx across the plasma membrane. Lysosomal fusion occurred within seconds and was complete with no evidence for kiss and run. Our experiments suggest that astroglial Ca(2+)-regulated exocytosis is carried by lysosomes and operates on a timescale orders of magnitude slower than synaptic transmission.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Dongdong</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Institut National de la Santé et de la Recherche Médicale, Unité 603, Centre National de la Recherche Scientifique, Unité Mixte de Recherche 8154, Laboratory of Neurophysiology and New Microscopies, Université Paris Descartes, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ropert</LastName>
+                    <ForeName>Nicole</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koulakoff</LastName>
+                    <ForeName>Annette</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giaume</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oheim</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosci</MedlineTA>
+            <NlmUniqueID>8102140</NlmUniqueID>
+            <ISSNLinking>0270-6474</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD36</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>R-SNARE Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tubulin Modulators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>enhanced green fluorescent protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance>Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>526U7A2651</RegistryNumber>
+                <NameOfSubstance>Egtazic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>67526-95-8</RegistryNumber>
+                <NameOfSubstance>Thapsigargin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K22DDW77C0</RegistryNumber>
+                <NameOfSubstance>1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SML2Y3J35T</RegistryNumber>
+                <NameOfSubstance>Colchicine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD36</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Astrocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerebral Cortex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Colchicine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Egtazic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">R-SNARE Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thapsigargin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tubulin Modulators</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">28/30/7648</ArticleId>
+            <ArticleId IdType="doi">10.1523/JNEUROSCI.0744-08.2008</ArticleId>
+            <ArticleId IdType="pubmed">18650341</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

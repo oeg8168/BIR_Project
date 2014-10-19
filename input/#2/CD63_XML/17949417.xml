@@ -1,0 +1,349 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17949417</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2567</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>123</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Immunology</Title>
+                <ISOAbbreviation>Immunology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Different types of in vitro generated human monocyte-derived dendritic cells release exosomes with distinct phenotypes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>491-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Human in vitro generated dendritic cells and the exosomes they release are potential tools for the modulation of immune responses. Here, we characterized differently generated monocyte-derived dendritic cells (MDDCs) and their exosomes. Culturing of peripheral CD14+ cells from the same individuals with either interleukin (IL)-4 and granulocyte-macrophage colony-stimulating factor (GM-CSF) (conventional MDDCs) or alternatively with IL-4 and IL-3 generated immature MDDCs in 7 days. Fluorescence-activated cell sorting (FACS) analysis showed that the IL-4/IL-3-generated MDDCs had significantly lower percentages of CD1a+, CD40+ and CD80+ cells and a higher percentage of CD86+ cells as compared with conventional MDDCs. In addition, IL-4/IL-3-generated MDDCs had significantly higher densities of major histocompatibility complex (MHC) class I [human leucocyte antigen (HLA)-ABC], MHC class II (HLA-DR), CD11c and the tetraspanin CD81 as compared with conventional MDDCs. In a comparison of their ability to stimulate CD8+ T cells, we found that the IL-4/IL-3 MDDCs were slightly more efficient than the conventional MDDCs at inducing interferon (IFN)-gamma release in response to viral peptides. Exosome morphology was confirmed by electron microscopy and exosome phenotypes were analysed by flow cytometry and western blot. In comparison to exosomes from conventional MDDCs, exosomes from IL-4/IL-3-generated MDDCs showed significantly stronger signals for HLA-ABC, HLA-DR, CD11c, CD63 and CD81. Thus, phenotypically the exosomes largely reflected their MDDCs of origin. When exosomes were loaded with viral peptides, both types of exosomes induced IFN-gamma release from CD8+ T cells. Our findings might have significance for the development of DC- and exosome-based therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Johansson</LastName>
+                    <ForeName>Sara M</ForeName>
+                    <Initials>SM</Initials>
+                    <Affiliation>Department of Medicine Solna, Clinical Allergy Research Unit, Karolinska Institutet and University Hospital, Stockholm, Sweden. sara.m.johansson@ki.se</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Admyre</LastName>
+                    <ForeName>Charlotte</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheynius</LastName>
+                    <ForeName>Annika</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabrielsson</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Immunology</MedlineTA>
+            <NlmUniqueID>0374672</NlmUniqueID>
+            <ISSNLinking>0019-2805</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA-DR Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>207137-56-2</RegistryNumber>
+                <NameOfSubstance>Interleukin-4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82115-62-6</RegistryNumber>
+                <NameOfSubstance>Interferon-gamma</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Apr 1;168(7):3235-41</RefSource>
+                <PMID Version="1">11907077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2001 Nov15;94(4):459-73</RefSource>
+                <PMID Version="1">11745430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Jun 15;168(12):6199-207</RefSource>
+                <PMID Version="1">12055233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2002 Dec;3(12):1156-62</RefSource>
+                <PMID Version="1">12426563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Mar 15;170(6):3037-45</RefSource>
+                <PMID Version="1">12626558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Mar 28;278(13):10963-72</RefSource>
+                <PMID Version="1">12519789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunother. 2003 Sep-Oct;26(5):440-50</RefSource>
+                <PMID Version="1">12973033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2003 Oct;22(4):578-83</RefSource>
+                <PMID Version="1">14582906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2003 Nov;24(11):610-7</RefSource>
+                <PMID Version="1">14596886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transplantation. 2003 Nov 27;76(10):1503-10</RefSource>
+                <PMID Version="1">14657694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Feb 15;172(4):2126-36</RefSource>
+                <PMID Version="1">14764678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Feb 15;172(4):2137-46</RefSource>
+                <PMID Version="1">14764679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1985 Sep;101(3):942-8</RefSource>
+                <PMID Version="1">2993317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Jul 5;262(19):9412-20</RefSource>
+                <PMID Version="1">3597417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1994 Apr 1;179(4):1109-18</RefSource>
+                <PMID Version="1">8145033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Apr 15;154(8):3821-35</RefSource>
+                <PMID Version="1">7706722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1998 May;4(5):594-600</RefSource>
+                <PMID Version="1">9585234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Jul 1;106(1):216-23</RefSource>
+                <PMID Version="1">15790784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2005 Jul;17(7):879-87</RefSource>
+                <PMID Version="1">15908444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2006 Jul;36(7):1772-81</RefSource>
+                <PMID Version="1">16761310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Aug 1;179(3):1969-78</RefSource>
+                <PMID Version="1">17641064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Nov 1;147(3):599-610</RefSource>
+                <PMID Version="1">10545503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1999 Dec 1;94(11):3791-9</RefSource>
+                <PMID Version="1">10572093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2001 Jan 1;247(1-2):163-74</RefSource>
+                <PMID Version="1">11150547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2001 Feb;13(2):127-34</RefSource>
+                <PMID Version="1">11157846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Mar;7(3):297-303</RefSource>
+                <PMID Version="1">11231627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 15;166(12):7309-18</RefSource>
+                <PMID Version="1">11390481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2001 Aug;121(2):337-49</RefSource>
+                <PMID Version="1">11487543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Aug 10;106(3):255-8</RefSource>
+                <PMID Version="1">11509172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Aug 10;106(3):259-62</RefSource>
+                <PMID Version="1">11509173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Aug 10;106(3):271-4</RefSource>
+                <PMID Version="1">11509176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2001 Oct;31(10):2892-900</RefSource>
+                <PMID Version="1">11592064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2001 Oct;31(10):1583-93</RefSource>
+                <PMID Version="1">11678859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Immunol. 2002 Jan;22(1):1-7</RefSource>
+                <PMID Version="1">11958588</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen Presentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Viral</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CD8-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HLA-DR Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interferon-gamma</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-3</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-4</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2433319</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">IMM2714</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2567.2007.02714.x</ArticleId>
+            <ArticleId IdType="pubmed">17949417</ArticleId>
+            <ArticleId IdType="pmc">PMC2433319</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,221 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9552043</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0732-183X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>16</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical oncology : official journal of the American Society of Clinical Oncology</Title>
+                <ISOAbbreviation>J. Clin. Oncol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel staging protocol for non-small-cell lung cancers according to MRP-1/CD9 and KAI1/CD82 gene expression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1397-406</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">The transmembrane-4 superfamily (TM4SF) is a recently discovered family of genes. Of the TM4SF members, MRP-1/CD9, KAI1/CD82, and ME491/CD63 have been reported to modulate tumor progression or metastasis. In this study, we investigated the relationships between these three genes, MRP-1, KAI1, and ME491, in patients with non-small-cell lung cancers (NSCLCs). Moreover, we assessed the prognostic value of evaluating the expressions of MRP-1, KAI1, and ME491 simultaneously in NSCLCs.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">One hundred seventy-two patients up to stage IIIB NSCLC underwent radical surgery during the period of January 1991 through June 1994. Using a quantitative reverse-transcriptase polymerase chain reaction (RT-PCR) analysis, we studied the expression of MRP-1, KAI1, and ME491 genes in these patients.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that 109 patients (63.4%) had MRP-1-positive tumors and 42 patients (24.4%) had KAl1-positive tumors. Conversely, all 172 patients expressed ME491. No relationship was found between MRP-1 expression and KAI1 expression. We classified these patients into three groups. The 36 patients who were positive for both MRP-1 and KAI1 were defined as group A; the 79 patients with reduced expression of either MRP-1 or KAI1 were defined as group B, and the remaining 57 patients with reduced expression of both MRP-1 and KAI1 were defined as group C. This new classification was correlated with nodal status, tumor status, and pathologic stage (P = .0056, P = .0003, and P &lt; .0001, respectively). In NSCLC patients, the 5-year survival rate of group A patients was significantly better than that of group B patients and much better than that of group C patients (86.8%, 53.9%, and 31.5%, respectively; P &lt; .0001). Cox multivariate regression analysis showed that this new classification in NSCLCs was a significant prognostic factor, as was the nodal status (P &lt; .0001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our results suggest that a low MRP-1 and KAI1 expression by tumors of the lung may be associated with poor prognosis. It is conceivable that the evaluation for MRP-1 and KAI1 expression may identify node-negative lung cancer patients who are at high risk for early disease recurrence, and thus need intensive adjuvant therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Adachi</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Thoracic Surgery, Kitano Hospital, Tazuke Kofukai Medical Research Institute, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taki</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konishi</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>C I</ForeName>
+                    <Initials>CI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higashiyama</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyake</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Clin Oncol</MedlineTA>
+            <NlmUniqueID>8309333</NlmUniqueID>
+            <ISSNLinking>0732-183X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD82</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD9</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD82 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD9 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD82</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD9</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electrophoresis, Agar Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Proto-Oncogene Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9552043</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

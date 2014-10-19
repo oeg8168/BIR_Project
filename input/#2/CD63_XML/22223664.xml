@@ -1,0 +1,385 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22223664</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>109</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tissue inhibitor of metalloproteinase-1 (TIMP-1) regulates mesenchymal stem cells through let-7f microRNA and Wnt/β-catenin signaling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E309-16</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1115083109</ELocationID>
+            <Abstract>
+                <AbstractText>Tissue inhibitor of metalloproteinases 1 (TIMP-1) is a matrix metalloproteinase (MMP)-independent regulator of growth and apoptosis in various cell types. The receptors and signaling pathways that are involved in the growth factor activities of TIMP-1, however, remain controversial. RNA interference of TIMP-1 has revealed that endogenous TIMP-1 suppresses the proliferation, metabolic activity, and osteogenic differentiation capacity of human mesenchymal stem cells (hMSCs). The knockdown of TIMP-1 in hMSCs activated the Wnt/β-catenin signaling pathway as indicated by the increased stability and nuclear localization of β-catenin in TIMP-1-deficient hMSCs. Moreover, TIMP-1 knockdown cells exhibited enhanced β-catenin transcriptional activity, determined by Wnt/β-catenin target gene expression analysis and a luciferase-based β-catenin-activated reporter assay. An analysis of a mutant form of TIMP-1 that cannot inhibit MMP indicated that the effect of TIMP-1 on β-catenin signaling is MMP independent. Furthermore, the binding of CD63 to TIMP-1 on the surface of hMSCs is essential for the TIMP-1-mediated effects on Wnt/β-catenin signaling. An array analysis of microRNAs (miRNAs) and transfection studies with specific miRNA inhibitors and mimics showed that let-7f miRNA is crucial for the regulation of β-catenin activity and osteogenic differentiation by TIMP-1. Let-7f was up-regulated in TIMP-1-depleted hMSCs and demonstrably reduced axin 2, an antagonist of β-catenin stability. Our results demonstrate that TIMP-1 is a direct regulator of hMSC functions and reveal a regulatory network in which let-7f modulates Wnt/β-catenin activity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Egea</LastName>
+                    <ForeName>Virginia</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Division of Clinical Chemistry and Clinical Biochemistry, Surgical Department, Ludwig-Maximilians-University, 80336 Munich, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zahler</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rieth</LastName>
+                    <ForeName>Nicole</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neth</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popp</LastName>
+                    <ForeName>Tanja</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kehe</LastName>
+                    <ForeName>Kai</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jochum</LastName>
+                    <ForeName>Marianne</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ries</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tissue Inhibitor of Metalloproteinase-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>beta Catenin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>mirnlet7 microRNA, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 Mar 15;97(6):1796-802</RefSource>
+                <PMID Version="1">11238122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2011 Jun;39(6):608-16</RefSource>
+                <PMID Version="1">21288479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jul 4;418(6893):41-9</RefSource>
+                <PMID Version="1">12077603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2002 Aug 29;21(38):5861-7</RefSource>
+                <PMID Version="1">12185585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Oct 10;278(41):40364-72</RefSource>
+                <PMID Version="1">12904305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2004 Mar;22(3):326-30</RefSource>
+                <PMID Version="1">14758366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1988 Jun;71(6):1720-5</RefSource>
+                <PMID Version="1">2836003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Apr 24;280(5363):596-9</RefSource>
+                <PMID Version="1">9554852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 Apr 2;284(5411):143-7</RefSource>
+                <PMID Version="1">10102814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 May 11;96(10):5522-7</RefSource>
+                <PMID Version="1">10318916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1999 Jul 15;211(2):238-54</RefSource>
+                <PMID Version="1">10395785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jul 23;274(30):21362-8</RefSource>
+                <PMID Version="1">10409697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2004 Nov;2(11):e363</RefSource>
+                <PMID Version="1">15502875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Feb 15;105(4):1660-8</RefSource>
+                <PMID Version="1">15479729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Feb 1;65(3):898-906</RefSource>
+                <PMID Version="1">15705888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2005 May;8(5):739-50</RefSource>
+                <PMID Version="1">15866164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2006 Mar;25(1):99-113</RefSource>
+                <PMID Version="1">16680576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 May 18;25(21):3041-8</RefSource>
+                <PMID Version="1">16407831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2006 Aug;24(8):1892-903</RefSource>
+                <PMID Version="1">16690780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2006 Nov 3;127(3):469-80</RefSource>
+                <PMID Version="1">17081971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2007 Apr;21(4):595-603</RefSource>
+                <PMID Version="1">17301822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 May 1;109(9):4055-63</RefSource>
+                <PMID Version="1">17197427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Apr 4;320(5872):97-100</RefSource>
+                <PMID Version="1">18292307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Signal. 2008;1(27):re6</RefSource>
+                <PMID Version="1">18612141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2008 Aug 1;104(5):1803-17</RefSource>
+                <PMID Version="1">18384129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2008 Oct;36(10):1354-1369</RefSource>
+                <PMID Version="1">18657893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Nov 25;105(47):18372-7</RefSource>
+                <PMID Version="1">19011087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Jan 23;136(2):215-33</RefSource>
+                <PMID Version="1">19167326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2009 Mar 15;8(6):843-52</RefSource>
+                <PMID Version="1">19221491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Apr 30;113(18):4319-30</RefSource>
+                <PMID Version="1">19196662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2009 Jul;17(1):9-26</RefSource>
+                <PMID Version="1">19619488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2010 Jan;1803(1):55-71</RefSource>
+                <PMID Version="1">20080133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stem Cell. 2010 Jul 2;7(1):36-41</RefSource>
+                <PMID Version="1">20621048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:252</RefSource>
+                <PMID Version="1">20858269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Mol Med. 2010 Sep;14(9):2190-9</RefSource>
+                <PMID Version="1">20716123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Regen Med. 2010 Nov;5(6):933-46</RefSource>
+                <PMID Version="1">21082892</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Cell. 2010 Nov;1(11):979-86</RefSource>
+                <PMID Version="1">21153515</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pathol. 2011;6:457-78</RefSource>
+                <PMID Version="1">21073342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2011 Feb;50(2):312-9</RefSource>
+                <PMID Version="1">20709074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2011 May;18(5):853-63</RefSource>
+                <PMID Version="1">21127499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2011 Jun 1;124(Pt 11):1775-83</RefSource>
+                <PMID Version="1">21576351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2002 Feb;22(4):1172-83</RefSource>
+                <PMID Version="1">11809808</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Knockdown Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteogenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Inhibitor of Metalloproteinase-1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Wnt Signaling Pathway</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta Catenin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3277529</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1115083109</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1115083109</ArticleId>
+            <ArticleId IdType="pubmed">22223664</ArticleId>
+            <ArticleId IdType="pmc">PMC3277529</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

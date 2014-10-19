@@ -1,0 +1,355 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19640298</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC immunology</Title>
+                <ISOAbbreviation>BMC Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Enrichment and analysis of secretory lysosomes from lymphocyte populations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2172-10-41</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In specialized cells, such as mast cells, macrophages, T lymphocytes and Natural Killer cells in the immune system and for instance melanocytes in the skin, secretory lysosomes (SL) have evolved as bifunctional organelles that combine degradative and secretory properties. Mutations in lysosomal storage, transport or sorting molecules are associated with severe immunodeficiencies, autoimmunity and (partial) albinism. In order to analyze the function and content of secretory lysosomes in different cell populations, an efficient enrichment of these organelles is mandatory.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Based on a combination of differential and density gradient centrifugation steps, we provide a protocol to enrich intact SL from expanded hematopoietic cells, here T lymphocytes and Natural Killer cells. Individual fractions were initially characterized by Western blotting using antibodies against an array of marker proteins for intracellular compartments. As indicated by the presence of LAMP-3 (CD63) and FasL (CD178), we obtained a selective enrichment of SL in one of the resulting organelle fractions. The robustness and reproducibility of the applied separation protocol was examined by a high-resolution proteome analysis of individual SL preparations of different donors by 2D difference gel electrophoresis (2D-DIGE).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The provided protocol is readily applicable to enrich and isolate intact secretory vesicles from individual cell populations. It can be used to compare SL of normal and transformed cell lines or primary cell populations from healthy donors and patients with lysosomal storage or transport diseases, or from corresponding mutant mice. A subsequent proteome analysis allows the characterization of molecules involved in lysosomal maturation and cytotoxic effector function at high-resolution.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Hendrik</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Molecular Immunology, Institute of Immunology, University Hospital Schleswig-Holstein Campus Kiel, Kiel, Germany. schmidt@immunologie.uni-kiel.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gelhaus</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lucius</LastName>
+                    <ForeName>Ralph</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nebendahl</LastName>
+                    <ForeName>Melanie</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leippe</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janssen</LastName>
+                    <ForeName>Ottmar</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Immunol</MedlineTA>
+            <NlmUniqueID>100966980</NlmUniqueID>
+            <ISSNLinking>1471-2172</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>FASLG protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fas Ligand Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>LAMP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosome-Associated Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2008 Jul;8(14):2911-25</RefSource>
+                <PMID Version="1">18655029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2001 May;Chapter 3:Unit 3.6</RefSource>
+                <PMID Version="1">18228358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Jul;114(Pt 13):2405-16</RefSource>
+                <PMID Version="1">11559749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2001 Mar;1(3):377-96</RefSource>
+                <PMID Version="1">11680884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Feb;3(2):122-31</RefSource>
+                <PMID Version="1">11836514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2003 May;4(5):399-403</RefSource>
+                <PMID Version="1">12719728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2003 May 1;276(1-2):59-68</RefSource>
+                <PMID Version="1">12738359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2003 Nov;10(11):1215-25</RefSource>
+                <PMID Version="1">12894217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Jul 2;305(5680):55-9</RefSource>
+                <PMID Version="1">15232098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1968 May;37(2):482-513</RefSource>
+                <PMID Version="1">4297786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem J. 1978 Jul;10(4):469-87</RefSource>
+                <PMID Version="1">669986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1978 Aug;78(2):349-68</RefSource>
+                <PMID Version="1">211139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1983 Jul;97(1):52-61</RefSource>
+                <PMID Version="1">6408102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1984 Jun;132(6):3197-204</RefSource>
+                <PMID Version="1">6373925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1984 Sep 1;160(3):695-710</RefSource>
+                <PMID Version="1">6332169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1987 Jan;168(1):44-52</RefSource>
+                <PMID Version="1">2430820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>DNA. 1988 May;7(4):275-86</RefSource>
+                <PMID Version="1">2840249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 May 1;173(5):1099-109</RefSource>
+                <PMID Version="1">2022921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 1991 Oct;110(4):541-7</RefSource>
+                <PMID Version="1">1663946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Dec 1;178(6):1845-56</RefSource>
+                <PMID Version="1">7902407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1994 Aug 1;220(2):360-6</RefSource>
+                <PMID Version="1">7978279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1994 Aug 1;220(2):367-73</RefSource>
+                <PMID Version="1">7978280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jun 2;270(22):13503-11</RefSource>
+                <PMID Version="1">7768953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Mar 15;158(6):2680-8</RefSource>
+                <PMID Version="1">9058801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 1997 Oct;18(11):2071-7</RefSource>
+                <PMID Version="1">9420172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 1998 May;19(5):758-60</RefSource>
+                <PMID Version="1">9629911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 21;273(34):21783-9</RefSource>
+                <PMID Version="1">9705316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jan 29;274(5):2953-62</RefSource>
+                <PMID Version="1">9915833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1964 Nov;24:594-606</RefSource>
+                <PMID Version="1">14236734</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Sep 30;280(39):33411-8</RefSource>
+                <PMID Version="1">16046402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2005 Nov;5(16):4213-22</RefSource>
+                <PMID Version="1">16196089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2006 Jan;6(1):4-8</RefSource>
+                <PMID Version="1">16400714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Apr 11;103(15):5911-6</RefSource>
+                <PMID Version="1">16595635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2006 Nov;5(11):3135-44</RefSource>
+                <PMID Version="1">17081065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2007 Jan 15;108(1):10-9</RefSource>
+                <PMID Version="1">17097742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2007 Apr;28(7):1161-9</RefSource>
+                <PMID Version="1">17340647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Med Chem. 2008;15(17):1684-96</RefSource>
+                <PMID Version="1">18673218</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Fractionation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fas Ligand Protein</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosome-Associated Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Subcellular Fractions</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2726124</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2172-10-41</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2172-10-41</ArticleId>
+            <ArticleId IdType="pubmed">19640298</ArticleId>
+            <ArticleId IdType="pmc">PMC2726124</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

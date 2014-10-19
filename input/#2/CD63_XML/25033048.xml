@@ -1,0 +1,308 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">25033048</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlations between transmembrane 4 L6 family member 5 (TM4SF5), CD151, and CD63 in liver fibrotic phenotypes and hepatic migration and invasive capacities.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e102817</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0102817</ELocationID>
+            <Abstract>
+                <AbstractText>Transmembrane 4 L6 family member 5 (TM4SF5) is overexpressed during CCl4-mediated murine liver fibrosis and in human hepatocellular carcinomas. The tetraspanins form tetraspanin-enriched microdomains (TEMs) consisting of large membrane protein complexes on the cell surface. Thus, TM4SF5 may be involved in the signal coordination that controls liver malignancy. We investigated the relationship between TM4SF5-positive TEMs with liver fibrosis and tumorigenesis, using normal Chang hepatocytes that lack TM4SF5 expression and chronically TGFβ1-treated Chang cells that express TM4SF5. TM4SF5 expression is positively correlated with tumorigenic CD151 expression, but is negatively correlated with tumor-suppressive CD63 expression in mouse fibrotic and human hepatic carcinoma tissues, indicating cooperative roles of the tetraspanins in liver malignancies. Although CD151 did not control the expression of TM4SF5, TM4SF5 appeared to control the expression levels of CD151 and CD63. TM4SF5 interacted with CD151, and caused the internalization of CD63 from the cell surface into late lysosomal membranes, presumably leading to terminating the tumor-suppressive functions of CD63. TM4SF5 could overcome the tumorigenic effects of CD151, especially cell migration and extracellular matrix (ECM)-degradation. Taken together, TM4SF5 appears to play a role in liver malignancy by controlling the levels of tetraspanins on the cell surface, and could provide a promising therapeutic target for the treatment of liver malignancies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Minkyung</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Biomedical Sciences, College of Medicine, Seoul National University, Seoul, Republic of Korea; Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryu</LastName>
+                    <ForeName>Jihye</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Doohyung</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Mi-Sook</ForeName>
+                    <Initials>MS</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hye-Jin</ForeName>
+                    <Initials>HJ</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nam</LastName>
+                    <ForeName>Seo Hee</ForeName>
+                    <Initials>SH</Initials>
+                    <Affiliation>Interdisciplinary Program in Genetic Engineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Haeng Eun</ForeName>
+                    <Initials>HE</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Jungeun</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Interdisciplinary Program in Genetic Engineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Gyu-Ho</ForeName>
+                    <Initials>GH</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Tai Young</ForeName>
+                    <Initials>TY</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hansoo</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Department of Biological Sciences, Kangwon National University, Chunchon, Kangwon-do, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sang Jick</ForeName>
+                    <Initials>SJ</Initials>
+                    <Affiliation>Therapeutic Antibody Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejon, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ye</LastName>
+                    <ForeName>Sang-Kyu</ForeName>
+                    <Initials>SK</Initials>
+                    <Affiliation>Department of Biomedical Sciences, College of Medicine, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Semi</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Biological Sciences, Kangwon National University, Chunchon, Kangwon-do, Republic of Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jung Weon</ForeName>
+                    <Initials>JW</Initials>
+                    <Affiliation>Department of Pharmacy, Research Institute of Pharmaceutical Sciences, Medicinal Bioconvergence Research Center, Tumor Microenvironment Global Core Research Center, College of Pharmacy, Seoul, Republic of Korea; Interdisciplinary Program in Genetic Engineering, Seoul National University, Seoul, Republic of Korea.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Feb 19;113(8):1845-55</RefSource>
+                <PMID Version="1">19036703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2008 Apr;1785(2):182-206</RefSource>
+                <PMID Version="1">18166162</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Sep;19(9):434-46</RefSource>
+                <PMID Version="1">19709882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2009 Nov;50(5):1524-36</RefSource>
+                <PMID Version="1">19787807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Mar 15;70(6):2256-63</RefSource>
+                <PMID Version="1">20197472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2010 Sep 1;111(1):59-66</RefSource>
+                <PMID Version="1">20506553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Pharmacol Sin. 2010 Nov;31(11):1409-20</RefSource>
+                <PMID Version="1">20953207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci (Landmark Ed). 2011;16:1752-8</RefSource>
+                <PMID Version="1">21196261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2012 Feb;1823(2):514-23</RefSource>
+                <PMID Version="1">22178131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2012 May 1;443(3):691-700</RefSource>
+                <PMID Version="1">22292774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Mar;1833(3):629-42</RefSource>
+                <PMID Version="1">23220047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Ther Targets. 2012 Oct;16(10):985-97</RefSource>
+                <PMID Version="1">22880813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Sep 14;287(38):32027-39</RefSource>
+                <PMID Version="1">22843693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2012 Dec 15;125(Pt 24):5960-73</RefSource>
+                <PMID Version="1">23077174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Protein Sci. 2000 Aug;9(8):1594-600</RefSource>
+                <PMID Version="1">10975581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2004 Apr;126(4):1005-14</RefSource>
+                <PMID Version="1">15057740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Apr 1;158(7):3353-8</RefSource>
+                <PMID Version="1">9120293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 1997 Apr;45(4):515-25</RefSource>
+                <PMID Version="1">9111230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Aug 1;59(15):3812-20</RefSource>
+                <PMID Version="1">10447000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2005 Mar 22;1743(1-2):151-61</RefSource>
+                <PMID Version="1">15777850</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Aug 25;281(34):24279-92</RefSource>
+                <PMID Version="1">16798740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2006 Oct 1;312(16):2983-99</RefSource>
+                <PMID Version="1">16828471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Feb 15;109(4):1524-32</RefSource>
+                <PMID Version="1">17023588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2007 Jul 1;101(4):830-9</RefSource>
+                <PMID Version="1">17211838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2008 Mar 1;121(Pt 5):685-94</RefSource>
+                <PMID Version="1">18270265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2008 Apr;118(4):1354-66</RefSource>
+                <PMID Version="1">18357344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4102591</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0102817</ArticleId>
+            <ArticleId IdType="pii">PONE-D-14-14672</ArticleId>
+            <ArticleId IdType="pubmed">25033048</ArticleId>
+            <ArticleId IdType="pmc">PMC4102591</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

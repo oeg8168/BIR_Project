@@ -1,0 +1,194 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18787187</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4636</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arteriosclerosis, thrombosis, and vascular biology</Title>
+                <ISOAbbreviation>Arterioscler. Thromb. Vasc. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>C-reactive protein isoforms differ in their effects on thrombus growth.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2239-46</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1161/ATVBAHA.108.174359</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We studied the impact of native (natCRP) and modified CRP (mCRP) isoforms on platelet adhesion and thrombus growth under arterial flow.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Blood was perfused over type I collagen at a wall shear rate of 1500 s(-1), and platelet deposition and thrombus growth were evaluated by confocal microscopy. natCRP and mCRP were either incubated with blood before perfusion experiments or immobilized in the collagen surface and exposed to flowing blood. mCRP significantly increased platelet adhesion and thrombus growth when directly incubated with blood and when immobilized on a collagen surface (P&lt;0.05). In contrast, natCRP did not exert any effect. Confocal immunohistochemistry revealed the presence of CRP on the surface of adhered platelets and within the thrombus and showed an upregulation of P-selectin and CD36 in effluent platelets preincubated with mCRP (P&lt;0.05). Flow cytometry analysis of agonist-induced platelet activation demonstrated that mCRP, but not natCRP, significantly increased platelet surface P-selectin (P&lt;0.05) without modifying CD63 and PAC-1.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our data indicate that whereas serum natCRP may not affect thrombus growth, mCRP displays a prothrombotic phenotype enhancing not only platelet deposition, but also thrombus growth under arterial flow conditions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Molins</LastName>
+                    <ForeName>Blanca</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Cardiovascular Research Center, CSIC-ICCC, Hospital de la Santa Creu i Sant Pau, Barcelona, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peña</LastName>
+                    <ForeName>Esther</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vilahur</LastName>
+                    <ForeName>Gemma</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mendieta</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slevin</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Badimon</LastName>
+                    <ForeName>Lina</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Arterioscler Thromb Vasc Biol</MedlineTA>
+            <NlmUniqueID>9505803</NlmUniqueID>
+            <ISSNLinking>1079-5642</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD36</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Coated Materials, Biocompatible</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Isoforms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-41-4</RegistryNumber>
+                <NameOfSubstance>C-Reactive Protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD36</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">C-Reactive Protein</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coated Materials, Biocompatible</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Perfusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Adhesiveness</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Isoforms</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ATVBAHA.108.174359</ArticleId>
+            <ArticleId IdType="doi">10.1161/ATVBAHA.108.174359</ArticleId>
+            <ArticleId IdType="pubmed">18787187</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

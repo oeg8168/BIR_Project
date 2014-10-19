@@ -1,0 +1,192 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10885717</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>02</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0148-6071</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2000 Jul-Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JPEN. Journal of parenteral and enteral nutrition</Title>
+                <ISOAbbreviation>JPEN J Parenter Enteral Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Medium-chain, triglyceride-containing lipid emulsions increase human neutrophil beta2 integrin expression, adhesion, and degranulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>228-33</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To test the hypothesis that lipid emulsions with different triglyceride structures have distinct immunomodulatory properties, we analyzed human neutrophil adhesion and degranulation after lipid incubation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Neutrophils, isolated from the blood of 10 healthy volunteers, were incubated in medium or physiologic (2.5 mmol/L) emulsions containing long-chain (LCT), medium-chain (MCT), mixed LCT/MCT, or structured (SL) triglycerides. Expression of adhesion molecules and degranulation markers was evaluated by flow cytometry. Also, functional adhesion was investigated by means of a flow cytometric assay using fluorescent beads coated with the integrin ligand intercellular adhesion molecule (ICAM)-1.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Although LCT and SL had no effect, LCT/MCT significantly increased expression of the beta2 integrins lymphocyte-function-associated antigen 1 (+18%), macrophage antigen 1 (+387%), p150,95 (+82%), and (alphaDbeta2 (+230%). Degranulation marker expression for azurophilic (CD63, +210%) and specific granules (CD66b, +370%) also significantly increased, whereas L-selectin (CD62L, -70%) decreased. The effects of LCT/MCT were mimicked by the MCT emulsion. ICAM-1 adhesion (% beads bound) was increased by LCT/MCT (34% +/- 4%), whereas LCT (19% +/-3%) and SL (20% +/- 2%) had no effect compared with medium (17% +/- 3%).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">LCT/MCT and MCT, contrary to LCT and SL emulsions, increased neutrophil beta2 integrin expression, adhesion, and degranulation. Apart from other emulsion constituents, triglyceride chain length might therefore be a key feature in the interaction of lipid emulsions and the phagocyte immune system.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wanten</LastName>
+                    <ForeName>G J</ForeName>
+                    <Initials>GJ</Initials>
+                    <Affiliation>Department of Gastroenterology, University Hospital, Nijmegen, The Netherlands. g.wanten@gastro.azn.nl</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geijtenbeek</LastName>
+                    <ForeName>T B</ForeName>
+                    <Initials>TB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raymakers</LastName>
+                    <ForeName>R A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Kooyk</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roos</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jansen</LastName>
+                    <ForeName>J B</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naber</LastName>
+                    <ForeName>A H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>JPEN J Parenter Enteral Nutr</MedlineTA>
+            <NlmUniqueID>7804134</NlmUniqueID>
+            <ISSNLinking>0148-6071</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD18</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fat Emulsions, Intravenous</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Triglycerides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126547-89-5</RegistryNumber>
+                <NameOfSubstance>Intercellular Adhesion Molecule-1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD18</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fat Emulsions, Intravenous</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intercellular Adhesion Molecule-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10885717</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

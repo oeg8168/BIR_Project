@@ -1,0 +1,385 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16912326</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-538X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>80</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mobility of human immunodeficiency virus type 1 Pr55Gag in living cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8796-806</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Human immunodeficiency virus type 1 (HIV-1) assembly requires the converging of thousands of structural proteins on cellular membranes to form a tightly packed immature virion. The Gag polyprotein contains all of the determinants important for viral assembly and must move around in the cell in order to form particles. This work has focused on Gag mobility in order to provide more insights into the dynamics of particle assembly. Key to these studies was the use of several fluorescently labeled Gag derivatives. We used fluorescence recovery after photobleaching as well as photoactivation to determine Gag mobility. Upon expression, Gag can be localized diffusely in the cytoplasm, associated with the plasma membrane, or in virus-like particles (VLPs). Here we show that Gag VLPs are primarily localized in the plasma membrane and do not colocalize with CD63. We have shown using full-length Gag as well as truncation mutants fused to green fluorescent protein that Gag is highly mobile in live cells when it is not assembled into VLPs. Results also showed that this mobility is highly dependent upon cholesterol. When cholesterol is depleted from cells expressing Gag, mobility is significantly decreased. Once cholesterol was replenished, Gag mobility returned to wild-type levels. Taken together, results from these mobility studies suggest that Gag is highly mobile and that as the assembly process proceeds, mobility decreases. These studies also suggest that Gag assembly must occur in cholesterol-rich domains in the plasma membrane.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gomez</LastName>
+                    <ForeName>Candace Y</ForeName>
+                    <Initials>CY</Initials>
+                    <Affiliation>Department of Cell &amp; Molecular Biology, Northwestern University Feinberg School of Medicine, Chicago, Illinois 60611,USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hope</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI052051</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI52051</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gene Products, gag</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>p55 gag precursor protein, Human immunodeficiency virus 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance>Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jul;74(13):5845-55</RefSource>
+                <PMID Version="1">10846064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2003 Mar;23(6):1922-34</RefSource>
+                <PMID Version="1">12612067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Sep;74(18):8670-9</RefSource>
+                <PMID Version="1">10954568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Feb 2;291(5505):843-7</RefSource>
+                <PMID Version="1">11225636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2001 Jun;3(6):E145-7</RefSource>
+                <PMID Version="1">11389456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Jun;2(6):444-56</RefSource>
+                <PMID Version="1">11389468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2001 Sep;75(17):7913-24</RefSource>
+                <PMID Version="1">11483736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Apr;77(7):3973-84</RefSource>
+                <PMID Version="1">12634357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Dec;4(12):902-10</RefSource>
+                <PMID Version="1">14617353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Feb;78(3):1230-42</RefSource>
+                <PMID Version="1">14722278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2004 Mar;86(3):1345-56</RefSource>
+                <PMID Version="1">14990465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2004 Apr;32(4):445-50</RefSource>
+                <PMID Version="1">15003607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2004 May;86(5):2965-79</RefSource>
+                <PMID Version="1">15111412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2004 Jul;11(7):672-5</RefSource>
+                <PMID Version="1">15208690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Sep;78(17):9560-3</RefSource>
+                <PMID Version="1">15308748</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2004 Sep;78(18):9675-88</RefSource>
+                <PMID Version="1">15331700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Aug;86(15):5781-5</RefSource>
+                <PMID Version="1">2788277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1990 Jan;87(2):523-7</RefSource>
+                <PMID Version="1">2405382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1990 Mar;175(1):139-48</RefSource>
+                <PMID Version="1">1689917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechniques. 1990 May;8(5):528-35</RefSource>
+                <PMID Version="1">2357375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Jan;120(1):175-84</RefSource>
+                <PMID Version="1">8416987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Apr;68(4):2556-69</RefSource>
+                <PMID Version="1">8139035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 May;68(5):3232-42</RefSource>
+                <PMID Version="1">8151785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Feb 2;271(5):2868-73</RefSource>
+                <PMID Version="1">8576268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1996 Aug;71(2):1140-51</RefSource>
+                <PMID Version="1">8842251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Feb 10;136(3):567-81</RefSource>
+                <PMID Version="1">9024688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 Sep;71(9):6582-92</RefSource>
+                <PMID Version="1">9261380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1998 Jul 5;246(2):191-8</RefSource>
+                <PMID Version="1">9657938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 May;73(5):4136-44</RefSource>
+                <PMID Version="1">10196310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Jul;73(7):5654-62</RefSource>
+                <PMID Version="1">10364315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Oct;73(10):8527-40</RefSource>
+                <PMID Version="1">10482606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Jan;88(1):334-47</RefSource>
+                <PMID Version="1">15516525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Jan;88(1):609-22</RefSource>
+                <PMID Version="1">15520272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Feb;79(3):1803-12</RefSource>
+                <PMID Version="1">15650204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Endocrinol. 2005 Jan 31;230(1-2):1-6</RefSource>
+                <PMID Version="1">15664445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2005 May;7(5):621-6</RefSource>
+                <PMID Version="1">15839891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2005 Aug;89(2):1362-73</RefSource>
+                <PMID Version="1">15908575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Rev. 2005 Apr-Jun;7(2):84-91</RefSource>
+                <PMID Version="1">16092502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jan;74(1):16-23</RefSource>
+                <PMID Version="1">10590086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Mar;74(6):2855-66</RefSource>
+                <PMID Version="1">10684302</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Apr;74(7):3264-72</RefSource>
+                <PMID Version="1">10708443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jun;74(11):5142-50</RefSource>
+                <PMID Version="1">10799589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Virol. 2001 Oct;22(3):217-27</RefSource>
+                <PMID Version="1">11564586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Nov 20;98(24):13925-30</RefSource>
+                <PMID Version="1">11717449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 May;76(10):4679-87</RefSource>
+                <PMID Version="1">11967285</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Somat Cell Mol Genet. 2001 Nov;26(1-6):13-33</RefSource>
+                <PMID Version="1">12465460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2003 Jan 5;305(1):219-27</RefSource>
+                <PMID Version="1">12504555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Feb;77(3):1916-26</RefSource>
+                <PMID Version="1">12525626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Aug;74(16):7238-49</RefSource>
+                <PMID Version="1">10906178</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence Recovery After Photobleaching</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Products, gag</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plasmids</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Precursors</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1563866</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">80/17/8796</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.02159-05</ArticleId>
+            <ArticleId IdType="pubmed">16912326</ArticleId>
+            <ArticleId IdType="pmc">PMC1563866</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

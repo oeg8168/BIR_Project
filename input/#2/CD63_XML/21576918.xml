@@ -1,0 +1,406 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21576918</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1662-8128</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of innate immunity</Title>
+                <ISOAbbreviation>J Innate Immun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Importance of phagosomal functionality for growth restriction of Mycobacterium tuberculosis in primary human macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>508-18</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000325297</ELocationID>
+            <Abstract>
+                <AbstractText>The best characterized survival mechanism of Mycobacterium tuberculosis inside the macrophage is the inhibition of phagosomal maturation. Phagosomal maturation involves several steps including fusion with lysosomes and acidification. However, it has not been elucidated which components of phagosomal maturation correlate with growth restriction of virulent mycobacteria in human macrophages, and we aimed to study this. We infected human monocyte-derived macrophages with M. tuberculosis and assessed bacterial replication, translocation of CD63 to the phagosome, and phagosomal acidification. We found that unstimulated human macrophages were able to control infection with M. tuberculosis upon inoculation at a low multiplicity of infection (MOI) of 1, but not at a high MOI of 10. The low MOI resulted in a macrophage-controlled balance between host cells and bacteria. Both H37Rv and H37Ra infection, at high and low MOI, led to equally ineffective translocation of CD63 to the phagosome. On the other hand, acidification of mycobacterial phagosomes was more efficient at MOI 1 than 10 with both mycobacterial strains, consistent with a direct or indirect role for phagosomal acidification in restricting M. tuberculosis growth. Furthermore, inhibition of the vacuolar H(+)-ATPase as well as of cathepsin D led to enhanced mycobacterial replication inside the macrophage. This again shows the importance of phagosomal acidification for control of mycobacterial growth, through the activation of lysosomal hydrolases. We conclude that acidification and related functional aspects of the mature phagosome are important factors for restriction of M. tuberculosis replication in human macrophages.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Welin</LastName>
+                    <ForeName>Amanda</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Medical Microbiology, Department of Clinical and Experimental Medicine, Faculty of Health Sciences, Linköping University, Linköping, Sweden. Mail amanda.welin @ liu.se</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raffetseder</LastName>
+                    <ForeName>Johanna</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eklund</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stendahl</LastName>
+                    <ForeName>Olle</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lerm</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HHSN26620040 0091C</GrantID>
+                    <Agency>PHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>J Innate Immun</MedlineTA>
+            <NlmUniqueID>101469471</NlmUniqueID>
+            <ISSNLinking>1662-811X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Macrolides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pepstatins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>116764-51-3</RegistryNumber>
+                <NameOfSubstance>bafilomycin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.23.5</RegistryNumber>
+                <NameOfSubstance>Cathepsin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Adenosine Triphosphatases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>V6Y2T27Q1U</RegistryNumber>
+                <NameOfSubstance>pepstatin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2003 Mar 15;170(6):2811-5</RefSource>
+                <PMID Version="1">12626530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Aug;2(8):569-77</RefSource>
+                <PMID Version="1">11483990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Nov 21;278(47):46961-7</RefSource>
+                <PMID Version="1">12963735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 14;101(37):13642-7</RefSource>
+                <PMID Version="1">15340136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2004;20:367-94</RefSource>
+                <PMID Version="1">15473845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1989 Mar;83(3):865-75</RefSource>
+                <PMID Version="1">2921324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Feb 4;263(5147):678-81</RefSource>
+                <PMID Version="1">8303277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Jan 1;181(1):257-70</RefSource>
+                <PMID Version="1">7807006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Jul;64(7):2765-73</RefSource>
+                <PMID Version="1">8698506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1996;173(1 Spec No):47-52</RefSource>
+                <PMID Version="1">8707055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Dec 16;15(24):6960-8</RefSource>
+                <PMID Version="1">9003772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 May 16;272(20):13326-31</RefSource>
+                <PMID Version="1">9148954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1998 Feb 15;101(4):890-8</RefSource>
+                <PMID Version="1">9466984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Feb 1;160(3):1290-6</RefSource>
+                <PMID Version="1">9570546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1999 Jul;67(7):3199-206</RefSource>
+                <PMID Version="1">10377091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol. 2005 Mar;114(3):239-47</RefSource>
+                <PMID Version="1">15721834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1971 Sep 1;134(3 Pt 1):713-40</RefSource>
+                <PMID Version="1">15776571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Jun 29;129(7):1287-98</RefSource>
+                <PMID Version="1">17604718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Mol Biol Rev. 2007 Sep;71(3):452-62</RefSource>
+                <PMID Version="1">17804666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2007 Oct;219:37-54</RefSource>
+                <PMID Version="1">17850480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Feb;10(2):529-48</RefSource>
+                <PMID Version="1">17986264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2008 Feb 14;3(2):97-103</RefSource>
+                <PMID Version="1">18312844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2008 May;68(4):1047-60</RefSource>
+                <PMID Version="1">18363792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Jul;76(7):2882-7</RefSource>
+                <PMID Version="1">18426888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2008 Aug;14(8):849-54</RefSource>
+                <PMID Version="1">18641659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Future Microbiol. 2008 Oct;3(5):517-24</RefSource>
+                <PMID Version="1">18811236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2008 Oct;9(10):781-95</RefSource>
+                <PMID Version="1">18813294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2008 Dec 15;198(12):1842-50</RefSource>
+                <PMID Version="1">18954258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2009 May;7(5):355-66</RefSource>
+                <PMID Version="1">19369951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2009 Jul 15;122(Pt 14):2504-13</RefSource>
+                <PMID Version="1">19549681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Indian J Exp Biol. 2009 Jun;47(6):401-6</RefSource>
+                <PMID Version="1">19634703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Vaccine Immunol. 2010 Apr;17(4):513-7</RefSource>
+                <PMID Version="1">20107000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunobiology. 2009 Jul;214(7):526-42</RefSource>
+                <PMID Version="1">19261352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2010 Jul;51(1):42-6</RefSource>
+                <PMID Version="1">20434357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2010 Jun;277(11):2416-27</RefSource>
+                <PMID Version="1">20553485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Cell Mol Biol. 2011 Jul;45(1):172-80</RefSource>
+                <PMID Version="1">20889800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1999 Oct;78(10):739-48</RefSource>
+                <PMID Version="1">10569246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Feb 23;291(5508):1544-7</RefSource>
+                <PMID Version="1">11222859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 29;100(9):5437-42</RefSource>
+                <PMID Version="1">12702770</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Triphosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cathepsin D</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Growth Processes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Replication</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrolides</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="N">pathogenicity</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pepstatins</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3696374</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">000325297</ArticleId>
+            <ArticleId IdType="doi">10.1159/000325297</ArticleId>
+            <ArticleId IdType="pubmed">21576918</ArticleId>
+            <ArticleId IdType="pmc">PMC3696374</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

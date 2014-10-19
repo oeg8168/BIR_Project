@@ -1,0 +1,196 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24205920</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1398-9995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>69</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy</Title>
+                <ISOAbbreviation>Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>IL-33 is a mediator rather than a trigger of the acute allergic response in humans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>216-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/all.12309</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">IL-33 enhances FcεRI-induced mediator release in human basophils without inducing degranulation itself. In contrast, studies in mice suggested that in the presence of high IgE levels, IL-33 triggers degranulation and anaphylaxis of similar severity as specific allergen. Consistent with this view, sera of atopic patients contain elevated levels of IL-33 after anaphylaxis. In this study, we determined whether IL-33 is potentially anaphylactogenic in humans with high IgE levels by regulating exocytosis independent of FcεRI cross-linking. Furthermore, we investigated whether IL-33 is released upon allergen provocation in vivo.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In subjects with high serum IgE levels, we measured IL-33-induced histamine/LTC4 in vitro, CD63 translocation ex vivo, and responsiveness of mast cells in vivo by skin prick test (SPT). In asthma patients, release of IL-33 and its correlation with early (tryptase)- and late-phase markers (IL-13 levels, eosinophil numbers) of the allergic response were assessed in bronchoalveolar lavage fluids (BALFs) after allergen challenge.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">IL-33 itself does not trigger basophil degranulation in vitro and ex vivo, even in subjects with high serum IgE levels, and negative SPTs demonstrate that skin mast cells do not degranulate in response to IL-33. However, in response to allergen challenge, IL-33 is rapidly released into BALFs at levels that do not correlate with other immediate- and late-phase parameters.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">IL-33 is unlikely an independent trigger of anaphylaxis even in subjects with high IgE levels. However, the rapid release of IL-33 upon allergen provocation in vivo supports its role as a mediator of immediate allergic responses.</AbstractText>
+                <CopyrightInformation>© 2013 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fux</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Institute of Immunology, University Hospital Bern, Inselspital, Bern, Switzerland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pecaric-Petkovic</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Odermatt</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hausmann</LastName>
+                    <ForeName>O V</ForeName>
+                    <Initials>OV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lorentz</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bischoff</LastName>
+                    <ForeName>S C</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Virchow</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahinden</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Allergy</MedlineTA>
+            <NlmUniqueID>7804028</NlmUniqueID>
+            <ISSNLinking>0105-4538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>IL33 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acute Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophil Degranulation Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchial Provocation Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bronchoalveolar Lavage Fluid</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Tests</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">IL-33</Keyword>
+            <Keyword MajorTopicYN="N">IgE</Keyword>
+            <Keyword MajorTopicYN="N">asthma</Keyword>
+            <Keyword MajorTopicYN="N">basophil/mast cell degranulation</Keyword>
+            <Keyword MajorTopicYN="N">bronchoalveolar lavage fluids</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24205920</ArticleId>
+            <ArticleId IdType="doi">10.1111/all.12309</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

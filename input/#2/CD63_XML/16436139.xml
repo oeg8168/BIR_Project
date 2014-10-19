@@ -1,0 +1,183 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16436139</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0105-4538</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>61</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy</Title>
+                <ISOAbbreviation>Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnosis of neuromuscular blocking agent hypersensitivity reactions using cytofluorimetric analysis of basophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>311-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Immunoglobulin E (IgE)-mediated hypersensitivity reactions to neuromuscular blocking agents (NMBA) are common and life threatening. Basophil activation based upon the expression of CD63 in the presence of specific allergens was found to be of importance for the diagnosis of IgE-mediated hypersensibility.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The Basotest was evaluated for the diagnosis of NMBA in 47 patients with proven NMBA anaphylaxis, 40 atopic subjects nonallergic to NMBA and five healthy volunteers. Diagnosis of NMBA was made according to international standards on clinical history, skin tests and provocation tests when needed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the NMBA allergic patients, sensitivity of Basotest was 36.1%, but it increased to 85.7% for reactions which occurred within the last 3 years. The specificity was 93.3%.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Basotest may be useful for the diagnosis of NMBA allergy in patients with a suspicion of recent IgE-mediated hypersensitivity reaction to NMBA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kvedariene</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>INSERM U454-IFR3, Hôpital Arnaud de Villeneuve, Montpellier Cedex, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamey</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryckwaert</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rongier</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bousquet</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demoly</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arnoux</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Allergy</MedlineTA>
+            <NlmUniqueID>7804028</NlmUniqueID>
+            <ISSNLinking>0105-4538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neuromuscular Blocking Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophil Degranulation Test</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuromuscular Blocking Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ALL978</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1398-9995.2006.00978.x</ArticleId>
+            <ArticleId IdType="pubmed">16436139</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

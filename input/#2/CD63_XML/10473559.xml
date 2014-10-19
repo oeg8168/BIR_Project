@@ -1,0 +1,132 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10473559</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>274</Volume>
+                    <Issue>37</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Sep</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A noninvasive fluorimetric procedure for measurement of membrane potential. Quantification of the NADPH oxidase-induced depolarization in activated neutrophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26098-104</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The electrogenic activity of the NADPH oxidase is associated with depolarization of the plasma membrane in activated neutrophils. The magnitude and consequences of this depolarization, however, remain unknown. Neutrophils are not amenable to electrophysiological determinations of membrane potential by current clamp. Instead, the occurrence of depolarization has been inferred from the use of potential-sensitive fluorescent dyes. However, such dyes partition into intracellular organelles and may yield erroneous results, particularly because the NADPH oxidase resides largely in secretory granules, where it has been claimed to become activated. We confirmed the intracellular generation of oxidase products using dihydrorhodamine, which is converted to the fluorescent rhodamine 123 when oxidized. Rhodamine 123 accumulated inside endomembrane organelles in both neutrophils and in differentiated HL60 cells, where it co-localized with the primary granule marker CD63. To estimate the surface membrane potential without interference from organelles, we devised a method based on the voltage-driven uptake of Mn(2+) across the plasmalemma. The uptake of Mn(2+) through calcium release-activated channels was measured as the rate of Indo-1 fluorescence quenching in thapsigargin-treated cells. The rate of Mn(2+) influx was found to vary when the membrane potential was manipulated using conductive ionophores and also when the NADPH oxidase was activated. A calibration curve in the positive potential range was constructed using the Na(+) ionophore SQI-Pr. Using this calibration, the membrane potential of phorbol ester-activated neutrophils was found to reach +58 +/- 6 mV, a sustained depolarization of over 100 mV compared with the resting potential. The depolarization was greatly diminished when the NADPH oxidase was inhibited with diphenylene iodonium. Together, these results indicate that the NADPH oxidase can generate a large depolarization of the plasmalemma, which should suffice to activate a variety of voltage-gated channels, including the outwardly rectifying H(+) conductance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jankowski</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Cell Biology Programme, Research Institute, The Hospital for Sick Children, Toronto, Department of Biochemistry, University of Toronto, Toronto, Ontario M5G 1X8, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grinstein</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1N3CZ14C5O</RegistryNumber>
+                <NameOfSubstance>Rhodamine 123</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.3.1</RegistryNumber>
+                <NameOfSubstance>NADPH Oxidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Membrane Potentials</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">NADPH Oxidase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophil Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhodamine 123</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Subcellular Fractions</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10473559</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

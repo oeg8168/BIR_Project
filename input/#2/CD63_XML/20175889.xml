@@ -1,0 +1,342 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20175889</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC cancer</Title>
+                <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro and in vivo characterization of highly purified human mesothelioma derived cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2407-10-54</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Malignant pleural mesothelioma is a rare disease known to be resistant to conventional therapies. A better understanding of mesothelioma biology may provide the rationale for new therapeutic strategies. In this regard, tumor cell lines development has been an important tool to study the biological properties of many tumors. However all the cell lines established so far were grown in medium containing at least 10% serum, and it has been shown that primary cell lines cultured under these conditions lose their ability to differentiate, acquire gene expression profiles that differ from that of tissue specific stem cells or the primary tumor they derive from, and in some cases are neither clonogenic nor tumorigenic. Our work was aimed to establish from fresh human pleural mesothelioma samples cell cultures maintaining tumorigenic properties.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The primary cell cultures, obtained from four human pleural mesotheliomas, were expanded in vitro in a low serum proliferation-permissive medium and the expression of different markers as well as the tumorigenicity in immunodeficient mice was evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The established mesothelioma cell cultures are able to engraft, after pseudo orthotopic intraperitoneal transplantation, in immunodeficient mouse and maintain this ability to after serial transplantation. Our cell cultures were strongly positive for CD46, CD47, CD56 and CD63 and were also strongly positive for some markers never described before in mesothelioma cell lines, including CD55, CD90 and CD99. By real time PCR we found that our cell lines expressed high mRNA levels of typical mesothelioma markers as mesothelin (MSLN) and calretinin (CALB2), and of BMI-1, a stemness marker, and DKK1, a potent Wingless [WNT] inhibitor.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These cell cultures may provide a valuable in vitro and in vivo model to investigate mesothelioma biology. The identification of new mesothelioma markers may be useful for diagnosis and/or prognosis of this neoplasia as well as for isolation of mesothelioma tumor initiating cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Melotti</LastName>
+                    <ForeName>Alice</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Oncology, Biology and Genetics, University of Genova, Genova, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daga</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marubbi</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zunino</LastName>
+                    <ForeName>Annalisa</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mutti</LastName>
+                    <ForeName>Luciano</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corte</LastName>
+                    <ForeName>Giorgio</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Cancer</MedlineTA>
+            <NlmUniqueID>100967800</NlmUniqueID>
+            <ISSNLinking>1471-2407</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 1994 Mar;25(3):227-34</RefSource>
+                <PMID Version="1">7512071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Jan 15;14(2):541-8</RefSource>
+                <PMID Version="1">18223230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Thorac Surg. 1995 Apr;59(4):835-44</RefSource>
+                <PMID Version="1">7695406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1997 Jul;3(7):730-7</RefSource>
+                <PMID Version="1">9212098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 1999 Mar;13(3):527-34</RefSource>
+                <PMID Version="1">10232421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Apr 15;65(8):3049-52</RefSource>
+                <PMID Version="1">15833832</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2005 May 26;24(23):3737-47</RefSource>
+                <PMID Version="1">15735714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2005 Jun;166(6):1827-40</RefSource>
+                <PMID Version="1">15920167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Pathol Lab Med. 2005 Nov;129(11):1407-14</RefSource>
+                <PMID Version="1">16253021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Sci. 2006 May;97(5):387-94</RefSource>
+                <PMID Version="1">16630136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 2000 Apr;31(4):415-21</RefSource>
+                <PMID Version="1">10821486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Aug 29;97(18):10214-9</RefSource>
+                <PMID Version="1">10954737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thorax. 2008 Apr;63(4):345-51</RefSource>
+                <PMID Version="1">18086752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 2008 Feb;18(1):48-53</RefSource>
+                <PMID Version="1">18356041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Jun 15;68(12):4882-92</RefSource>
+                <PMID Version="1">18559536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2008 Sep 15;68(13):1396-404</RefSource>
+                <PMID Version="1">18561248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Mar 13;284(11):7138-48</RefSource>
+                <PMID Version="1">19147502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Genet Cytogenet. 2001 Jun;127(2):93-110</RefSource>
+                <PMID Version="1">11425448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diagn Cytopathol. 2001 Oct;25(4):203-7</RefSource>
+                <PMID Version="1">11599101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Invest. 2003 Mar;83(3):429-34</RefSource>
+                <PMID Version="1">12649343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 1;100(7):3983-8</RefSource>
+                <PMID Version="1">12629218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2004 Apr;36(4):621-42</RefSource>
+                <PMID Version="1">15010328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 May;164(5):1807-15</RefSource>
+                <PMID Version="1">15111327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2004 Sep 20;23(43):7267-73</RefSource>
+                <PMID Version="1">15378086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2004 Oct 29;323(4):1246-50</RefSource>
+                <PMID Version="1">15451431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Intern Med. 1982 Jun;96(6 Pt 1):746-55</RefSource>
+                <PMID Version="1">7091938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Dis Chest. 1983 Oct;77(4):321-43</RefSource>
+                <PMID Version="1">6357260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1991 Jan 21;47(2):285-90</RefSource>
+                <PMID Version="1">1703129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1991 Nov;6(11):2005-11</RefSource>
+                <PMID Version="1">1658707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2006 May;9(5):391-403</RefSource>
+                <PMID Version="1">16697959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chest Med. 2006 Jun;27(2):335-54</RefSource>
+                <PMID Version="1">16716822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Control. 2006 Oct;13(4):255-63</RefSource>
+                <PMID Version="1">17075562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Med. 2007;58:267-84</RefSource>
+                <PMID Version="1">17002552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Oct 26;282(43):31703-12</RefSource>
+                <PMID Version="1">17711862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2007 Nov;117(11):3248-57</RefSource>
+                <PMID Version="1">17948129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 1994;29:97-112</RefSource>
+                <PMID Version="1">7518289</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Separation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesothelioma</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred NOD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pleural Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2850899</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2407-10-54</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2407-10-54</ArticleId>
+            <ArticleId IdType="pubmed">20175889</ArticleId>
+            <ArticleId IdType="pmc">PMC2850899</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

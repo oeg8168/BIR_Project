@@ -1,0 +1,239 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24144446</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-2472</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>132</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oxidized low-density lipoprotein-induced CD147 expression and its inhibition by high-density lipoprotein on platelets in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>702-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.thromres.2013.10.003</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0049-3848(13)00456-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Matrix metalloproteinases (MMPs) are believed to progressively degrade the collagenous components of the protective fibrous cap, leading to atherosclerotic plaque rupture or destabilization. Oxidized low-density lipoprotein (ox-LDL) enhances the release of CD147, known as the extracellular MMP inducer, from coronary smooth muscle cells. However, whether ox-LDL can induce platelet CD147 expression is unknown. Therefore, we investigated the influence of ox-LDL and high-density lipoprotein (HDL) on CD147 expression on human platelets.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Washed platelets were incubated with ox-LDL (or native LDL) and HDL or anti-LOX-1 monoclonal antibody prior to incubation with ox-LDL. In parallel, buffer (PBS) was added to washed platelets as a control. The expression levels of CD147, CD62P, CD63 and Annexin V were assessed by flow cytometry, and soluble CD147 from the platelets was assessed by an enzyme-linked immunosorbent assay. Laser scanning microscopy (LSM) and transmission electron microscopy (TEM) were used to visualize the morphological changes and granule release, respectively, from the platelets.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Platelets treated with ox-LDL exhibited a significant increase in the expression of CD147 (or Annexin V), followed by increases in CD62P and CD63, compared with the control group. In contrast, HDL or anti-LOX-1 monoclonal antibody decreased these effects. The expression of soluble CD147 increased as the concentration of ox-LDL used to treat the platelets increased. After exposure to ox-LDL, morphological changes and granule release in the platelets were visualized by LSM and TEM. Additionally, the TEM revealed that HDL inhibits alpha-granule release.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In platelets, ox-LDL stimulates the release of CD147 via binding to LOX-1, whereas HDL inhibits this effect. This finding could provide new insights concerning the influence of ox-LDL and HDL on plaque stability by the up-regulation of CD147 on platelets.</AbstractText>
+                <CopyrightInformation>© 2013. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Sheng-Hua</ForeName>
+                    <Initials>SH</Initials>
+                    <Affiliation>Coronary Heart Disease Diagnosis and Treatment Center of the Chinese People's Liberation Army, the 305th Hospital of Chinese People's Liberation Army, Wenjin Street, Beijing, 100017, PR China.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yun-Tian</ForeName>
+                    <Initials>YT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Da-Yong</ForeName>
+                    <Initials>DY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>BSG protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cholesterol, LDL</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lipoproteins, HDL</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lipoproteins, LDL</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>OLR1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Scavenger Receptors, Class E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>oxidized low density lipoprotein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>136894-56-9</RegistryNumber>
+                <NameOfSubstance>Antigens, CD147</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.7</RegistryNumber>
+                <NameOfSubstance>Matrix Metalloproteinase 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD147</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholesterol, LDL</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipoproteins, HDL</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipoproteins, LDL</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Matrix Metalloproteinase 1</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Scavenger Receptors, Class E</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ACS</Keyword>
+            <Keyword MajorTopicYN="N">CAD</Keyword>
+            <Keyword MajorTopicYN="N">CD147</Keyword>
+            <Keyword MajorTopicYN="N">ECM</Keyword>
+            <Keyword MajorTopicYN="N">EMMPRIN</Keyword>
+            <Keyword MajorTopicYN="N">HDL</Keyword>
+            <Keyword MajorTopicYN="N">MMPs</Keyword>
+            <Keyword MajorTopicYN="N">OCS</Keyword>
+            <Keyword MajorTopicYN="N">Ox-LDL</Keyword>
+            <Keyword MajorTopicYN="N">PRP</Keyword>
+            <Keyword MajorTopicYN="N">Plaque</Keyword>
+            <Keyword MajorTopicYN="N">Platelet</Keyword>
+            <Keyword MajorTopicYN="N">acute coronary syndromes</Keyword>
+            <Keyword MajorTopicYN="N">coronary artery disease</Keyword>
+            <Keyword MajorTopicYN="N">extracellular matrix</Keyword>
+            <Keyword MajorTopicYN="N">extracellular matrix metalloproteinase inducer</Keyword>
+            <Keyword MajorTopicYN="N">high-density lipoprotein</Keyword>
+            <Keyword MajorTopicYN="N">matrix metalloproteinases</Keyword>
+            <Keyword MajorTopicYN="N">open canalicular system</Keyword>
+            <Keyword MajorTopicYN="N">ox-LDL</Keyword>
+            <Keyword MajorTopicYN="N">oxidized low-density lipoprotein</Keyword>
+            <Keyword MajorTopicYN="N">platelet-rich plasma</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24144446</ArticleId>
+            <ArticleId IdType="pii">S0049-3848(13)00456-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thromres.2013.10.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

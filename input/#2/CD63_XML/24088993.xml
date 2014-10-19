@@ -1,0 +1,372 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24088993</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-0514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Shock (Augusta, Ga.)</Title>
+                <ISOAbbreviation>Shock</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prehospital hypertonic saline resuscitation attenuates the activation and promotes apoptosis of neutrophils in patients with severe traumatic brain injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>366-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/SHK.0000000000000038</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Activation of polymorphonuclear neutrophils (PMNs) is thought to contribute to traumatic brain injury (TBI). Since hypertonic fluids can inhibit PMN activation, we studied whether hypertonic fluid resuscitation can reduce excessive PMN activation in TBI patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Trauma patients with severe TBI were resuscitated with 250 mL of either 7.5% hypertonic saline (HS; n = 22), HS + 6% dextran-70 (HSD; n = 22), or 0.9% normal saline (NS; n = 39), and blood samples were collected on hospital admission and 12 and 24 h after resuscitation. Polymorphonuclear neutrophil activation (CD11b, CD62L, CD64) and degranulation (CD63, CD66b, CD35) markers and oxidative-burst activity, as well as spontaneous PMN apoptosis were measured by flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Relative to healthy controls, TBI patients showed increased PMN activation and decreased apoptosis of PMNs. In the HS group, but not in the HSD group, markers of PMN adhesion (CD11b, CD64) and degranulation (CD35, CD66b) were significantly lower than those in the NS group. These effects were particularly pronounced 12 h after resuscitation. Treatment with HS and HSD inhibited PMN oxidative burst responses compared with NS-treated patients. Hypertonic saline alone partially restored delayed PMN apoptosis. Despite these differences, the groups did not differ in clinical outcome parameters such as mortality and Extended Glasgow Outcome Scale.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study demonstrates that prehospital resuscitation with HS can partially restore normal PMN activity and the apoptotic behavior of PMNs, whereas resuscitation with HSD was largely ineffective. Although the results are intriguing, additional research will be required to translate these effects of HS into treatment strategies that improve clinical outcome in TBI patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Junger</LastName>
+                    <ForeName>Wolfgang G</ForeName>
+                    <Initials>WG</Initials>
+                    <Affiliation>*Department of Surgery, Beth Israel Deaconess Medical Center, Harvard Medical School and Ludwig Boltzmann Institute for Experimental and Clinical Traumatology, Vienna, Austria; ? Defence Research and Development Canada, Toronto Research Centre and ?¡Departments of Surgery and Critical Care Medicine, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada; Â§Department of Surgery, Harborview Medical Center, University of Washington, Seattle, Washington; ?ˆ¥Brain Injury Laboratory, Cara Phelan Centre for Trauma Research Keenan Research Centre, Li Ka Shing Knowledge Institute, St Michael's Hospital, University of Toronto, Toronto, Ontario, Canada; and Â¶American College of Surgeons, Department of Surgery, University of California, Irvine, California.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhind</LastName>
+                    <ForeName>Shawn G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rizoli</LastName>
+                    <ForeName>Sandro B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cuschieri</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baker</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shek</LastName>
+                    <ForeName>Pang N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoyt</LastName>
+                    <ForeName>David B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bulger</LastName>
+                    <ForeName>Eileen M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5U01 HL077863</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-072287</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-080582</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM-51477</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM-60475</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077865</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077866</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077867</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077871</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077872</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077873</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077881</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077885</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077887</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077908</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI072287</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI080582</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM051477</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM060475</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Multicenter Study</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Shock</MedlineTA>
+            <NlmUniqueID>9421564</NlmUniqueID>
+            <ISSNLinking>1073-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Plasma Substitutes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Saline Solution, Hypertonic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K3R6ZDH4DU</RegistryNumber>
+                <NameOfSubstance>Dextrans</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brain Injuries</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dextrans</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Emergency Medical Services</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluid Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocyte Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophil Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plasma Substitutes</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Burst</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Resuscitation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saline Solution, Hypertonic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS542921 [Available on 11/01/14]</OtherID>
+        <OtherID Source="NLM">PMC3913169 [Available on 11/01/14]</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SHK.0000000000000038</ArticleId>
+            <ArticleId IdType="pubmed">24088993</ArticleId>
+            <ArticleId IdType="pmc">PMC3913169</ArticleId>
+            <ArticleId IdType="mid">NIHMS542921</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

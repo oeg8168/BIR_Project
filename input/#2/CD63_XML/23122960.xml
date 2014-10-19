@@ -1,0 +1,539 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23122960</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2211-1247</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell reports</Title>
+                <ISOAbbreviation>Cell Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Presenilin deficiency or lysosomal inhibition enhances Wnt signaling through relocalization of GSK3 to the late-endosomal compartment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1316-28</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.celrep.2012.09.026</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S2211-1247(12)00330-0</ELocationID>
+            <Abstract>
+                <AbstractText>Sustained canonical Wnt signaling requires the inhibition of glycogen synthase kinase 3 (GSK3) activity by sequestration of GSK3 inside multivesicular endosomes (MVEs). Here, we show that Wnt signaling is increased by the lysosomal inhibitor chloroquine, which causes accumulation of MVEs. A similar MVE expansion and increased Wnt responsiveness was found in cells deficient in presenilin, a protein associated with Alzheimer's disease. The Wnt-enhancing effects were entirely dependent on the functional endosomal sorting complex required for transport (ESCRT), which is needed for the formation of intraluminal vesicles in MVEs. We suggest that accumulation of late endosomal structures leads to enhanced canonical Wnt signaling through increased Wnt-receptor/GSK3 sequestration. The decrease in GSK3 cytosolic activity stabilized cytoplasmic GSK3 substrates such as β-catenin, the microtubule-associated protein Tau, and other proteins. These results underscore the importance of the endosomal pathway in canonical Wnt signaling and reveal a mechanism for regulation of Wnt signaling by presenilin deficiency.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dobrowolski</LastName>
+                    <ForeName>Radek</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Howard Hughes Medical Institute and Department of Biological Chemistry, University of California, Los Angeles, CA 90095-1662, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vick</LastName>
+                    <ForeName>Philipp</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ploper</LastName>
+                    <ForeName>Diego</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gumper</LastName>
+                    <ForeName>Iwona</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Snitkin</LastName>
+                    <ForeName>Harriet</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabatini</LastName>
+                    <ForeName>David D</ForeName>
+                    <Initials>DD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Robertis</LastName>
+                    <ForeName>Edward M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HD21502-25</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HD021502</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell Rep</MedlineTA>
+            <NlmUniqueID>101573691</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antimalarials</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Endosomal Sorting Complexes Required for Transport</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>LRP6 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Low Density Lipoprotein Receptor-Related Protein-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Macrolides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Presenilins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Wnt Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>beta Catenin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>tau Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>116764-51-3</RegistryNumber>
+                <NameOfSubstance>bafilomycin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>152989-05-4</RegistryNumber>
+                <NameOfSubstance>rab7 protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>886U3H6UFF</RegistryNumber>
+                <NameOfSubstance>Chloroquine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.26</RegistryNumber>
+                <NameOfSubstance>Glycogen Synthase Kinase 3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>rab GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2010 Aug;67(15):2551-62</RefSource>
+                <PMID Version="1">20229235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Apr 8;464(7290):864-9</RefSource>
+                <PMID Version="1">20305637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2010;26:235-60</RefSource>
+                <PMID Version="1">20604710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Dec 23;143(7):1136-48</RefSource>
+                <PMID Version="1">21183076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2011 Jan 18;20(1):131-9</RefSource>
+                <PMID Version="1">21238931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2011 Feb 23;31(8):2781-91</RefSource>
+                <PMID Version="1">21414900</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurobiol Dis. 2011 Jul;43(1):38-45</RefSource>
+                <PMID Version="1">21296668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2011 Aug 31;30(17):3481-500</RefSource>
+                <PMID Version="1">21878991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2012 Jan;13(1):53-60</RefSource>
+                <PMID Version="1">22108513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(2):e31302</RefSource>
+                <PMID Version="1">22312444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2012 Feb 23;73(4):685-97</RefSource>
+                <PMID Version="1">22365544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Jun 1;287(23):19440-51</RefSource>
+                <PMID Version="1">22461630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Jun 8;149(6):1192-205</RefSource>
+                <PMID Version="1">22682243</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2012 Jun 8;149(6):1245-56</RefSource>
+                <PMID Version="1">22682247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2012 Jun 13;31(12):2705-13</RefSource>
+                <PMID Version="1">22617425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2012 Jun 20;32(25):8633-48</RefSource>
+                <PMID Version="1">22723704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2002 Dec;3(12):893-905</RefSource>
+                <PMID Version="1">12461556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2000 Feb;11(2):467-80</RefSource>
+                <PMID Version="1">10679007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Mar 3;100(5):525-35</RefSource>
+                <PMID Version="1">10721990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Feb 19;152(4):785-94</RefSource>
+                <PMID Version="1">11266469</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Sep 20;110(6):751-62</RefSource>
+                <PMID Version="1">12297048</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2002 Nov;161(5):1869-79</RefSource>
+                <PMID Version="1">12414533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Mar 18;100(6):3299-304</RefSource>
+                <PMID Version="1">12626757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2003 Apr 15;13(8):680-5</RefSource>
+                <PMID Version="1">12699626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1974 Nov;63(2 Pt 1):430-40</RefSource>
+                <PMID Version="1">4607946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 1991 Apr;6(4):487-98</RefSource>
+                <PMID Version="1">1673054</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Apr 10;256(5054):184-5</RefSource>
+                <PMID Version="1">1566067</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2005 Oct;132(20):4599-610</RefSource>
+                <PMID Version="1">16176947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11172-7</RefSource>
+                <PMID Version="1">16837572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2006 Aug;11(2):213-23</RefSource>
+                <PMID Version="1">16890161</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cell Biol. 2006;7:28</RefSource>
+                <PMID Version="1">16824228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 Dec 4;25(57):7545-53</RefSource>
+                <PMID Version="1">17143299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2007 Jun 15;316(5831):1619-22</RefSource>
+                <PMID Version="1">17569865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2008 Jan;135(2):367-75</RefSource>
+                <PMID Version="1">18077588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Biophys J. 2008 Mar;37(3):323-32</RefSource>
+                <PMID Version="1">18064447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autophagy. 2008 Jul;4(5):590-9</RefSource>
+                <PMID Version="1">18497567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2008;468:99-110</RefSource>
+                <PMID Version="1">19099249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ageing Res Rev. 2009 Apr;8(2):71-82</RefSource>
+                <PMID Version="1">19101658</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Mar 31;106(13):5165-70</RefSource>
+                <PMID Version="1">19289839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2009 Jul;10(7):468-77</RefSource>
+                <PMID Version="1">19536106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(7):e6129</RefSource>
+                <PMID Version="1">19572019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2009 Jul;17(1):9-26</RefSource>
+                <PMID Version="1">19619488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 Jul 24;325(5939):473-7</RefSource>
+                <PMID Version="1">19556463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2009 Aug;110(4):1129-34</RefSource>
+                <PMID Version="1">19457065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2009 Sep;10(9):609-22</RefSource>
+                <PMID Version="1">19696798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2009 Dec;17(6):788-99</RefSource>
+                <PMID Version="1">20059949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cold Spring Harb Perspect Biol. 2009 Aug;1(2):a002881</RefSource>
+                <PMID Version="1">20066091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem Cell Biol. 2010 Jan;133(1):41-55</RefSource>
+                <PMID Version="1">19830447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 Jan 22;327(5964):459-63</RefSource>
+                <PMID Version="1">20093472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2010 Apr;11(4):301-7</RefSource>
+                <PMID Version="1">20308987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Jun 25;141(7):1146-58</RefSource>
+                <PMID Version="1">20541250</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">3T3 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antimalarials</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chloroquine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomal Sorting Complexes Required for Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycogen Synthase Kinase 3</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Low Density Lipoprotein Receptor-Related Protein-6</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrolides</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivesicular Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Presenilins</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Small Interfering</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wnt Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta Catenin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">tau Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS427350</OtherID>
+        <OtherID Source="NLM">PMC3538832</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S2211-1247(12)00330-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.celrep.2012.09.026</ArticleId>
+            <ArticleId IdType="pubmed">23122960</ArticleId>
+            <ArticleId IdType="pmc">PMC3538832</ArticleId>
+            <ArticleId IdType="mid">NIHMS427350</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

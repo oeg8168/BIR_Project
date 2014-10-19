@@ -1,0 +1,384 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18392136</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5586</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neoplasia (New York, N.Y.)</Title>
+                <ISOAbbreviation>Neoplasia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glucosamine-bound near-infrared fluorescent probes with lysosomal specificity for breast tumor imaging.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>389-98</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Noninvasive imaging of lysosomes will be useful 1) to elucidate the role of lysosomal parameters in cancer, 2) to diagnose malignant lesions, and 3) to evaluate future lysosome-targeted anticancer therapies. Lysosome-specific labeling of glucosamine-bound near-infrared (NIR) fluorescent probes, IR-1 and IR-2, but not control probe IR-15 without the glucosamine moiety, was observed by fluorescence microscopy in human breast epithelial cell lines. Lysosome labeling and tumor specificity of these NIR probes were investigated by dynamic optical imaging and immunofluorescence staining in human breast tumor xenografts. IR-1 and IR-2 demonstrated faster lysosome labeling rates in highly aggressive MDA-MB-231 and MDA-MB-435 cells compared with less aggressive MCF-7 and nontumorigenic MCF-12A cells. IR-1 and IR-2, but not IR-15, accumulated in human MDA-MB-231, MDA-MB-435, and MCF-7 breast tumor xenografts in vivo. IR-2 demonstrated the highest maximum fluorescence and tumor/normal tissue ratios in all tumor models. Specific lysosome labeling from IR-2 in vivo was validated by colocalization of the NIR fluorescence with CD63 immunofluorescence in tumor sections. IR-1 and IR-2 demonstrated high lysosome-labeling ability and breast tumor-targeting specificity in vitro and in vivo. They are promising for diagnosing malignant lesions and may provide a means for evaluating and monitoring future lysosome-targeted anticancer therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Cong</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>JHU ICMIC Program, The Russell H. Morgan Department of Radiology and Radiological Science, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greenwood</LastName>
+                    <ForeName>Tiffany R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glunde</LastName>
+                    <ForeName>Kristine</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50 CA103175</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 CA112216</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>Neoplasia</MedlineTA>
+            <NlmUniqueID>100886622</NlmUniqueID>
+            <ISSNLinking>1476-5586</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Rhodamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2609-88-3</RegistryNumber>
+                <NameOfSubstance>lissamine rhodamine B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance>Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N08U5BOQ1K</RegistryNumber>
+                <NameOfSubstance>Glucosamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2001 Jan;218(1):261-6</RefSource>
+                <PMID Version="1">11152812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 May 15;66(10):5216-23</RefSource>
+                <PMID Version="1">16707446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Apr 10;98(8):4420-5</RefSource>
+                <PMID Version="1">11287650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 2002 Mar;222(3):814-8</RefSource>
+                <PMID Version="1">11867806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2002 Jul-Aug;4(4):347-54</RefSource>
+                <PMID Version="1">12082551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2002 Sep;2(9):683-93</RefSource>
+                <PMID Version="1">12209157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2003 Jul-Aug;14(4):709-14</RefSource>
+                <PMID Version="1">12862422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2003 Aug 13;23(19):7337-42</RefSource>
+                <PMID Version="1">12917367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Imaging. 2003 Jan;2(1):24-36</RefSource>
+                <PMID Version="1">12926235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Rep. 2006 Jun;7(6):599-604</RefSource>
+                <PMID Version="1">16741504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2006 May;8(5):402-12</RefSource>
+                <PMID Version="1">16790089</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2006 Aug;29(2):349-55</RefSource>
+                <PMID Version="1">16820876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Org Lett. 2006 Aug 17;8(17):3623-6</RefSource>
+                <PMID Version="1">16898776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2006 Oct;6(10):764-75</RefSource>
+                <PMID Version="1">16990854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2007 Jan 1;6(1):60-4</RefSource>
+                <PMID Version="1">17245112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Mar 1;67(5):2217-25</RefSource>
+                <PMID Version="1">17332352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Mar 15;67(6):2559-67</RefSource>
+                <PMID Version="1">17363574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>In Vivo. 2007 Mar-Apr;21(2):205-14</RefSource>
+                <PMID Version="1">17436568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 May 15;13(10):2936-45</RefSource>
+                <PMID Version="1">17504994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biomed Opt. 2007 May-Jun;12(3):034016</RefSource>
+                <PMID Version="1">17614724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2007 Aug;9(8):652-61</RefSource>
+                <PMID Version="1">17786184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2007 Dec;9(12):1021-9</RefSource>
+                <PMID Version="1">18084609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2007 Dec;9(12):1130-7</RefSource>
+                <PMID Version="1">18084620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2003 Nov-Dec;5(6):533-45</RefSource>
+                <PMID Version="1">14965446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Technol Cancer Res Treat. 2004 Aug;3(4):393-409</RefSource>
+                <PMID Version="1">15270591</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1983 Dec 15;137(3):391-7</RefSource>
+                <PMID Version="1">6319122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Radiol. 1987 May;22(5):360-71</RefSource>
+                <PMID Version="1">3496318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 1992 Apr;183(1):59-64</RefSource>
+                <PMID Version="1">1549695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 1993 Jan;73(1):161-95</RefSource>
+                <PMID Version="1">8419965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2005 Jan-Feb;16(1):51-61</RefSource>
+                <PMID Version="1">15656575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2005 Jul-Aug;16(4):843-51</RefSource>
+                <PMID Version="1">16029026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2005 Sep;12(3):468-74</RefSource>
+                <PMID Version="1">15963763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2005 Sep-Oct;16(5):1232-9</RefSource>
+                <PMID Version="1">16173803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2005 Nov;5(11):886-97</RefSource>
+                <PMID Version="1">16239905</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D270-2</RefSource>
+                <PMID Version="1">16381862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Imaging Biol. 2005 Nov-Dec;7(6):388-92</RefSource>
+                <PMID Version="1">16284704</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2006 May-Jun;17(3):571-4</RefSource>
+                <PMID Version="1">16704192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioconjug Chem. 2006 May-Jun;17(3):662-9</RefSource>
+                <PMID Version="1">16704203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res. 2000;2(5):321-3</RefSource>
+                <PMID Version="1">11250723</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diagnostic Imaging</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucosamine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lysosomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mammary Glands, Animal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mammary Glands, Human</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rhodamines</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectroscopy, Near-Infrared</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transplantation, Heterologous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2288541</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18392136</ArticleId>
+            <ArticleId IdType="pmc">PMC2288541</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

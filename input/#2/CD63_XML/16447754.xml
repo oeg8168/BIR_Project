@@ -1,0 +1,174 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16447754</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0009-918X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Rinsh?? shinkeigaku = Clinical neurology</Title>
+                <ISOAbbreviation>Rinsho Shinkeigaku</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[HIV encephalopathy].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>887-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>HIV encephalopathy is one of the complexified viral diseases. In the infected brains, HIV-infection is restricted in macrophages and microglia although its damage extends to neurons and oligodendrocytes. Accumulating evidences have suggested that many viral and host factors are involved in this disease. However, its precise mechanism is still unsolved. To examine the mechanism of the disease, we developed an HIV-1-infected human cell-transplanted mouse model and TNF-related apoptosis-inducing ligand was identified as a neurotoxic host factors in HIV-infected brain. Next, we examined the neurotoxic host factors using co-culture system with macrophage-tropic HIV-1-infected macrophages as followings: Target brain cells are murine neuron/glia mixed culture, murine neurospehre-forming culture and rat brain hippocampus slice culture. In these systems, neurons and neural stem cells were preferentially damaged. On the other hand, we also identified two anti-HIV genes, CD 14 and CD63 (dN), which inhibit HIV-1-induced cytotoxicity using a lentiviral screening system. Because they express on monocyte or activated macrophage and microglia, these results suggest that CXCR4-using HIV-1 cannnot expand inside of brain. We also extended the screening system to identify the host factors which protect against HIV-1-induced encephalopathy. Our study will contibute to development of new therapeutic strategy for HIV encephalopathy as well as other CNS diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miura</LastName>
+                    <ForeName>Yoshiharu</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Laboratory of Viral Pathogenesis, AIDS Research Center, Institute for Virus Research, Kyoto University.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koyanagi</LastName>
+                    <ForeName>Yoshio</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>jpn</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Rinsho Shinkeigaku</MedlineTA>
+            <NlmUniqueID>0417466</NlmUniqueID>
+            <ISSNLinking>0009-918X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Apoptosis Regulatory Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>TNF-Related Apoptosis-Inducing Ligand</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>TNFSF10 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tnfsf10 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tnfsf10 protein, rat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">AIDS Dementia Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis Regulatory Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coculture Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">TNF-Related Apoptosis-Inducing Ligand</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16447754</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

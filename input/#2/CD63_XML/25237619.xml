@@ -1,0 +1,179 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">25237619</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2222-0682</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>World journal of methodology</Title>
+                <ISOAbbreviation>World J Methodol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Methods for the extraction and RNA profiling of exosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5662/wjm.v3.i1.11</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To develop protocols for isolation of exosomes and characterization of their RNA content.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Exosomes were extracted from HeLa cell culture media and human blood serum using the Total exosome isolation (from cell culture media) reagent, and Total exosome isolation (from serum) reagent respectively. Identity and purity of the exosomes was confirmed by Nanosight(®) analysis, electron microscopy, and Western blots for CD63 marker. Exosomal RNA cargo was recovered with the Total exosome RNA and protein isolation kit. Finally, RNA was profiled using Bioanalyzer and quantitative reverse transcription-polymerase chain reaction (qRT-PCR) methodology.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Here we describe a novel approach for robust and scalable isolation of exosomes from cell culture media and serum, with subsequent isolation and analysis of RNA residing within these vesicles. The isolation procedure is completed in a fraction of the time, compared to the current standard protocols utilizing ultracentrifugation, and allows to recover fully intact exosomes in higher yields. Exosomes were found to contain a very diverse RNA cargo, primarily short sequences 20-200 nt (such as miRNA and fragments of mRNA), however longer RNA species were detected as well, including full-length 18S and 28S rRNA.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We have successfully developed a set of reagents and a workflow allowing fast and efficient extraction of exosomes, followed by isolation of RNA and its analysis by qRT-PCR and other techniques.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zeringer</LastName>
+                    <ForeName>Emily</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Mu</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barta</LastName>
+                    <ForeName>Tim</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schageman</LastName>
+                    <ForeName>Jeoffrey</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pedersen</LastName>
+                    <ForeName>Ketil Winther</ForeName>
+                    <Initials>KW</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neurauter</LastName>
+                    <ForeName>Axl</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magdaleno</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Setterquist</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vlassov</LastName>
+                    <ForeName>Alexander V</ForeName>
+                    <Initials>AV</Initials>
+                    <Affiliation>Emily Zeringer, Mu Li, Tim Barta, Jeoffrey Schageman, Ketil Winther Pedersen, Axl Neurauter, Susan Magdaleno, Robert Setterquist, Alexander V Vlassov, Life Technologies, Austin, TX 78744, United States.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>World J Methodol</MedlineTA>
+            <NlmUniqueID>101628739</NlmUniqueID>
+            <ISSNLinking>2222-0682</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4145569</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cell culture media</Keyword>
+            <Keyword MajorTopicYN="N">Exosomes</Keyword>
+            <Keyword MajorTopicYN="N">Microvesicles</Keyword>
+            <Keyword MajorTopicYN="N">Quantitative reverse transcription-polymerase chain reaction</Keyword>
+            <Keyword MajorTopicYN="N">RNA</Keyword>
+            <Keyword MajorTopicYN="N">Sequencing</Keyword>
+            <Keyword MajorTopicYN="N">Serum</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.5662/wjm.v3.i1.11</ArticleId>
+            <ArticleId IdType="pubmed">25237619</ArticleId>
+            <ArticleId IdType="pmc">PMC4145569</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

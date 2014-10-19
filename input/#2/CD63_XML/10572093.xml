@@ -1,0 +1,162 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10572093</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-4971</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>94</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Dec</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Activated platelets release two types of membrane vesicles: microvesicles by surface shedding and exosomes derived from exocytosis of multivesicular bodies and alpha-granules.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3791-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Platelet activation leads to secretion of granule contents and to the formation of microvesicles by shedding of membranes from the cell surface. Recently, we have described small internal vesicles in multivesicular bodies (MVBs) and alpha-granules, and suggested that these vesicles are secreted during platelet activation, analogous to the secretion of vesicles termed exosomes by other cell types. In the present study we report that two different types of membrane vesicles are released after stimulation of platelets with thrombin receptor agonist peptide SFLLRN (TRAP) or alpha-thrombin: microvesicles of 100 nm to 1 microm, and exosomes measuring 40 to 100 nm in diameter, similar in size as the internal vesicles in MVBs and alpha-granules. Microvesicles could be detected by flow cytometry but not the exosomes, probably because of the small size of the latter. Western blot analysis showed that isolated exosomes were selectively enriched in the tetraspan protein CD63. Whole-mount immuno-electron microscopy (IEM) confirmed this observation. Membrane proteins such as the integrin chains alpha(IIb)-beta(3) and beta(1), GPIbalpha, and P-selectin were predominantly present on the microvesicles. IEM of platelet aggregates showed CD63(+) internal vesicles in fusion profiles of MVBs, and in the extracellular space between platelet extensions. Annexin-V binding was mainly restricted to the microvesicles and to a low extent to exosomes. Binding of factor X and prothrombin was observed to the microvesicles but not to exosomes. These observations and the selective presence of CD63 suggest that released platelet exosomes may have an extracellular function other than the procoagulant activity, attributed to platelet microvesicles.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heijnen</LastName>
+                    <ForeName>H F</ForeName>
+                    <Initials>HF</Initials>
+                    <Affiliation>Department of Hematology, University Hospital Utrecht, The Netherlands. H.F.GHeijnen@lab.azu.nl</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schiel</LastName>
+                    <ForeName>A E</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fijnheer</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geuze</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sixma</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Thrombin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>thrombin receptor peptide (42-47)</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Exocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">agonists</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10572093</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,250 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">20158902</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-7961</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical and molecular allergy : CMA</Title>
+                <ISOAbbreviation>Clin Mol Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Basophil sensitivity through CD63 or CD203c is a functional measure for specific immunotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1476-7961-8-2</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Subcutaneous Immunotherapy (SCIT) modifies the allergic response and relieves allergic symptoms. SCIT is the only and a very effective treatment for insect venom allergy. We hypothesized that basophil sensitivity, measured through the basophil activation test, would decrease during SCIT up dosing. Expression of CD203c was compared to CD63 as marker for basophil activation, using a Bland Altman plot and ROC curves.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients (n = 18) starting subcutaneous SCIT for wasp allergy with an up dosing scheme of 7 to 11 weeks were enrolled. Heparinised blood samples were drawn at weeks 1-4, 7 and at the first maintenance visit. Basophils were stimulated at 7 log dilutions of V. vespula allergen for 15 min, and were stained with CD203c and CD63. Basophils were identified as CD203c+ leukocytes, and the proportion of CD63+ and CD203c+ cells were plotted against allergen concentration. A sigmoid curve was fitted to the points, and the allergen concentration at which half of the maximal activation was achieved, LC50, was calculated. In another series of experiments, LC50 calculated in whole blood (AP) was subtracted from LC50 calculated with basophils suspended in plasma from a nonatopic donor (HS) to determine the protective effect of soluble factors in blood of patients treated with SCIT.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Heparin blood basophil activation was similar through CD63 and CD203c. Basophils were significantly more sensitized three weeks after initiation of SCIT compared to baseline (p &lt; 0,01). The difference in LC50 increased by 1,04 LC50 units (p = 0,04) in patients that had just achieved maintenance dose compared with patients before initiating SCIT. When maintenance allergen concentrations had been reached, an increase in the protective plasma component was documented. Blood basophil concentration was marginally reduced by SCIT.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Basophil activation is a versatile and sensitive tool that measures changes in the humoral immune response to allergen during SCIT.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mikkelsen</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Respiratory Diseases, Aarhus University Hospital, Aarhus, Denmark. hans.jurgen.hoffmann@ki.au.dk.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bibby</LastName>
+                    <ForeName>Bo Martin</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dolberg</LastName>
+                    <ForeName>Mette Konow Bøgebjerg</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahl</LastName>
+                    <ForeName>Ronald</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoffmann</LastName>
+                    <ForeName>Hans Jürgen</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>02</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Mol Allergy</MedlineTA>
+            <NlmUniqueID>101152195</NlmUniqueID>
+            <ISSNLinking>1476-7961</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2009 May;64(5):811-4</RefSource>
+                <PMID Version="1">19220221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Ther. 2000 Mar;22(3):351-8</RefSource>
+                <PMID Version="1">10963289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2008;146 Suppl 1:47-53</RefSource>
+                <PMID Version="1">18504407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2008 Jun;38(6):921-8</RefSource>
+                <PMID Version="1">18331364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2008 May;121(5):1120-1125.e2</RefSource>
+                <PMID Version="1">18374405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2007;17(6):357-60</RefSource>
+                <PMID Version="1">18088016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2007 May;72(3):196-203</RefSource>
+                <PMID Version="1">17111386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2007 Mar 30;320(1-2):40-8</RefSource>
+                <PMID Version="1">17275019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2007 Mar;62(3):317-24</RefSource>
+                <PMID Version="1">17298350</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2006;141(4):346-53</RefSource>
+                <PMID Version="1">16940746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2006 Sep;61(9):1084-5</RefSource>
+                <PMID Version="1">16918511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2006 Jul;61(7):843-8</RefSource>
+                <PMID Version="1">16792582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2006;140(3):252-60</RefSource>
+                <PMID Version="1">16691032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2006 Mar;61(3):298-302</RefSource>
+                <PMID Version="1">16436137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2005 Nov;60(11):1446-50</RefSource>
+                <PMID Version="1">16197480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2005 Nov;60(11):1401-6</RefSource>
+                <PMID Version="1">16197472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Mol Allergy. 2005 Jul 4;3:10</RefSource>
+                <PMID Version="1">15996266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2005 Sep;60(9):1192-9</RefSource>
+                <PMID Version="1">16076307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1995 Sep 11;185(1):145-6</RefSource>
+                <PMID Version="1">7665897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1991 Sep;88(3 Pt 1):328-38</RefSource>
+                <PMID Version="1">1716273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2004 Oct;59(10):1102-9</RefSource>
+                <PMID Version="1">15355470</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2004 Aug;114(2):371-6</RefSource>
+                <PMID Version="1">15316518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2003 Feb;33(2):259-65</RefSource>
+                <PMID Version="1">12580920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry. 2002 Apr 15;50(2):69-77</RefSource>
+                <PMID Version="1">12116348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2002 Jul;110(1):174-82</RefSource>
+                <PMID Version="1">12110838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2001 Aug;108(2):205-11</RefSource>
+                <PMID Version="1">11496235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 May 15;97(10):3303-5</RefSource>
+                <PMID Version="1">11342463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2008 Sep 30;338(1-2):58-62</RefSource>
+                <PMID Version="1">18680746</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC2831812</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1476-7961-8-2</ArticleId>
+            <ArticleId IdType="doi">10.1186/1476-7961-8-2</ArticleId>
+            <ArticleId IdType="pubmed">20158902</ArticleId>
+            <ArticleId IdType="pmc">PMC2831812</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

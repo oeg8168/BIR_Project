@@ -1,0 +1,384 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23318173</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1090-2104</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>431</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical and biophysical research communications</Title>
+                <ISOAbbreviation>Biochem. Biophys. Res. Commun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cardiac progenitor-derived exosomes protect ischemic myocardium from acute ischemia/reperfusion injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>566-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbrc.2013.01.015</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0006-291X(13)00051-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cardiac progenitors (CPC) mediate cardioprotection via paracrine effects. To date, most of studies focused on secreted paracrine proteins. Here we investigated the CPC-derived-exosomes on protecting myocardium from acute ischemia/reperfusion (MI/R) injury.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">CPC were isolated from mouse heart using two-step protocol. Exosomes were purified from conditional medium, and confirmed by electron micrograph and Western blot using CD63 as a marker. qRT-PCR shows that CPC-exosomes have high level expression of GATA4-responsive-miR-451. Exosomes were ex vivo labeled with PKH26, We observed exosomes can be uptaken by H9C2 cardiomyoblasts with high efficiency after 12 h incubation. CPC-exosomes protect H9C2 from oxidative stress by inhibiting caspase 3/7 activation invitro. In vivo delivery of CPC-exosomes in an acute mouse myocardial ischemia/reperfusion model inhibited cardiomyocyte apoptosis by about 53% in comparison with PBS control (p&lt;0.05).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our results suggest, for the first time, the CPC-exosomes can be used as a therapeutic vehicle for cardioprotection, and highlights a new perspective for using non-cell exosomes for cardiac disease.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Lijuan</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Department of Cardiology, Zhongda Hospital, Medical School of Southeast University, Nanjing 210009, China.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yingjie</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Yaohua</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lan</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Chengxing</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qin</LastName>
+                    <ForeName>Gangjian</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashraf</LastName>
+                    <ForeName>Muhammad</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weintraub</LastName>
+                    <ForeName>Neal</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Genshan</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Yaoliang</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL076684</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL086555</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL62984</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL086555</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL112640</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochem Biophys Res Commun</MedlineTA>
+            <NlmUniqueID>0372516</NlmUniqueID>
+            <ISSNLinking>0006-291X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Polyethylene Glycols</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Oct 14;100(21):12313-8</RefSource>
+                <PMID Version="1">14530411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Regul Pept. 2004 Jan 15;117(1):3-10</RefSource>
+                <PMID Version="1">14687695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2004 Oct 29;95(9):911-21</RefSource>
+                <PMID Version="1">15472116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1997 Sep 15;16(18):5687-96</RefSource>
+                <PMID Version="1">9312027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Feb 10;433(7026):647-53</RefSource>
+                <PMID Version="1">15703750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Jun 21;102(25):8966-71</RefSource>
+                <PMID Version="1">15951423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Thorac Surg. 2005 Jul;80(1):229-36; discussion 236-7</RefSource>
+                <PMID Version="1">15975372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Cardiol. 2005 Oct 4;46(7):1339-50</RefSource>
+                <PMID Version="1">16198853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2005 Nov;39(5):733-42</RefSource>
+                <PMID Version="1">16199052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cardiovasc Pharmacol Ther. 2005 Dec;10(4):251-63</RefSource>
+                <PMID Version="1">16382261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2007 Aug 10;359(4):877-83</RefSource>
+                <PMID Version="1">17577582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2007 Sep 1;6(17):2127-32</RefSource>
+                <PMID Version="1">17786041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2008 Jun;26(6):1464-73</RefSource>
+                <PMID Version="1">18369102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2009 May 22;104(10):1209-16</RefSource>
+                <PMID Version="1">19407239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cardiol. 2009 Jun;6(6):419-29</RefSource>
+                <PMID Version="1">19434076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2009 Aug;119(8):2204-17</RefSource>
+                <PMID Version="1">19620770</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2010 Jan 19;121(2):293-305</RefSource>
+                <PMID Version="1">20048209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Dev. 2010 Oct;19(10):1601-15</RefSource>
+                <PMID Version="1">20109033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2010 Nov;49(5):841-50</RefSource>
+                <PMID Version="1">20708014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Heart Lung Transplant. 2011 Jan;30(1):95-102</RefSource>
+                <PMID Version="1">21030271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2011;2:282</RefSource>
+                <PMID Version="1">21505438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2010 Apr 15;9(8):1445-6</RefSource>
+                <PMID Version="1">20372071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2011 Sep 20;124(12):1330-6</RefSource>
+                <PMID Version="1">21875909</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunopathol. 2011 Sep;33(5):455-67</RefSource>
+                <PMID Version="1">21318413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2011 Nov;357(1-2):135-41</RefSource>
+                <PMID Version="1">21671035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2012 Jan 19;119(3):646-8</RefSource>
+                <PMID Version="1">22262739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2012 Feb 3;110(3):483-95</RefSource>
+                <PMID Version="1">22302755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nephrol Dial Transplant. 2012 Aug;27(8):3037-42</RefSource>
+                <PMID Version="1">22851627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Dis. 2012;3:e381</RefSource>
+                <PMID Version="1">22932723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Cell Cardiol. 2012 Dec;53(6):751-9</RefSource>
+                <PMID Version="1">22982025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2012 Nov 27;126(22):2601-11</RefSource>
+                <PMID Version="1">23114789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Aging (Albany NY). 2011 Feb;3(2):108-24</RefSource>
+                <PMID Version="1">21386132</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Exosomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myoblasts, Cardiac</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocardial Reperfusion Injury</DescriptorName>
+                <QualifierName MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocardium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocytes, Cardiac</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxidative Stress</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polyethylene Glycols</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS435568</OtherID>
+        <OtherID Source="NLM">PMC3732190</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0006-291X(13)00051-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbrc.2013.01.015</ArticleId>
+            <ArticleId IdType="pubmed">23318173</ArticleId>
+            <ArticleId IdType="pmc">PMC3732190</ArticleId>
+            <ArticleId IdType="mid">NIHMS435568</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

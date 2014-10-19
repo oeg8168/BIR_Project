@@ -1,0 +1,312 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23785439</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Streptococcus pneumoniae invades endothelial host cells via multiple pathways and is killed in a lysosome dependent manner.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e65626</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0065626</ELocationID>
+            <Abstract>
+                <AbstractText>Streptococcus pneumoniae is one of the major causative agents of pneumonia, sepsis, meningitis and other morbidities. In spite of its heavy disease burden, surprisingly little is known about the mechanisms involved in the switch of life style, from commensal colonizer of the nasopharynx to invasive pathogen. In vitro experiments, and mouse models have shown that S. pneumoniae can be internalized by host cells, which coupled with intracellular vesicle transport through the cells, i.e. transcytosis, is suggested to be the first step of invasive disease. To further dissect the process of S. pneumoniae internalization, we chemically inhibited discrete parts of the cellular uptake system. We show that this invasion of the host cells was facilitated via both clathrin- and caveolae-mediated endocytosis. After internalization we demonstrated that the bulk of the internalized S. pneumoniae was killed in the lysosome. Interestingly, inhibition of the lysosome altered transcytosis dynamics as it resulted in an increase in the transport of the internalized bacteria out of the cells via the basal side. These results show that uptake of S. pneumoniae into host cells occurs via multiple pathways, as opposed to the often proposed view of invasion being dependent on specific, and singular receptor-mediated endocytosis. This indicates that the endothelium not only has a critical role as a physical barrier against S. pneumoniae in the blood stream, but also in degrading S. pneumonia cells that have adhered to, and invaded the endothelial cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gradstedt</LastName>
+                    <ForeName>Henrik</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Laboratory of Molecular Bacteriology, Department of Medical Microbiology, University of Groningen, University Medical Center Groningen (UMCG), Groningen, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iovino</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bijlsma</LastName>
+                    <ForeName>Jetta J E</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Clathrin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Jul 17;284(29):19427-36</RefSource>
+                <PMID Version="1">19473971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2009;78:857-902</RefSource>
+                <PMID Version="1">19317650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2000 Dec;119(6):1692-707</RefSource>
+                <PMID Version="1">11113091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 2001 Jan;30(1):19-28</RefSource>
+                <PMID Version="1">11162182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Dec 27;277(52):50716-24</RefSource>
+                <PMID Version="1">12386163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2003 May;5(5):323-42</RefSource>
+                <PMID Version="1">12713491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Feb 20;279(8):6296-304</RefSource>
+                <PMID Version="1">14660617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Infect Dis. 2004 Mar;4(3):144-54</RefSource>
+                <PMID Version="1">14998500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1989 Feb;108(2):389-400</RefSource>
+                <PMID Version="1">2563728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1997 Dec;65(12):5074-81</RefSource>
+                <PMID Version="1">9393798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 May 4;141(3):611-23</RefSource>
+                <PMID Version="1">9566963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1998 Jul 15;102(2):347-60</RefSource>
+                <PMID Version="1">9664076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Aug;73(8):4653-67</RefSource>
+                <PMID Version="1">16040978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Dec;73(12):7827-35</RefSource>
+                <PMID Version="1">16299272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2006 Feb;152(Pt 2):295-303</RefSource>
+                <PMID Version="1">16436417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2006 Apr 15;119(Pt 8):1494-503</RefSource>
+                <PMID Version="1">16537643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Microbiol Immunol. 2006 Dec;195(4):185-94</RefSource>
+                <PMID Version="1">16596413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2007 Feb;88(Pt 2):559-69</RefSource>
+                <PMID Version="1">17251575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2008 Feb;82(3):1128-35</RefSource>
+                <PMID Version="1">18032516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2009 Aug 31;206(9):1845-52</RefSource>
+                <PMID Version="1">19687228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2009 Dec;41(12):2594-8</RefSource>
+                <PMID Version="1">19735738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2010 May 25;401(1):18-28</RefSource>
+                <PMID Version="1">20202662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2010 Jun;32(6):496-504</RefSource>
+                <PMID Version="1">20486136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2010 Aug;192(15):4054-62</RefSource>
+                <PMID Version="1">20525828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jul 23;285(30):23486-95</RefSource>
+                <PMID Version="1">20504767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(2):e30632</RefSource>
+                <PMID Version="1">22363456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2008;3(4):e2012</RefSource>
+                <PMID Version="1">18431493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2008 Sep;89(Pt 9):2147-56</RefSource>
+                <PMID Version="1">18753224</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2009 Jan 15;122(Pt 2):256-67</RefSource>
+                <PMID Version="1">19118218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2009 Apr;296(4):C857-67</RefSource>
+                <PMID Version="1">19176760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2009 Jun;119(6):1638-46</RefSource>
+                <PMID Version="1">19436113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2000 Sep 15;102(6):827-37</RefSource>
+                <PMID Version="1">11030626</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Caveolae</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Clathrin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Streptococcus pneumoniae</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3681976</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0065626</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-40445</ArticleId>
+            <ArticleId IdType="pubmed">23785439</ArticleId>
+            <ArticleId IdType="pmc">PMC3681976</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,187 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22921594</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-8294</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>65</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advanced drug delivery reviews</Title>
+                <ISOAbbreviation>Adv. Drug Deliv. Rev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Imaging exosome transfer from breast cancer cells to stroma at metastatic sites in orthotopic nude-mouse models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>383-90</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.addr.2012.08.007</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0169-409X(12)00242-6</ELocationID>
+            <Abstract>
+                <AbstractText>Exosomes play an important role in cell-to-cell communication to promote tumor metastasis. In order to image the fate of cancer-cell-derived exosomes in orthotopic nude mouse models of breast cancer, we used green fluorescent protein (GFP)-tagged CD63, which is a general marker of exosomes. Breast cancer cells transferred their own exosomes to other cancer cells and normal lung tissue cells in culture. In orthotopic nude-mouse models, breast cancer cells secreted exosomes into the tumor microenvironment. Tumor-derived exosomes were incorporated into tumor-associated cells as well as circulating in the blood of mice with breast cancer metastases. These results suggest that tumor-derived exosomes may contribute to forming a niche to promote tumor growth and metastasis. Our results demonstrate the usefulness of GFP imaging to investigate the role of exosomes in cancer metastasis.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Suetsugu</LastName>
+                    <ForeName>Atsushi</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>AntiCancer, Inc., San Diego, CA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honma</LastName>
+                    <ForeName>Kimi</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saji</LastName>
+                    <ForeName>Shigetoyo</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moriwaki</LastName>
+                    <ForeName>Hisataka</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ochiya</LastName>
+                    <ForeName>Takahiro</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoffman</LastName>
+                    <ForeName>Robert M</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Adv Drug Deliv Rev</MedlineTA>
+            <NlmUniqueID>8710523</NlmUniqueID>
+            <ISSNLinking>0169-409X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Optical Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Microenvironment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0169-409X(12)00242-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.addr.2012.08.007</ArticleId>
+            <ArticleId IdType="pubmed">22921594</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

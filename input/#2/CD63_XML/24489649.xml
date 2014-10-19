@@ -1,0 +1,438 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24489649</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phenotyping of human melanoma cells reveals a unique composition of receptor targets and a subpopulation co-expressing ErbB4, EPO-R and NGF-R.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e84417</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0084417</ELocationID>
+            <Abstract>
+                <AbstractText>Malignant melanoma is a life-threatening skin cancer increasingly diagnosed in the western world. In advanced disease the prognosis is grave. Growth and metastasis formation in melanomas are regulated by a network of cytokines, cytokine-receptors, and adhesion molecules. However, little is known about surface antigens and target expression profiles in human melanomas. We examined the cell surface antigen profile of human skin melanoma cells by multicolor flow cytometry, and compared their phenotype with 4 melanoma cell lines (A375, 607B, Mel-Juso, SK-Mel28). Melanoma cells were defined as CD45-/CD31- cells co-expressing one or more melanoma-related antigens (CD63, CD146, CD166). In most patients, melanoma cells exhibited ErbB3/Her3, CD44/Pgp-1, ICAM-1/CD54 and IGF-1-R/CD221, but did not express CD20, ErbB2/Her2, KIT/CD117, AC133/CD133 or MDR-1/CD243. Melanoma cell lines were found to display a similar phenotype. In most patients, a distinct subpopulation of melanoma cells (4-40%) expressed the erythropoietin receptor (EPO-R) and ErbB4 together with PD-1 and NGF-R/CD271. Both the EPO-R+ and EPO-R- subpopulations produced melanoma lesions in NOD/SCID IL-2Rgamma(null) (NSG) mice in first and secondary recipients. Normal skin melanocytes did not express ErbB4 or EPO-R, but expressed a functional KIT receptor (CD117) as well as NGF-R, ErbB3/Her3, IGF-1-R and CD44. In conclusion, melanoma cells display a unique composition of surface target antigens and cytokine receptors. Malignant transformation of melanomas is accompanied by loss of KIT and acquisition of EPO-R and ErbB4, both of which are co-expressed with NGF-R and PD-1 in distinct subfractions of melanoma cells. However, expression of EPO-R/ErbB4/PD-1 is not indicative of a selective melanoma-initiating potential.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mirkina</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hadzijusufovic</LastName>
+                    <ForeName>Emir</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria ; Division of Hematology &amp; Hemostaseology, Department of Medicine I, Medical University of Vienna, Vienna, Austria ; Department/Clinic for Companion Animals and Horses, Clinic for Small Animals, Clinical Unit of Internal Medicine, University of Veterinary Medicine Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krepler</LastName>
+                    <ForeName>Clemens</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria ; Department of Dermatology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikula</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Dermatology, Medical University of Vienna, Vienna, Austria ; Institute of Medical Genetics, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mechtcheriakova</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria ; Department of Pathophysiology &amp; Allergy Research, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strommer</LastName>
+                    <ForeName>Sabine</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Institute of Medical Genetics, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stella</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Clinical Pharmacology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jensen-Jarolim</LastName>
+                    <ForeName>Erika</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria ; Department of Pathophysiology &amp; Allergy Research, Medical University of Vienna, Vienna, Austria ; Comparative Medicine, Messerli Research Institute, University of Veterinary Medicine, Medical University of Vienna and University Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Höller</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Department of Dermatology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wacheck</LastName>
+                    <ForeName>Volker</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Department of Clinical Pharmacology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pehamberger</LastName>
+                    <ForeName>Hubert</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria ; Department of Dermatology, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valent</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Ludwig Boltzmann Cluster Oncology, Medical University of Vienna, Vienna, Austria ; Division of Hematology &amp; Hemostaseology, Department of Medicine I, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PDCD1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Programmed Cell Death 1 Receptor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptor, Nerve Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Erythropoietin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-kit</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor, Epidermal Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>receptor tyrosine-protein kinase erbB-4</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Oncol. 2006 Mar;18(2):173-9</RefSource>
+                <PMID Version="1">16462187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Cancer Drug Targets. 2009 May;9(3):391-7</RefSource>
+                <PMID Version="1">19442058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Oncol. 2006 Sep;28(3):187-93</RefSource>
+                <PMID Version="1">17080010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2007 Mar;43(5):935-46</RefSource>
+                <PMID Version="1">17320377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Oncol. 2007 Dec;34(6):546-54</RefSource>
+                <PMID Version="1">18083378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jan 17;451(7176):345-9</RefSource>
+                <PMID Version="1">18202660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hematol Oncol Clin North Am. 2009 Jun;23(3):529-45, ix</RefSource>
+                <PMID Version="1">19464601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Oncol. 2009 Aug;20 Suppl 6:vi1-7</RefSource>
+                <PMID Version="1">19617292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2010 Jan;130(1):201-10</RefSource>
+                <PMID Version="1">19536148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 May 14;141(4):583-94</RefSource>
+                <PMID Version="1">20478252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Jul 1;466(7302):133-7</RefSource>
+                <PMID Version="1">20596026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Aug 15;14(16):5188-97</RefSource>
+                <PMID Version="1">18698037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(10):e25611</RefSource>
+                <PMID Version="1">21984922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(12):e28030</RefSource>
+                <PMID Version="1">22162753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 2012 Mar;132(3 Pt 2):854-63</RefSource>
+                <PMID Version="1">22217739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2012 Mar 29;31(13):1649-60</RefSource>
+                <PMID Version="1">21860424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2012 May;12(5):349-61</RefSource>
+                <PMID Version="1">22475929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2012 Nov;12(11):767-75</RefSource>
+                <PMID Version="1">23051844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drugs. 2011 Jul 9;71(10):1233-50</RefSource>
+                <PMID Version="1">21770473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Melanoma Res. 2000 Oct;10(5):421-6</RefSource>
+                <PMID Version="1">11095402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Sep 2;351(10):998-1012</RefSource>
+                <PMID Version="1">15342808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2004 Nov 1;101(9):2067-78</RefSource>
+                <PMID Version="1">15372475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1996 May 6;222(1):13-8</RefSource>
+                <PMID Version="1">8630057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2004 Nov;40(16):2355-66</RefSource>
+                <PMID Version="1">15519506</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dermatol Sci. 2004 Nov;36(2):71-8</RefSource>
+                <PMID Version="1">15519136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2005 Mar;166(3):823-30</RefSource>
+                <PMID Version="1">15743794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2005 Jun;24(2):223-36</RefSource>
+                <PMID Version="1">15986133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Oct 15;65(20):9328-37</RefSource>
+                <PMID Version="1">16230395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Anticancer Ther. 2008 May;8(5):743-55</RefSource>
+                <PMID Version="1">18471047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Cell. 2010 Nov 16;18(5):510-23</RefSource>
+                <PMID Version="1">21075313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Nov 1;14(21):6821-8</RefSource>
+                <PMID Version="1">18980976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Dec 4;456(7222):593-8</RefSource>
+                <PMID Version="1">19052619</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2009 Jan;15(1):23</RefSource>
+                <PMID Version="1">19129778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2009 Mar 15;124(6):1245-50</RefSource>
+                <PMID Version="1">19089923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Melanoma Res. 2009 Jun;19(3):156-66</RefSource>
+                <PMID Version="1">19434003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Melanoma Res. 2006 Aug;16(4):275-83</RefSource>
+                <PMID Version="1">16845323</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunophenotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred NOD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Programmed Cell Death 1 Receptor</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-kit</DescriptorName>
+                <QualifierName MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, Epidermal Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, Nerve Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Erythropoietin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3906015</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0084417</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-39207</ArticleId>
+            <ArticleId IdType="pubmed">24489649</ArticleId>
+            <ArticleId IdType="pmc">PMC3906015</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

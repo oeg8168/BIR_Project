@@ -1,0 +1,183 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16184614</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1552-4949</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cytometry. Part B, Clinical cytometry</Title>
+                <ISOAbbreviation>Cytometry B Clin Cytom</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Detection of Anisakis simplex-induced basophil activation by flow cytometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>31-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Laboratory diagnosis of anisakidosis is based on specific serum IgE detection. Recently, detection of allergen-induced basophil activation by flow cytometry has been proposed as a valuable tool for allergy diagnosis.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To evaluate if detection of Anisakis-induced basophil activation by flow cytometry is a useful tool in the diagnosis of Anisakis allergy.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients with Anisakis allergy (A.s.+, n = 37), patients reporting chronic urticaria or abdominal pain unrelated to fish ingestion (A.s.-, n = 51), and healthy controls (n = 12) were studied. Specific IgE to Anisakis simplex (A. simplex) was quantified with CAP-FEIA method, and basophil activation test was performed with three different concentrations of an Anisakis crude extract. Basophil gating was performed with CD123 and HLA-DR, and cellular activation was measured with CD63.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A.s.+ patients showed significantly higher age and total IgE levels than did the A.s.- patients. Specific IgE to A. simplex correlated with the activated basophil percentages obtained with 15 microg/mL (r = 0.80; P &lt; 0.001), 1.5 microg/mL (r = 0.84; P &lt; 0.001), and 0.15 microg/mL (r = 0.82; P &lt; 0.001) of A. simplex crude extract. Nine individuals (3 in the A.s.+ group and 6 in the A.s.- group) were nonresponders to basophil stimulation with anti-IgE. Five A.s.- patients showed positive IgE values to A. simplex while the basophil activation test was negative. According to the receiver operating characteristics curves performed between A.s.+ vs. A.s.- and A.s.+ vs. healthy controls, the cutoff for a positive basophil activation test was &gt;or=21% (specificity = 96%, sensitivity = 100%), and 16% (sensitivity and specificity of 100%) respectively. When nonresponders were included in the A.s.+ vs. A.s.- analysis, sensitivity decreased to 95%. Multivariate logistic analysis showed that the specific basophil activation was a factor independently associated with clinical symptoms of A. simplex allergy.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Detection of A. simplex-induced basophil activation by flow cytometry is a useful laboratory technique for the diagnosis of anisakidosis, supplementing specific IgE determinations.</AbstractText>
+                <CopyrightInformation>(c) 2005 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gonzalez-Muñoz</LastName>
+                    <ForeName>Miguel</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Immunology, H. Carlos III, Madrid, Spain. mgonzalez_munoz@hotmail.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luque</LastName>
+                    <ForeName>Rosario</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nauwelaers</LastName>
+                    <ForeName>Frans</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moneo</LastName>
+                    <ForeName>Ignacio</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Evaluation Studies</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cytometry B Clin Cytom</MedlineTA>
+            <NlmUniqueID>101235690</NlmUniqueID>
+            <ISSNLinking>1552-4949</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anisakiasis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anisakis</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Larva</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">ROC Curve</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/cyto.b.20070</ArticleId>
+            <ArticleId IdType="pubmed">16184614</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

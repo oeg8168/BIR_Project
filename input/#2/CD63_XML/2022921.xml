@@ -1,0 +1,432 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">2022921</PMID>
+        <DateCreated>
+            <Year>1991</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1991</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>173</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>May</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of experimental medicine</Title>
+                <ISOAbbreviation>J. Exp. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cytotoxic T lymphocyte granules are secretory lysosomes, containing both perforin and granzymes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1099-109</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Cytotoxic T lymphocytes (CTL) contain granules that are exocytosed during specific interaction with target cells (TC). In this process, the granule contents, including the lethal protein perforin, as well as granzymes, a family of serine esterases, are delivered to the TC. Information regarding the routing of these proteins towards the granule and their exact localization within the granule is of primary importance to resolve the mechanism of granule-mediated TC killing. In this study, the subcellular localization of perforin, granzymes, and known endosomal and lysosomal marker proteins was determined in human and murine CTL, by immunogold labeling of ultrathin cryosections followed by electron microscopy. Perforin and granzymes can be detected in rough endoplasmic reticulum, Golgi complex, trans-Golgi reticulum, and in all cytotoxic granules. Within the granules, they have a similar distribution and are localized not only in the so-called dense core but also over the region containing small internal vesicles. This finding implies that perforin and granzymes can be released in membrane-enveloped and/or -associated form into the intercellular cleft formed upon CTL-TC interaction. On the basis of the present evidence, additional release of these molecules in soluble form cannot be excluded. The lysosomal membrane glycoproteins lamp-1, lamp-2, and CD63, are abundantly present on the granule-delimiting outer membrane, which becomes incorporated into the CTL plasma membrane during lethal hit delivery. In contrast, the cation-dependent mannose 6-phosphate receptor, known to be present in endosomes and absent from lysosomes, is found only in a minority of the granules. Together with our previous findings that the granules are acidic and connected to the endocytic pathway, these observations define CTL granules as secretory lysosomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                    <Affiliation>Laboratory of Cell Biology, Medical School, University of Utrecht, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borst</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oorschot</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukuda</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krähenbühl</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tschopp</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slot</LastName>
+                    <ForeName>J W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geuze</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Exp Med</MedlineTA>
+            <NlmUniqueID>2985109R</NlmUniqueID>
+            <ISSNLinking>0022-1007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pore Forming Cytotoxic Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126465-35-8</RegistryNumber>
+                <NameOfSubstance>Perforin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>GZMB protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Granzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Gzmb protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Gzmc protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Gzmd protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Gzme protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Gzmf protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance>Serine Endopeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.78</RegistryNumber>
+                <NameOfSubstance>GZMA protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Dec 1;143(11):3440-3</RefSource>
+                <PMID Version="1">2584700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Sep;86(18):7128-32</RefSource>
+                <PMID Version="1">2674947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Biol. 1989;5:483-525</RefSource>
+                <PMID Version="1">2557062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1990 Jan;11(1):28-32</RefSource>
+                <PMID Version="1">2405876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1989 Aug;1(4):648-54</RefSource>
+                <PMID Version="1">2516740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1990;8:279-302</RefSource>
+                <PMID Version="1">2188665</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1990 Dec;9(12):3815-9</RefSource>
+                <PMID Version="1">2249651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Feb 21;349(6311):669-76</RefSource>
+                <PMID Version="1">1847504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1983 May 1;157(5):1483-95</RefSource>
+                <PMID Version="1">6189939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1984 Aug 3;72(1):219-27</RefSource>
+                <PMID Version="1">6086760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1985;3:31-58</RefSource>
+                <PMID Version="1">3904772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1985 Dec;101(6):2253-62</RefSource>
+                <PMID Version="1">2933416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1985 Dec 1;162(6):1771-87</RefSource>
+                <PMID Version="1">3934316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1985 Nov 21-27;318(6043):289-91</RefSource>
+                <PMID Version="1">4069203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1986 Aug 29;46(5):641-2</RefSource>
+                <PMID Version="1">3488814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1986 Oct 24;234(4775):438-43</RefSource>
+                <PMID Version="1">2945253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1986 Dec 1;164(6):2061-76</RefSource>
+                <PMID Version="1">3097239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 1986 Dec;17(4):426-42</RefSource>
+                <PMID Version="1">2432049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1987 May 1;138(9):2749-52</RefSource>
+                <PMID Version="1">3494768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Jun 5;49(5):679-85</RefSource>
+                <PMID Version="1">3555842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Invest. 1987 Jul;57(1):29-36</RefSource>
+                <PMID Version="1">3496491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1987 Sep 15;139(6):1952-9</RefSource>
+                <PMID Version="1">2957443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1987 Oct 1;139(7):2398-405</RefSource>
+                <PMID Version="1">3498759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 Feb 1;140(3):991-1002</RefSource>
+                <PMID Version="1">3276787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Feb 12;52(3):329-41</RefSource>
+                <PMID Version="1">2964276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1988 Jun;106(6):1863-72</RefSource>
+                <PMID Version="1">2968345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Jul;85(13):4814-8</RefSource>
+                <PMID Version="1">3260382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1988 Mar;103:203-11</RefSource>
+                <PMID Version="1">3292394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1988 Mar;103:37-51</RefSource>
+                <PMID Version="1">3292395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Aug 11;334(6182):525-7</RefSource>
+                <PMID Version="1">3261391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1988 Sep 29;335(6189):448-51</RefSource>
+                <PMID Version="1">3419519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 Nov 1;141(9):3142-7</RefSource>
+                <PMID Version="1">3262682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1988 Nov 15;141(10):3471-7</RefSource>
+                <PMID Version="1">3263427</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Dec 15;263(35):18911-9</RefSource>
+                <PMID Version="1">3143719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1988 Dec;107(6 Pt 2):2491-501</RefSource>
+                <PMID Version="1">2849607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Jan 15;142(2):609-15</RefSource>
+                <PMID Version="1">2911013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Jan;86(1):247-51</RefSource>
+                <PMID Version="1">2783486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1989 Jan;19(1):151-6</RefSource>
+                <PMID Version="1">2784104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jun 2;57(5):703-6</RefSource>
+                <PMID Version="1">2655928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1989 Jul;19(7):1253-9</RefSource>
+                <PMID Version="1">2668013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1989 Sep 1;170(3):933-46</RefSource>
+                <PMID Version="1">2788710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1989 Aug;19(8):1469-75</RefSource>
+                <PMID Version="1">2789142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Dec 15;143(12):3994-9</RefSource>
+                <PMID Version="1">2480383</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endoplasmic Reticulum</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Golgi Apparatus</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granzymes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Perforin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pore Forming Cytotoxic Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serine Endopeptidases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocytes, Cytotoxic</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2118839</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2022921</ArticleId>
+            <ArticleId IdType="pmc">PMC2118839</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

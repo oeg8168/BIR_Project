@@ -1,0 +1,716 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18248626</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1462-5822</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cellular microbiology</Title>
+                <ISOAbbreviation>Cell. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Delta fbpA mutant derived from Mycobacterium tuberculosis H37Rv has an enhanced susceptibility to intracellular antimicrobial oxidative mechanisms, undergoes limited phagosome maturation and activates macrophages and dendritic cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1286-303</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1462-5822.2008.01126.x</ELocationID>
+            <Abstract>
+                <AbstractText>Mycobacterium tuberculosis H37Rv (Mtb) excludes phagocyte oxidase (phox) and inducible nitric oxide synthase (iNOS) while preventing lysosomal fusion in macrophages (MPhis). The antigen 85A deficient (Delta fbpA) mutant of Mtb was vaccinogenic in mice and the mechanisms of attenuation were compared with MPhis infected with H37Rv and BCG. Delta fbpA contained reduced amounts of trehalose 6, 6, dimycolate and induced minimal levels of SOCS-1 in MPhis. Blockade of oxidants enhanced the growth of Delta fbpA in MPhis that correlated with increased colocalization with phox and iNOS. Green fluorescent protein-expressing strains within MPhis or purified phagosomes were analysed for endosomal traffick with immunofluorescence and Western blot. Delta fbpA phagosomes were enriched for rab5, rab11, LAMP-1 and Hck suggesting enhanced fusion with early, recycling and late endosomes in MPhis compared with BCG or H37Rv. Delta fbpA phagosomes were thus more mature than H37Rv or BCG although, they failed to acquire rab7 and CD63 preventing lysosomal fusion. Finally, Delta fbpA infected MPhis and dendritic cells (DCs) showed an enhanced MHC-II and CD1d expression and primed immune T cells to release more IFN-gamma compared with those infected with BCG and H37Rv. Delta fbpA was thus more immunogenic in MPhis and DCs because of an enhanced susceptibility to oxidants and increased maturation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Katti</LastName>
+                    <ForeName>Muralidhar K</ForeName>
+                    <Initials>MK</Initials>
+                    <Affiliation>Department of Pathology and Laboratory Medicine, University of Texas Health Sciences Center, Houston, TX, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dai</LastName>
+                    <ForeName>Guixiang</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Armitige</LastName>
+                    <ForeName>Lisa Y</ForeName>
+                    <Initials>LY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rivera Marrero</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daniel</LastName>
+                    <ForeName>Sundarsingh</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Christopher R</ForeName>
+                    <Initials>CR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindsey</LastName>
+                    <ForeName>Devin R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dhandayuthapani</LastName>
+                    <ForeName>Subramanian</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>Robert L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jagannath</LastName>
+                    <ForeName>Chinnaswamy</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI49534</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI049534</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI078420</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI055449</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cell Microbiol</MedlineTA>
+            <NlmUniqueID>100883691</NlmUniqueID>
+            <ISSNLinking>1462-5814</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD1d</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lamp1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosome-Associated Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Reactive Oxygen Species</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Socs1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Suppressor of Cytokine Signaling Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82115-62-6</RegistryNumber>
+                <NameOfSubstance>Interferon-gamma</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.-</RegistryNumber>
+                <NameOfSubstance>Oxidoreductases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.13.39</RegistryNumber>
+                <NameOfSubstance>Nitric Oxide Synthase Type II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.-</RegistryNumber>
+                <NameOfSubstance>Acyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.-</RegistryNumber>
+                <NameOfSubstance>antigen 85A, Mycobacterium tuberculosis</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance>Hck protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-hck</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>rab5 GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Dec 15;108(13):4102-8</RefSource>
+                <PMID Version="1">16896155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Cell Mol Biol. 2007 Jan;36(1):68-77</RefSource>
+                <PMID Version="1">16931806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2007 Jan;81(1):212-20</RefSource>
+                <PMID Version="1">16997854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Symp. 2007;(74):141-8</RefSource>
+                <PMID Version="1">17233587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2007 Feb;75(2):581-91</RefSource>
+                <PMID Version="1">17088345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Tuberc Lung Dis. 2007 Apr;11(4):370-80</RefSource>
+                <PMID Version="1">17394681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2007 Oct;82(4):956-67</RefSource>
+                <PMID Version="1">17675563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2006 Sep 11;24(37-39):6309-20</RefSource>
+                <PMID Version="1">16860907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1999 Oct;78(10):739-48</RefSource>
+                <PMID Version="1">10569246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):15190-5</RefSource>
+                <PMID Version="1">10611360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 Feb;68(2):767-78</RefSource>
+                <PMID Version="1">10639445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Immunol. 2000 Apr 10;201(1):63-74</RefSource>
+                <PMID Version="1">10805975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2000 Aug 17;406(6797):735-8</RefSource>
+                <PMID Version="1">10963599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2000 Oct;21(16):3378-85</RefSource>
+                <PMID Version="1">11079558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Dec 1;165(11):6073-80</RefSource>
+                <PMID Version="1">11086039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Feb 15;166(4):2260-9</RefSource>
+                <PMID Version="1">11160280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Infect Dis. 2001;33(4):243-5</RefSource>
+                <PMID Version="1">11345212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2001 Mar;3(3):249-55</RefSource>
+                <PMID Version="1">11358719</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Aug;2(8):569-77</RefSource>
+                <PMID Version="1">11483990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2001 Nov 19;194(10):1421-32</RefSource>
+                <PMID Version="1">11714749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Crit Care Med. 2001 Dec 15;164(12):2213-9</RefSource>
+                <PMID Version="1">11751190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2001 Nov-Dec;3(14-15):1313-20</RefSource>
+                <PMID Version="1">11755420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2002 Jan 1;115(Pt 1):81-9</RefSource>
+                <PMID Version="1">11801726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Aug 27;279(35):36982-92</RefSource>
+                <PMID Version="1">15210698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2004 Nov;6(11):999-1009</RefSource>
+                <PMID Version="1">15469429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2004;20:367-94</RefSource>
+                <PMID Version="1">15473845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trans R Soc Trop Med Hyg. 1983;77(5):620-30</RefSource>
+                <PMID Version="1">6362115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 1986 Apr;14(2):256-7</RefSource>
+                <PMID Version="1">3709950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Infect Dis. 1989 Mar-Apr;11 Suppl 2:S353-9</RefSource>
+                <PMID Version="1">2652252</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Feb 1;88(3):737-40</RefSource>
+                <PMID Version="1">1992465</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1991 Feb;3(1):3-9</RefSource>
+                <PMID Version="1">2054112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Biochem Mol Biol. 1991;26(5-6):439-73</RefSource>
+                <PMID Version="1">1722142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1993 May 14;260(5110):984-6</RefSource>
+                <PMID Version="1">8098550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1993 Jul;61(7):2763-73</RefSource>
+                <PMID Version="1">8514378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Nov 26;99(24):15614-9</RefSource>
+                <PMID Version="1">12427974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Aug;62(8):3472-8</RefSource>
+                <PMID Version="1">8039918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1999 Mar 1;93(5):1464-76</RefSource>
+                <PMID Version="1">10029572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1999 Mar;31(6):1603-9</RefSource>
+                <PMID Version="1">10209735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Dec;72(12):7084-95</RefSource>
+                <PMID Version="1">15557632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol. 2005 Mar;114(3):239-47</RefSource>
+                <PMID Version="1">15721834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1971 Sep 1;134(3 Pt 1):713-40</RefSource>
+                <PMID Version="1">15776571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2005 Mar;7(3):325-34</RefSource>
+                <PMID Version="1">15804490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2005 Jul;78(1):106-13</RefSource>
+                <PMID Version="1">15845642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2002 Mar 15;115(Pt 6):1321-30</RefSource>
+                <PMID Version="1">11884531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2002 May;44(4):1109-22</RefSource>
+                <PMID Version="1">12010501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Jun 15;168(12):6358-65</RefSource>
+                <PMID Version="1">12055253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2002 Sep 15;366(Pt 3):689-704</RefSource>
+                <PMID Version="1">12061891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Sep;62(9):3679-87</RefSource>
+                <PMID Version="1">7520418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Jan 1;181(1):257-70</RefSource>
+                <PMID Version="1">7807006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1995 Feb;25(2):520-5</RefSource>
+                <PMID Version="1">7875214</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Infect Dis. 1995 Jan;20(1):126-35</RefSource>
+                <PMID Version="1">7727638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biomed Sci Instrum. 1995;31:121-6</RefSource>
+                <PMID Version="1">7654948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1995 Sep;17(5):901-12</RefSource>
+                <PMID Version="1">8596439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1996 Mar;4(3):113-8</RefSource>
+                <PMID Version="1">8868090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Oct 1;184(4):1349-55</RefSource>
+                <PMID Version="1">8879207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 1997;22(3):561-5</RefSource>
+                <PMID Version="1">8981049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Dec 16;15(24):6960-8</RefSource>
+                <PMID Version="1">9003772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 May 16;272(20):13326-31</RefSource>
+                <PMID Version="1">9148954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1997 May 30;276(5317):1420-2</RefSource>
+                <PMID Version="1">9162010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 1997 Dec;18(14):2542-7</RefSource>
+                <PMID Version="1">9527483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1998 Apr;111 ( Pt 7):897-905</RefSource>
+                <PMID Version="1">9490634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1998 Apr;66(4):1277-81</RefSource>
+                <PMID Version="1">9529042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1998 Jun;6(6):212-4</RefSource>
+                <PMID Version="1">9675795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nitric Oxide. 1998;2(3):174-86</RefSource>
+                <PMID Version="1">9731635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1999 Feb;67(2):469-77</RefSource>
+                <PMID Version="1">9916047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2002 Oct;8(10):1171-4</RefSource>
+                <PMID Version="1">12219086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2003 Sep;5(9):776-8</RefSource>
+                <PMID Version="1">12951608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Nov 21;278(47):46961-7</RefSource>
+                <PMID Version="1">12963735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Immunol Med Microbiol. 2003 Nov 28;39(2):173-80</RefSource>
+                <PMID Version="1">14625101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Feb;15(2):751-60</RefSource>
+                <PMID Version="1">14617817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2004 Feb;7(1):71-7</RefSource>
+                <PMID Version="1">15036144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 May;72(5):2872-8</RefSource>
+                <PMID Version="1">15102799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2004 May;24(10):4593-604</RefSource>
+                <PMID Version="1">15121875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 May 14;304(5673):1014-8</RefSource>
+                <PMID Version="1">15143282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Aug 27;279(35):36771-7</RefSource>
+                <PMID Version="1">15192106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Aug 1;106(3):852-9</RefSource>
+                <PMID Version="1">15817678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2005 Sep 9;122(5):735-49</RefSource>
+                <PMID Version="1">16143105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Oct;73(10):6831-7</RefSource>
+                <PMID Version="1">16177361</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Oct 3;202(7):987-99</RefSource>
+                <PMID Version="1">16203868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2005 Nov;25(11):694-701</RefSource>
+                <PMID Version="1">16318583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Mar 1;176(5):3019-27</RefSource>
+                <PMID Version="1">16493060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 2006 May;60(3):643-57</RefSource>
+                <PMID Version="1">16629667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2006 Jun;4(6):469-76</RefSource>
+                <PMID Version="1">16710326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2006 Aug 7;203(8):1915-25</RefSource>
+                <PMID Version="1">16880255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Trop Med Parasitol. 2006 Jul-Sep;100(5-6):415-31</RefSource>
+                <PMID Version="1">16899146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Sep 1;177(5):3250-9</RefSource>
+                <PMID Version="1">16920965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Oct 1;177(7):4688-98</RefSource>
+                <PMID Version="1">16982908</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acyltransferases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD1d</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interferon-gamma</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosome-Associated Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathogenicity</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nitric Oxide Synthase Type II</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxidoreductases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Point Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-hck</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reactive Oxygen Species</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Suppressor of Cytokine Signaling Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Terminal Repeat Sequences</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab5 GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS474724</OtherID>
+        <OtherID Source="NLM">PMC3668688</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">CMI1126</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1462-5822.2008.01126.x</ArticleId>
+            <ArticleId IdType="pubmed">18248626</ArticleId>
+            <ArticleId IdType="pmc">PMC3668688</ArticleId>
+            <ArticleId IdType="mid">NIHMS474724</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

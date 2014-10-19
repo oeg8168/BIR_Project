@@ -1,0 +1,201 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15316492</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0091-6749</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>114</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of allergy and clinical immunology</Title>
+                <ISOAbbreviation>J. Allergy Clin. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro assays for the diagnosis of IgE-mediated disorders.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>213-25; quiz 226</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Advances in technology have provided new laboratory tools for the quantitation of allergen-specific IgE antibodies in serum and on the surface of basophils. This review examines the evolution from qualitative IgE antibody assays of the late 1960s to the present-day, third-generation, automated and quantitative allergen-specific IgE assays. The latest technology trend is toward microarrays in which crude or purified native and recombinant allergens can be spotted in microdot arrays on silica chips to permit extensive panels of specific IgE measurements to be performed with small quantities of serum. Although these technologies hold promise, their diagnostic performance requires further assessment once their technical details have been optimized. Potential abuses of this newer IgE antibody technology include the use of allergosorbent specificities (eg, especially food and drugs) that lack validation, application of IgE antibody measurements in the diagnosis of non-IgE-dependent disorders (eg, aspirin sensitivity), and modification of IgE antibody assays to measure food-specific IgG antibody for which there is no clinical indication. Basophil mediator release assays have evolved to include flow cytometric methods that can quantitatively detect the presence of cell surface-bound allergen-specific IgE antibodies. Assays for histamine and leukotriene C 4 released after in vitro basophil activation are now more accurate and standardized. Current analytic methods for IgE antibodies provide more quantitative and reproducible measurements of IgE than ever before, although still with less sensitivity that traditional skin testing. The current challenge is to translate the quantitative IgE antibody results into a more accurate diagnosis of allergic disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hamilton</LastName>
+                    <ForeName>Robert G</ForeName>
+                    <Initials>RG</Initials>
+                    <Affiliation>Division of Allergy and Clinical Immunology, Johns Hopkins University School of Medicine, Baltimore, MD 21224, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franklin Adkinson</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Allergy Clin Immunol</MedlineTA>
+            <NlmUniqueID>1275002</NlmUniqueID>
+            <ISSNLinking>0091-6749</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>ENPP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2CU6TT9V48</RegistryNumber>
+                <NameOfSubstance>Leukotriene C4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.-</RegistryNumber>
+                <NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Pyrophosphatases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Allergy Clin Immunol. 2005 Mar;115(3):639; author reply 639-40</RefSource>
+                <PMID Version="1">15753920</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calibration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Release</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukotriene C4</DescriptorName>
+                <QualifierName MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphoric Diester Hydrolases</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrophosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>64</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15316492</ArticleId>
+            <ArticleId IdType="pii">S009167490401749X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

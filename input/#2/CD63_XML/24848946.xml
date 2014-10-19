@@ -1,0 +1,129 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24848946</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-6882</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>86</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jun</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical chemistry</Title>
+                <ISOAbbreviation>Anal. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determination of exosome concentration in solution using surface plasmon resonance spectroscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5929-36</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/ac500931f</ELocationID>
+            <Abstract>
+                <AbstractText>Exosomes are cell-secreted nanometer-sized extracellular vesicles that have been reported to play an important role in intercellular communication. They are also considered potential diagnostic markers for various health disorders, and intense investigations are presently directed toward their use as carriers in drug-delivery and gene-therapy applications. This has generated a growing need for sensitive methods capable of accurately and specifically determining the concentration of exosomes in complex biological fluids. Here, we explore the use of label-free surface-based sensing with surface plasmon resonance (SPR) read-out to determine the concentration of exosomes in solution. Human mast cell secreted exosomes carrying the tetraspanin membrane protein CD63 were analyzed by measuring their diffusion-limited binding rate to an SPR sensor surface functionalized with anti-CD63 antibodies. The concentration of suspended exosomes was determined by first converting the SPR response into the surface-bound mass. The increase in mass uptake over time was then related to the exosome concentration in solution using a formalism describing diffusion-limited binding under controlled flow conditions. The proposed quantification method is based on a calibration and control measurements performed with proteins and synthetic lipid vesicles and takes into account (i) the influence of the broad size distribution of the exosomes on the surface coverage, (ii) the fact that their size is comparable to the ?��150 nm probing depth of SPR, and (iii) possible deformation of exosomes upon adsorption. Under those considerations, the accuracy of the concentration determination was estimated to be better than ±50% and significantly improve if the exosome deformation is negligible.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rupert</LastName>
+                    <ForeName>Déborah L M</ForeName>
+                    <Initials>DL</Initials>
+                    <Affiliation>Department of Applied Physics, Chalmers University of Technology , SE-412 96 Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lässer</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eldh</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Block</LastName>
+                    <ForeName>Stephan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhdanov</LastName>
+                    <ForeName>Vladimir P</ForeName>
+                    <Initials>VP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lotvall</LastName>
+                    <ForeName>Jan O</ForeName>
+                    <Initials>JO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bally</LastName>
+                    <ForeName>Marta</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Höök</LastName>
+                    <ForeName>Fredrik</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Anal Chem</MedlineTA>
+            <NlmUniqueID>0370536</NlmUniqueID>
+            <ISSNLinking>0003-2700</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/ac500931f</ArticleId>
+            <ArticleId IdType="pubmed">24848946</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

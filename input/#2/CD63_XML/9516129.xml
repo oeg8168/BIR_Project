@@ -1,0 +1,163 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9516129</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-4971</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>91</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Apr</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multivesicular bodies are an intermediate stage in the formation of platelet alpha-granules.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2313-25</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have used ultrathin cryosectioning and immunogold cytochemistry to study the position of alpha-granules in the endocytic and biosynthetic pathways in megakaryocytes and platelets. Morphologically, we distinguished three types of granules; so-called multivesicular bodies type I (MVB I) with internal vesicles only, granules with internal vesicles and an electron dense matrix (MVB II), and the alpha-granules with mainly a dense content and often internal membrane vesicles at their periphery. The MVBs were prominent in cultured megakaryocytes and the megakaryoblastic cell line CHRF-288, but were less numerous in bone marrow megakaryocytes and platelets, whereas alpha-granules were most prominent in mature bone marrow megakaryocytes and in platelets. The internalization kinetics of bovine serum albumin-gold particles and of fibrinogen positioned the MVB subtypes and alpha-granules sequentially in the endocytic pathway. MVBs contained the secretory proteins von Willebrand factor (vWF) and beta-thromboglobulin (beta-TG), the platelet-specific membrane protein P-selectin, and the lysosomal membrane protein CD63. Within the MVBs, endocytosed fibrinogen and endogenous beta-TG were restricted to the matrix, while vWF was predominantly associated with internal vesicles. CD63 was also observed in association with internal membrane vesicles in the alpha-granules. These observations, and the gradual morphologic transition from granules containing vesicles to granules containing predominantly dense material, suggest that MVBs represent a developmental stage in alpha-granule maturation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heijnen</LastName>
+                    <ForeName>H F</ForeName>
+                    <Initials>HF</Initials>
+                    <Affiliation>Department of Hematology, University Hospital Utrecht, Utrecht University, Utrecht, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Debili</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vainchencker</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breton-Gorius</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geuze</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sixma</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Serum Albumin, Bovine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cattle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Megakaryocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serum Albumin, Bovine</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9516129</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

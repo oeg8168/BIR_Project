@@ -1,0 +1,172 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8292889</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0960-8931</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Melanoma research</Title>
+                <ISOAbbreviation>Melanoma Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of melanosome-associated proteins by establishment of monoclonal antibodies and immunoscreening of a melanoma cDNA library through an anti-melanosome antibody.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>331-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Monoclonal antibodies against melanosomal components (human melanosome specific antigens; HMSAs) have been developed in our laboratory. HMSA-1-4 recognizes structural matrix proteins of melanosomes. HMSA-5 is identical to TRP-1, equivalent to the b (brown) locus of murine melanocytes and expressed in early stages of melanosomal maturation. HMSA-6 is a protein associated with melanosomes but its role is still unclarified, and HMSA-7 is identical to the lysosomal protein CD63. We have also recently identified p90 calnexin-like, Ca(2+)-binding protein p97 melanotransferrin, and p64 beta-D-galactosidase-like protein associated with melanosomes through immunological screening of our melanocytes (melanoma cells) cDNA library. Approximately 150 genes and 60 loci are known to influence eye, skin and hair colour in mammals. Tyrosinase is a rate-limiting enzyme responsible for melanin synthesis. In addition, tyrosine-related proteins (TRPs) and their genes have been identified and cloned. Tyrosinase and TRPS (e.g., TRP-1; b-locus protein identical to HMSA-5 and TRP-2; dopachrome tautomerase) are synthesized according to underlying genetic programmes, and are up- and/or down-regulated to create various forms of abnormal melanin pigmentation. We herein propose the importance of investigating the role of non-tyrosinase related proteins such as those which we have recently identified.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dakour</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Faculty of Medicine, University of Alberta, Edmonton, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jimbow</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vinayagamoorthy</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Melanoma Res</MedlineTA>
+            <NlmUniqueID>9109623</NlmUniqueID>
+            <ISSNLinking>0960-8931</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Melanoma-Specific Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma-Specific Antigens</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Precipitin Tests</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>37</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8292889</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

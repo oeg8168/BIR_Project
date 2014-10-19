@@ -1,0 +1,234 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24872578</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>88</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Virus particle release from glycosphingolipid-enriched microdomains is essential for dendritic cell-mediated capture and transfer of HIV-1 and henipavirus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8813-25</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.00992-14</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Human immunodeficiency virus type 1 (HIV-1) exploits dendritic cells (DCs) to promote its transmission to T cells. We recently reported that the capture of HIV-1 by mature dendritic cells (MDCs) is mediated by an interaction between the glycosphingolipid (GSL) GM3 on virus particles and CD169/Siglec-1 on MDCs. Since HIV-1 preferentially buds from GSL-enriched lipid microdomains on the plasma membrane, we hypothesized that the virus assembly and budding site determines the ability of HIV-1 to interact with MDCs. In support of this hypothesis, mutations in the N-terminal basic domain (29/31KE) or deletion of the membrane-targeting domain of the HIV-1 matrix (MA) protein that altered the virus assembly and budding site to CD63(+)/Lamp-1-positive intracellular compartments resulted in lower levels of virion incorporation of GM3 and attenuation of virus capture by MDCs. Furthermore, MDC-mediated capture and transmission of MA mutant viruses to T cells were decreased, suggesting that HIV-1 acquires GSLs via budding from the plasma membrane to access the MDC-dependent trans infection pathway. Interestingly, MDC-mediated capture of Nipah and Hendra virus (recently emerged zoonotic paramyxoviruses) M (matrix) protein-derived virus-like particles that bud from GSL-enriched plasma membrane microdomains was also dependent on interactions between virion-incorporated GSLs and CD169. Moreover, capture and transfer of Nipah virus envelope glycoprotein-pseudotyped lentivirus particles by MDCs were severely attenuated upon depletion of GSLs from virus particles. These results suggest that GSL incorporation into virions is critical for the interaction of diverse enveloped RNA viruses with DCs and that the GSL-CD169 recognition nexus might be a conserved viral mechanism of parasitization of DC functions for systemic virus dissemination.</AbstractText>
+                <AbstractText Label="IMPORTANCE" NlmCategory="OBJECTIVE">Dendritic cells (DCs) can capture HIV-1 particles and transfer captured virus particles to T cells without establishing productive infection in DCs, a mechanism of HIV-1 trans infection. We have recently identified CD169-mediated recognition of GM3, a host-derived glycosphingolipid (GSL) incorporated into the virus particle membrane, as the receptor and ligand for the DC-HIV trans infection pathway. In this study, we have identified the matrix (MA) domain of Gag to be the viral determinant that governs incorporation of GM3 into HIV-1 particles, a previously unappreciated function of the HIV-1 MA. In addition, we demonstrate that the GSL-CD169-dependent trans infection pathway is also utilized as a dissemination mechanism by henipaviruses. GSL incorporation in henipaviruses was also dependent on the viral capsid (M) protein-directed assembly and budding from GSL-enriched lipid microdomains. These findings provide evidence of a conserved mechanism of retrovirus and henipavirus parasitization of cell-to-cell recognition pathways for systemic virus dissemination.</AbstractText>
+                <CopyrightInformation>Copyright © 2014, American Society for Microbiology. All Rights Reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Akiyama</LastName>
+                    <ForeName>Hisashi</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Caitlin</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Hiren V</ForeName>
+                    <Initials>HV</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hatch</LastName>
+                    <ForeName>Steven C</ForeName>
+                    <Initials>SC</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Archer</LastName>
+                    <ForeName>Jacob</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramirez</LastName>
+                    <ForeName>Nora-Guadalupe P</ForeName>
+                    <Initials>NG</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gummuluru</LastName>
+                    <ForeName>Suryaram</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Microbiology, Boston University School of Medicine, Boston, Massachusetts, USA rgummulu@bu.edu.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32AI007309-23</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI064099</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Glycosphingolipids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SIGLEC1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Sialic Acid Binding Ig-like Lectin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>gag Gene Products, Human Immunodeficiency Virus</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycosphingolipids</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Henipavirus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Henipavirus Infections</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sialic Acid Binding Ig-like Lectin 1</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Assembly</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Release</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">gag Gene Products, Human Immunodeficiency Virus</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4136256 [Available on 02/01/15]</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.00992-14</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.00992-14</ArticleId>
+            <ArticleId IdType="pubmed">24872578</ArticleId>
+            <ArticleId IdType="pmc">PMC4136256</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

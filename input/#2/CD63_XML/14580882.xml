@@ -1,0 +1,237 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14580882</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1759</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>281</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Oct</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunological methods</Title>
+                <ISOAbbreviation>J. Immunol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sensitive and viable identification of antigen-specific CD8+ T cells by a flow cytometric assay for degranulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>65-78</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Flow cytometric detection of antigen-specific CD8+ T cells has previously been limited to MHC-class I tetramer staining or intracellular cytokine production, neither of which measure the cytolytic potential of these cells. Here we present a novel technique to enumerate antigen-specific CD8+ T cells using a marker expressed on the cell surface following activation induced degranulation, a necessary precursor of cytolysis. This assay measures the exposure of CD107a and b, present in the membrane of cytotoxic granules, onto the cell surface as a result of degranulation. Acquisition of cell surface CD107a and b is associated with loss of intracellular perforin and is inhibited by colchicine, indicating that exposure of CD107a and b to the cell surface is dependent on degranulation. CD107a and b are expressed on the cell surface of CD8+ T cells following activation with cognate peptide, concordant with production of intracellular IFNgamma. Finally, CD107-expressing CD8+ T cells are shown to mediate cytolytic activity in an antigen-specific manner. Measurement of CD107a and b expression can also be combined with MHC-class I tetramer labeling and intracellular cytokine staining to provide a more complete assessment of the functionality of CD8+T cells expressing cognate T cell receptors (TCR).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Betts</LastName>
+                    <ForeName>Michael R</ForeName>
+                    <Initials>MR</Initials>
+                    <Affiliation>Vaccine Research Center, National Institute of Allergy and Infectious Diseases, National Institutes of Health, 40 Convent Drive, Bethesda, MD 20892, USA. mbetts@mail.nih.gov</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brenchley</LastName>
+                    <ForeName>Jason M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Price</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Rosa</LastName>
+                    <ForeName>Stephen C</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Douek</LastName>
+                    <ForeName>Daniel C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roederer</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koup</LastName>
+                    <ForeName>Richard A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Immunol Methods</MedlineTA>
+            <NlmUniqueID>1305440</NlmUniqueID>
+            <ISSNLinking>0022-1759</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enterotoxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosomal-Associated Membrane Protein 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosome-Associated Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pore Forming Cytotoxic Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126465-35-8</RegistryNumber>
+                <NameOfSubstance>Perforin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>39424-53-8</RegistryNumber>
+                <NameOfSubstance>enterotoxin B, staphylococcal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82115-62-6</RegistryNumber>
+                <NameOfSubstance>Interferon-gamma</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CD8-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Degranulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytotoxicity, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enterotoxins</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class I</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interferon-gamma</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomal-Associated Membrane Protein 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosome-Associated Membrane Glycoproteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Perforin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pore Forming Cytotoxic Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14580882</ArticleId>
+            <ArticleId IdType="pii">S0022175903002655</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

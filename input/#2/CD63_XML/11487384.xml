@@ -1,0 +1,170 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11487384</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0953-7104</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Platelets</Title>
+                <ISOAbbreviation>Platelets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Whole blood microvolume laser scanning cytometry for monitoring resting and activated platelets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>309-18</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Enumerating and phenotyping of platelets, resting and activated, from whole blood is important for both the identification and verification of many disease states. Microvolume laser scanning cytometry (MLSC) has been shown to be a simple method for enumerating and phenotyping peripheral blood cells. Here, the utility of MLSC, in conjunction with an anticoagulant containing platelet activation inhibitors, for simultaneously measuring platelet count, phenotype and responsiveness directly from non-fixed whole blood was examined. CTAD or EDTA anticoagulated blood was collected from five to 20 healthy volunteers, stained with fluorescence-labeled antibodies specific for platelet antigens, and run on an in-house modified MSLC device. MLSC was able to measure antigens CD9, CD29, CD36, CD41, CD42a, CD42b, and CD61 on platelets and determine an average of 2.3 x 10(5) +/- 7 x 10(4) platelets per microliter. Counts correlated well with those obtained from the Cell-Dyn 3500 (r(2)=0.84). Agreeing with previous data, less than 2% of platelets from peripheral blood of normal individuals expressed the activation markers CD62P or CD63. After in vitro thrombin activation, &gt;93% of the platelets expressed activation markers. Data presented here shows the benefits of using MLSC in combination with platelet inhibitors to quantitate and phenotype platelets while maintaining a viable responsive state.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wyant</LastName>
+                    <ForeName>T L</ForeName>
+                    <Initials>TL</Initials>
+                    <Affiliation>SurroMed, Inc., 2375 Garcia Ave., Mountain View, CA 94043, USA. twyant@Surromed.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>P C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kantor</LastName>
+                    <ForeName>A B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Platelets</MedlineTA>
+            <NlmUniqueID>9208117</NlmUniqueID>
+            <ISSNLinking>0953-7104</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anticoagulants</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lasers</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+                <QualifierName MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Specimen Handling</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11487384</ArticleId>
+            <ArticleId IdType="doi">10.1080/09537100120068206</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

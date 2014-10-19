@@ -1,0 +1,232 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20412314</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1472-8206</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>25</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Fundamental &amp; clinical pharmacology</Title>
+                <ISOAbbreviation>Fundam Clin Pharmacol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pilot study on basophil activation induced by contrast medium.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>267-76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1472-8206.2010.00826.x</ELocationID>
+            <Abstract>
+                <AbstractText>The purpose was to analyze the influence of both mono-/dimeric X-ray contrast media (CM) and immunological co-factors on basophil degranulation. The study has been conducted in 31 adult patients who received nonionic CM injection for enhanced routine computed tomography examination. Plasma histamine, and basophil degranulation by using CD63 expression and flow-cytometry in blood samples of patients receiving iotrolan or iopromide injections were analyzed in vivo and in vitro (with different stimuli) before and up to 24h after CM-injection. After iotrolan injection, histamine values remained unchanged and showed minimal increase after iopromide. In 5/12 patients receiving iopromide and in 5/19 in the iotrolan group histamine level rose (&gt;100% of the baseline). After CM-injection, a significant activation of basophils (CD63) could be measured (P&lt;0.05). IL-3 prestimulus revealed a more pronounced CD63 expression after iopromide than after iotrolan. The IL-1β prestimulus seemed to be dose-dependent. Patients showing the most marked CM-induced CD63 expression had the highest predose values after in vitro N-formyl-methionyl-leucyl-phenylalanine treatment. Our finding suggests that increased histamine values and CD63 expression on basophils could depend on individual stimuli. Iopromide and iotrolan per se neither enhanced histamine release nor basophil degranulation under normal conditions. Analysis of CD63 expression by using fluorescence activated cell sorter-analysis is an interesting new tool to elucidate the complex conditions leading to CM-mediated hypersensitivity reactions.</AbstractText>
+                <CopyrightInformation>© 2010 The Authors Fundamental and Clinical Pharmacology © 2010 Société Française de Pharmacologie et de Thérapeutique.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Böhm</LastName>
+                    <ForeName>Ingrid</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Center for Molecular Imaging Research MBMB, Department of Radiology, Philipps University of Marburg, Germany. i.boehm@uni-bonn.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Speck</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schild</LastName>
+                    <ForeName>Hans H</ForeName>
+                    <Initials>HH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Fundam Clin Pharmacol</MedlineTA>
+            <NlmUniqueID>8710411</NlmUniqueID>
+            <ISSNLinking>0767-3981</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Contrast Media</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-1beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Triiodobenzoic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4419T9MX03</RegistryNumber>
+                <NameOfSubstance>Iohexol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>73334-07-3</RegistryNumber>
+                <NameOfSubstance>iopromide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>79770-24-4</RegistryNumber>
+                <NameOfSubstance>iotrolan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>820484N8I3</RegistryNumber>
+                <NameOfSubstance>Histamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Contrast Media</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-1beta</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-3</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Iohexol</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Triiodobenzoic Acids</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">FCP826</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1472-8206.2010.00826.x</ArticleId>
+            <ArticleId IdType="pubmed">20412314</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

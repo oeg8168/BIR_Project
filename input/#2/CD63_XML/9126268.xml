@@ -1,0 +1,150 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9126268</PMID>
+        <DateCreated>
+            <Year>1997</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>06</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-6822</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>230</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Mar</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Virology</Title>
+                <ISOAbbreviation>Virology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cell membrane vesicles are a major contaminant of gradient-enriched human immunodeficiency virus type-1 preparations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>125-33</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>During preliminary experiments to establish the proportion of virus-coded p24 protein to virus membrane-associated HLA-DR in gradient-enriched HIV-1 preparations, we became aware of a large variability between experiments. In order to determine whether HLA-DR-containing cellular material was contaminating the virus preparations, we carried out enrichment by gradient centrifugation of clarified supernatants from noninfected cells and tested this material for HLA-DR content. We found that, independently of the cell type used, gradient enrichment resulted in the isolation of large quantities of HLA-DR-containing material which banded at a density overlapping that of infectious HIV. Electron microscopy of gradient-enriched preparations from supernatants of virus-infected cells revealed an excess of vesicles with a size range of about 50-500 nm, as opposed to a minor population of virus particles of about 100 nm. Electron micrographs of infected cells showed polarized vesiculation of the cell membrane, and virus budding was frequently colocalized with nonviral membrane vesiculation. Analysis of the cellular molecules present in the fractions containing virus or exclusively cellular material demonstrated that virus and cellular vesicles share several cellular antigens, with the exception of CD43 and CD63, found mainly at the virus surface, and HLA-DQ, which was found only in the cellular vesicles.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gluschankof</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Centre d'immunologie de Marseille-Luminy, France. gluschan@ciml.univ-mrs.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mondor</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gelderblom</LastName>
+                    <ForeName>H R</ForeName>
+                    <Initials>HR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sattentau</LastName>
+                    <ForeName>Q J</ForeName>
+                    <Initials>QJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Virology</MedlineTA>
+            <NlmUniqueID>0110674</NlmUniqueID>
+            <ISSNLinking>0042-6822</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HIV Core Protein p24</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA-DR Antigens</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Core Protein p24</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HLA-DR Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9126268</ArticleId>
+            <ArticleId IdType="pii">S0042-6822(97)98453-1</ArticleId>
+            <ArticleId IdType="doi">10.1006/viro.1997.8453</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

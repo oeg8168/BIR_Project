@@ -1,0 +1,437 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22815786</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Statins affect the presentation of endothelial chemokines by targeting to multivesicular bodies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e40673</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0040673</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In addition to lowering cholesterol, statins are thought to beneficially modulate inflammation. Several chemokines including CXCL1/growth-related oncogene (GRO)-α, CXCL8/interleukin (IL)-8 and CCL2/monocyte chemoattractant protein (MCP)-1 are important in the pathogenesis of atherosclerosis and can be influenced by statin-treatment. Recently, we observed that atorvastatin-treatment alters the intracellular content and subcellular distribution of GRO-α in cultured human umbilical vein endothelial cells (HUVECs). The objective of this study was to investigate the mechanisms involved in this phenomenon.</AbstractText>
+                <AbstractText Label="METHODOLOGY/ PRINCIPAL FINDINGS" NlmCategory="RESULTS">The effect of atorvastatin on secretion levels and subcellular distribution of GRO-α, IL-8 and MCP-1 in HUVECs activated by interleukin (IL)-1β were evaluated by ELISA, confocal microscopy and immunoelectron microscopy. Atorvastatin increased the intracellular contents of GRO-α, IL-8, and MCP-1 and induced colocalization with E-selectin in multivesicular bodies. This effect was prevented by adding the isoprenylation substrate GGPP, but not the cholesterol precursor squalene, indicating that atorvastatin exerts these effects by inhibiting isoprenylation rather than depleting the cells of cholesterol.</AbstractText>
+                <AbstractText Label="CONCLUSIONS/ SIGNIFICANCE" NlmCategory="CONCLUSIONS">Atorvastatin targets inflammatory chemokines to the endocytic pathway and multivesicular bodies and may contribute to explain the anti-inflammatory effect of statins at the level of endothelial cell function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hol</LastName>
+                    <ForeName>Johanna</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Division of Pathology, Oslo University Hospital, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Otterdal</LastName>
+                    <ForeName>Kari</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breland</LastName>
+                    <ForeName>Unni M</ForeName>
+                    <Initials>UM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stang</LastName>
+                    <ForeName>Espen</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pedersen</LastName>
+                    <ForeName>Turid M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hagelsteen</LastName>
+                    <ForeName>Kathrine</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ranheim</LastName>
+                    <ForeName>Trine</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kasprzycka</LastName>
+                    <ForeName>Monika</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Halvorsen</LastName>
+                    <ForeName>Bente</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haraldsen</LastName>
+                    <ForeName>Guttorm</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aukrust</LastName>
+                    <ForeName>Pål</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemokine CXCL1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>E-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fatty Acids, Monounsaturated</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Heptanoic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hydroxymethylglutaryl-CoA Reductase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-1beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyrroles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4L066368AS</RegistryNumber>
+                <NameOfSubstance>fluvastatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A0JWA85V8F</RegistryNumber>
+                <NameOfSubstance>atorvastatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>AGG2FN16EV</RegistryNumber>
+                <NameOfSubstance>Simvastatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>KXO2KT9N0G</RegistryNumber>
+                <NameOfSubstance>Pravastatin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Jun;7(6):687-92</RefSource>
+                <PMID Version="1">11385505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2012 Jan 5;366(1):54-63</RefSource>
+                <PMID Version="1">22216842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2004;22:891-928</RefSource>
+                <PMID Version="1">15032599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Jul 15;104(2):314-20</RefSource>
+                <PMID Version="1">15044249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1973 Nov;52(11):2745-56</RefSource>
+                <PMID Version="1">4355998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ultrastruct Res. 1984 Oct;89(1):65-78</RefSource>
+                <PMID Version="1">6544882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1993 Aug;4(8):791-801</RefSource>
+                <PMID Version="1">7694691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pharmacol. 1996 Aug;36(8):728-31</RefSource>
+                <PMID Version="1">8877677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2005;45:89-118</RefSource>
+                <PMID Version="1">15822172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2005 Jun 10;96(11):1185-92</RefSource>
+                <PMID Version="1">15905463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Oct 15;175(8):5358-69</RefSource>
+                <PMID Version="1">16210642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2006 Oct;112(1):71-105</RefSource>
+                <PMID Version="1">16714062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Surg Res. 2007 Aug;141(2):267-76</RefSource>
+                <PMID Version="1">17559881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Feb 15;111(4):1989-98</RefSource>
+                <PMID Version="1">18029551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2008 May;28(5):1005-11</RefSource>
+                <PMID Version="1">18276907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2008 Apr 25;102(8):888-95</RefSource>
+                <PMID Version="1">18309103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2008 Aug;43(2):181-6</RefSource>
+                <PMID Version="1">18579408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Atherosclerosis. 2008 Sep;200(1):69-79</RefSource>
+                <PMID Version="1">18486135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiology. 2009;112(1):4-12</RefSource>
+                <PMID Version="1">18577880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2009 Jan 6;119(1):131-8</RefSource>
+                <PMID Version="1">19075102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cardiovasc Med. 2008 Aug;18(6):228-32</RefSource>
+                <PMID Version="1">19185814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microcirculation. 2009 Jan;16(1):31-42</RefSource>
+                <PMID Version="1">19037827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2009 Mar;29(3):380-6</RefSource>
+                <PMID Version="1">19122173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Intensive Care Med. 2009 Apr;35(4):717-21</RefSource>
+                <PMID Version="1">19034423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2009 Jul;7 Suppl 1:328-31</RefSource>
+                <PMID Version="1">19630827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Aug 28;284(35):23532-9</RefSource>
+                <PMID Version="1">19578117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ J. 2010 May;74(5):818-26</RefSource>
+                <PMID Version="1">20424337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunopharmacol. 2010 Aug;10(8):892-9</RefSource>
+                <PMID Version="1">20472098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2010 Sep 23;116(12):2183-91</RefSource>
+                <PMID Version="1">20538801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Mar 1;168(5):2091-5</RefSource>
+                <PMID Version="1">11859093</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Compartmentation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemokine CXCL1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">E-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fatty Acids, Monounsaturated</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heptanoic Acids</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Human Umbilical Vein Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydroxymethylglutaryl-CoA Reductase Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Indoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-1beta</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Space</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivesicular Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pravastatin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prenylation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrroles</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Simvastatin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Solubility</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Subcellular Fractions</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3398041</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0040673</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-05768</ArticleId>
+            <ArticleId IdType="pubmed">22815786</ArticleId>
+            <ArticleId IdType="pmc">PMC3398041</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

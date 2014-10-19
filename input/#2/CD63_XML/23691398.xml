@@ -1,0 +1,131 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">23691398</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2090-6765</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2013</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Case reports in otolaryngology</Title>
+                <ISOAbbreviation>Case Rep Otolaryngol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oral cellular neurothekeoma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>935435</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2013/935435</ELocationID>
+            <Abstract>
+                <AbstractText>Cellular neurothekeoma is known as a cutaneous tumor with uncertain histogenesis. Very little involvement of mucosal membrane has been reported in the literature so far. This is a case report of an intraoral lesion in a 15-years-old girl. Histopathologic evaluation showed a tumor-consists of spindle to epitheloid cells forming micronodules in a concentric whorled shape pattern. Tumor cells were positive for CD63, vimentin, and NKI-C3. Total excision was performed and no recurrence happened after 16-month followup.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Emami</LastName>
+                    <ForeName>Nader</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Department of Otolaryngology-Head and Neck Surgery, McGill University, Montreal, QC, Canada H3A 1A1.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zawawi</LastName>
+                    <ForeName>Faisal</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ywakim</LastName>
+                    <ForeName>Rania</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nahal</LastName>
+                    <ForeName>Ayoub</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daniel</LastName>
+                    <ForeName>Sam J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Case Rep Otolaryngol</MedlineTA>
+            <NlmUniqueID>101576603</NlmUniqueID>
+            <ISSNLinking>2090-6773</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3638503</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1155/2013/935435</ArticleId>
+            <ArticleId IdType="pubmed">23691398</ArticleId>
+            <ArticleId IdType="pmc">PMC3638503</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

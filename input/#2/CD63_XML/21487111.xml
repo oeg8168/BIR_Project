@@ -1,0 +1,295 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21487111</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1528-0020</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>117</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>May</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Small molecule Toll-like receptor 7 agonists localize to the MHC class II loading compartment of human plasmacytoid dendritic cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5683-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1182/blood-2010-12-328138</ELocationID>
+            <Abstract>
+                <AbstractText>TLR7 and TLR8 are intracellular sensors activated by single-stranded RNA species generated during viral infections. Various synthetic small molecules can also activate TLR7 or TLR8 or both through an unknown mechanism. Notably, direct interaction between small molecules and TLR7 or TLR8 has never been shown. To shed light on how small molecule agonists target TLRs, we labeled 2 imidazoquinolines, resiquimod and imiquimod, and one adenine-based compound, SM360320, with 2 different fluorophores [5(6) carboxytetramethylrhodamine and Alexa Fluor 488] and monitored their intracellular localization in human plasmacytoid dendritic cells (pDCs). All fluorescent compounds induced the production of IFN-α, TNF-α, and IL-6 and the up-regulation of CD80 and CD86 by pDCs showing they retained TLR7-stimulating activity. Confocal imaging of pDCs showed that, similar to CpG-B, all compounds concentrated in the MHC class II loading compartment (MIIC), identified as lysosome-associated membrane protein 1(+), CD63, and HLA-DR(+) endosomes. Treatment of pDCs with bafilomycin A, an antagonist of the vacuolar-type proton ATPase controlling endosomal acidification, prevented the accumulation of small molecule TLR7 agonists, but not of CpG-B, in the MIIC. These results indicate that a pH-driven concentration of small molecule TLR7 agonists in the MIIC is required for pDC activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Russo</LastName>
+                    <ForeName>Carla</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Novartis Vaccines &amp; Diagnostics, Siena, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cornella-Taracido</LastName>
+                    <ForeName>Ivan</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galli-Stampino</LastName>
+                    <ForeName>Luisa</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Rishi</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrington</LastName>
+                    <ForeName>Edmund</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Isome</LastName>
+                    <ForeName>Yuko</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tavarini</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sammicheli</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nuti</LastName>
+                    <ForeName>Sandra</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mbow</LastName>
+                    <ForeName>M Lamine</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valiante</LastName>
+                    <ForeName>Nicholas M</ForeName>
+                    <Initials>NM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tallarico</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Gregorio</LastName>
+                    <ForeName>Ennio</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soldaini</LastName>
+                    <ForeName>Elisabetta</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Aminoquinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Imidazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Macrolides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Quinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SM360320</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>TLR7 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Toll-Like Receptor 7</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>116764-51-3</RegistryNumber>
+                <NameOfSubstance>bafilomycin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>99011-02-6</RegistryNumber>
+                <NameOfSubstance>imiquimod</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.3.14</RegistryNumber>
+                <NameOfSubstance>Proton-Translocating ATPases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>JAC85A2161</RegistryNumber>
+                <NameOfSubstance>Adenine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>V3DMU7PVXF</RegistryNumber>
+                <NameOfSubstance>resiquimod</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aminoquinolines</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnostic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, MHC Class II</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Imidazoles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrolides</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proton-Translocating ATPases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quinolines</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Toll-Like Receptor 7</DescriptorName>
+                <QualifierName MajorTopicYN="Y">agonists</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">blood-2010-12-328138</ArticleId>
+            <ArticleId IdType="doi">10.1182/blood-2010-12-328138</ArticleId>
+            <ArticleId IdType="pubmed">21487111</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,516 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22299028</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>07</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The PI3-kinase/mTOR-targeting drug NVP-BEZ235 inhibits growth and IgE-dependent activation of human mast cells and basophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e29925</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0029925</ELocationID>
+            <Abstract>
+                <AbstractText>The phosphoinositide 3-kinase (PI3-kinase) and the mammalian target of rapamycin (mTOR) are two major signaling molecules involved in growth and activation of mast cells (MC) and basophils (BA). We examined the effects of the dual PI3-kinase/mTOR blocker NVP-BEZ235 on growth of normal and neoplastic BA and MC as well as immunoglobulin E (IgE)-dependent cell activation. Growth of MC and BA were determined by measuring (3)H-thymidine uptake and apoptosis. Cell activation was determined in histamine release experiments and by measuring upregulation of CD63 and CD203c after challenging with IgE plus anti-IgE or allergen. We found that NVP-BEZ235 exerts profound inhibitory effects on growth of primary and cloned neoplastic MC. In the MC leukemia cell line HMC-1, NVP-BEZ235 showed similar IC(50) values in the HMC-1.1 subclone lacking KIT D816V (0.025 µM) and the HMC-1.2 subclone expressing KIT D816V (0.005 µM). Moreover, NVP-BEZ235 was found to exert strong growth-inhibitory effects on neoplastic MC in a xenotransplant-mouse model employing NMR1-Foxn1(nu) mice. NVP-BEZ235 also exerted inhibitory effects on cytokine-dependent differentiation of normal BA and MC, but did not induce growth inhibition or apoptosis in mature MC or normal bone marrow cells. Finally, NVP-BEZ235 was found to inhibit IgE-dependent histamine release in BA and MC (IC(50) 0.5-1 µM) as well as anti-IgE-induced upregulation of CD203c in BA and IgE-dependent upregulation of CD63 in MC. In summary, NVP-BEZ235 produces growth-inhibitory effects in immature neoplastic MC and inhibits IgE-dependent activation of mature BA and MC. Whether these potentially beneficial drug effects have clinical implications is currently under investigation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Blatt</LastName>
+                    <ForeName>Katharina</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Division of Hematology and Hemostaseology, Department of Internal Medicine I, Medical University of Vienna, Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herrmann</LastName>
+                    <ForeName>Harald</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirkina</LastName>
+                    <ForeName>Irina</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hadzijusufovic</LastName>
+                    <ForeName>Emir</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peter</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strommer</LastName>
+                    <ForeName>Sabine</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoermann</LastName>
+                    <ForeName>Gregor</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayerhofer</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoetzenecker</LastName>
+                    <ForeName>Konrad</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klepetko</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghanim</LastName>
+                    <ForeName>Viviane</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marth</LastName>
+                    <ForeName>Katharina</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Füreder</LastName>
+                    <ForeName>Thorsten</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wacheck</LastName>
+                    <ForeName>Volker</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valenta</LastName>
+                    <ForeName>Rudolf</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valent</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Evaluation Studies</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Imidazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Quinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.-</RegistryNumber>
+                <NameOfSubstance>Phosphatidylinositol 3-Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+                <NameOfSubstance>MTOR protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+                <NameOfSubstance>TOR Serine-Threonine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>RUJ6Z9Y0DT</RegistryNumber>
+                <NameOfSubstance>dactolisib</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1989 May 15;73(7):1778-85</RefSource>
+                <PMID Version="1">2469499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Immunol. 2008;98:85-120</RefSource>
+                <PMID Version="1">18772004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1989 Jul;8(7):1935-8</RefSource>
+                <PMID Version="1">2571499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1992 Nov 1;80(9):2237-45</RefSource>
+                <PMID Version="1">1384799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Immunol. 1992;52:333-423</RefSource>
+                <PMID Version="1">1332448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1994 Dec;94(6 Pt 2):1293-303</RefSource>
+                <PMID Version="1">7528235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1995 Feb 1;14(3):473-83</RefSource>
+                <PMID Version="1">7532131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Sep 15;155(6):3152-60</RefSource>
+                <PMID Version="1">7673728</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1998 Nov 2;17(21):6250-62</RefSource>
+                <PMID Version="1">9799234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1999;17:931-72</RefSource>
+                <PMID Version="1">10358778</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Lymphoma. 2005 Jan;46(1):35-48</RefSource>
+                <PMID Version="1">15621779</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Jan 15;107(2):752-9</RefSource>
+                <PMID Version="1">16189265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Aug 1;108(3):1065-72</RefSource>
+                <PMID Version="1">16597595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2007 Apr 15;109(2):120-8</RefSource>
+                <PMID Version="1">17368811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Allergy Clin Immunol. 2007 Oct;7(5):387-92</RefSource>
+                <PMID Version="1">17873577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Mar 15;111(6):3097-107</RefSource>
+                <PMID Version="1">18180381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Sep 15;112(6):2463-73</RefSource>
+                <PMID Version="1">18579792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2008 Oct 1;68(19):8022-30</RefSource>
+                <PMID Version="1">18829560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Dec 1;181(11):7706-12</RefSource>
+                <PMID Version="1">19017959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Immunopathol Pharmacol. 2008 Oct-Dec;21(4):797-806</RefSource>
+                <PMID Version="1">19144265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 Feb 1;315(3):485-97</RefSource>
+                <PMID Version="1">19071109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Immunopharmacol. 2000 Oct;22(10):797-808</RefSource>
+                <PMID Version="1">10963852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Nov 15;165(10):5913-20</RefSource>
+                <PMID Version="1">11067953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Immunol. 2000;76:325-55</RefSource>
+                <PMID Version="1">11079101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2000 Dec 15;96(13):4028-38</RefSource>
+                <PMID Version="1">11110670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2001 Feb;179:74-81</RefSource>
+                <PMID Version="1">11292030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2002 Mar;3(3):295-304</RefSource>
+                <PMID Version="1">11850627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2002 Jul;110(1):102-9</RefSource>
+                <PMID Version="1">12110828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2002 Sep;38(16-18):1187-91</RefSource>
+                <PMID Version="1">12217382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Oct;2(10):773-86</RefSource>
+                <PMID Version="1">12360215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Hematol. 2002 Dec;81(12):677-90</RefSource>
+                <PMID Version="1">12483363</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Aug 15;102(4):1290-7</RefSource>
+                <PMID Version="1">12714518</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2003 Aug;31(8):686-92</RefSource>
+                <PMID Version="1">12901973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Aug 1;63(15):4412-9</RefSource>
+                <PMID Version="1">12907613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2003 Dec;15(6):639-46</RefSource>
+                <PMID Version="1">14630197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2004 Mar;32(3):265-70</RefSource>
+                <PMID Version="1">14962761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2004 Apr;133(4):317-29</RefSource>
+                <PMID Version="1">15031605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Pharm Des. 2004;10(15):1727-37</RefSource>
+                <PMID Version="1">15180535</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Clin Invest. 2004 Aug;34 Suppl 2:41-52</RefSource>
+                <PMID Version="1">15291805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Res. 1988;12(4):345-55</RefSource>
+                <PMID Version="1">3131594</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1989 May 15;73(7):1763-9</RefSource>
+                <PMID Version="1">2469498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2009 Nov;39(11):1711-20</RefSource>
+                <PMID Version="1">19860818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2009 Dec;175(6):2416-29</RefSource>
+                <PMID Version="1">19893034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2010;28:211-41</RefSource>
+                <PMID Version="1">20192803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2010 Oct;38(10):896-907</RefSource>
+                <PMID Version="1">20570632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Apr 1;180(7):4586-95</RefSource>
+                <PMID Version="1">18354181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2008;146(3):177-89</RefSource>
+                <PMID Version="1">18268385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Allergy Clin Immunol. 2008 Aug;8(4):310-5</RefSource>
+                <PMID Version="1">18596587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Ther. 2008 Jul;7(7):1851-63</RefSource>
+                <PMID Version="1">18606717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Aug 15;112(4):946-56</RefSource>
+                <PMID Version="1">18684881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Jul;86(14):5542-6</RefSource>
+                <PMID Version="1">2473472</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibody-Dependent Cell Cytotoxicity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Down-Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Imidazoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Targeted Therapy</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quinolines</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">TOR Serine-Threonine Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Xenograft Model Antitumor Assays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3267720</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0029925</ArticleId>
+            <ArticleId IdType="pii">PONE-D-11-12882</ArticleId>
+            <ArticleId IdType="pubmed">22299028</ArticleId>
+            <ArticleId IdType="pmc">PMC3267720</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

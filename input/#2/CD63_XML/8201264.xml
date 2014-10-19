@@ -1,0 +1,211 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8201264</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-2143</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>123</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of laboratory and clinical medicine</Title>
+                <ISOAbbreviation>J. Lab. Clin. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complement activation in platelet concentrates is surface-dependent and modulated by the platelets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>859-68</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Activation of platelets during storage may contribute to the loss of function and viability known as the platelet storage lesion. We investigated the role of complement activation as a possible mediator of the platelet storage lesion. We studied platelet bags stored up to 5 days under standard blood bank conditions and monitored the generation of several complement activation fragments from both the classical and alternative pathways. To assess the role of noncellular artificial surfaces in the activation of complement, parallel bags were prepared containing platelet-poor plasma. The levels of C4d and C3a increased steadily over time in storage, as did the level of the inactivated membrane attack complex SC5b-9. Generation of C4d, C5a, and SC5b-9 was greater in the absence of platelets than when platelets were present in the container. C5a levels in both groups were low and remained so during storage, suggesting that the C5a generated became surface associated. Using flow cytometry we detected C3 and C3a, but not C9, on the platelet surface. The percentage of C3-positive platelets peaked at the third day of storage; by day five platelet-associated C3 had declined. Decay accelerating factor expression on the platelet surface increased with time in storage and in parallel with CD63 expression. Based on the C4d levels, complement activation proceeded via the classical pathway; minimal generation of the alternative pathway activation fragment. Bb was seen in either the presence or absence of platelets. As an indirect measure of the activation of C1, the functional level of C1 esterase inhibitor (C1INH) was determined. C1INH levels declined over time in storage in bags containing only plasma; however, in the presence of platelets, the levels remained constant presumably because of release of C1INH from the alpha-granules of activated platelets.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gyongyossy-Issa</LastName>
+                    <ForeName>M I</ForeName>
+                    <Initials>MI</Initials>
+                    <Affiliation>Canadian Red Cross Society Blood Services, Vancouver Centre, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLeod</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Devine</LastName>
+                    <ForeName>D V</ForeName>
+                    <Initials>DV</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Lab Clin Med</MedlineTA>
+            <NlmUniqueID>0375375</NlmUniqueID>
+            <ISSNLinking>0022-2143</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Complement C3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Complement C4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Complement Membrane Attack Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SC5b-9 protein complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80295-42-7</RegistryNumber>
+                <NameOfSubstance>Complement C3a</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80295-50-7</RegistryNumber>
+                <NameOfSubstance>Complement C4b</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80295-52-9</RegistryNumber>
+                <NameOfSubstance>complement C4d</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80295-54-1</RegistryNumber>
+                <NameOfSubstance>Complement C5a</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-36-7</RegistryNumber>
+                <NameOfSubstance>Complement System Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Complement Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement C3</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement C3a</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement C4</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Complement C4b</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement C5a</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement Membrane Attack Complex</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement Pathway, Alternative</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement Pathway, Classical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement System Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8201264</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

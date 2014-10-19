@@ -1,0 +1,383 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19608683</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1592-8721</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>94</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Haematologica</Title>
+                <ISOAbbreviation>Haematologica</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The JAK2V617 mutation induces constitutive activation and agonist hypersensitivity in basophils from patients with polycythemia vera.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1537-45</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3324/haematol.2009.007047</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The JAK2V617F mutation has been associated with constitutive and enhanced activation of neutrophils, while no information is available concerning other leukocyte subtypes.</AbstractText>
+                <AbstractText Label="DESIGN AND METHODS" NlmCategory="METHODS">We evaluated correlations between JAK2V617F mutation and the count of circulating basophils, the number of activated CD63(+) basophils, their response in vitro to agonists as well as the effects of a JAK2 inhibitor.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We found that basophil count was increased in patients with JAK2V617F -positive myeloproliferative neoplasms, particularly in those with polycythemia vera, and was correlated with the V617F burden. The burden of V617F allele was similar in neutrophils and basophils from patients with polycythemia vera, while total JAK2 mRNA content was remarkably greater in the basophils; however, the content of JAK2 protein in basophils was not increased. The number of CD63(+) basophils was higher in patients with polycythemia vera than in healthy subjects or patients with essential thrombocythemia or primary myelofibrosis and was correlated with the V617F burden. Ultrastructurally, basophils from patients with polycythemia vera contained an increased number of granules, most of which were empty suggesting cell degranulation in vivo. Ex vivo experiments revealed that basophils from patients with polycythemia vera were hypersensitive to the priming effect of interleukin-3 and to f-MLP-induced activation; pre-treatment with a JAK2 inhibitor reduced polycythemia vera basophil activation. Finally, we found that the number of circulating CD63(+) basophils was significantly greater in patients suffering from aquagenic pruritus, who also showed a higher V617F allele burden.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data indicate that the number of constitutively activated and hypersensitive circulating basophils is increased in polycythemia vera, underscoring a role of JAK2V617F in these cells' abnormal function and, putatively, in the pathogenesis of pruritus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pieri</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Unit?? Funzionale di Ematologia, Dipartimento di Area Critica, Universit?? degli Studi, Firenze, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bogani</LastName>
+                    <ForeName>Costanza</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guglielmelli</LastName>
+                    <ForeName>Paola</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zingariello</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rana</LastName>
+                    <ForeName>Rosa Alba</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartalucci</LastName>
+                    <ForeName>Niccolò</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bosi</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vannucchi</LastName>
+                    <ForeName>Alessandro M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Haematologica</MedlineTA>
+            <NlmUniqueID>0417435</NlmUniqueID>
+            <ISSNLinking>0390-6078</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance>Janus Kinase 2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2000 Apr 15;95(8):2569-76</RefSource>
+                <PMID Version="1">10753836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Nov 15;112(10):3949-58</RefSource>
+                <PMID Version="1">18768389</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 2001 Dec;115(3):619-21</RefSource>
+                <PMID Version="1">11736946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2002 Apr 1;99(7):2627</RefSource>
+                <PMID Version="1">11926187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Haematol. 1975 Aug;15(1):45-57</RefSource>
+                <PMID Version="1">1179164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Dermatol. 1987 Mar;116(3):329-33</RefSource>
+                <PMID Version="1">3567071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1991 Jan 26;337(8735):241</RefSource>
+                <PMID Version="1">1670870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathology. 1994 Jan;26(1):43-5</RefSource>
+                <PMID Version="1">8165024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 1995 Feb;89(2):313-8</RefSource>
+                <PMID Version="1">7873381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Dec 1;104(12):3573-80</RefSource>
+                <PMID Version="1">15292068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2005 Apr 28;352(17):1779-90</RefSource>
+                <PMID Version="1">15858187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 Apr 28;434(7037):1144-8</RefSource>
+                <PMID Version="1">15793561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Oct 15;106(8):2862-4</RefSource>
+                <PMID Version="1">15985544</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Nov 15;106(10):3374-6</RefSource>
+                <PMID Version="1">16081684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hematology Am Soc Hematol Educ Program. 2005;:195-200</RefSource>
+                <PMID Version="1">16304380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2006 Feb 1;106(3):631-5</RefSource>
+                <PMID Version="1">16369984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 2006 Mar;132(5):652-4; author reply 654</RefSource>
+                <PMID Version="1">16445842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Haematologica. 2006 Feb;91(2):169-75</RefSource>
+                <PMID Version="1">16461300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 May 1;107(9):3676-82</RefSource>
+                <PMID Version="1">16373657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Jun 1;107(11):4274-81</RefSource>
+                <PMID Version="1">16478879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2006 Jun;20(6):1055-60</RefSource>
+                <PMID Version="1">16572198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Sep 1;108(5):1652-60</RefSource>
+                <PMID Version="1">16670266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Oct 1;108(7):2290-9</RefSource>
+                <PMID Version="1">16794249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 Dec 1;66(23):11156-65</RefSource>
+                <PMID Version="1">17145859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2007 Jan 1;109(1):68-76</RefSource>
+                <PMID Version="1">17123268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2006;1:e18</RefSource>
+                <PMID Version="1">17183644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Aug 1;110(3):840-6</RefSource>
+                <PMID Version="1">17379742</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Aug 1;110(3):1013-21</RefSource>
+                <PMID Version="1">17389763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Aug 15;110(4):1092-7</RefSource>
+                <PMID Version="1">17488875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2007 Sep;21(9):1952-9</RefSource>
+                <PMID Version="1">17625606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2007 Sep;7(9):673-83</RefSource>
+                <PMID Version="1">17721432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cutan Pathol. 2007 Dec;34(12):924-9</RefSource>
+                <PMID Version="1">18001415</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2008 Jan;22(1):87-95</RefSource>
+                <PMID Version="1">18033315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Hematol. 2008 Apr;87(4):269-76</RefSource>
+                <PMID Version="1">17899078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Apr 15;111(8):3931-40</RefSource>
+                <PMID Version="1">18160670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2008;146(3):177-89</RefSource>
+                <PMID Version="1">18268385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2008 Jul;22(7):1299-307</RefSource>
+                <PMID Version="1">18496562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2008 Nov;22(11):2020-8</RefSource>
+                <PMID Version="1">18800144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Dec;9(12):1333-9</RefSource>
+                <PMID Version="1">19008933</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2009 Jan;9(1):9-13</RefSource>
+                <PMID Version="1">19039320</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2009 May-Jun;59(3):171-91</RefSource>
+                <PMID Version="1">19369682</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Jun 4;113(23):5942-50</RefSource>
+                <PMID Version="1">19196660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Aug 15;167(4):2282-91</RefSource>
+                <PMID Version="1">11490016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Haematologica. 2009 Nov;94(11):1484-8</RefSource>
+                <PMID Version="1">19880775</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Janus Kinase 2</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Mutation, Missense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polycythemia Vera</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pruritus</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2770964</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">haematol.2009.007047</ArticleId>
+            <ArticleId IdType="doi">10.3324/haematol.2009.007047</ArticleId>
+            <ArticleId IdType="pubmed">19608683</ArticleId>
+            <ArticleId IdType="pmc">PMC2770964</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

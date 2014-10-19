@@ -1,0 +1,169 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22103505</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8752</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>39</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical Society transactions</Title>
+                <ISOAbbreviation>Biochem. Soc. Trans.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The emerging role of tetraspanin microdomains on endothelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1667-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BST20110745</ELocationID>
+            <Abstract>
+                <AbstractText>Tetraspanins function as organizers of the cell surface by recruiting specific partner proteins into tetraspanin-enriched microdomains, which regulate processes such as cell adhesion, signalling and intracellular trafficking. Endothelial cells appear to express at least 23 of the 33 human tetraspanins, and a number of recent studies have demonstrated their importance in endothelial cell biology. Tetraspanin CD151 is essential for pathological angiogenesis, which may in part be due to regulation of its main partner proteins, the laminin-binding integrins α3β1, α6β1 and α6β4. CD9 and CD151 are essential for leucocyte recruitment during an inflammatory response, through the formation of pre-assembled nano-platforms containing the adhesion molecules ICAM-1 (intercellular adhesion molecule 1) and VCAM-1 (vascular cell adhesion molecule 1), which ultimately coalesce to form docking structures around captured leucocytes. Tetraspanin CD63 also facilitates leucocyte capture by promoting clustering of the adhesion molecule P-selectin. Finally, Tspan12 is required for blood vessel development in the eye, through regulation of Norrin-induced Frizzled-4 signalling, such that Tspan12 mutations can lead to human disease. Future studies on these and other endothelial tetraspanins are likely to provide further novel insights into angiogenesis and inflammation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bailey</LastName>
+                    <ForeName>Rebecca L</ForeName>
+                    <Initials>RL</Initials>
+                    <Affiliation>School of Biosciences, College of Life and Environmental Sciences, University of Birmingham, Edgbaston, Birmingham B15 2TT, UK. rlb682@bham.ac.uk</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbert</LastName>
+                    <ForeName>John M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Kabir</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heath</LastName>
+                    <ForeName>Victoria L</ForeName>
+                    <Initials>VL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bicknell</LastName>
+                    <ForeName>Roy</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomlinson</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>FS/08/062/25797</GrantID>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem Soc Trans</MedlineTA>
+            <NlmUniqueID>7506897</NlmUniqueID>
+            <ISSNLinking>0300-5127</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tetraspanins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Vessels</DescriptorName>
+                <QualifierName MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neovascularization, Physiologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tetraspanins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BST20110745</ArticleId>
+            <ArticleId IdType="doi">10.1042/BST20110745</ArticleId>
+            <ArticleId IdType="pubmed">22103505</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

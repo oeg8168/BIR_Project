@@ -1,0 +1,572 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23230278</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-9484</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular &amp; cellular proteomics : MCP</Title>
+                <ISOAbbreviation>Mol. Cell Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Two distinct populations of exosomes are released from LIM1863 colon carcinoma cell-derived organoids.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>587-98</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/mcp.M112.021303</ELocationID>
+            <Abstract>
+                <AbstractText>Exosomes are naturally occurring biological nanomembranous vesicles (?ˆ¼40 to 100 nm) of endocytic origin that are released from diverse cell types into the extracellular space. They have pleiotropic functions such as antigen presentation and intercellular transfer of protein cargo, mRNA, microRNA, lipids, and oncogenic potential. Here we describe the isolation, via sequential immunocapture using anti-A33- and anti-EpCAM-coupled magnetic beads, of two distinct populations of exosomes released from organoids derived from human colon carcinoma cell line LIM1863. The exosome populations (A33-Exos and EpCAM-Exos) could not be distinguished via electron microscopy and contained stereotypical exosome markers such as TSG101, Alix, and HSP70. The salient finding of this study, revealed via gel-based LC-MS/MS, was the exclusive identification in EpCAM-Exos of the classical apical trafficking molecules CD63 (LAMP3), mucin 13 and the apical intestinal enzyme sucrase isomaltase and increased expression of dipeptidyl peptidase IV and the apically restricted pentaspan membrane glycoprotein prominin 1. In contrast, the A33-Exos preparation was enriched with basolateral trafficking molecules such as early endosome antigen 1, the Golgi membrane protein ADP-ribosylation factor, and clathrin. Our observations are consistent with EpCAM- and A33-Exos being released from the apical and basolateral surfaces, respectively, and the EpCAM-Exos proteome profile with widely published stereotypical exosomes. A proteome analysis of LIM1863-derived shed microvesicles (sMVs) was also performed in order to clearly distinguish A33- and EpCAM-Exos from sMVs. Intriguingly, several members of the MHC class I family of antigen presentation molecules were exclusively observed in A33-Exos, whereas neither MHC class I nor MHC class II molecules were observed via MS in EpCAM-Exos. Additionally, we report for the first time in any extracellular vesicle study the colocalization of EpCAM, claudin-7, and CD44 in EpCAM-Exos. Given that these molecules are known to complex together to promote tumor progression, further characterization of exosome subpopulations will enable a deeper understanding of their possible role in regulation of the tumor microenvironment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tauro</LastName>
+                    <ForeName>Bow J</ForeName>
+                    <Initials>BJ</Initials>
+                    <Affiliation>Department of Biochemistry, La Trobe Institute for Molecular Science, La Trobe University, Bundoora, Victoria, Australia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greening</LastName>
+                    <ForeName>David W</ForeName>
+                    <Initials>DW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mathias</LastName>
+                    <ForeName>Rommel A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mathivanan</LastName>
+                    <ForeName>Suresh</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simpson</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell Proteomics</MedlineTA>
+            <NlmUniqueID>101125647</NlmUniqueID>
+            <ISSNLinking>1535-9476</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD44</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD44 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CLDN7 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Calcium-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Cycle Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Claudins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Endosomal Sorting Complexes Required for Transport</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GPA33 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>LAMP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosome-Associated Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PDCD6IP protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tsg101 protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>tumor-associated antigen GA733</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2005 Oct;207:145-57</RefSource>
+                <PMID Version="1">16181333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2007 Jan;35(Database issue):D61-5</RefSource>
+                <PMID Version="1">17130148</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2007 Apr;8(4):379-88</RefSource>
+                <PMID Version="1">17319896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Res. 2007 Apr;328(1):31-47</RefSource>
+                <PMID Version="1">17109118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2005 Dec;4(12):1920-32</RefSource>
+                <PMID Version="1">16127175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2005 Dec;4(12):2010-21</RefSource>
+                <PMID Version="1">16249172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2006 Jan 16;94(1):128-35</RefSource>
+                <PMID Version="1">16404366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2006 Jun;5(6):657-64</RefSource>
+                <PMID Version="1">16627989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2006 Oct;5(10):1760-71</RefSource>
+                <PMID Version="1">16837576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2007 Jun;5(6):553-67</RefSource>
+                <PMID Version="1">17579117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Biol. 2007 Jun;5(6):e158</RefSource>
+                <PMID Version="1">17550307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2008 May;18(5):199-209</RefSource>
+                <PMID Version="1">18396047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2008;13:5847-65</RefSource>
+                <PMID Version="1">18508627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2008 Sep;18(9):414-20</RefSource>
+                <PMID Version="1">18703335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2009 Jan;9(1):40-55</RefSource>
+                <PMID Version="1">19078974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Chemother Pharmacol. 2009 Mar;63(4):571-82</RefSource>
+                <PMID Version="1">19083000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2009 Feb;20(2):363-79</RefSource>
+                <PMID Version="1">19056867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Feb;19(2):43-51</RefSource>
+                <PMID Version="1">19144520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Renal Physiol. 2009 Mar;296(3):F459-69</RefSource>
+                <PMID Version="1">18971212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2009 Mar;7(3):285-99</RefSource>
+                <PMID Version="1">19276185</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2009 Apr;9(4):285-93</RefSource>
+                <PMID Version="1">19308068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2009 Jun 8;278(1):73-81</RefSource>
+                <PMID Version="1">19188015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Proteomics. 2009 Jun;6(3):267-83</RefSource>
+                <PMID Version="1">19489699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2009 Jul 1;8(13):2014-8</RefSource>
+                <PMID Version="1">19535896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2009 Nov;29(21):5679-95</RefSource>
+                <PMID Version="1">19704010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2009 Nov;9(21):4997-5000</RefSource>
+                <PMID Version="1">19810033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2004 Jan 1;32(Database issue):D115-9</RefSource>
+                <PMID Version="1">14681372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1985 Apr;74(4):759-65</RefSource>
+                <PMID Version="1">3857372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1987 May 15;47(10):2683-9</RefSource>
+                <PMID Version="1">3567898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Nov 5;462(7269):99-103</RefSource>
+                <PMID Version="1">19890330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2009 Dec 1;19(22):1875-85</RefSource>
+                <PMID Version="1">19896381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Feb;9(2):197-208</RefSource>
+                <PMID Version="1">19837982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteomics. 2010 Jan 3;73(3):637-48</RefSource>
+                <PMID Version="1">19782775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2010 May 3;584(9):1659-64</RefSource>
+                <PMID Version="1">20122930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cell Res. 2010 May;4(3):214-22</RefSource>
+                <PMID Version="1">20138817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteomics. 2010 Sep 10;73(10):1907-20</RefSource>
+                <PMID Version="1">20601276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2010 Nov;10(22):4142-8</RefSource>
+                <PMID Version="1">20486120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2011 Feb;10(2):M110.001131</RefSource>
+                <PMID Version="1">20511395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2011 Apr;21(2):139-46</RefSource>
+                <PMID Version="1">21251983</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2011 Mar;17(3):320-9</RefSource>
+                <PMID Version="1">21383745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer Res. 2011 May;9(5):531-7</RefSource>
+                <PMID Version="1">21450906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2011 Dec;12(12):1659-68</RefSource>
+                <PMID Version="1">21645191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D1241-4</RefSource>
+                <PMID Version="1">21989406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2012 Feb;56(2):293-304</RefSource>
+                <PMID Version="1">22285593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2012 Jun;18(6):883-91</RefSource>
+                <PMID Version="1">22635005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2000 Feb;21(3):497-508</RefSource>
+                <PMID Version="1">10726749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2000 May;21(9):1707-32</RefSource>
+                <PMID Version="1">10870958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 2001 Jan 19;305(3):567-80</RefSource>
+                <PMID Version="1">11152613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 May 25;276(21):18327-36</RefSource>
+                <PMID Version="1">11278439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2001 Aug;121(2):337-49</RefSource>
+                <PMID Version="1">11487543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 May 3;277(18):16332-9</RefSource>
+                <PMID Version="1">11872745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2003 Feb;33(2):522-31</RefSource>
+                <PMID Version="1">12645951</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Dec 15;102(13):4336-44</RefSource>
+                <PMID Version="1">12881314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1992 Mar 12;50(5):752-9</RefSource>
+                <PMID Version="1">1544710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Oct 11;271(41):25664-70</RefSource>
+                <PMID Version="1">8810343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2004 Nov;4(11):839-49</RefSource>
+                <PMID Version="1">15516957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 2005 Feb;15(1):97-101</RefSource>
+                <PMID Version="1">15661539</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2005 Jul 1;118(Pt 13):2849-58</RefSource>
+                <PMID Version="1">15976444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2005 Aug;17(4):423-34</RefSource>
+                <PMID Version="1">15975780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2005 Oct 1;309(2):345-57</RefSource>
+                <PMID Version="1">16054130</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD44</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Cycle Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell-Derived Microparticles</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatography, Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Claudins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Colonic Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomal Sorting Complexes Required for Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class I</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosome-Associated Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Organoids</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tandem Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3591653</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">M112.021303</ArticleId>
+            <ArticleId IdType="doi">10.1074/mcp.M112.021303</ArticleId>
+            <ArticleId IdType="pubmed">23230278</ArticleId>
+            <ArticleId IdType="pmc">PMC3591653</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

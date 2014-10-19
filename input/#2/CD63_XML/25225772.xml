@@ -1,0 +1,127 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">25225772</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-8409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert review of clinical immunology</Title>
+                <ISOAbbreviation>Expert Rev Clin Immunol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Basophil activation tests: time for a reconsideration.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1325-35</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1586/1744666X.2014.959498</ELocationID>
+            <Abstract>
+                <AbstractText>Challenges in in vitro allergy diagnostics lie in the development of accessible and reliable assays allowing identification of all offending allergens and cross-reactive structures. Flow-assisted analysis and quantification of in vitro activated basophils serves as a diagnostic instrument with increasing applications developed over the years. From the earliest days it was clear that the test could constitute a diagnostic asset in basophil-mediated hypersensitivity. However, utility of the basophil activation test should be reassessed regarding difficulties with preparation, characterization and validation of allergen extracts; availability and the potential of more accessible diagnostics. Today, the added value mainly lies in diagnosis of immediate drug hypersensitivity. Other potential indications are monitoring venom-immunotherapy and follow-up of natural history of food allergies. However, results in these nondiagnostic applications are preliminary. We review the most relevant clinical applications of the basophil activation test. Some personal comments and views about perspectives and challenges about flow-assisted allergy diagnosis are made.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Uyttebroek</LastName>
+                    <ForeName>Astrid P</ForeName>
+                    <Initials>AP</Initials>
+                    <Affiliation>Department of Immunology - Allergology - Rheumatology, Faculty of Medicine and Health Science, University of Antwerp, Antwerp University Hospital, CDE T.595, Universiteitsplein 1, 2610 Antwerpen, Belgium.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabato</LastName>
+                    <ForeName>Vito</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faber</LastName>
+                    <ForeName>Margaretha A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cop</LastName>
+                    <ForeName>Nathalie</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bridts</LastName>
+                    <ForeName>Chris H</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lapeere</LastName>
+                    <ForeName>Hilde</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Clerck</LastName>
+                    <ForeName>Luc S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ebo</LastName>
+                    <ForeName>Didier G</ForeName>
+                    <Initials>DG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Rev Clin Immunol</MedlineTA>
+            <NlmUniqueID>101271248</NlmUniqueID>
+            <ISSNLinking>1744-666X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">allergy</Keyword>
+            <Keyword MajorTopicYN="N">basophil activation test</Keyword>
+            <Keyword MajorTopicYN="N">diagnosis</Keyword>
+            <Keyword MajorTopicYN="N">drug hypersensitivity</Keyword>
+            <Keyword MajorTopicYN="N">flow-cytometry</Keyword>
+            <Keyword MajorTopicYN="N">food allergy</Keyword>
+            <Keyword MajorTopicYN="N">hymenoptera venom</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1586/1744666X.2014.959498</ArticleId>
+            <ArticleId IdType="pubmed">25225772</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,185 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21796726</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-1004</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Human mutation</Title>
+                <ISOAbbreviation>Hum. Mutat.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A gain-of-glycosylation mutation associated with myoclonus-dystonia syndrome affects trafficking and processing of mouse ε-sarcoglycan in the late secretory pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1246-58</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/humu.21561</ELocationID>
+            <Abstract>
+                <AbstractText>Missense mutations in the SGCE gene encoding ε-sarcoglycan account for approximately 15% of SGCE-positive cases of myoclonus-dystonia syndrome (MDS) in humans. In this study, we show that while the majority of MDS-associated missense mutants modeled with a murine ε-sarcoglycan cDNA are substrates for endoplasmic reticulum-associated degradation, one mutant, M68T (analogous to human c.275T&gt;C, p.M92T), located in the Ig-like domain of ε-sarcoglycan, results in a gain-of-glycosylation mutation producing a protein that is targeted to the plasma membrane, albeit at reduced levels compared to wild-type ε-sarcoglycan. Removal of the ectopic N-linked glycan failed to restore efficient plasma membrane targeting of M68T demonstrating that the substitution rather than the glycan was responsible for the trafficking defect of this mutant. M68T also colocalized with CD63-positive vesicles in the endosomal-lysosomal system and was found to be more susceptible to lysosomal proteolysis than wild-type ε-sarcoglycan. Finally, we demonstrate impaired ectodomain shedding of M68T, a process that occurs physiologically for ε-sarcoglycan resulting in the lysosomal trafficking of the intracellular C-terminal domain of the protein. Our findings show that functional analysis of rare missense mutations can provide a mechanistic insight into the pathogenesis of MDS and the physiological role of ε-sarcoglycan.</AbstractText>
+                <CopyrightInformation>© 2011 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Waite</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Psychological Medicine and Neurology, MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University, Heath Park, Cardiff, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Rosa</LastName>
+                    <ForeName>Maria Cristina</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brancaccio</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blake</LastName>
+                    <ForeName>Derek J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Hum Mutat</MedlineTA>
+            <NlmUniqueID>9215429</NlmUniqueID>
+            <ISSNLinking>1059-7794</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Sarcoglycans</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <SupplMeshList>
+            <SupplMeshName Type="Disease">Myoclonic dystonia</SupplMeshName>
+        </SupplMeshList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dystonic Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycosylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation, Missense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sarcoglycans</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Secretory Pathway</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/humu.21561</ArticleId>
+            <ArticleId IdType="pubmed">21796726</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

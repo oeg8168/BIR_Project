@@ -1,0 +1,236 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11764278</PMID>
+        <DateCreated>
+            <Year>2001</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>05</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1087-0024</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of investigative dermatology. Symposium proceedings / the Society for Investigative Dermatology, Inc. [and] European Society for Dermatological Research</Title>
+                <ISOAbbreviation>J. Investig. Dermatol. Symp. Proc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of phosphoinositide 3-kinase in the sorting and transport of newly synthesized tyrosinase-related protein-1 (TRP-1).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>105-14</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Tyrosinase-related protein-1 (TRP-1) is a 75 kDa type-1 transmembrane glycoprotein localized to the melanosome. The mechanism by which newly synthesized TRP-1 reaches its ultimate destination is currently unknown, but has been speculated to occur via the endosomal pathway. Recently, it has been shown that phosphatidylinositide (PI) 3-kinase is involved in various cellular functions, including regulating the constitutive movement of proteins from one intracellular compartment to another; however, whether PI 3-kinase participates in the trafficking of proteins such as TRP-1 to the melanosome is unknown. In this study we investigate the role of PI 3-kinase on the trafficking of TRP-1 in human melanoma MeWo cells using wortmannin, a potent inhibitor of PI 3-kinase. Our investigations demonstrate that wortmannin interferes with the membrane trafficking of TRP-1 in MeWo cells, and that it specifically results in the redistribution of the protein within a novel vesicular compartment with characteristics of the endosomal and lysosomal compartments [positive for LAMP-1, and partially positive for CD63 and cation-independent mannose 6-phosphate receptors (CI-M6PR)], and is accessible to internalized proteins such as immunoglobulins. Movement within this novel compartment is microtubule and GTPase dependent. These findings have led us to postulate that TRP-1 is sorted from the trans-Golgi network to a compartment in the vicinity of late endosomes, trafficking from which to the melanosome appears to be dependent on PI 3-kinase as it is blocked by wortmannin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Division of Dermatology and Cutaneous Sciences, University of Alberta, Edmonton, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salopek</LastName>
+                    <ForeName>T G</ForeName>
+                    <Initials>TG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jimbow</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Investig Dermatol Symp Proc</MedlineTA>
+            <NlmUniqueID>9609059</NlmUniqueID>
+            <ISSNLinking>1087-0024</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Androstadienes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Synthesis Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>19545-26-7</RegistryNumber>
+                <NameOfSubstance>wortmannin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>20350-15-6</RegistryNumber>
+                <NameOfSubstance>Brefeldin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.-</RegistryNumber>
+                <NameOfSubstance>Oxidoreductases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.18.-</RegistryNumber>
+                <NameOfSubstance>TYRP1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.18.-</RegistryNumber>
+                <NameOfSubstance>tyrosinase-related protein-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.-</RegistryNumber>
+                <NameOfSubstance>Phosphatidylinositol 3-Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>GTP Phosphohydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.3.14</RegistryNumber>
+                <NameOfSubstance>Proton-Translocating ATPases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Androstadienes</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brefeldin A</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GTP Phosphohydrolases</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Membrane Glycoproteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microtubules</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Oxidoreductases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Synthesis Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proton-Translocating ATPases</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11764278</ArticleId>
+            <ArticleId IdType="doi">10.1046/j.0022-202x.2001.00012.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

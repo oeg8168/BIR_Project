@@ -1,0 +1,207 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20013029</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1420-908X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>59 Suppl 2</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Inflammation research : official journal of the European Histamine Research Society ... [et al.]</Title>
+                <ISOAbbreviation>Inflamm. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Use of lipid rafting for the analysis of human basophil activation by flow cytometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S193-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00011-009-0126-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Human leukocyte activation induced by specific and non-specific stimuli is characterized by the formation of lipid rafts defined as lipid-ordered domains that are more tightly packed than the surrounding non-raft phase of the bilayer. These lipid rafts are formed in parallel with profound membrane reorganization.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Analyse the rafting and non-rafting proteins present on the activated and resting basophil membrane and study their interest for the flow cytometric analysis of basophil activation.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Human basophils obtained from samples used for diagnostic cellular tests such as basophil or lymphocyte activation tests were stimulated either by the formyl-methionyl-leucyl-phenylalanine peptide (fMLP), by an anti-IgE or by an allergen. After 40 min at 37 degrees C, they were labelled by different antibodies conjugated to fluorescent dyes as an anti-IgE FITC, an anti-CCR3 PE, an anti-CD63, an anti-CD203c PE, an anti-11b, annexin V FITC or by cholera toxin FITC. Moreover, several experiments were analysed using an Amnis cytometer, allowing one to obtain the picture of the analysed cells.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Anti-IgE or specific allergen elicits a membrane neo expression of CD63 at a high density and is poorly represented on resting basophil membrane. Upon an IgE-dependant activation some of the markers already present on resting basophil membrane, as CD203c, are up regulated and others, such as the IgE/IgE FcepsilonRI receptor and CCR3 are down regulated and submitted to the formation of clusters demonstrated by the pictures taken with the Amnis cytometer. For non-IgE dependant activators, such as fMLP, the picture was different since IgE was not down regulated, whereas CCR3 was down regulated. As demonstrated using annexin V or the cholera toxin used for analysing apoptosis, these phenomenon were paralleled by the formation of lipid rafts, gangliosides domains, such as GM1, which is accessible from the extra cellular medium.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Basophil activation leads to membrane events close to the apoptosis phenomenon. The flow cytometric analysis of these membrane events may lead to protocols for allergen-induced activation and, may significantly increase cellular test sensitivity, particularly for drugs allergy diagnosis for which the usual protocols, such as those using CD63 alone, are insufficiently sensitive.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sainte-Laudy</LastName>
+                    <ForeName>Jean</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Laboratoire d'Immunologie, Hôpital Universitaire Dupuytren, Limoges, France. jslaudy@wanadoo.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ouk</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Inflamm Res</MedlineTA>
+            <NlmUniqueID>9508160</NlmUniqueID>
+            <ISSNLinking>1023-3830</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Annexin A5</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, CCR3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, IgE</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59880-97-6</RegistryNumber>
+                <NameOfSubstance>N-Formylmethionine Leucyl-Phenylalanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9012-63-9</RegistryNumber>
+                <NameOfSubstance>Cholera Toxin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Annexin A5</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholera Toxin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophage Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Video</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">N-Formylmethionine Leucyl-Phenylalanine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, CCR3</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, IgE</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00011-009-0126-3</ArticleId>
+            <ArticleId IdType="pubmed">20013029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

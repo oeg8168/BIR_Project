@@ -1,0 +1,135 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">7574103</PMID>
+        <DateCreated>
+            <Year>1995</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-3898</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>53</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annales de biologie clinique</Title>
+                <ISOAbbreviation>Ann. Biol. Clin. (Paris)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Antiplatelet glycoprotein monoclonal antibodies: properties and practical value].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>97-105</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The aim of this review is (i) to classify the different monoclonal antibodies against platelet glycoproteins according to their properties and (ii) to take stock of their many diagnostic and therapeutic uses. Most of these antibodies recognize antigens on resting platelets without inducing activation, sometimes however they inhibit platelet function. Some of these antibodies, especially those against specific antigens (GPIIb/IIIa, CD9, CD36), have the capacity to activate platelets in vitro, either by direct binding of antibodies on the antigen or through the Fc domain binding to its platelet receptor Fc gamma RII. Other antibodies are directed against activation-dependent antigens that are expressed as a result of (i) a modification of a glycoprotein structure during platelet activation (as for GPIIb/IIIa), (ii) platelet release of granular antigens (GMP140, CD63, granulophysin...) or (iii) binding of soluble antigens on the activated platelet surface. Monoclonal antibodies find practical applications for both in vitro and in vivo diagnosis of bleeding or thrombotic pathology with some of them, notably anti-GPIIb/IIIa, having a promising future for antithrombotic therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saffroy</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Inserm U428, UFR des sciences pharmaceutiques et biologiques, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bachelot</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rendu</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>fre</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Anticorps monoclonaux antiglycoprotéines plaquettaires: propriétés et intérêts pratiques.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>FRANCE</Country>
+            <MedlineTA>Ann Biol Clin (Paris)</MedlineTA>
+            <NlmUniqueID>2984690R</NlmUniqueID>
+            <ISSNLinking>0003-3898</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">classification</QualifierName>
+                <QualifierName MajorTopicYN="N">diagnostic use</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemorrhage</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>119</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7574103</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

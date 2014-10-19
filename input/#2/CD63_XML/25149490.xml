@@ -1,0 +1,105 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">25149490</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-6029</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1192</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods in molecular biology (Clifton, N.J.)</Title>
+                <ISOAbbreviation>Methods Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flow cytometric allergy diagnosis: basophil activation techniques.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>147-59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/978-1-4939-1173-8_11</ELocationID>
+            <Abstract>
+                <AbstractText>The basis of flow cytometric allergy diagnosis is quantification of changes in expression of basophilic surface membrane markers (Ebo et al., Clin Exp Allergy 34: 332-339, 2004). Upon encountering specific allergens recognized by surface receptor FcεRI-bound IgE, basophils not only secrete and generate quantifiable bioactive mediators but also up-regulate the expression of different markers (e.g., CD63, CD203c) which can be detected by multicolor flow cytometry using specific monoclonal antibodies (Ebo et al., Cytometry B Clin Cytom 74: 201-210, 2008). Here, we describe two flow cytometry-based protocols which allow detection of surface marker activation (Method 1) and changes in intragranular histamine (Method 2), both reflecting different facets of basophil activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bridts</LastName>
+                    <ForeName>Chris H</ForeName>
+                    <Initials>CH</Initials>
+                    <Affiliation>Department of Immunology and Allergology, University of Antwerp, Campus Drie Eiken, D.T.596, Universiteitsplein 1, 2610, Wilrijk, Belgium.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabato</LastName>
+                    <ForeName>Vito</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mertens</LastName>
+                    <ForeName>Christel</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hagendorens</LastName>
+                    <ForeName>Margo M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Clerck</LastName>
+                    <ForeName>Luc S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ebo</LastName>
+                    <ForeName>Didier G</ForeName>
+                    <Initials>DG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods Mol Biol</MedlineTA>
+            <NlmUniqueID>9214969</NlmUniqueID>
+            <ISSNLinking>1064-3745</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/978-1-4939-1173-8_11</ArticleId>
+            <ArticleId IdType="pubmed">25149490</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

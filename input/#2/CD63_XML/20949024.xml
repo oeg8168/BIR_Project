@@ -1,0 +1,407 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20949024</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>αB crystallin is apically secreted within exosomes by polarized human retinal pigment epithelium and provides neuroprotection to adjacent cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e12578</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0012578</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">e12578</ELocationID>
+            <Abstract>
+                <AbstractText>αB crystallin is a chaperone protein with anti-apoptotic and anti-inflammatory functions and has been identified as a biomarker in age-related macular degeneration. The purpose of this study was to determine whether αB crystallin is secreted from retinal pigment epithelial (RPE) cells, the mechanism of this secretory pathway and to determine whether extracellular αB crystallin can be taken up by adjacent retinal cells and provide protection from oxidant stress. We used human RPE cells to establish that αB crystallin is secreted by a non-classical pathway that involves exosomes. Evidence for the release of exosomes by RPE and localization of αB crystallin within the exosomes was achieved by immunoblot, immunofluorescence, and electron microscopic analyses. Inhibition of lipid rafts or exosomes significantly reduced αB crystallin secretion, while inhibitors of classic secretory pathways had no effect. In highly polarized RPE monolayers, αB crystallin was selectively secreted towards the apical, photoreceptor-facing side. In support, confocal microscopy established that αB crystallin was localized predominantly in the apical compartment of RPE monolayers, where it co-localized in part with exosomal marker CD63. Severe oxidative stress resulted in barrier breakdown and release of αB crystallin to the basolateral side. In normal mouse retinal sections, αB crystallin was identified in the interphotoreceptor matrix. An increased uptake of exogenous αB crystallin and protection from apoptosis by inhibition of caspase 3 and PARP activation were observed in stressed RPE cultures. αB Crystallin was taken up by photoreceptors in mouse retinal explants exposed to oxidative stress. These results demonstrate an important role for αB crystallin in maintaining and facilitating a neuroprotective outer retinal environment and may also explain the accumulation of αB crystallin in extracellular sub-RPE deposits in the stressed microenvironment in age-related macular degeneration. Thus evidence from our studies supports a neuroprotective role for αB crystallin in ocular diseases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sreekumar</LastName>
+                    <ForeName>Parameswaran G</ForeName>
+                    <Initials>PG</Initials>
+                    <Affiliation>Arnold and Mabel Beckman Macular Research Center, Doheny Eye Institute, Los Angeles, California, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kannan</LastName>
+                    <ForeName>Ram</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kitamura</LastName>
+                    <ForeName>Mizuki</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spee</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barron</LastName>
+                    <ForeName>Ernesto</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryan</LastName>
+                    <ForeName>Stephen J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hinton</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>EY01545</GrantID>
+                    <Acronym>EY</Acronym>
+                    <Agency>NEI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>EY03040</GrantID>
+                    <Acronym>EY</Acronym>
+                    <Agency>NEI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>alpha-Crystallins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>beta-Crystallins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>BBX060AN9V</RegistryNumber>
+                <NameOfSubstance>Hydrogen Peroxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 1992 Apr;151(1):81-93</RefSource>
+                <PMID Version="1">1560052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Matrix Biol. 2010 Apr;29(3):228-36</RefSource>
+                <PMID Version="1">20026402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Jul 10;94(1):73-82</RefSource>
+                <PMID Version="1">9674429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Eye Res. 2005 Jun;80(6):821-6</RefSource>
+                <PMID Version="1">15939038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jun 17;280(24):23349-55</RefSource>
+                <PMID Version="1">15826944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2005 Sep;5(14):3623-36</RefSource>
+                <PMID Version="1">16127731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Ophthalmol Vis Sci. 2005 Dec;46(12):4788-95</RefSource>
+                <PMID Version="1">16303980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Ophthalmol Vis Sci. 2006 Jun;47(6):2280-90</RefSource>
+                <PMID Version="1">16723435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Vis. 2006;12:892-901</RefSource>
+                <PMID Version="1">16917482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2006 Oct 5;355(14):1474-85</RefSource>
+                <PMID Version="1">17021323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2007 Jan;81(1):15-27</RefSource>
+                <PMID Version="1">16931602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2007 Jan 1;313(1):195-209</RefSource>
+                <PMID Version="1">17123510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Stress Chaperones. 2000 Nov;5(5):425-31</RefSource>
+                <PMID Version="1">11189447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 May 11;276(19):16059-63</RefSource>
+                <PMID Version="1">11274139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Vis. 2001 Jun 30;7:154-63</RefSource>
+                <PMID Version="1">11438800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2002 Nov 12;99(23):14682-7</RefSource>
+                <PMID Version="1">12391305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Eye Res. 2003 Jan;76(1):131-3</RefSource>
+                <PMID Version="1">12589783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surv Ophthalmol. 2003 May-Jun;48(3):257-93</RefSource>
+                <PMID Version="1">12745003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2003 May;270(10):2109-19</RefSource>
+                <PMID Version="1">12752430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jun 13;278(24):21601-6</RefSource>
+                <PMID Version="1">12682040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 2003 Jul;82(7):361-8</RefSource>
+                <PMID Version="1">12924631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Dec 15;102(13):4336-44</RefSource>
+                <PMID Version="1">12881314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Ophthalmol. 2004 Mar;137(3):504-10</RefSource>
+                <PMID Version="1">15013875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Ophthalmol. 2004 Apr;122(4):598-614</RefSource>
+                <PMID Version="1">15078679</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2004 May;11(5):512-26</RefSource>
+                <PMID Version="1">14752512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Eye Res. 1970 Jul;10(1):80-6</RefSource>
+                <PMID Version="1">4247991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 1989 Feb;138(2):257-66</RefSource>
+                <PMID Version="1">2918030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Eye Res. 1989 Dec;49(6):1067-77</RefSource>
+                <PMID Version="1">2612585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 Jan 2;355(6355):33-45</RefSource>
+                <PMID Version="1">1731198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Vis. 2007;13:566-77</RefSource>
+                <PMID Version="1">17438522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Ophthalmol. 2007 May;125(5):641-5</RefSource>
+                <PMID Version="1">17502503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2007 Jun;292(6):H3052-6</RefSource>
+                <PMID Version="1">17307989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2007 Jul 26;448(7152):474-9</RefSource>
+                <PMID Version="1">17568699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2008 Jan;294(1):H337-44</RefSource>
+                <PMID Version="1">17993600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Eye Res. 2008 Feb;86(2):355-65</RefSource>
+                <PMID Version="1">18191123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Ophthalmol Vis Sci. 2008 Mar;49(3):1210-20</RefSource>
+                <PMID Version="1">18326751</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Apr;76(4):1781-90</RefSource>
+                <PMID Version="1">18227158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(1):e4160</RefSource>
+                <PMID Version="1">19129916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(3):e4722</RefSource>
+                <PMID Version="1">19266099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Protoc. 2009;4(5):662-73</RefSource>
+                <PMID Version="1">19373231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Proteomics. 2009 Jun;6(3):267-83</RefSource>
+                <PMID Version="1">19489699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2009 Oct;8(10):2201-11</RefSource>
+                <PMID Version="1">19567368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Aging (Albany NY). 2010;2(1):28-42</RefSource>
+                <PMID Version="1">20228934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Nov 1;89(21):10449-53</RefSource>
+                <PMID Version="1">1438232</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Compartmentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Death</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Polarity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen Peroxide</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retinal Pigment Epithelium</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">embryology</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">alpha-Crystallins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta-Crystallins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2951891</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0012578</ArticleId>
+            <ArticleId IdType="pubmed">20949024</ArticleId>
+            <ArticleId IdType="pmc">PMC2951891</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

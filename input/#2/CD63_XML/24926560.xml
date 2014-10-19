@@ -1,0 +1,95 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">24926560</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>6</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1547-6901</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jun</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunotoxicology</Title>
+                <ISOAbbreviation>J Immunotoxicol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Curcumin increases gelatinase activity in human neutrophils by a p38 mitogen-activated protein kinase (MAPK)-independent mechanism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNLABELLED">Abstract Curcumin has been found to possess anti-inflammatory activities and neutrophils, key players in inflammation, were previously found to be important targets to curcumin in a few studies. For example, curcumin was found to induce apoptosis in neutrophils by a p38 mitogen-activated protein kinase (MAPK)-dependent mechanism. However, the role of curcumin on the biology of neutrophils is still poorly defined. To study the role of curcumin on neutrophil degranulation and to determine the role of p38 MAPK, human neutrophils were freshly isolated from healthy individuals and incubated in vitro with curcumin. Degranulation was studied at three levels: surface expression of granule markers by flow cytometry; release of matrix metallopeptidase-9 (MMP-9 or gelatinase B) enzyme into supernatants by Western blot; and gelatinase B activity by zymography. Activation of p38 MAPK was studied by monitoring its tyrosine phosphorylation levels by western blot and its role by the utilization of a pharmacological inhibitor. The results indicate that curcumin increased the cell surface expression of CD35 (secretory vesicle), CD63 (azurophilic granules), and CD66b (gelatinase granules) in neutrophils. Also, curcumin increased the release and enzymatic activity of gelatinase B in the extracellular milieu and activated p38 MAP kinase in these cells. However, in contrast to fMLP, curcumin-induced enzymatic activity and secretion of gelatinase B were not reversed by use of a p38 inhibitor. Finally, it was found that curcumin was able to enhance phagocytosis. Taken together, the results here demonstrate that curcumin induced degranulation in human neutrophils and that the increased gelatinase activity is not dependent on p38 MAPK activation. Therefore, degranulation is another human neutrophil function that could be modulated by curcumin, as well as phagocytosis.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Antoine</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Laboratoire de recherche en inflammation et physiologie des granulocytes, INRS-Institut Armand-Frappier, University of Québec , Laval, Quebec , Canada.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Girard</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>J Immunotoxicol</MedlineTA>
+            <NlmUniqueID>101201960</NlmUniqueID>
+            <ISSNLinking>1547-691X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Degranulation</Keyword>
+            <Keyword MajorTopicYN="N">flow cytometry</Keyword>
+            <Keyword MajorTopicYN="N">granulocytes</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">zymography</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/1547691X.2014.917749</ArticleId>
+            <ArticleId IdType="pubmed">24926560</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

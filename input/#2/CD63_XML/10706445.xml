@@ -1,0 +1,153 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10706445</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1042-8194</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>35</Volume>
+                    <Issue>3-4</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Leukemia &amp; lymphoma</Title>
+                <ISOAbbreviation>Leuk. Lymphoma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Immunophenotype of bone marrow mast cells in indolent systemic mast cell disease in adults.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>227-35</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>One of the major advances in the histological diagnosis of bone marrow (BM) involvement in mastocytosis has been the specific immunohistochemical detection of tryptase on most cells (MC), which has shown to be of great diagnostic value, especially in cases of malignant mastocytosis. On the other hand, recent studies have clearly shown that bone marrow mast cells can be specifically identified and accurately enumerated using multiparametric flow cytometry, which allow a systematic analysis of the immunophenotypic characteristics of bone marrow mast cells. Once this flow cytometric approach was applied for the analysis of BMMC from mastocytosis patients clear immunophenotypical differences were found between BMMC from normal individuals and adults with mastocytosis. The most characteristic immunophenotypic feature, both in malignant and adult indolent systemic mast cell disease, being the coexpression of CD2 and CD25 antigens, never present in normal bone marrow mast cells and, which constitute an aberrant hallmark of bone marrow mast cells in adult mastocytosis. Furthermore, bone mast cells from mastocytosis display a higher reactivity for CD35, CD63, and CD69 activation-associated antigens. Based on these results it could be concluded that the use of multiparametric flow cytometric immunophenotyping of BMMC in adult patients suffering from cutaneous mastocytosis can be of great utility for the diagnosis of BM involvement; additionally, this might also help to establish the real incidence of BM involvement in cutaneous mastocytosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Escribano</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Deparment of Hematology, Hospital Ramón y Cajal, Universidad de Alcalá de Henares, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Díaz Agustín Beatriz</LastName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bravo</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Navalón</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almeida</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orfao</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>SWITZERLAND</Country>
+            <MedlineTA>Leuk Lymphoma</MedlineTA>
+            <NlmUniqueID>9007422</NlmUniqueID>
+            <ISSNLinking>1026-8022</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Marrow Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunophenotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mastocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>59</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10706445</ArticleId>
+            <ArticleId IdType="doi">10.3109/10428199909145725</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

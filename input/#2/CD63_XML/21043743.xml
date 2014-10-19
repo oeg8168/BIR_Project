@@ -1,0 +1,100 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">21043743</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0953-7104</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Platelets</Title>
+                <ISOAbbreviation>Platelets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Expression of Adhesion Molecules on the Surface of Activated Platelets is Diminished by PGI(2)-analogues and an NO (EDRF)-Donor: A Comparison Between Platelets of Healthy and Diabetic Subjects.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>45-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/09537109409006040</ELocationID>
+            <Abstract>
+                <AbstractText>Adhesion molecules such as P-selectin (CD 62), glycoprotein (CP) 53 (CD63) and thrombospondin play a decisive role in the thrombogenic transformation of platelets. Here we present evidence obtained using flow cytometric analysis that the PGI(2)-mimetics iloprost and taprostene, and an NO (EDRF)donor (SIN-1) are able to inhibit the expression of P-selectin, GP 53 and thrombospondin on human platelets activated by submaximal concentrations of thrombin. Since the half-maximal concentrations for inhibition of antigen expression (0.15 nM for iloprost, 3.0-5.3 nM for taprostene) are much lower than for activation of adenylate cyclase (1.4 nM for iloprost and 29.4 nM for taprostene) our data suggest that the occupation of a small number of PGI(2)-receptors is sufficient to inhibit the thrombogenic transformation and that spare PGI(2)-receptors are present on human platelets. In diabetes, the EC(50) for inhibition of expression of platelet antigens is shifted to higher concentrations suggesting that platelets from type 1 diabetic patients are partly resistant to PGI(2). Since the dose dependent increase in c-AMP by iloprost is not changed and intraplatelet c-AMP is elevated in platelets of diabetic patients, we assume that steps in the activation cascade subsequent to activation of adenylate cyclase are disturbed in diabetes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rösen</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Cellular Hemostasis Group at the Diabetes Research Institute, Düsseldorf, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwippert</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaufmann</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tschöpe</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Platelets</MedlineTA>
+            <NlmUniqueID>9208117</NlmUniqueID>
+            <ISSNLinking>0953-7104</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/09537109409006040</ArticleId>
+            <ArticleId IdType="pubmed">21043743</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

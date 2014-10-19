@@ -1,0 +1,150 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">1375615</PMID>
+        <DateCreated>
+            <Year>1992</Year>
+            <Month>07</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1992</Year>
+            <Month>07</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1759</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>149</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1992</Year>
+                        <Month>May</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunological methods</Title>
+                <ISOAbbreviation>J. Immunol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An improved method for the purification of basophilic granulocytes from human blood.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>207-14</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Studies on human basophils are hampered by the low number of basophils in peripheral blood. Here we describe the purification of human basophilic granulocytes with immunomagnetic beads to improve an already established method of purification. A 70% pure basophil suspension was incubated with monoclonal antibodies (CD2, CD14, CD16 and CD19) recognizing the contaminating cells. After incubation with magnetic beads coated with goat anti-mouse IgG, the bead-cell rosettes were removed by a magnet. In this way, the basophil purity increased to 94%. The loss of basophils during the bead procedure was about 20%. The amount of histamine per basophil and the spontaneous release of histamine during subsequent incubation of the cells was not altered by the purification procedure. The kinetics and the dose response of histamine release after the addition of anti-IgE or FMLP was also unchanged. Binding of CD63 was not altered, indicating that the purification procedure did not result in activation of the basophils. This improved method for the purification of human basophils should permit the measurement of non-basophil-specific parameters, such as changes in intracellular free Ca2+, without the problem of interference from contaminating cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mul</LastName>
+                    <ForeName>F P</ForeName>
+                    <Initials>FP</Initials>
+                    <Affiliation>Central Laboratory of the Netherlands Red Cross Blood Transfusion Service, Amsterdam.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knol</LastName>
+                    <ForeName>E F</ForeName>
+                    <Initials>EF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roos</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>J Immunol Methods</MedlineTA>
+            <NlmUniqueID>1305440</NlmUniqueID>
+            <ISSNLinking>0022-1759</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Antigen, T-Cell</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Separation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Centrifugation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescent Antibody Technique</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Release</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Antigen, T-Cell</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1992</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1992</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1992</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1375615</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

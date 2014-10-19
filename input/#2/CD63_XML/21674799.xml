@@ -1,0 +1,195 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21674799</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1615-9861</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>14</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proteomics</Title>
+                <ISOAbbreviation>Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ErbB2-associated changes in the lysosomal proteome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2830-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/pmic.201000734</ELocationID>
+            <Abstract>
+                <AbstractText>Late endosomes and lysosomes (hereafter referred to as lysosomes) play an essential role in the turnover of cellular macromolecules and organelles. Their biochemical characterization has so far depended on purification methods based on either density gradient centrifugations or magnetic purification of iron-loaded organelles. Owing to dramatic changes in lysosomal density and stability associated with lysosomal diseases and cancer, these methods are not optimal for the comparison of normal and pathological lysosomes. Here, we introduce an efficient method for the purification of intact lysosomes by magnetic immunoprecipitation with antibodies against the vacuolar-type H(+) -ATPase. Quantitative MS-based proteomics analysis of the obtained lysosomal membranes identified 60 proteins, most of which have previously been associated with the lysosomal compartment. Interestingly, the lysosomal membrane proteome was significantly altered by the ectopic expression of an active form of the ErbB2 oncogene, which renders the cells highly metastatic. The furthermost ErbB2-associated changes included increased levels of CD63, S100A11 and ferritin heavy chain. Overall, our data introduce the antibody-based purification of lysosomes as a suitable method for the characterization of lysosomes from a variety of pathological conditions with altered lysosomal density and stability.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nylandsted</LastName>
+                    <ForeName>Jesper</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Apoptosis Department and Centre for Genotoxic Stress Research, Institute of Cancer Biology, Danish Cancer Society, Strandboulevarden 49, Copenhagen, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Becker</LastName>
+                    <ForeName>Andrea C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bunkenborg</LastName>
+                    <ForeName>Jakob</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andersen</LastName>
+                    <ForeName>Jens S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dengjel</LastName>
+                    <ForeName>Jörn</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jäättelä</LastName>
+                    <ForeName>Marja</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Proteomics</MedlineTA>
+            <NlmUniqueID>101092707</NlmUniqueID>
+            <ISSNLinking>1615-9853</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>ERBB2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor, erbB-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Vacuolar Proton-Translocating ATPases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunomagnetic Separation</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Membranes</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, erbB-2</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuolar Proton-Translocating ATPases</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/pmic.201000734</ArticleId>
+            <ArticleId IdType="pubmed">21674799</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

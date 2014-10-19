@@ -1,0 +1,156 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9075130</PMID>
+        <DateCreated>
+            <Year>1997</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0931-0509</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association</Title>
+                <ISOAbbreviation>Nephrol. Dial. Transplant.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanisms of intra-dialyser granulocyte activation: a sequential dialyser elution study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>492-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">During haemodialysis (HD), an early and transient white blood cell (WBC) reduction is noted in the peripheral blood, which has been attributed mainly to the sequestration of polymorphonuclear cells (PMN) in the pulmonary vasculature. However, WBC also adhere to the dialyser, as demonstrated before in an elution study performed after HD. In the present study, we investigated if intradialyser WBC sequestration contributes to the WBC nadir in the blood shortly after the start of HD and whether or not different mechanisms underlie PMN adherence in dialyser and lung. In addition, PMN degranulation was analysed not only in peripheral blood but also in dialyser eluates (DE).</AbstractText>
+                <AbstractText Label="SUBJECTS AND METHODS" NlmCategory="METHODS">Dialysers were eluted after 7 1/2 (DE-7 1/2) and 180 (DE-180) min of HD in eight patients. Blood samples were taken before HD (t0), and at t7 1/2 and t180. Besides WBC count and differentiation, PMN adhesion (CD11b and CD62L) and degranulation markers (CD63 and CD66b) were assessed by flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the blood, a WBC fall was noted at t7 1/2 (from 5.8 to 4.8 x 10(9)/l; absolute about 5 x 10(9) cells). DE contained 3.0 x 10(6) cells at t7 1/2, and 57.2 x 10(6) at t180 (P = 0.015). As for CD11b, at t7 1/2 both in the blood and DE an increased expression was observed, as compared to t0 (P = 0.01); CD11b expression in DE-7 1/2 was higher than in DE-180 (P = 0.025). In contrast, CD62L showed downregulation only in DE both at t7 1/2 (mean fluorescence intensity (MFI) PB 4172 and DE-7 1/2 2353, P = 0.01), and at t180 (MFI 794, P = 0.03 versus DE-7 1/2), when compared to blood at t0. As for degranulation markers, an increase was observed in blood at t7 1/2 (MFI CD63 from 357 to 506, P = 0.02; CD66b from 507 to 794, P = 0.001), in comparison with t0. Eluted PMN at t7 1/2 showed a higher expression of CD63 than PMN in blood at t7 1/2 and DE-180 (MFI in DE-7 1/2 1280 and blood 506, P = 0.003). The expression of CD66b was increased in DE-7 1/2 (MFI 1803 versus blood 794, P = 0.01), and even more in DE-180 (MFI 2763, P = 0.002), when compared to blood.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">From these data it is concluded first, that intradialyser PMN sequestration does not contribute markedly to the WBC nadir in the circulation. Second, intradialyser PMN trapping appears to result primarily from non-adhesion-molecule-mediated factors, as indicated by an increased expression of CD11b at t7 1/2 on eluted PMN associated with low cell numbers in DE, and normalized CD11b expression at t180 associated with considerably higher cell numbers in DE. Third, HD-induced degranulation seems to be a complex phenomenon. After a rapid transient onset, characterized by an early upregulation of CD63 and CD66b on PMN leaving the dialyser, degranulation continues within the device as indicated by an additional rise in the expression of CD66b on PMN in DE-180.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Grooteman</LastName>
+                    <ForeName>M P</ForeName>
+                    <Initials>MP</Initials>
+                    <Affiliation>Department of Nephrology, Medical Center Alkmaar, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bos</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Houte</LastName>
+                    <ForeName>A J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Limbeek</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schoorl</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nubé</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Nephrol Dial Transplant</MedlineTA>
+            <NlmUniqueID>8706402</NlmUniqueID>
+            <ISSNLinking>0931-0509</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granulocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophil Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9075130</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

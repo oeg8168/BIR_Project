@@ -1,0 +1,178 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22084943</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-2995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>52</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Recovery, survival, and function of transfused platelets and detection of platelet engraftment after allogeneic stem cell transplantation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1321-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1537-2995.2011.03442.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Recovery and survival of transfused platelets (PLTs) are usually assessed by radioisotope labeling methods for evaluation of transfusion efficacy and new progress in the processing of PLT concentrates. Alternative, nonradioactive methods are warranted.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">A multicolor flow cytometry method was developed for simultaneous studies of recovery, survival, and function of transfused PLTs. Eight consecutive patients undergoing allogeneic stem cell transplantation (TX) were transfused with apheresis PLTs of nonself human leukocyte antigen (HLA) Class I types, and HLA Class I discrepancy between donor and recipient was used to identify transfused PLTs. Hematologic status and HLA Class I surface expression were analyzed immediately before transfusion, 1 and 6 hours after transfusion, and daily during the subsequent week. PLT activation was assessed by surface expression of CD63, CD62P, or CD42a, before and after stimulation with thrombin receptor agonist peptide.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">PLT recovery was 43, 41, and 31% for fresh (5-72 hr old) and 30, 27, and 17% for stored (73-148 hr old) PLTs, after 1, 6, and 15 to 28 hours, respectively. Survival of fresh versus stored PLTs were 160 and 105 hours, respectively. Spontaneous PLT activation and residual activation potential were almost equal for fresh and stored PLTs. PLT engraftment was detected between Day 7 and Day 9, which was significantly earlier than first sign of neutrophil engraftment (Days 11-19; p=0.01).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Flow cytometry is an attractive alternative to radiolabeling of PLTs for simultaneous studies of survival, recovery, and function of transfused PLTs and early detection of PLT engraftment after allogeneic stem cell TX.</AbstractText>
+                <CopyrightInformation>© 2011 American Association of Blood Banks.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vetlesen</LastName>
+                    <ForeName>Annette</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Immunology and Transfusion Medicine, Oslo University Hospital HF, Ullevaal, Norway. annette.vetlesen@medisin.uio.no</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holme</LastName>
+                    <ForeName>Pål André</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyberg</LastName>
+                    <ForeName>Torstein</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kjeldsen-Kragh</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Specimen Collection</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Graft Survival</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Hematopoietic Stem Cell Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Transfusion</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plateletpheresis</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recovery of Function</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transplantation, Homologous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1537-2995.2011.03442.x</ArticleId>
+            <ArticleId IdType="pubmed">22084943</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

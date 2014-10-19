@@ -1,0 +1,191 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12483072</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0090-3493</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>30</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical care medicine</Title>
+                <ISOAbbreviation>Crit. Care Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sepsis- and endotoxemia-generated cytokines do not trigger activation of human platelets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2771-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To analyze the effect of cytokines generated in sepsis and endotoxemia (tumor necrosis factor [TNF]-alpha and interleukins [IL]-1beta, -6, and -8) on activation of human platelets and to study the effect of cytokines on platelet activation in the presence of alpha-thrombin, a potent inducer of coagulation and platelet activation generated in sepsis and endotoxemia.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">flow cytometric study of platelet activation induced by cytokines and/or thrombin in the whole blood and platelet-rich plasma (PRP) of healthy volunteers.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Research laboratory in a Canadian hospital.</AbstractText>
+                <AbstractText Label="SUBJECTS" NlmCategory="METHODS">Nine healthy volunteers recruited from laboratory staff.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Venous blood samples were obtained into acid-citrate-dextrose anticoagulant. Whole blood and PRP were diluted with appropriate buffer optimized for analyzing platelet activation by flow cytometry. TNF-alpha, IL-1beta, IL-6, and IL-8 were added to blood or PRP in concentrations ranging from 1 to 100 ng/mL and incubated for 15 mins at 37 degrees C in the presence or absence of a submaximal concentration of human alpha-thrombin (0.025 units/mL). Samples were stained with fluorescent antibodies against markers of platelet activation (P-selectin [CD62], lysosomal protein [CD63], and fibrinogen and von Willebrand factor receptors [CD41 and CD42b, respectively]) and analyzed by flow cytometry. The data obtained show that none of these cytokines trigger activation of resting platelets in whole blood or PRP and do not modulate the effect of thrombin on platelet activation as measured by quantitation of CD62, CD63, and CD42b markers on the platelet surface.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cytokines TNF-alpha, IL-1beta, IL-6, and IL-8, which are extensively produced in sepsis and endotoxemia, do not trigger activation of resting human platelets directly or indirectly by mediating processes in white or red blood cells. The cytokines did not affect thrombin-induced platelet activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Leytin</LastName>
+                    <ForeName>Valery</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Department of Transfusion Medicine, Shuter Wing, Room 2003, St. Michael's Hospital, 30 Bond Street, Toronto, Ontario M5B 1W8, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shakoor</LastName>
+                    <ForeName>Samantha</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mody</LastName>
+                    <ForeName>Meera</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allen</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garvey</LastName>
+                    <ForeName>Bernadette</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freedman</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Crit Care Med</MedlineTA>
+            <NlmUniqueID>0355501</NlmUniqueID>
+            <ISSNLinking>0090-3493</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-8</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endotoxemia</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-8</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sepsis</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12483072</ArticleId>
+            <ArticleId IdType="doi">10.1097/01.CCM.0000038285.92662.8A</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

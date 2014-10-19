@@ -1,0 +1,195 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11061584</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0009-9236</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical pharmacology and therapeutics</Title>
+                <ISOAbbreviation>Clin. Pharmacol. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Paroxetine decreases platelet serotonin storage and platelet function in human beings.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>435-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Serotonin is a platelet agonist and potent vasoconstrictor that has recently received attention concerning its potential role in acute coronary artery thrombosis. Selective serotonin-reuptake inhibitors, such as paroxetine, are widely used antidepressant agents. We sought to characterize the potential inhibitory effect of paroxetine on platelet function.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Healthy male volunteers received 20 mg/d paroxetine for 2 weeks in a randomized, double-blind, placebo-controlled, two-way cross-over trial.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Paroxetine decreased intraplatelet serotonin concentrations by -83% (P &lt; .01). This inhibited platelet plug formation as reflected by a 31% prolongation of closure time measured with the platelet function analyzer-100 (P &lt; .05). Furthermore, paroxetine lowered expression of the platelet activation marker CD63 in response to two different concentrations of thrombin receptor-activating peptide (P &lt; .01). Plasma concentrations of prothrombin fragment, von Willebrand factor antigen, and circulating P-selectin remained unchanged in either period, indicating that paroxetine does not increase activation of coagulation, endothelium, or platelets in vivo, underlining a favorable safety profile.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Paroxetine substantially decreases intraplatelet serotonin content and thereby reduces platelet plug formation under shear stress, and responsiveness to thrombin receptor activating peptide-induced platelet activation. Further studies will reveal whether these pharmacodynamic effects can be exploited for treatment of thrombotic artery disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hergovich</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Department of Clinical Pharmacology, University of Vienna, Austria.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aigner</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eichler</LastName>
+                    <ForeName>H G</ForeName>
+                    <Initials>HG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Entlicher</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drucker</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jilma</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Clin Pharmacol Ther</MedlineTA>
+            <NlmUniqueID>0372741</NlmUniqueID>
+            <ISSNLinking>0009-9236</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Serotonin Uptake Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>von Willebrand Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>333DO1RDJY</RegistryNumber>
+                <NameOfSubstance>Serotonin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>41VRH5220H</RegistryNumber>
+                <NameOfSubstance>Paroxetine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9001-26-7</RegistryNumber>
+                <NameOfSubstance>Prothrombin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Paroxetine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prothrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serotonin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serotonin Uptake Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">von Willebrand Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11061584</ArticleId>
+            <ArticleId IdType="pii">S0009-9236(00)74983-6</ArticleId>
+            <ArticleId IdType="doi">10.1067/mcp.2000.110456</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

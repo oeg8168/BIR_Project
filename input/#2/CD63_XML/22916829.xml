@@ -1,0 +1,182 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22916829</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1369-1635</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Platelets</Title>
+                <ISOAbbreviation>Platelets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>N-octanoyl-dopamine is a potent inhibitor of platelet function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>428-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/09537104.2012.715217</ELocationID>
+            <Abstract>
+                <AbstractText>Dopamine (DA) is a co-agonist for platelet activation; yet, donor DA treatment is associated with improved transplantation outcome in renal and heart recipients. Recently, N-octanoyl-dopamine (NOD) was developed which displays superior effects compared to DA in terms of graft protecting properties. Whereas DA is a known platelet co-agonist, the effect of NOD on platelet function is unknown. This is a hypothesis generating study with the aim to assess the effects and molecular mechanisms of NOD and NOD-like compounds on platelet function. The influence of DA, NOD, and NOD-like compounds on platelet responses to classical agonists (adenosine 5'-diphosphate (ADP), U46619) was investigated in six healthy donors by applying whole blood aggregometry (Multiplate®) and flow cytometry for Pac-1, CD62P, and CD63 expression. Changes in platelet cAMP concentrations were assessed by ELISA. While DA showed synergy in platelet activation by ADP and U46619, NOD caused significant inhibition of platelet function both in whole blood aggregometry and flow cytometry. The inhibitory effect of NOD was not mediated via cAMP levels. The nonredox-active NOD-analog N-octanoyl-tyramine had no effects on platelet function. Acetylated NOD conferred to NOD by intracellular esterases showed similar inhibitory effects as NOD. In contrast to DA, NOD is a potent inhibitor of platelet function most likely through intracellular redox-active processes. This adds to the overall protective effect of NOD on pre-transplantation injury and makes NOD an attractive candidate compound for donor or organ conditioning prior to transplantation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ait-Hsiko</LastName>
+                    <ForeName>Lamia</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Department of Nephrology, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraaij</LastName>
+                    <ForeName>Tineke</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wedel</LastName>
+                    <ForeName>Johannes</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theisinger</LastName>
+                    <ForeName>Bastian</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theisinger</LastName>
+                    <ForeName>Sonja</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yard</LastName>
+                    <ForeName>Benito</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bugert</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schedel</LastName>
+                    <ForeName>Angelika</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Platelets</MedlineTA>
+            <NlmUniqueID>9208117</NlmUniqueID>
+            <ISSNLinking>0953-7104</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>N-octanoyldopamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Fibrinogen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E0399OZS9N</RegistryNumber>
+                <NameOfSubstance>Cyclic AMP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>VTD58H1Z2X</RegistryNumber>
+                <NameOfSubstance>Dopamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cyclic AMP</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dopamine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Fibrinogen</DescriptorName>
+                <QualifierName MajorTopicYN="N">agonists</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/09537104.2012.715217</ArticleId>
+            <ArticleId IdType="pubmed">22916829</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

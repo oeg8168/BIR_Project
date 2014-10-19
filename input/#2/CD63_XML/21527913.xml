@@ -1,0 +1,581 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21527913</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2075</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>30</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jun</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The EMBO journal</Title>
+                <ISOAbbreviation>EMBO J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>LMP1 association with CD63 in endosomes and secretion via exosomes limits constitutive NF-κB activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2115-29</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/emboj.2011.123</ELocationID>
+            <Abstract>
+                <AbstractText>The ubiquitous Epstein Barr virus (EBV) exploits human B-cell development to establish a persistent infection in ?��90% of the world population. Constitutive activation of NF-κB by the viral oncogene latent membrane protein 1 (LMP1) has an important role in persistence, but is a risk factor for EBV-associated lymphomas. Here, we demonstrate that endogenous LMP1 escapes degradation upon accumulation within intraluminal vesicles of multivesicular endosomes and secretion via exosomes. LMP1 associates and traffics with the intracellular tetraspanin CD63 into vesicles that lack MHC II and sustain low cholesterol levels, even in 'cholesterol-trapping' conditions. The lipid-raft anchoring sequence FWLY, nor ubiquitylation of the N-terminus, controls LMP1 sorting into exosomes. Rather, C-terminal modifications that retain LMP1 in Golgi compartments preclude assembly within CD63-enriched domains and/or exosomal discharge leading to NF-κB overstimulation. Interference through shRNAs further proved the antagonizing role of CD63 in LMP1-mediated signalling. Thus, LMP1 exploits CD63-enriched microdomains to restrain downstream NF-κB activation by promoting trafficking in the endosomal-exosomal pathway. CD63 is thus a critical mediator of LMP1 function in- and outside-infected (tumour) cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Verweij</LastName>
+                    <ForeName>Frederik J</ForeName>
+                    <Initials>FJ</Initials>
+                    <Affiliation>Department of Pathology, Cancer Center Amsterdam, VU University Medical Center, Amsterdam, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Eijndhoven</LastName>
+                    <ForeName>Monique A J</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hopmans</LastName>
+                    <ForeName>Erik S</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vendrig</LastName>
+                    <ForeName>Tineke</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wurdinger</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cahir-McFarland</LastName>
+                    <ForeName>Ellen</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kieff</LastName>
+                    <ForeName>Elliott</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geerts</LastName>
+                    <ForeName>Dirk</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Kant</LastName>
+                    <ForeName>Rik</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neefjes</LastName>
+                    <ForeName>Jacques</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Middeldorp</LastName>
+                    <ForeName>Jaap M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pegtel</LastName>
+                    <ForeName>D Michiel</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA085180</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA085180</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>EMBO J</MedlineTA>
+            <NlmUniqueID>8208664</NlmUniqueID>
+            <ISSNLinking>0261-4189</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>EBV-associated membrane antigen, Epstein-Barr virus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Viral Matrix Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2007;23:519-47</RefSource>
+                <PMID Version="1">17506697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2008 Feb;5(2):171-3</RefSource>
+                <PMID Version="1">18204457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Feb 15;111(4):2280-9</RefSource>
+                <PMID Version="1">18042799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2010 Jan;11(1):110-22</RefSource>
+                <PMID Version="1">19912576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2010 Jan 1;184(1):236-43</RefSource>
+                <PMID Version="1">19949097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2010 Jan;84(2):1158-68</RefSource>
+                <PMID Version="1">19889783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2010 Jan 7;463(7277):88-92</RefSource>
+                <PMID Version="1">20054396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2003 Jun 16;22(12):3027-38</RefSource>
+                <PMID Version="1">12805217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 May 23;97(11):6055-60</RefSource>
+                <PMID Version="1">10811897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Jul 15;165(2):663-70</RefSource>
+                <PMID Version="1">10878338</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Aug 4;275(31):23491-9</RefSource>
+                <PMID Version="1">10807912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Oct 24;97(22):12250-5</RefSource>
+                <PMID Version="1">11035774</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2001 Jan;107(2):143-51</RefSource>
+                <PMID Version="1">11160127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2001 Apr 10;98(8):4675-80</RefSource>
+                <PMID Version="1">11296297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Jun 1;20(11):2641-54</RefSource>
+                <PMID Version="1">11387199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2009 Sep;10(9):1008-17</RefSource>
+                <PMID Version="1">19648924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2009 Oct;10(10):1518-27</RefSource>
+                <PMID Version="1">19566897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2009 Oct;10(10):1528-42</RefSource>
+                <PMID Version="1">19682328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Mar 28;278(13):10963-72</RefSource>
+                <PMID Version="1">12519789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Apr;4(4):222-31</RefSource>
+                <PMID Version="1">12694561</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Jun 1;63(11):2982-9</RefSource>
+                <PMID Version="1">12782607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cold Spring Harb Perspect Biol. 2010 Jun;2(6):a000109</RefSource>
+                <PMID Version="1">20516126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 Sep 20;190(6):1079-91</RefSource>
+                <PMID Version="1">20837771</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Nov 23;107(47):20370-5</RefSource>
+                <PMID Version="1">21059916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Apr 6;107(14):6328-33</RefSource>
+                <PMID Version="1">20304794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2003 Jul;84(Pt 7):1871-9</RefSource>
+                <PMID Version="1">12810882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2003;72:395-447</RefSource>
+                <PMID Version="1">12651740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Dec 15;102(13):4336-44</RefSource>
+                <PMID Version="1">12881314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Dec 15;102(13):4535-40</RefSource>
+                <PMID Version="1">12920032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Dec 23;100(26):15595-600</RefSource>
+                <PMID Version="1">14673102</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jan 6;101(1):278-83</RefSource>
+                <PMID Version="1">14695890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Mar 25;350(13):1328-37</RefSource>
+                <PMID Version="1">15044644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1985 Dec;43(3 Pt 2):831-40</RefSource>
+                <PMID Version="1">3000618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2001 Dec 17;194(12):1861-74</RefSource>
+                <PMID Version="1">11748286</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2001 Oct;1(1):75-82</RefSource>
+                <PMID Version="1">11905817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Mar;77(6):3749-58</RefSource>
+                <PMID Version="1">12610149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Feb 29;319(5867):1244-7</RefSource>
+                <PMID Version="1">18309083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2008 Apr 1;111(7):3813-20</RefSource>
+                <PMID Version="1">18230756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2008 May;38(5):1423-34</RefSource>
+                <PMID Version="1">18425730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2008 May 1;27(20):2833-42</RefSource>
+                <PMID Version="1">18037963</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2008 Jun 9;205(6):1317-29</RefSource>
+                <PMID Version="1">18490492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2008 Dec;18(6):388-96</RefSource>
+                <PMID Version="1">19013244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2009 Feb;29(4):1083-94</RefSource>
+                <PMID Version="1">19075008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2009 Feb 15;182(4):1919-28</RefSource>
+                <PMID Version="1">19201845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2009 Apr;83(8):3968-76</RefSource>
+                <PMID Version="1">19193789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2009 Jun 29;185(7):1209-25</RefSource>
+                <PMID Version="1">19564404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2009 Jul;10(7):925-37</RefSource>
+                <PMID Version="1">19490536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Mar;61(3):866-75</RefSource>
+                <PMID Version="1">3027413</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1987 Jul;61(7):2100-8</RefSource>
+                <PMID Version="1">3035211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1989 Jun;63(6):2469-75</RefSource>
+                <PMID Version="1">2542565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Jun;65(6):3246-58</RefSource>
+                <PMID Version="1">1827846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1994 Oct 1;180(4):1367-74</RefSource>
+                <PMID Version="1">7931070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1996 Sep 1;223(1):29-40</RefSource>
+                <PMID Version="1">8806537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Nov;135(3):611-22</RefSource>
+                <PMID Version="1">8909537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1997 Oct 15;16(20):6131-40</RefSource>
+                <PMID Version="1">9359753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1998 May 14;338(20):1413-21</RefSource>
+                <PMID Version="1">9580648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1999 Jan 14;9(1):55-8</RefSource>
+                <PMID Version="1">9889123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1999 May;179(5):1108-15</RefSource>
+                <PMID Version="1">10191211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2005 Feb;22(2):221-33</RefSource>
+                <PMID Version="1">15723810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mod Pathol. 2005 Apr;18(4):519-27</RefSource>
+                <PMID Version="1">15696119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 Jan 12;25(2):288-97</RefSource>
+                <PMID Version="1">16247482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Mar 1;107(5):2070-8</RefSource>
+                <PMID Version="1">16317104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Apr 10;173(1):19-26</RefSource>
+                <PMID Version="1">16606690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jun 5;173(5):795-807</RefSource>
+                <PMID Version="1">16735575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):4120-30</RefSource>
+                <PMID Version="1">16917502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Nov;80(21):10787-93</RefSource>
+                <PMID Version="1">16928765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2006 Dec;6(24):6447-54</RefSource>
+                <PMID Version="1">17109380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leuk Res. 2007 Mar;31(3):315-20</RefSource>
+                <PMID Version="1">16919331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2006;6:283</RefSource>
+                <PMID Version="1">17156439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2007 Apr 10;360(2):461-8</RefSource>
+                <PMID Version="1">17150237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2007 Oct 1;121(7):1494-506</RefSource>
+                <PMID Version="1">17546597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2007 Sep;81(17):9121-30</RefSource>
+                <PMID Version="1">17581993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2007 Aug;19(4):459-65</RefSource>
+                <PMID Version="1">17689064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 Sep 1;13(17):4993-5000</RefSource>
+                <PMID Version="1">17785549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2007 Oct 3;26(19):4263-72</RefSource>
+                <PMID Version="1">17805347</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Herpesvirus 4, Human</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Viral Matrix Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3117644</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">emboj2011123</ArticleId>
+            <ArticleId IdType="doi">10.1038/emboj.2011.123</ArticleId>
+            <ArticleId IdType="pubmed">21527913</ArticleId>
+            <ArticleId IdType="pmc">PMC3117644</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

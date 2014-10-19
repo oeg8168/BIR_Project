@@ -1,0 +1,188 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19894777</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>07</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1173-8804</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy</Title>
+                <ISOAbbreviation>BioDrugs</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Strategies for targeting tetraspanin proteins: potential therapeutic applications in microbial infections.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>341-59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2165/11315650-000000000-00000</ELocationID>
+            <Abstract>
+                <AbstractText>The identification of novel targets and strategies for therapy of microbial infections is an area of intensive research due to the failure of conventional vaccines or antibiotics to combat both newly emerging diseases (e.g. viruses such as severe acute respiratory syndrome (SARS) and new influenza strains, and antibiotic-resistant bacteria) and entrenched, pandemic diseases exemplified by HIV. One clear approach to this problem is to target processes of the host organism rather than the microbe. Recent data have indicated that members of the tetraspanin superfamily, proteins with a widespread distribution in eukaryotic organisms and 33 members in humans, may provide such an approach. Tetraspanins traverse the membrane four times, but are distinguished from other four-pass membrane proteins by the presence of conserved charged residues in the transmembrane domains and a defining 'signature' motif in the larger of the two extracellular domains (the EC2). They characteristically form promiscuous associations with one another and with other membrane proteins and lipids to generate a specialized type of microdomain: the tetraspanin-enriched microdomain (TEM). TEMs are integral to the main role of tetraspanins as 'molecular organizers' involved in functions such as membrane trafficking, cell-cell fusion, motility, and signaling. Increasing evidence demonstrates that tetraspanins are used by intracellular pathogens as a means of entering and replicating within human cells. Although previous investigations focused mainly on viruses such as hepatitis C and HIV, it is now becoming clear that other microbes associate with tetraspanins, using TEMs as a 'gateway' to infection. In this article we review the properties and functions of tetraspanins/TEMs that are relevant to infective processes and discuss the accumulating evidence that shows how different pathogens exploit these properties in infection and in the pathogenesis of disease. We then investigate the novel and exciting possibilities of targeting tetraspanins for the treatment of infectious disease, using specific antibodies, recombinant EC2 domains, small-molecule mimetics, and small interfering RNA. Such therapies, directed at host-cell molecules, may provide alternative options for combating fast-mutating or newly emerging pathogens, where conventional approaches face difficulties.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hassuna</LastName>
+                    <ForeName>Noha</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Department of Molecular Biology and Biotechnology, Krebs Institute, University of Sheffield, Sheffield, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monk</LastName>
+                    <ForeName>Peter N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moseley</LastName>
+                    <ForeName>Gregory W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Partridge</LastName>
+                    <ForeName>Lynda J</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>BioDrugs</MedlineTA>
+            <NlmUniqueID>9705305</NlmUniqueID>
+            <ISSNLinking>1173-8804</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Infective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Infective Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Infections</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Delivery Systems</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virus Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>191</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">2</ArticleId>
+            <ArticleId IdType="doi">10.2165/11315650-000000000-00000</ArticleId>
+            <ArticleId IdType="pubmed">19894777</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

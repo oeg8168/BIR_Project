@@ -1,0 +1,127 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24260732</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2233-8276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Asia Pacific allergy</Title>
+                <ISOAbbreviation>Asia Pac Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Recent applications of basophil activation tests in the diagnosis of drug hypersensitivity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>266-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5415/apallergy.2013.3.4.266</ELocationID>
+            <Abstract>
+                <AbstractText>Immediate-type drug hypersensitivity is an increasingly significant clinical issue; however, the diagnosis is frequently hindered due to lack of safe and precise diagnostic tests. Flow cytometry-assisted basophil activation test is a safe in vitro diagnostic tool for assessing basophil activation upon allergen stimulation. In this review, we have summarized current literature on the diagnostic utilities, new indications, and methodological aspects of the basophil activation test for the diagnosis of drug hypersensitivity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Woo-Jung</ForeName>
+                    <Initials>WJ</Initials>
+                    <Affiliation>Department of Internal Medicine, Seoul National University College of Medicine, Seoul 100-799, Korea. ; Institute of Allergy and Clinical Immunology, Seoul National University Medical Research Center, Seoul 100-799, Korea.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Yoon-Seok</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Asia Pac Allergy</MedlineTA>
+            <NlmUniqueID>101561954</NlmUniqueID>
+            <ISSNLinking>2233-8276</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3826605</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Basophil activation test</Keyword>
+            <Keyword MajorTopicYN="N">Basophils</Keyword>
+            <Keyword MajorTopicYN="N">CD203c</Keyword>
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">Drug hypersensitivity</Keyword>
+            <Keyword MajorTopicYN="N">Immunologic tests</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.5415/apallergy.2013.3.4.266</ArticleId>
+            <ArticleId IdType="pubmed">24260732</ArticleId>
+            <ArticleId IdType="pmc">PMC3826605</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

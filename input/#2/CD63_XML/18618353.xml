@@ -1,0 +1,180 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18618353</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>03</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2060</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of medicine</Title>
+                <ISOAbbreviation>Ann. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Soluble, platelet-bound, and total P-selectin as indices of platelet activation in congestive heart failure.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>45-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/07853890802227089</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Many complications associated with congestive heart failure (CHF) have a thrombosis-related aetiology. Platelets play an important role in thrombogenesis, but it is not clear whether circulating platelets actively participate in thrombosis-related complications associated with CHF.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether soluble P-selectin, platelet surface P-selectin, and total platelet P-selectin as indices of platelet activation in CHF patients-compared to 'disease controls' and 'healthy controls'-and to assess their prognostic value in CHF.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We measured soluble P-selectin (sP-sel, by enzyme-linked immunosorbent assay, ELISA), total platelet P-selectin (pP-sel, by a novel 'platelet lysate' assay), platelet surface P-selectin (CD62P%G) and platelet surface CD63 (CD63%G) expression by flow cytometry-in 108 patients with stable congestive heart failure (all with left ventricular ejection fraction (LVEF) &lt;50%). Levels were compared with 50 healthy controls and 70 'disease controls' (patients with coronary artery disease with normal left ventricular systolic function).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">CHF patients and disease controls had higher sP-sel, CD62P%G and CD63%G than healthy controls. There were no significant correlations between sP-sel, pP-sel, CD62P%G and CD63%G with ejection fraction (all P&gt;0.05). There were no differences in these markers when ischaemic and non-ischaemic aetiologies of CHF were compared. After a median follow-up of 490 days (range 340-535), there were 7 deaths, 15 hospitalizations for worsening heart failure, 1 for cardiac resynchronization therapy, 4 for revascularizations, 4 for myocardial infarctions, and 1 stroke. None of the platelet markers were predictive of the composite end-point at follow-up.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Patients with stable CHF exhibit evidence of abnormal platelet activation, despite usage of antiplatelet agents. These abnormalities did not determine prognosis and were broadly similar to those seen in 'disease controls' indicating that platelet abnormalities in CHF may simply be related to associated comorbidities.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Haemostasis, Thrombosis, and Vascular Biology Unit, University Department of Medicine, City Hospital, Birmingham, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhury</LastName>
+                    <ForeName>Anirban</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Jeetesh</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lip</LastName>
+                    <ForeName>Gregory Y H</ForeName>
+                    <Initials>GY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Sweden</Country>
+            <MedlineTA>Ann Med</MedlineTA>
+            <NlmUniqueID>8906388</NlmUniqueID>
+            <ISSNLinking>0785-3890</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Aggregation Inhibitors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">794905046</ArticleId>
+            <ArticleId IdType="doi">10.1080/07853890802227089</ArticleId>
+            <ArticleId IdType="pubmed">18618353</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

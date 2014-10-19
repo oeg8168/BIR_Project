@@ -1,0 +1,371 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">2164634</PMID>
+        <DateCreated>
+            <Year>1990</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1990</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0270-7306</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1990</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular biology</Title>
+                <ISOAbbreviation>Mol. Cell. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence for epidermal growth factor (EGF)-induced intermolecular autophosphorylation of the EGF receptors in living cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4035-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In response to epidermal growth factor (EGF) stimulation, the intrinsic protein tyrosine kinase of EGF receptor is activated, leading to tyrosine phosphorylation of several cellular substrate proteins, including the EGF receptor molecule itself. To test the mechanism of EGF receptor autophosphorylation in living cells, we established transfected cell lines coexpressing a kinase-negative point mutant of EGF receptor (K721A) with an active EGF receptor mutant lacking 63 amino acids from its carboxy terminus. The addition of EGF to these cells caused tyrosine phosphorylation of the kinase-negative mutant by the active receptor molecule, demonstrating EGF receptor cross-phosphorylation in living cells. After internalization the kinase-negative mutant and CD63 have separate trafficking pathways. This limits their association and the extent of cross-phosphorylation of K721A by CD63. The coexpression of the kinase-negative mutant together with active EGF receptors in the same cells suppressed the mitogenic response toward EGF as compared with that in cells that express active receptors alone. The presence of the kinase-negative mutant functions as a negative dominant mutation suppressing the response of active EGF receptors, probably by interfering with EGF-induced signal transduction. It appears, therefore, that crucial events of signal transduction occur before K721A and active EGF receptors are separated by their different endocytic itineraries.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Honegger</LastName>
+                    <ForeName>A M</ForeName>
+                    <Initials>AM</Initials>
+                    <Affiliation>Rorer Biotechnology, Inc., King of Prussia, Pennsylvania 19406.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ullrich</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schlessinger</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Mol Cell Biol</MedlineTA>
+            <NlmUniqueID>8109087</NlmUniqueID>
+            <ISSNLinking>0270-7306</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphopeptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62229-50-9</RegistryNumber>
+                <NameOfSubstance>Epidermal Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Protein-Tyrosine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Receptor, Epidermal Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.4</RegistryNumber>
+                <NameOfSubstance>Trypsin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>NI40JAQ945</RegistryNumber>
+                <NameOfSubstance>Tetradecanoylphorbol Acetate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>VC2W18DGKR</RegistryNumber>
+                <NameOfSubstance>Thymidine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1987 Sep;6(9):2669-76</RefSource>
+                <PMID Version="1">2824188</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Oct 25;262(30):14663-71</RefSource>
+                <PMID Version="1">3312193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1978 Jun;75(6):2659-63</RefSource>
+                <PMID Version="1">307249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1979 Apr;16(4):777-85</RefSource>
+                <PMID Version="1">222468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1981 Jun;24(3):741-52</RefSource>
+                <PMID Version="1">6166387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1983 Jun;80(11):3237-40</RefSource>
+                <PMID Version="1">6574482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Mar 5;263(7):3290-5</RefSource>
+                <PMID Version="1">3257758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1987 Dec;7(12):4568-71</RefSource>
+                <PMID Version="1">3501826</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Jun 5;263(16):7450-3</RefSource>
+                <PMID Version="1">2836384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1988 Jul 1;241(4861):42-52</RefSource>
+                <PMID Version="1">3291115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1988 Mar;7(3):707-10</RefSource>
+                <PMID Version="1">3260862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1988 Aug 19;241(4868):968-70</RefSource>
+                <PMID Version="1">2457254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1988;57:443-78</RefSource>
+                <PMID Version="1">3052279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1988 Oct;7(10):3045-52</RefSource>
+                <PMID Version="1">3263271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1988 Oct;7(10):3053-60</RefSource>
+                <PMID Version="1">3181128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1989 Feb;86(3):925-9</RefSource>
+                <PMID Version="1">2915986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1988 Nov 15;256(1):109-15</RefSource>
+                <PMID Version="1">3265618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 Apr 25;264(12):6831-5</RefSource>
+                <PMID Version="1">2785109</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 Jun 25;264(18):10667-71</RefSource>
+                <PMID Version="1">2543678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jun 30;57(7):1101-7</RefSource>
+                <PMID Version="1">2472218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1989 Jun 30;57(7):1109-22</RefSource>
+                <PMID Version="1">2472219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1988 Nov;13(11):443-7</RefSource>
+                <PMID Version="1">3075366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 May;110(5):1541-8</RefSource>
+                <PMID Version="1">2335562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Regul. 1990 Jan;1(2):173-88</RefSource>
+                <PMID Version="1">2100196</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1984 May 31-Jun 6;309(5967):418-25</RefSource>
+                <PMID Version="1">6328312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1985 Mar;40(3):619-25</RefSource>
+                <PMID Version="1">2982501</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1985;54:897-930</RefSource>
+                <PMID Version="1">2992362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1985 Dec 1;4(12):3179-82</RefSource>
+                <PMID Version="1">3004938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1986 Jun 6;45(5):721-32</RefSource>
+                <PMID Version="1">3518947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1986 Feb;5(2):247-50</RefSource>
+                <PMID Version="1">3011399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1986 Sep 25;261(27):12490-7</RefSource>
+                <PMID Version="1">3017977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1986 Dec;103(6 Pt 1):2067-72</RefSource>
+                <PMID Version="1">3023396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Feb 5;262(4):1842-7</RefSource>
+                <PMID Version="1">3100537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Apr 10;49(1):65-73</RefSource>
+                <PMID Version="1">3103925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Apr 10;49(1):75-82</RefSource>
+                <PMID Version="1">3103926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Apr 10;49(1):83-91</RefSource>
+                <PMID Version="1">3103927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1987 Mar 10;26(5):1443-51</RefSource>
+                <PMID Version="1">3494473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1987 Mar;6(3):659-66</RefSource>
+                <PMID Version="1">3034604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Aug 25;262(24):11833-40</RefSource>
+                <PMID Version="1">2957374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1987 Aug 27-Sep 2;328(6133):820-3</RefSource>
+                <PMID Version="1">3498122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1987 Oct 23;51(2):199-209</RefSource>
+                <PMID Version="1">3499230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Feb 15;263(5):2230-7</RefSource>
+                <PMID Version="1">3257489</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Replication</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidermal Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphates</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphopeptides</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein-Tyrosine Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, Epidermal Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tetradecanoylphorbol Acetate</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thymidine</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Trypsin</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC360914</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1990</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1990</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1990</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2164634</ArticleId>
+            <ArticleId IdType="pmc">PMC360914</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

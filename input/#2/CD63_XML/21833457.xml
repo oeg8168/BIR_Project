@@ -1,0 +1,540 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21833457</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1528-3658</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>11-12</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular medicine (Cambridge, Mass.)</Title>
+                <ISOAbbreviation>Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A dual role for diacylglycerol kinase generated phosphatidic acid in autoantibody-induced neutrophil exocytosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1242-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2119/molmed.2011.00028</ELocationID>
+            <Abstract>
+                <AbstractText>Dysregulated release of neutrophil azurophilic granules causes increased tissue damage and amplified inflammation during autoimmune disease. Antineutrophil cytoplasmic antibodies (ANCAs) are implicated in the pathogenesis of small vessel vasculitis and promote adhesion and exocytosis in neutrophils. ANCAs activate specific signal transduction pathways in neutrophils that have the potential to be modulated therapeutically to prevent neutrophil activation by ANCAs. We have investigated a role for diacylglycerol kinase (DGK) and its downstream product phosphatidic acid (PA) in ANCA-induced neutrophil exocytosis. Neutrophils incubated with the DGK inhibitor R59022, before treatment with ANCAs, exhibited a reduced capacity to release their azurophilic granules, demonstrated by a component release assay and flow cytometry. PA restored azurophilic granule release in DGK-inhibited neutrophils. Confocal microscopy revealed that R59022 did not inhibit translocation of granules, indicating a role for DGK during the process of granule fusion at the plasma membrane. In investigating possible mechanisms by which PA promotes neutrophil exocytosis, we demonstrated that exocytosis can only be restored in R59022-treated cells through simultaneous modulation of membrane fusion and increasing cytosolic calcium. PA and its associated pathways may represent viable drug targets to reduce tissue injury associated with ANCA-associated vasculitic diseases and other neutrophilic inflammatory disorders.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Holden</LastName>
+                    <ForeName>Neil J</ForeName>
+                    <Initials>NJ</Initials>
+                    <Affiliation>Renal Immunobiology, School of Immunity and Infection, University of Birmingham, Birmingham, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savage</LastName>
+                    <ForeName>Caroline O S</ForeName>
+                    <Initials>CO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Young</LastName>
+                    <ForeName>Stephen P</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wakelam</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harper</LastName>
+                    <ForeName>Lorraine</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>Julie M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>G0600069</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0801160</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Med</MedlineTA>
+            <NlmUniqueID>9501023</NlmUniqueID>
+            <ISSNLinking>1076-1551</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Actins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Antineutrophil Cytoplasmic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin Fab Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysophosphatidylcholines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphatidic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyrimidinones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Thiazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56092-81-0</RegistryNumber>
+                <NameOfSubstance>Ionomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>93076-89-2</RegistryNumber>
+                <NameOfSubstance>R 59022</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.7</RegistryNumber>
+                <NameOfSubstance>Peroxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.107</RegistryNumber>
+                <NameOfSubstance>Diacylglycerol Kinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuron. 2007 Feb 15;53(4):563-75</RefSource>
+                <PMID Version="1">17296557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Oct 3;103(40):14761-6</RefSource>
+                <PMID Version="1">17001002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2007 May;292(5):C1690-700</RefSource>
+                <PMID Version="1">17202227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2007 May 25;316(5828):1205-8</RefSource>
+                <PMID Version="1">17478680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pancreas. 2007 Jul;35(1):37-41</RefSource>
+                <PMID Version="1">17575543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2007 Jul;171(1):349-60</RefSource>
+                <PMID Version="1">17591979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Jul 27;282(30):21746-57</RefSource>
+                <PMID Version="1">17540765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2007;601:69-74</RefSource>
+                <PMID Version="1">17712993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Struct Mol Biol. 2007 Oct;14(10):904-11</RefSource>
+                <PMID Version="1">17891149</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2008 Feb;19(2):485-97</RefSource>
+                <PMID Version="1">18003982</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2008 Sep 15;95(6):2636-46</RefSource>
+                <PMID Version="1">18515396</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2008 Nov;295(5):C1354-65</RefSource>
+                <PMID Version="1">18799653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 Apr 17;324(5925):384-7</RefSource>
+                <PMID Version="1">19325080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2010 Aug;299(2):C335-44</RefSource>
+                <PMID Version="1">20427710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 Sep 1;98(5):1448-55</RefSource>
+                <PMID Version="1">11520794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Jan 3;1483(1):161-73</RefSource>
+                <PMID Version="1">10601705</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Mar 3;469(1):52-6</RefSource>
+                <PMID Version="1">10708755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2000 Apr 1;59(7):763-72</RefSource>
+                <PMID Version="1">10718334</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2000 Jun;43(6):1257-65</RefSource>
+                <PMID Version="1">10857784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Sep 1;19(17):4614-22</RefSource>
+                <PMID Version="1">10970854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2001 Mar 1;410(6824):41-9</RefSource>
+                <PMID Version="1">11242035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2001 Dec;108(12):1759-70</RefSource>
+                <PMID Version="1">11748259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Commun Adhes. 2001;8(3):125-38</RefSource>
+                <PMID Version="1">11936187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Motil Cytoskeleton. 2003 Feb;54(2):135-46</RefSource>
+                <PMID Version="1">12529859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Feb 3;160(3):375-85</RefSource>
+                <PMID Version="1">12551955</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2003 Mar;14(3):661-9</RefSource>
+                <PMID Version="1">12595502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2003 May;111(5):923-32; quiz 933</RefSource>
+                <PMID Version="1">12743551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jul 25;278(30):27540-7</RefSource>
+                <PMID Version="1">12746430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Sep 12;278(37):35629-35</RefSource>
+                <PMID Version="1">12832407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2004 Mar;15(3):796-808</RefSource>
+                <PMID Version="1">14978183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Oct 22;279(43):44763-74</RefSource>
+                <PMID Version="1">15310762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Clin Lab Invest. 1982 May;42(3):235-8</RefSource>
+                <PMID Version="1">7134807</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1983 Feb 10;258(3):2034-40</RefSource>
+                <PMID Version="1">6822547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1985 Dec 15;260(29):15762-70</RefSource>
+                <PMID Version="1">2999135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1986 Aug 1;137(3):952-61</RefSource>
+                <PMID Version="1">2424993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1988 Jun 30;153(3):1097-104</RefSource>
+                <PMID Version="1">2839168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1988 Aug 15;263(23):11098-105</RefSource>
+                <PMID Version="1">2841319</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1989 Feb 28;159(1):79-86</RefSource>
+                <PMID Version="1">2466463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1990 Apr 16;168(1):320-7</RefSource>
+                <PMID Version="1">2328008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1991 Aug;88(2):531-9</RefSource>
+                <PMID Version="1">1864964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1993 Nov 5;75(3):409-18</RefSource>
+                <PMID Version="1">8221884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Biomed Eng. 1995 Sep-Oct;23(5):666-71</RefSource>
+                <PMID Version="1">7503466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Oct 15;157(8):3617-26</RefSource>
+                <PMID Version="1">8871662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Signal. 1996 Aug;8(5):349-54</RefSource>
+                <PMID Version="1">8911683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jul 11;272(28):17354-9</RefSource>
+                <PMID Version="1">9211874</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1997 Sep 29;238(3):910-5</RefSource>
+                <PMID Version="1">9325191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1997 Nov 8;1349(1):81-95</RefSource>
+                <PMID Version="1">9421199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1998 Jun;23(6):200-4</RefSource>
+                <PMID Version="1">9644971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Dec 8;1436(1-2):117-26</RefSource>
+                <PMID Version="1">9838074</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1998 Dec 15;92(12):4819-27</RefSource>
+                <PMID Version="1">9845549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2004 Nov 3;1666(1-2):62-87</RefSource>
+                <PMID Version="1">15519309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 2005 Feb 15;44(6):2097-102</RefSource>
+                <PMID Version="1">15697235</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2005 Aug 1;308(1):156-65</RefSource>
+                <PMID Version="1">15916759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pharmacol Ther. 2005 Sep;107(3):358-76</RefSource>
+                <PMID Version="1">15951020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2005 Oct;4(10):1503-21</RefSource>
+                <PMID Version="1">15985654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Pharmacol. 2006 Apr;6(2):190-6</RefSource>
+                <PMID Version="1">16483847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2006 May;54(5):1619-28</RefSource>
+                <PMID Version="1">16646023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Sep 1;177(5):2831-41</RefSource>
+                <PMID Version="1">16920918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Soc Nephrol. 2007 Apr;18(4):1112-20</RefSource>
+                <PMID Version="1">17360949</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actin Cytoskeleton</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Antineutrophil Cytoplasmic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diacylglycerol Kinase</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin Fab Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin G</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Space</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ionomycin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysophosphatidylcholines</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Fusion</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peroxidase</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidic Acids</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrimidinones</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thiazoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3321818</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">molmed.2011.00028</ArticleId>
+            <ArticleId IdType="doi">10.2119/molmed.2011.00028</ArticleId>
+            <ArticleId IdType="pubmed">21833457</ArticleId>
+            <ArticleId IdType="pmc">PMC3321818</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

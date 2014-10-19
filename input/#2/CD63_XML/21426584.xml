@@ -1,0 +1,308 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">21426584</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1757-4749</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gut pathogens</Title>
+                <ISOAbbreviation>Gut Pathog</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Helicobacter pylori phagosome maturation in primary human macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1757-4749-3-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Helicobacter pylori (H. pylori) is a micro-aerophilic, spiral-shaped, motile bacterium that is the principal cause of gastric and duodenal ulcers in humans and is a major risk factor for the development of gastric cancer. Despite provoking a strong innate and adaptive immune response in the host, H. pylori persists in the gastric mucosa, avoiding eradication by macrophages and other phagocytic cells, which are recruited to the site of infection. Here we have characterised the critical degradative process of phagosome maturation in primary human macrophages for five genotypically and phenotypically distinct clinical strains of H. pylori.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">All of the H. pylori strains examined showed some disruption to the phagosome maturation process, when compared to control E. coli. The early endosome marker EEA1 and late endosome marker Rab7 were retained on H. pylori phagosomes, while the late endosome-lysosome markers CD63, LAMP-1 and LAMP-2 were acquired in an apparently normal manner. Acquisition of EEA1 by H. pylori phagosomes appeared to occur by two distinct, strain specific modes. H. pylori strains that were negative for the cancer associated virulence factor CagA were detected in phagosomes that recruited large amounts of EEA1 relative to Rab5, compared to CagA positive strains. There were also strain specific differences in the timing of Rab7 acquisition which correlated with differences in the rate of intracellular trafficking of phagosomes and the timing of megasome formation. Megasomes were observed for all of the H. pylori strains examined.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">H. pylori appeared to disrupt the normal process of phagosome maturation in primary human macrophages, appearing to block endosome fission. This resulted in the formation of a hybrid phagosome-endosome-lysosome compartment, which we propose has reduced degradative capacity. Reduced killing by phagocytes is consistent with the persistence of H. pylori in the host, and would contribute to the chronic stimulation of the inflammatory immune response, which underlies H. pylori-associated disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Borlace</LastName>
+                    <ForeName>Glenn N</ForeName>
+                    <Initials>GN</Initials>
+                    <Affiliation>Mechanisms in Cell Biology and Disease Research Group, Sansom Institute for Health Research, School of Pharmacy and Medical Sciences, University of South Australia, South Australia, Australia. doug.brooks@unisa.edu.au.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Hilary F</ForeName>
+                    <Initials>HF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keep</LastName>
+                    <ForeName>Stacey J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Butler</LastName>
+                    <ForeName>Ross N</ForeName>
+                    <Initials>RN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brooks</LastName>
+                    <ForeName>Doug A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Gut Pathog</MedlineTA>
+            <NlmUniqueID>101474263</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2002 Oct;70(10):5816-21</RefSource>
+                <PMID Version="1">12228312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pathol Int. 2002 Apr;52(4):265-71</RefSource>
+                <PMID Version="1">12031081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2003 Dec;5(12):887-99</RefSource>
+                <PMID Version="1">14641174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1991 Aug 10;338(8763):332-5</RefSource>
+                <PMID Version="1">1677696</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1990 Apr;161(4):626-33</RefSource>
+                <PMID Version="1">2181029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1994 Dec 23;269(51):32194-200</RefSource>
+                <PMID Version="1">7798218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 Mar;124(5):677-88</RefSource>
+                <PMID Version="1">8120091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>APMIS. 1993 Jan;101(1):61-72</RefSource>
+                <PMID Version="1">8457327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Gastroenterol Suppl. 1996;220:3-9</RefSource>
+                <PMID Version="1">8898429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Gastroenterol Suppl. 1996;220:23-6</RefSource>
+                <PMID Version="1">8898432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 1997 Apr;112(4):1386-97</RefSource>
+                <PMID Version="1">9098027</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Gastroenterol. 1998 Jul;33(7):704-9</RefSource>
+                <PMID Version="1">9712233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Chem. 1998 Oct;44(10):2094-102</RefSource>
+                <PMID Version="1">9761240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Genet Metab. 1999 Mar;66(3):179-88</RefSource>
+                <PMID Version="1">10066386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 1999 Sep;45(3):465-74</RefSource>
+                <PMID Version="1">10446121</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1999 Nov;66(5):753-6</RefSource>
+                <PMID Version="1">10577505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2000 Jan 3;191(1):115-28</RefSource>
+                <PMID Version="1">10620610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Feb 25;287(5457):1497-500</RefSource>
+                <PMID Version="1">10688800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Feb 15;20(4):683-93</RefSource>
+                <PMID Version="1">11179213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2001 Jan;3(1):21-31</RefSource>
+                <PMID Version="1">11207617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 2001 Sep;46(9):1943-51</RefSource>
+                <PMID Version="1">11575447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2001 Oct 30;11(21):1680-5</RefSource>
+                <PMID Version="1">11696325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2001 Nov;8(5):947-58</RefSource>
+                <PMID Version="1">11741531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2002 Sep 15;366(Pt 3):689-704</RefSource>
+                <PMID Version="1">12061891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2003 Jan;5(1):25-40</RefSource>
+                <PMID Version="1">12542468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2003 May 1;89(1):56-66</RefSource>
+                <PMID Version="1">12682908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2005 Jul;7(7):911-9</RefSource>
+                <PMID Version="1">15953024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2006 Jun;79(6):1214-25</RefSource>
+                <PMID Version="1">16543403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 2006 Oct;19(4):597-613</RefSource>
+                <PMID Version="1">17041136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2007 Apr;9(4):891-909</RefSource>
+                <PMID Version="1">17087732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2007 Apr;9(4):817-28</RefSource>
+                <PMID Version="1">17346311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2007 Oct;219:103-17</RefSource>
+                <PMID Version="1">17850485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Feb;10(2):529-48</RefSource>
+                <PMID Version="1">17986264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Jun;10(6):1209-20</RefSource>
+                <PMID Version="1">18363881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Helicobacter. 2008 Oct;13(5):380-7</RefSource>
+                <PMID Version="1">19250513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Immunol Med Microbiol. 2009 Jul;56(2):112-5</RefSource>
+                <PMID Version="1">19453756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1983 Jun 5;166(4):557-80</RefSource>
+                <PMID Version="1">6345791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 28;270(30):17771-7</RefSource>
+                <PMID Version="1">7629077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1995 Jan;63(1):94-8</RefSource>
+                <PMID Version="1">7806390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Dec 10;93(25):14648-53</RefSource>
+                <PMID Version="1">8962108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 1997 Oct;10(4):720-41</RefSource>
+                <PMID Version="1">9336670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1998 Dec;66(12):5964-71</RefSource>
+                <PMID Version="1">9826379</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Sep;4(9):600-6</RefSource>
+                <PMID Version="1">12911814</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC3071326</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1757-4749-3-3</ArticleId>
+            <ArticleId IdType="doi">10.1186/1757-4749-3-3</ArticleId>
+            <ArticleId IdType="pubmed">21426584</ArticleId>
+            <ArticleId IdType="pmc">PMC3071326</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

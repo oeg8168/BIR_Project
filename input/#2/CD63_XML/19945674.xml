@@ -1,0 +1,250 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19945674</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-4245</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>98</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Homeopathy : the journal of the Faculty of Homeopathy</Title>
+                <ISOAbbreviation>Homeopathy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inhibition of basophil activation by histamine: a sensitive and reproducible model for the study of the biological activity of high dilutions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>186-97</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.homp.2009.09.009</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">At the beginning of this series of experiments we were looking for a model based on the use of purified commercially available compounds based on a fully described and accepted pharmacological model to study of the biological effect of high dilutions. Negative feedback induced by histamine, a major pro-inflammatory mediator, on basophils and mast cells activation via an H2 receptor me these criteria. The simplest way of measuring basophil activation in the early 1980's was the human basophil activation test (HBDT).</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Our major goal was first to study the biological effect of centesimal histamine dilutions beyond the Avogadro limit, on the staining properties of human basophils activated by an allergen extract initially house dust mite, then an anti-IgE and N-formyl-Met-Leu-Phe (fMLP). Technical development over the 25 years of our work led us to replace the manual basophil counting by flow cytometry. The main advantages were automation and observer independence. Using this latter protocol our aim was to confirm the existence of this phenomenon and to check its specificity by testing, under the same conditions, inactive analogues of histamine and histamine antagonists. More recently, we developed an animal model (mouse basophils) to study the effect of histamine on histamine release.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">For the HBDT model basophils were obtained by sedimentation of human blood taken on EDTA and stained with Alcian blue. Results were expressed in percentage activation. Histamine dilutions tested were freshly prepared in the lab by successive centesimal dilutions and vortexing. Water controls were prepared in the same way. For the flow cytometric protocol basophils were first labeled by an anti-IgE FITC (basophil marker) and an anti-CD63 (basophil activation marker). Results were expressed in percentage of CD63 positive basophils. Another flow cytometric protocol has been developed more recently, based on basophil labeling by anti-IgE FITC (fluorescein isothiocyanate) and anti-CD203 PE (another human basophil activation marker). Results were expressed in mean fluorescence intensity of the CD203c positive population (MFI-CD203c) and an activation index calculated by an algorithm. For the mouse basophil model, histamine was measured spectrofluorimetrically. The main results obtained over 28 years of work was the demonstration of a reproducible inhibition of human basophil activation by high dilutions of histamine, the effect peaks in the range of 15-17CH. The effect was not significant when histamine was replaced by histidine (a histamine precursor) or cimetidine (histamine H2 receptor antagonist) was added to the incubation medium. These results were confirmed by flow cytometry. Using the latter technique, we also showed that 4-Methyl histamine (H2 agonist) induced a similar effect, in contrast to 1-Methyl histamine, an inactive histamine metabolite. Using the mouse model, we showed that histamine high dilutions, in the same range of dilutions, inhibited histamine release.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Successively, using different models to study of human and murine basophil activation, we demonstrated that high dilutions of histamine, in the range of 15-17CH induce a reproducible biological effect. This phenomenon has been confirmed by a multi-center study using the HBDT model and by at least three independent laboratories by flow cytometry. The specificity of the observed effect was confirmed, versus the water controls at the same dilution level by the absence of biological activity of inactive compounds such as histidine and 1-Methyl histamine and by the reversibility of this effect in the presence of a histamine receptor H2 antagonist.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sainte-Laudy</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>CHU, Limoges 87042, France. jslaudy@wanadoo.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Belon</LastName>
+                    <ForeName>Ph</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Scotland</Country>
+            <MedlineTA>Homeopathy</MedlineTA>
+            <NlmUniqueID>101140517</NlmUniqueID>
+            <ISSNLinking>1475-4916</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Coloring Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histamine Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histamine H2 Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Methylhistamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4QD397987E</RegistryNumber>
+                <NameOfSubstance>Histidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>501-75-7</RegistryNumber>
+                <NameOfSubstance>tele-methylhistamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>54ST71P9EE</RegistryNumber>
+                <NameOfSubstance>4-methylhistamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80061L1WGD</RegistryNumber>
+                <NameOfSubstance>Cimetidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>820484N8I3</RegistryNumber>
+                <NameOfSubstance>Histamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P4448TJR7J</RegistryNumber>
+                <NameOfSubstance>Alcian Blue</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Alcian Blue</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cimetidine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coloring Agents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Agonists</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine H2 Antagonists</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histidine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Methylhistamines</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Staining and Labeling</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S1475-4916(09)00095-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.homp.2009.09.009</ArticleId>
+            <ArticleId IdType="pubmed">19945674</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

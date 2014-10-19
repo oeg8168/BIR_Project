@@ -1,0 +1,160 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24100123</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-8908</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of Alzheimer's disease : JAD</Title>
+                <ISOAbbreviation>J. Alzheimers Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Growth factor receptor-bound protein 2 promotes autophagic removal of amyloid-β protein precursor intracellular domain overload in neuronal cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>881-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3233/JAD-130929</ELocationID>
+            <Abstract>
+                <AbstractText>The ascertainment of elevated levels of amyloid-β protein precursor intracellular domain (AICD) in Alzheimer's disease (AD) brains and the fact that it contributes to AD-like pathology has geared the search toward a new paradigm. While studying endogenous as well as overexpressed Grb2-AICD interaction in AD cell models, it was found that Grb2 co-localized to compartments along with AICD. We report now that these vesicles form in a clathrin and dynamin independent manner. Both types of vesicles mature into autophagosomes, merge with lysosomes, and relieve the cells of AICD overload. Inhibiting autophagosome formation results in vesicle accumulation. AICD-level is reduced in Grb2 excess condition in Cycloheximide Chase setup. Reduced caspase activity and apoptosis point toward the fact that the cytotoxic effect of AICD is alleviated by its sequestration in autolysosomes. Hence we state that the entrapping of AICD in Grb2 vesicles and its clearance via autophagosomes is a survival contrivance on the part of the cell. This study unravels, for the first time, the roles of Grb2 in autophagy and in handling toxic protein overload in an AD-like scenario.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Kasturi</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Biophysics and Structural Genomics Division, Saha Institute of Nuclear Physics, WB, Kolkata, India.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raychaudhuri</LastName>
+                    <ForeName>Mithu</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chakrabarti</LastName>
+                    <ForeName>Oishee</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mukhopadhyay</LastName>
+                    <ForeName>Debashis</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Alzheimers Dis</MedlineTA>
+            <NlmUniqueID>9814863</NlmUniqueID>
+            <ISSNLinking>1387-2877</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Amyloid beta-Protein Precursor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GRB2 Adaptor Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>GRB2 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amyloid beta-Protein Precursor</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Autophagy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">GRB2 Adaptor Protein</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Fluid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neurons</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Amyloid-β protein precursor protein</Keyword>
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">Grb2</Keyword>
+            <Keyword MajorTopicYN="N">LC3 protein</Keyword>
+            <Keyword MajorTopicYN="N">autophagy</Keyword>
+            <Keyword MajorTopicYN="N">clathrin</Keyword>
+            <Keyword MajorTopicYN="N">dynamin</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24100123</ArticleId>
+            <ArticleId IdType="pii">23VW0280N65271U1</ArticleId>
+            <ArticleId IdType="doi">10.3233/JAD-130929</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

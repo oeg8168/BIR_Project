@@ -1,0 +1,557 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11907260</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>03</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1059-1524</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular biology of the cell</Title>
+                <ISOAbbreviation>Mol. Biol. Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Palmitoylation of tetraspanin proteins: modulation of CD151 lateral interactions, subcellular distribution, and integrin-dependent cell morphology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>767-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Here we demonstrate that multiple tetraspanin (transmembrane 4 superfamily) proteins are palmitoylated, in either the Golgi or a post-Golgi compartment. Using CD151 as a model tetraspanin, we identified and mutated intracellular N-terminal and C-terminal cysteine palmitoylation sites. Simultaneous mutations of C11, C15, C242, and C243 (each to serine) eliminated &gt;90% of CD151 palmitoylation. Notably, palmitoylation had minimal influence on the density of tetraspanin protein complexes, did not promote tetraspanin localization into detergent-resistant microdomains, and was not required for CD151-alpha 3 beta 1 integrin association. However, the CD151 tetra mutant showed markedly diminished associations with other cell surface proteins, including other transmembrane 4 superfamily proteins (CD9, CD63). Thus, palmitoylation may be critical for assembly of the large network of cell surface tetraspanin-protein interactions, sometimes called the &quot;tetraspanin web.&quot; Also, compared with wild-type CD151, the tetra mutant was much more diffusely distributed and showed markedly diminished stability during biosynthesis. Finally, expression of the tetra-CD151 mutant profoundly altered alpha 3 integrin-deficient kidney epithelial cells, such that they converted from a dispersed, elongated morphology to an epithelium-like cobblestone clustering. These results point to novel biochemical and biological functions for tetraspanin palmitoylation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Xiuwei</ForeName>
+                    <Initials>X</Initials>
+                    <Affiliation>Dana-Farber Cancer Institute and Department of Pathology, Harvard Medical School, Boston, Massachusetts 02115, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Claas</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraeft</LastName>
+                    <ForeName>Stine-Kathrein</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Lan Bo</ForeName>
+                    <Initials>LB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zemin</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kreidberg</LastName>
+                    <ForeName>Jordan A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hemler</LastName>
+                    <ForeName>Martin E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA-42368</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA-86712</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Biol Cell</MedlineTA>
+            <NlmUniqueID>9201390</NlmUniqueID>
+            <ISSNLinking>1059-1524</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD151</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD151 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Indicators and Reagents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Integrin alpha3beta1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Luminescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nerve Tissue Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Palmitates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Synthesis Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance>Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>20350-15-6</RegistryNumber>
+                <NameOfSubstance>Brefeldin A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 1997 Apr 15;17(8):2756-65</RefSource>
+                <PMID Version="1">9092597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1997 Apr 7;137(1):231-45</RefSource>
+                <PMID Version="1">9105051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 1997 May;11(6):428-42</RefSource>
+                <PMID Version="1">9194523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Nov 14;272(46):29174-80</RefSource>
+                <PMID Version="1">9360995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Mar;9(3):585-97</RefSource>
+                <PMID Version="1">9487128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1998 Apr 6;141(1):267-80</RefSource>
+                <PMID Version="1">9531564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histochem Cell Biol. 1998 May-Jun;109(5-6):571-90</RefSource>
+                <PMID Version="1">9681636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jan 14;287(5451):319-21</RefSource>
+                <PMID Version="1">10634790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jan 14;287(5451):321-4</RefSource>
+                <PMID Version="1">10634791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Feb 1;164(3):1251-9</RefSource>
+                <PMID Version="1">10640738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2000 Feb;24(2):167-70</RefSource>
+                <PMID Version="1">10655063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Mar 16;1478(1):159-63</RefSource>
+                <PMID Version="1">10719184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Mar 31;275(13):9230-8</RefSource>
+                <PMID Version="1">10734060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2000 Jun;113 ( Pt 11):1871-82</RefSource>
+                <PMID Version="1">10806098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 May 15;149(4):969-82</RefSource>
+                <PMID Version="1">10811835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Jun 16;275(24):18284-90</RefSource>
+                <PMID Version="1">10749879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Aug;74(16):7554-61</RefSource>
+                <PMID Version="1">10906209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2000 Aug 24;10(16):1009-12</RefSource>
+                <PMID Version="1">10985391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2000 Nov 1;351 Pt 3:629-37</RefSource>
+                <PMID Version="1">11042117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Jul 30;1399(1):101-4</RefSource>
+                <PMID Version="1">9714763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Oct 1;161(7):3282-91</RefSource>
+                <PMID Version="1">9759843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1998 Oct;9(10):2751-65</RefSource>
+                <PMID Version="1">9763442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1998 Oct 30;282(5390):938-41</RefSource>
+                <PMID Version="1">9794763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1998 Oct;10(5):578-85</RefSource>
+                <PMID Version="1">9818167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Dec 8;1436(1-2):245-61</RefSource>
+                <PMID Version="1">9838145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 1999 Oct 29;229(1-2):35-48</RefSource>
+                <PMID Version="1">10556689</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Pharmacol. 1999 Dec 15;386(2-3):305-12</RefSource>
+                <PMID Version="1">10618483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Comp Neurol. 2000 Dec 11;428(2):266-77</RefSource>
+                <PMID Version="1">11064366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2000 Nov 2;19(46):5221-6</RefSource>
+                <PMID Version="1">11077438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2000 Dec 15;352 Pt 3:827-33</RefSource>
+                <PMID Version="1">11104692</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Jan 15;20(1-2):12-8</RefSource>
+                <PMID Version="1">11226150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Apr 27;276(17):14329-37</RefSource>
+                <PMID Version="1">11278880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 May 11;276(19):15776-82</RefSource>
+                <PMID Version="1">11278313</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Feb 16;276(7):4853-62</RefSource>
+                <PMID Version="1">11087758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Mar 16;276(11):7705-8</RefSource>
+                <PMID Version="1">11244087</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Mar 16;276(11):7974-84</RefSource>
+                <PMID Version="1">11113129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2001 Oct;13(5):541-5</RefSource>
+                <PMID Version="1">11544021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Nov 2;276(44):41165-74</RefSource>
+                <PMID Version="1">11479292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Nov 2;276(44):40545-54</RefSource>
+                <PMID Version="1">11504738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Jan;13(1):1-11</RefSource>
+                <PMID Version="1">11809818</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1984 Jun;132(6):3011-8</RefSource>
+                <PMID Version="1">6327814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1990 Jun 19;1039(2):218-26</RefSource>
+                <PMID Version="1">2194573</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1992 Mar;66(3):1394-401</RefSource>
+                <PMID Version="1">1738199</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1993 Apr 25;268(12):8651-7</RefSource>
+                <PMID Version="1">8473308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Oct 1;178(4):1407-17</RefSource>
+                <PMID Version="1">7690834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Dec 1;151(11):6470-81</RefSource>
+                <PMID Version="1">8245480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 1995 Feb;76(2):209-14</RefSource>
+                <PMID Version="1">7834831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Adhes Commun. 1994 Oct;2(5):455-64</RefSource>
+                <PMID Version="1">7842258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1994 Dec;15(12):588-94</RefSource>
+                <PMID Version="1">7531445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1995 May 12;268(5212):884-6</RefSource>
+                <PMID Version="1">7754374</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1995 Jun;129(6):1691-705</RefSource>
+                <PMID Version="1">7790364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 28;270(30):17784-90</RefSource>
+                <PMID Version="1">7629079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1995 Aug 1;155(3):1229-39</RefSource>
+                <PMID Version="1">7636191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1995 Sep 4;62(5):631-5</RefSource>
+                <PMID Version="1">7665237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1995 Jun;108 ( Pt 6):2321-36</RefSource>
+                <PMID Version="1">7673352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1996 Mar 29;271(5257):1867-70</RefSource>
+                <PMID Version="1">8596956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1996 Feb;7(2):193-207</RefSource>
+                <PMID Version="1">8688552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1996 Jun 7;1287(2-3):67-71</RefSource>
+                <PMID Version="1">8672529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1996 Nov;26(11):2657-65</RefSource>
+                <PMID Version="1">8921952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1999 Mar;112 ( Pt 6):833-44</RefSource>
+                <PMID Version="1">10036233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1999 May 15;340 ( Pt 1):103-11</RefSource>
+                <PMID Version="1">10229664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 1999 May;27(5):853-9</RefSource>
+                <PMID Version="1">10340401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Jul 26;146(2):477-92</RefSource>
+                <PMID Version="1">10427099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Aug 1;59(15):3812-20</RefSource>
+                <PMID Version="1">10447000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1999 Sep;112 ( Pt 17):2925-35</RefSource>
+                <PMID Version="1">10444387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1999 Aug 12;1451(1):1-16</RefSource>
+                <PMID Version="1">10446384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1999 Sep 1;342 ( Pt 2):387-95</RefSource>
+                <PMID Version="1">10455026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Aug 23;146(4):893-904</RefSource>
+                <PMID Version="1">10459022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1999 Sep 15;18(18):4915-25</RefSource>
+                <PMID Version="1">10487744</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD151</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brefeldin A</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Indicators and Reagents</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Integrin alpha3beta1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Luminescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutagenesis, Site-Directed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nerve Tissue Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Palmitates</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Synthesis Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC99597</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11907260</ArticleId>
+            <ArticleId IdType="doi">10.1091/mbc.01-05-0275</ArticleId>
+            <ArticleId IdType="pmc">PMC99597</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,461 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18795891</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>01</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8728</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>417</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jan</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of Tspan9 as a novel platelet tetraspanin and the collagen receptor GPVI as a component of tetraspanin microdomains.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>391-400</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BJ20081126</ELocationID>
+            <Abstract>
+                <AbstractText>Platelets are essential for wound healing and inflammatory processes, but can also play a deleterious role by causing heart attack and stroke. Normal platelet activation is dependent on tetraspanins, a superfamily of glycoproteins that function as 'organisers' of cell membranes by recruiting other receptors and signalling proteins into tetraspanin-enriched microdomains. However, our understanding of how tetraspanin microdomains regulate platelets is hindered by the fact that only four of the 33 mammalian tetraspanins have been identified in platelets. This is because of a lack of antibodies to most tetraspanins and difficulties in measuring mRNA, due to low levels in this anucleate cell. To identify potentially platelet-expressed tetraspanins, mRNA was measured in their nucleated progenitor cell, the megakaryocyte, using serial analysis of gene expression and DNA microarrays. Amongst 19 tetraspanins identified in megakaryocytes, Tspan9, a previously uncharacterized tetraspanin, was relatively specific to these cells. Through generating the first Tspan9 antibodies, Tspan9 expression was found to be tightly regulated in platelets. The relative levels of CD9, CD151, Tspan9 and CD63 were 100, 14, 6 and 2 respectively. Since CD9 was expressed at 49000 cell surface copies per platelet, this suggested a copy number of 2800 Tspan9 molecules. Finally, Tspan9 was shown to be a component of tetraspanin microdomains that included the collagen receptor GPVI (glycoprotein VI) and integrin alpha6beta1, but not the von Willebrand receptor GPIbalpha or the integrins alphaIIbbeta3 or alpha2beta1. These findings suggest a role for Tspan9 in regulating platelet function in concert with other platelet tetraspanins and their associated proteins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Protty</LastName>
+                    <ForeName>Majd B</ForeName>
+                    <Initials>MB</Initials>
+                    <Affiliation>Centre for Cardiovascular Sciences, Institute of Biomedical Research, The Medical School, University of Birmingham, Birmingham B152TT, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watkins</LastName>
+                    <ForeName>Nicholas A</ForeName>
+                    <Initials>NA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colombo</LastName>
+                    <ForeName>Dario</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Steven G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heath</LastName>
+                    <ForeName>Victoria L</ForeName>
+                    <Initials>VL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbert</LastName>
+                    <ForeName>John M J</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bicknell</LastName>
+                    <ForeName>Roy</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Senis</LastName>
+                    <ForeName>Yotis A</ForeName>
+                    <Initials>YA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashman</LastName>
+                    <ForeName>Leonie K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berditchevski</LastName>
+                    <ForeName>Fedor</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ouwehand</LastName>
+                    <ForeName>Willem H</ForeName>
+                    <Initials>WH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watson</LastName>
+                    <ForeName>Steve P</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomlinson</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>FS/08/034/25085</GrantID>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0400247</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>TSPAN9 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tetraspanins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>platelet membrane glycoprotein VI</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Oct 15;102(8):2811-8</RefSource>
+                <PMID Version="1">12829582</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2003;19:397-422</RefSource>
+                <PMID Version="1">14570575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Apr 15;109(8):3260-9</RefSource>
+                <PMID Version="1">17192395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Hematol. 2007 Sep;14(5):419-26</RefSource>
+                <PMID Version="1">17934346</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2007 Nov;98(5):1081-7</RefSource>
+                <PMID Version="1">18000614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cell Biol. 2007;8:46</RefSource>
+                <PMID Version="1">17996076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mini Rev Med Chem. 2007 Dec;7(12):1248-54</RefSource>
+                <PMID Version="1">18220977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arterioscler Thromb Vasc Biol. 2008 Mar;28(3):403-12</RefSource>
+                <PMID Version="1">18174460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2008 Mar;99(3):480-6</RefSource>
+                <PMID Version="1">18327395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2008 Apr;91(4):326-34</RefSource>
+                <PMID Version="1">18291621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2003 Nov;24(11):610-7</RefSource>
+                <PMID Version="1">14596886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Mar 1;172(5):2953-61</RefSource>
+                <PMID Version="1">14978098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2004 Mar;24(6):2455-66</RefSource>
+                <PMID Version="1">14993283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2004 Jul;24(13):5978-88</RefSource>
+                <PMID Version="1">15199151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Jul 23;279(30):31973-82</RefSource>
+                <PMID Version="1">15161911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Oct 15;104(8):2368-75</RefSource>
+                <PMID Version="1">15226180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 1985 Sep 16;151(3):637-49</RefSource>
+                <PMID Version="1">3161731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1986 Sep;68(3):743-51</RefSource>
+                <PMID Version="1">2943333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1987 May;69(5):1524-7</RefSource>
+                <PMID Version="1">2436691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1988 Jul;72(1):224-9</RefSource>
+                <PMID Version="1">2455569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1990 May 21;264(2):270-4</RefSource>
+                <PMID Version="1">2358073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jul 28;270(30):17784-90</RefSource>
+                <PMID Version="1">7629079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Jan 15;156(2):611-20</RefSource>
+                <PMID Version="1">8543812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1996 Feb;7(2):193-207</RefSource>
+                <PMID Version="1">8688552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1996 Aug 1;88(3):907-14</RefSource>
+                <PMID Version="1">8704248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 1997 Apr;45(4):515-25</RefSource>
+                <PMID Version="1">9111230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Nov 14;272(46):29174-80</RefSource>
+                <PMID Version="1">9360995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Mar 27;273(13):7572-8</RefSource>
+                <PMID Version="1">9516460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1999 Feb 15;338 ( Pt 1):61-70</RefSource>
+                <PMID Version="1">9931299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 May 7;274(19):13577-85</RefSource>
+                <PMID Version="1">10224128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2004 Nov;14(11):2347-56</RefSource>
+                <PMID Version="1">15520296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2005 Feb;5(2):136-48</RefSource>
+                <PMID Version="1">15688041</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2005 Aug;3(8):1752-62</RefSource>
+                <PMID Version="1">16102042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2005 Nov;4(11):1754-61</RefSource>
+                <PMID Version="1">16081409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2005 Oct;6(10):801-11</RefSource>
+                <PMID Version="1">16314869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2006 Feb;26(4):1373-85</RefSource>
+                <PMID Version="1">16449649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2006 Jun;4(6):1367-78</RefSource>
+                <PMID Version="1">16706984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jun 19;173(6):975-83</RefSource>
+                <PMID Version="1">16785325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Sep 15;108(6):1911-8</RefSource>
+                <PMID Version="1">16720835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2006 Dec;6(24):6447-54</RefSource>
+                <PMID Version="1">17109380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2006 Dec 22;314(5807):1938-41</RefSource>
+                <PMID Version="1">17185604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jan;9(1):7-14</RefSource>
+                <PMID Version="1">17199125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2007 Mar;6(3):548-64</RefSource>
+                <PMID Version="1">17186946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Mar 16;1478(1):159-63</RefSource>
+                <PMID Version="1">10719184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2002 May;20(5):508-12</RefSource>
+                <PMID Version="1">11981567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2002 Jul;22(14):5006-18</RefSource>
+                <PMID Version="1">12077330</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Mar 15;101(6):2285-93</RefSource>
+                <PMID Version="1">12433680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2003 Jun;89(6):996-1003</RefSource>
+                <PMID Version="1">12783112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Jan 1;172(1):370-80</RefSource>
+                <PMID Version="1">14688345</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Megakaryocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Microdomains</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tetraspanins</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2652832</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BJ20081126</ArticleId>
+            <ArticleId IdType="doi">10.1042/BJ20081126</ArticleId>
+            <ArticleId IdType="pubmed">18795891</ArticleId>
+            <ArticleId IdType="pmc">PMC2652832</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

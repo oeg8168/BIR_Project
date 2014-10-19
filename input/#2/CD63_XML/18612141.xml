@@ -1,0 +1,637 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18612141</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>08</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1937-9145</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1</Volume>
+                    <Issue>27</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Science signaling</Title>
+                <ISOAbbreviation>Sci Signal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tissue inhibitors of metalloproteinases in cell signaling: metalloproteinase-independent biological activities.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>re6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1126/scisignal.127re6</ELocationID>
+            <Abstract>
+                <AbstractText>Over the past 20 years, the tissue inhibitors of metalloproteinases (TIMPs) have been implicated in direct regulation of cell growth and apoptosis. However, the mechanisms of these effects have been controversial. Recent work by several laboratories has identified specific signaling pathways and cell surface binding partners for members of the TIMP family. TIMP-2 binding to the integrin alpha(3)beta(1) is the first description of a cell surface receptor for a TIMP family member. TIMP-2 has been shown to induce gene expression, to promote G(1) cell cycle arrest, and to inhibit cell migration. TIMP-1 binding to CD63 inhibits cell growth and apoptosis. These new findings suggest that TIMPs are multifunctional and can act either directly through cell surface receptors or indirectly through modulation of protease activity to direct cell fate. The emerging concept is that TIMPs function in a contextual fashion so that the mechanism of action depends on the tissue microenvironment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stetler-Stevenson</LastName>
+                    <ForeName>William G</ForeName>
+                    <Initials>WG</Initials>
+                    <Affiliation>Extracellular Matrix Pathology Section, Cell and Cancer Biology Branch, Vascular Biology Faculty, Center for Cancer Research, National Cancer Institute (NCI), NIH, Advanced Technology Center, Bethesda, MD 20892-4605, USA. sstevenw@mail.nih.gov</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z01 BC010829-01</GrantID>
+                    <Acronym>BC</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z01 SC009179-19</GrantID>
+                    <Acronym>SC</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>07</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Sci Signal</MedlineTA>
+            <NlmUniqueID>101465400</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Integrin alpha3beta1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>127497-59-0</RegistryNumber>
+                <NameOfSubstance>Tissue Inhibitor of Metalloproteinase-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance>Metalloproteases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1991 Jun 5;83(11):775-9</RefSource>
+                <PMID Version="1">1645772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Invest Dermatol. 1991 Oct;97(4):679-85</RefSource>
+                <PMID Version="1">1940438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1992 Feb 1;52(3):701-8</RefSource>
+                <PMID Version="1">1732058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1992 Jan 20;296(2):231-4</RefSource>
+                <PMID Version="1">1370805</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1992 Feb 17;298(1):29-32</RefSource>
+                <PMID Version="1">1544418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1992 Apr;12(4):632-8</RefSource>
+                <PMID Version="1">1572636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Nov 15;89(22):10676-80</RefSource>
+                <PMID Version="1">1438264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1993 Aug;207(2):376-82</RefSource>
+                <PMID Version="1">8393803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 1993 Nov;157(2):351-8</RefSource>
+                <PMID Version="1">7693724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1994 Oct 15;54(20):5467-73</RefSource>
+                <PMID Version="1">7923181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1994 Sep;107 ( Pt 9):2373-9</RefSource>
+                <PMID Version="1">7844157</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1995 May 1;364(1):28-32</RefSource>
+                <PMID Version="1">7750537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Jun 2;270(22):13453-9</RefSource>
+                <PMID Version="1">7768948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1995 Dec 15;86(12):4506-15</RefSource>
+                <PMID Version="1">8541540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1996 Apr 10;224(1):110-5</RefSource>
+                <PMID Version="1">8612674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 1996 Sep;17(9):1805-11</RefSource>
+                <PMID Version="1">8824499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1996 Oct 28;396(1):103-7</RefSource>
+                <PMID Version="1">8906876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invest Ophthalmol Vis Sci. 1997 Apr;38(5):817-23</RefSource>
+                <PMID Version="1">9112976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1997 Aug;8(8):1513-27</RefSource>
+                <PMID Version="1">9285822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 1997 Oct;9(10):770-80</RefSource>
+                <PMID Version="1">9344510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1998 Jan 19;75(2):246-53</RefSource>
+                <PMID Version="1">9462715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1998 Mar 15;101(6):1478-87</RefSource>
+                <PMID Version="1">9502791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1998 May;111 ( Pt 9):1147-53</RefSource>
+                <PMID Version="1">9547291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Sep 18;273(38):24360-7</RefSource>
+                <PMID Version="1">9733724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1998 Sep 11;435(1):39-44</RefSource>
+                <PMID Version="1">9755855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1998 Dec 1;102(11):2002-10</RefSource>
+                <PMID Version="1">9835626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Biol. 1998 Dec 11;284(4):1133-40</RefSource>
+                <PMID Version="1">9837731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1999 Feb 19;84(1):44-8</RefSource>
+                <PMID Version="1">9988231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 1999 Mar;79(9-10):1347-55</RefSource>
+                <PMID Version="1">10188875</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 1999 Apr 15;57(2):293-6</RefSource>
+                <PMID Version="1">10198170</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Philos Trans R Soc Lond B Biol Sci. 1999 Feb 28;354(1381):269-79</RefSource>
+                <PMID Version="1">10212475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1999 May;103(9):1237-41</RefSource>
+                <PMID Version="1">10225966</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1999 May;103(9):1299-307</RefSource>
+                <PMID Version="1">10225973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 1999 Jul 15;211(2):238-54</RefSource>
+                <PMID Version="1">10395785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Jul 23;274(30):21362-8</RefSource>
+                <PMID Version="1">10409697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1999 Jun 30;878:522-3</RefSource>
+                <PMID Version="1">10415761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Jul 26;146(2):477-92</RefSource>
+                <PMID Version="1">10427099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Aug 23;146(4):881-92</RefSource>
+                <PMID Version="1">10459021</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Dec 15;64(24):9062-9</RefSource>
+                <PMID Version="1">15604273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Feb 1;65(3):898-906</RefSource>
+                <PMID Version="1">15705888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2005 Mar;11(3):97-103</RefSource>
+                <PMID Version="1">15760767</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2005 Apr;41(4):857-67</RefSource>
+                <PMID Version="1">15726641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Scand J Immunol. 2005 May;61(5):449-60</RefSource>
+                <PMID Version="1">15882437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2005 May 18;25(20):4917-29</RefSource>
+                <PMID Version="1">15901773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2005 Jul 14;24(30):4799-805</RefSource>
+                <PMID Version="1">15870703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurobiol. 2006 Jan;66(1):82-94</RefSource>
+                <PMID Version="1">16216006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Feb 10;281(6):3711-21</RefSource>
+                <PMID Version="1">16326706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2006 Mar;25(1):99-113</RefSource>
+                <PMID Version="1">16680576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 May 18;25(21):3041-8</RefSource>
+                <PMID Version="1">16407831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2006 Jul;98(1):234-47</RefSource>
+                <PMID Version="1">16805810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 Jul 13;25(30):4230-4</RefSource>
+                <PMID Version="1">16491114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2006 Sep 18;95(6):744-51</RefSource>
+                <PMID Version="1">16940985</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Genomics. 2007 Jan 17;28(2):168-78</RefSource>
+                <PMID Version="1">16985004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncol Rep. 2007 Apr;17(4):963-8</RefSource>
+                <PMID Version="1">17342343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Neurosci. 2007 Jul;10(7):838-45</RefSource>
+                <PMID Version="1">17558399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Aug 9;26(36):5229-37</RefSource>
+                <PMID Version="1">17325663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2007 Sep;293(3):H1590-5</RefSource>
+                <PMID Version="1">17545477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Sep 15;67(18):8615-23</RefSource>
+                <PMID Version="1">17875701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Jan 4;283(1):87-99</RefSource>
+                <PMID Version="1">17991754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2008 Mar;27(1):57-66</RefSource>
+                <PMID Version="1">18058195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2008;40(6-7):1362-78</RefSource>
+                <PMID Version="1">18258475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Surg Oncol. 2008 Jun;34(6):636-41</RefSource>
+                <PMID Version="1">17954022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2008 Jul 1;79(1):150-60</RefSource>
+                <PMID Version="1">18344519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1999 Dec 2;402(6761):489-95</RefSource>
+                <PMID Version="1">10591208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Dec 15;59(24):6267-75</RefSource>
+                <PMID Version="1">10626822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2000 Mar 7;1477(1-2):267-83</RefSource>
+                <PMID Version="1">10708863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Aug 25;275(34):26411-5</RefSource>
+                <PMID Version="1">10827175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Aug 25;275(34):26416-22</RefSource>
+                <PMID Version="1">10827176</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 2000 Jul;79(7):495-501</RefSource>
+                <PMID Version="1">10961449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Oct 6;275(40):31226-32</RefSource>
+                <PMID Version="1">10900194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Oct 20;275(42):32664-71</RefSource>
+                <PMID Version="1">11032844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 Mar 15;97(6):1796-802</RefSource>
+                <PMID Version="1">11238122</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 Mar 15;61(6):2365-70</RefSource>
+                <PMID Version="1">11289097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2001 Apr;158(4):1207-15</RefSource>
+                <PMID Version="1">11290537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Diabetes. 2001 May;50(5):1047-55</RefSource>
+                <PMID Version="1">11334407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Feb 2;276(5):3203-14</RefSource>
+                <PMID Version="1">11042184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2001 Jul 19;20(32):4337-43</RefSource>
+                <PMID Version="1">11466614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2001 Sep;108(6):831-41</RefSource>
+                <PMID Version="1">11560952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Mar 29;295(5564):2387-92</RefSource>
+                <PMID Version="1">11923519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2002 Mar;2(3):161-74</RefSource>
+                <PMID Version="1">11990853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2002 Jul;197(3):307-13</RefSource>
+                <PMID Version="1">12115876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2002 Aug 9;296(1):201-5</RefSource>
+                <PMID Version="1">12147251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2002 Oct 1;115(Pt 19):3719-27</RefSource>
+                <PMID Version="1">12235282</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2003 Apr;9(4):407-15</RefSource>
+                <PMID Version="1">12652295</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2003 Apr 10;22(14):2121-34</RefSource>
+                <PMID Version="1">12687014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2003 Mar;2(3):164-72</RefSource>
+                <PMID Version="1">12672830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Jul 25;114(2):171-80</RefSource>
+                <PMID Version="1">12887919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Genes Evol. 2003 Aug;213(8):382-9</RefSource>
+                <PMID Version="1">12736828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2003 Sep 15;374(Pt 3):739-45</RefSource>
+                <PMID Version="1">12755684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Biol. 2003 Sep 15;261(2):313-23</RefSource>
+                <PMID Version="1">14499643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Oct 10;278(41):40364-72</RefSource>
+                <PMID Version="1">12904305</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Oct 17;278(42):40989-95</RefSource>
+                <PMID Version="1">12900406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2004 Jan;40(1):64-72</RefSource>
+                <PMID Version="1">14687791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 2004 Jan 1;75(1):1-11</RefSource>
+                <PMID Version="1">14689443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2004 Mar 1;108(6):882-6</RefSource>
+                <PMID Version="1">14712492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2004 Mar;49(3):187-98</RefSource>
+                <PMID Version="1">15036259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2004 Apr 9;563(1-3):129-34</RefSource>
+                <PMID Version="1">15063736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2004 Sep;36(9):969-77</RefSource>
+                <PMID Version="1">15322543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2004 Sep;40(14):2159-64</RefSource>
+                <PMID Version="1">15341992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Regul. 2004 Jun;38(2):57-63</RefSource>
+                <PMID Version="1">15497929</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Clin Biol Res. 1985;184:95-104</RefSource>
+                <PMID Version="1">3931094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1985 Nov 7-13;318(6041):66-9</RefSource>
+                <PMID Version="1">3903517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1989 Feb 17;243(4893):947-50</RefSource>
+                <PMID Version="1">2465572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 1990 Apr 4;82(7):589-95</RefSource>
+                <PMID Version="1">2156082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1990 Jun 15;248(4961):1408-10</RefSource>
+                <PMID Version="1">1694043</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Cycle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Lineage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Integrin alpha3beta1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Metalloproteases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multigene Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Inhibitor of Metalloproteinase-2</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>107</NumberOfReferences>
+        <OtherID Source="NLM">NIHMS56895</OtherID>
+        <OtherID Source="NLM">PMC2493614</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">scisignal.127re6</ArticleId>
+            <ArticleId IdType="doi">10.1126/scisignal.127re6</ArticleId>
+            <ArticleId IdType="pubmed">18612141</ArticleId>
+            <ArticleId IdType="pmc">PMC2493614</ArticleId>
+            <ArticleId IdType="mid">NIHMS56895</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

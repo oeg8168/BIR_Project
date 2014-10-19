@@ -1,0 +1,205 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24279430</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1600-0854</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Traffic (Copenhagen, Denmark)</Title>
+                <ISOAbbreviation>Traffic</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hrs- and CD63-dependent competing mechanisms make different sized endosomal intraluminal vesicles.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>197-211</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/tra.12139</ELocationID>
+            <Abstract>
+                <AbstractText>Multivesicular endosomes/bodies (MVBs) contain intraluminal vesicles (ILVs) that bud away from the cytoplasm. Multiple mechanisms of ILV formation have been identified, but the relationship between different populations of ILVs and MVBs remains unclear. Here, we show in HeLa cells that different ILV subpopulations can be distinguished by size. EGF stimulation promotes the formation of large ESCRT-dependent ILVs, whereas depletion of the ESCRT-0 component, Hrs, promotes the formation of a uniformly sized population of small ILVs, the formation of which requires CD63. CD63 has previously been implicated in ESCRT-independent sorting of PMEL in MVBs and transfected PMEL is present on the small ILVs that form on Hrs depletion. Upregulation of CD63-dependent ILV formation by Hrs depletion indicates that Hrs and CD63 regulate competing machineries required for the generation of distinct ILV subpopulations. Taken together our results indicate that ILV size is influenced by their cargo and mechanism of formation and suggest a competitive relationship between ESCRT-dependent and -independent mechanisms of ILV formation within single MVBs.</AbstractText>
+                <CopyrightInformation>© 2013 The Authors. Traffic published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Edgar</LastName>
+                    <ForeName>James R</ForeName>
+                    <Initials>JR</Initials>
+                    <Affiliation>UCL Institute of Ophthalmology, 11-43 Bath Street, London, EC1V 9EL, UK; Current address: Cambridge Institute for Medical Research, University of Cambridge, Cambridge CB2 OXY, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eden</LastName>
+                    <ForeName>Emily R</ForeName>
+                    <Initials>ER</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Futter</LastName>
+                    <ForeName>Clare E</ForeName>
+                    <Initials>CE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>G0801878</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Traffic</MedlineTA>
+            <NlmUniqueID>100939340</NlmUniqueID>
+            <ISSNLinking>1398-9219</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Endosomal Sorting Complexes Required for Transport</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PMEL protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phosphoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>gp100 Melanoma Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>hepatocyte growth factor-regulated tyrosine kinase substrate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62229-50-9</RegistryNumber>
+                <NameOfSubstance>Epidermal Growth Factor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomal Sorting Complexes Required for Transport</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidermal Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multivesicular Bodies</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">gp100 Melanoma Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CD63</Keyword>
+            <Keyword MajorTopicYN="N">Hrs</Keyword>
+            <Keyword MajorTopicYN="N">cholesterol</Keyword>
+            <Keyword MajorTopicYN="N">intraluminal vesicle</Keyword>
+            <Keyword MajorTopicYN="N">multivesicular endosome</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24279430</ArticleId>
+            <ArticleId IdType="doi">10.1111/tra.12139</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

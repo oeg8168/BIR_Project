@@ -1,0 +1,223 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21245745</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-5733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood coagulation &amp; fibrinolysis : an international journal in haemostasis and thrombosis</Title>
+                <ISOAbbreviation>Blood Coagul. Fibrinolysis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Platelet function alterations and their relation to P-selectin (CD62P) expression in children with iron deficiency anemia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>98-101</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/MBC.0b013e328342791b</ELocationID>
+            <Abstract>
+                <AbstractText>Iron deficiency anemia (IDA) may cause platelet aggregation dysfunction and this can be reversed by iron therapy. On the other hand, it has been reported that the platelet fractions carrying the platelet activation markers, CD62P and CD63, are increased in thalassemic patients and there is a significant correlation between the increased levels of soluble P-selectin and free iron in sickle cell disease. This study was performed to investigate the alterations of platelet functions and whether iron deficiency results in diminished expression of activation marker (P-selectin; CD62P) leading to platelet aggregation dysfunction in children with IDA. Hemoglobin, erythrocyte indices (mean erythrocyte volume and red blood cell distribution width), serum levels of iron, transferrin and ferritin, platelet aggregation tests (with ADP, collagen, and ristocetin), PFA-100 closure time, and CD62P expression were evaluated in fasting blood samples of 22 children with IDA and 20 children without anemia. CD62P expression was detected by flow cytometry in normal and 5 μmol/l ADP-activated platelets. Mean closure times were longer in the patient group than control. In platelet aggregation tests, mean values of maximum aggregation times by ristocetin, ADP, and collagen were also more prolonged in patient group. Ristocetin-induced maximum aggregation rates (amplitude) were significantly higher in patients. However, ADP and collagen induction did not produce the same effect. CD62P expressions were significantly higher on activated platelets of the patient group, although they were similar in both groups before activation by ADP. These findings suggest that platelet aggregation and adhesion have been delayed in children with IDA; however, platelet function abnormalities are not associated with CD62P expression on platelet surface.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yıldırım</LastName>
+                    <ForeName>Zuhal K</ForeName>
+                    <Initials>ZK</Initials>
+                    <Affiliation>Division of Pediatric Oncology, Atatürk University Medical Faculty, Erzurum, Turkey.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orhan</LastName>
+                    <ForeName>Mehmet F</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Büyükavcı</LastName>
+                    <ForeName>Mustafa</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Blood Coagul Fibrinolysis</MedlineTA>
+            <NlmUniqueID>9102551</NlmUniqueID>
+            <ISSNLinking>0957-5235</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hemoglobins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Transferrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1404-55-3</RegistryNumber>
+                <NameOfSubstance>Ristocetin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>61D2G4IYVH</RegistryNumber>
+                <NameOfSubstance>Adenosine Diphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-34-5</RegistryNumber>
+                <NameOfSubstance>Collagen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-73-2</RegistryNumber>
+                <NameOfSubstance>Ferritins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance>Iron</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Diphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anemia, Iron-Deficiency</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Collagen</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Erythrocyte Indices</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ferritins</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemoglobins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hemostasis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ristocetin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transferrin</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MBC.0b013e328342791b</ArticleId>
+            <ArticleId IdType="pubmed">21245745</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

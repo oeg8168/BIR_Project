@@ -1,0 +1,160 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">7692932</PMID>
+        <DateCreated>
+            <Year>1993</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1048</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>84</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of haematology</Title>
+                <ISOAbbreviation>Br. J. Haematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fixation with formaldehyde induces expression of activation dependent platelet membrane glycoproteins, P selectin (CD62) and GP53 (CD63).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>527-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Platelet activation in vivo is important in the pathogenesis of thrombosis. Accurate measurement is difficult due to artefactual in vitro preparation related activation. This can be overcome by using whole blood techniques, such as flow cytometry. However, there is little consensus on methods of platelet preparation, procedures for use of fixation, or the optimal types/amounts of fixative. The use of unfixed platelets has received little attention. We describe a series of experiments comparing platelet activation antigen expression detected by flow cytometry in fixed and unfixed samples. Formaldehyde increased the expression of both CD62 and CD63. We recommend that fixation with formaldehyde should not be used when studying platelet activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cahill</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                    <Affiliation>Department of Haematology, Royal London Hospital.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macey</LastName>
+                    <ForeName>M G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newland</LastName>
+                    <ForeName>A C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Br J Haematol</MedlineTA>
+            <NlmUniqueID>0372544</NlmUniqueID>
+            <ISSNLinking>0007-1048</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1HG84L3525</RegistryNumber>
+                <NameOfSubstance>Formaldehyde</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Formaldehyde</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Fixation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7692932</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

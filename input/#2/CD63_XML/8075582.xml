@@ -1,0 +1,135 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8075582</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>10</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>10</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1042-8194</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13 Suppl 1</Volume>
+                    <PubDate>
+                        <Year>1994</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Leukemia &amp; lymphoma</Title>
+                <ISOAbbreviation>Leuk. Lymphoma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>New CD from the B cell section of the Fifth International Workshop on Human Leukocyte Differentiation Antigens.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>61-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This review summaries the expression and the molecular and biochemical characteristics of eight new Clusters of Differentiation (CD79-CD86) established by the B cell Section during the Fifth International Workshop on Human Leukocyte Differentiation Antigens. CD79 monoclonal antibodies (mAb) identify the mbl (CD79 alpha) and B29 (CD79 beta) components of the surface immunoglobulin (Ig) receptor complex. CD80 (B7/BB-1) is a costimulatory molecule that serves as the ligand for two molecules expressed on T lymphocytes, CD28 and CTLA-4. CD81 (TAPA-1) and CD82 (R2) are new members of the tetra-spans family of transmembrane proteins, which include CD9, CD37, CD53 and CD63. These proteins are postulated to be involved in signal transduction. CD83 (HB15) is a marker for human interdigitating reticulum cells, circulating dendritic cells and Langerhans cells. CDw84 and CD85 are new B cell-associated molecules that are also expressed by monocytes. CD86 is a new B cell activation antigen.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Engel</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Department of Immunology, Duke University Medical Center, Durham, NC 27710.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tedder</LastName>
+                    <ForeName>T F</ForeName>
+                    <Initials>TF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI-26872</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA-34183</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA-54464</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>SWITZERLAND</Country>
+            <MedlineTA>Leuk Lymphoma</MedlineTA>
+            <NlmUniqueID>9007422</NlmUniqueID>
+            <ISSNLinking>1026-8022</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>29</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8075582</ArticleId>
+            <ArticleId IdType="doi">10.3109/10428199409052677</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

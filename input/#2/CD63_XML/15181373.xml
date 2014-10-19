@@ -1,0 +1,174 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15181373</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>06</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>06</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0271-678X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism</Title>
+                <ISOAbbreviation>J. Cereb. Blood Flow Metab.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Translation-state analysis of gene expression in mouse brain after focal ischemia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>657-67</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Confounding any genome-scale analysis of gene expression after cerebral ischemia is massive suppression of protein synthesis. This inefficient translation questions the utility of examining profiles of total transcripts. Our approach to such postischemic gene profiling in the mouse by microarray analysis was to concentrate on those mRNAs bound to polyribosomes. In our proof-of-principle study, polysomally bound and unbound mRNAs were subjected to microarray analysis: of the 1,161 transcripts that we found to increase after ischemia, only 36% were bound to polyribosomes. In addition to the expected increases in heat-shock proteins and metallothioneins, increases in several other bound transcripts involved in the promotion of cell survival or antiinflammatory behavior were noted, such as CD63 (Lamp3), Lcn2 (lipocalin-2), Msn (moesin), and UCP2 (uncoupling protein 2), all of which showed increases in cognate protein by Western blotting. The list of heretofore nonfunctionally annotated transcripts (RIKEN clones/ESTs) that increased appeared to be novel. How some transcripts are selected in ischemic brain for translation into protein, while others are rejected, is not clear. The length of the 5'-UTR in the ischemically induced transcripts that occur in the NCBI RefSeq database did not indicate any general tendency to be more than 200 nt, nor to be longer than the 5'-UTRs of the unbound transcripts. Thus, the presence of a complex 5'-UTR region with internal ribosome entry sites (IRES) or polypyrimidine tracts (TOP) does not appear to be the basis of selection for translation in ischemic brain.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>MacManus</LastName>
+                    <ForeName>John P</ForeName>
+                    <Initials>JP</Initials>
+                    <Affiliation>Experimental Stroke Group, Institute for Biological Sciences, National Research Council, Ottawa, ON, Canada. John.MacManus@nrc-cnrc.gc.ca</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graber</LastName>
+                    <ForeName>Tyson</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luebbert</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Preston</LastName>
+                    <ForeName>Edward</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasquinha</LastName>
+                    <ForeName>Ingrid</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Brandon</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Webster</LastName>
+                    <ForeName>Jacqueline</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cereb Blood Flow Metab</MedlineTA>
+            <NlmUniqueID>8112566</NlmUniqueID>
+            <ISSNLinking>0271-678X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>5' Untranslated Regions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">5' Untranslated Regions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Brain Ischemia</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polyribosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Protein Biosynthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>6</Month>
+                <Day>8</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>6</Month>
+                <Day>30</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>6</Month>
+                <Day>8</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15181373</ArticleId>
+            <ArticleId IdType="pii">00004647-200406000-00008</ArticleId>
+            <ArticleId IdType="doi">10.1097/01.WCB.0000123141.67811.91</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

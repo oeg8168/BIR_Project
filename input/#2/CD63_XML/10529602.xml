@@ -1,0 +1,145 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10529602</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1018-2438</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>120 Suppl 1</Volume>
+                    <PubDate>
+                        <Year>1999</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International archives of allergy and immunology</Title>
+                <ISOAbbreviation>Int. Arch. Allergy Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functional expression of transmembrane 4 superfamily molecules on human eosinophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>38-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Transmembrane 4 superfamily (TM4SF) molecules are exclusively found on hematopoietic cells. Several members of the TM4SF are reported to be associated with other cell surface molecules, including integrins, and might participate in signal transduction, but little is known about their role on eosinophils. In the present study, we determined the expression and function of TM4SF molecules on human eosinophils.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Surface expression of TM4SF molecules on purified peripheral blood eosinophils was examined using indirect immunofluorescence and flow cytometry. Purified eosinophils were incubated with anti-TM4SF monoclonal antibodies (mAbs) for up to 24 h. Eosinophil activation was evaluated by measuring eosinophil homotypic aggregation as well as changes in surface expression of CD11b or CD62L by flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Freshly isolated eosinophils expressed CD9, CD37, CD53, CD63 and CD81. Incubation with anti-CD9 mAb but not with anti-CD37, CD53, CD63 or CD81 mAb induced significant eosinophil homotypic aggregation. Incubation with any of the anti-TM4SF mAb for 30 min failed to alter the expression of either CD11b or CD62L on eosinophils. In contrast, the expression of CD11b was significantly enhanced after 24 h of incubation with anti-CD53 mAb, while the expression of CD62L was significantly reduced with anti-CD81 mAb.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cross-linking of some surface TM4SF molecules induced significant eosinophil homotypic aggregation, upregulation of CD11b expression, or CD62L shedding, consistent with activation of eosinophils. Our data suggest that several TM4SF molecules are functionally expressed on human eosinophils, and therefore might participate in allergic inflammation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Matsumoto</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Department of Pediatrics, Kochi Medical School, Nankoku City, Kochi, Japan. yuiku@med.kochi-ms.ac.jp</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bochner</LastName>
+                    <ForeName>B S</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wakiguchi</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurashige</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL49545</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>SWITZERLAND</Country>
+            <MedlineTA>Int Arch Allergy Immunol</MedlineTA>
+            <NlmUniqueID>9211652</NlmUniqueID>
+            <ISSNLinking>1018-2438</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eosinophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10529602</ArticleId>
+            <ArticleId IdType="pii">53592</ArticleId>
+            <ArticleId IdType="doi">53592</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

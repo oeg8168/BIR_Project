@@ -1,0 +1,175 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12444039</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3363</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>67</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biology of reproduction</Title>
+                <ISOAbbreviation>Biol. Reprod.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Temporal and spatial patterns of ovarian gene transcription following an ovulatory dose of gonadotropin in the rat.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1662-70</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In recent years, there have been a number of efforts to identify genes that are expressed in mature ovarian follicles in response to an ovulatory dose of LH or its homologue hCG. This review keys on 20 ovulation-specific genes that we have identified by the molecular procedure known as differential display. The objective is to use this sampling of genes to illustrate the diversity in the temporal and spatial patterns of expression of genes in the ovary following the stimulus of this gonadal target tissue by a single glycoprotein hormone. The specific genes that are surveyed include 5-aminolevulinate synthase; early growth response protein-1; gamma-glutamylcysteine synthetase; cyclooxygenase-2; epiregulin; pituitary adenylate cyclase-activating polypeptide; tumor necrosis factor-stimulated gene-6; regulator of G-protein signaling protein-2; adrenodoxin; steroidogenic acute regulatory protein; 3alpha-hydroxysteroid dehydrogenase; CD63, a disintegrin and metalloproteinase with thrombospondin motifs; tissue inhibitor of metalloproteinase-1; carbonyl reductase, a G-protein-coupled receptor; pancreatitis-associated protein-III; glutathione S-transferase; and metallothionein-1. The ovulatory expression of these different genes is predominantly within the granulosa layer of mature follicles. However, there were also instances of expression in the thecal and stromal tissue of the ovary, as well as in vascular endothelial cells and in luteal tissue. The overwhelming impression is that the molecular events of ovulation are far more complex, and therefore more highly ordered, than originally imagined.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Espey</LastName>
+                    <ForeName>Lawrence L</ForeName>
+                    <Initials>LL</Initials>
+                    <Affiliation>Department of Biology, Trinity University, San Antonio, Texas 78212, USA. lespey@trinity.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richards</LastName>
+                    <ForeName>JoAnne S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HD07495</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HD16229</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biol Reprod</MedlineTA>
+            <NlmUniqueID>0207224</NlmUniqueID>
+            <ISSNLinking>0006-3363</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gonadotropins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Corpus Luteum</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gonadotropins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Granulosa Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MEDLINE</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ovary</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ovulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Theca Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>118</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12444039</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

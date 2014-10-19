@@ -1,0 +1,396 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24618498</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>03</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-811X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell communication and signaling : CCS</Title>
+                <ISOAbbreviation>Cell Commun. Signal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>IL-12 and IL-27 regulate the phagolysosomal pathway in mycobacteria-infected human macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>16</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1478-811X-12-16</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The cytokine environment at the site of infection is important to the control of mycobacteria by host macrophages. During chronic infection immunosuppressive cytokines are likely to favor mycobacterial growth, persistence, and an avoidance of proper antigen processing and presentation. The activity of interleukin (IL)-27 toward macrophages is anti-inflammatory and this compromises control of mycobacteria. Modulation of the cytokine environment may enhance both protective and vaccine-induced responses.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In this study we showed that supplying IL-12 and neutralizing IL-27 enhanced acidification and fusion of mycobacterial-containing phagosomes with lysosomes. This was achieved by phagosomal acquisition of vacuolar ATPase (V-ATPase) and CD63. Both V-ATPase and CD63 protein levels were increased by the addition of IL-12 and neutralization of IL-27. In addition, cathepsin D associated with the bacteria and matured to the active form when IL-12 was supplied and IL-27 was neutralized. Lysosomal acidification and cathepsin D activity were associated with control of mycobacteria. The acidification of lysosomes, association with mycobacteria, and maturation of cathepsin D required macrophage production of IFN-γ and signaling through signal transducer and activator of transcription (STAT)-1. In contrast, STAT-3 signaling opposed these events.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results have identified novel influences of IL-12, IL-27, and STAT-3 on lysosomal activity and further demonstrate that modulating the cytokine environment promotes enhanced trafficking of mycobacteria to lysosomes in human macrophages. This has important implications in approaches to control infection and improve vaccination. Overcoming bacterial resistance to lysosomal fusion may expand the repertoire of antigens presented to the adaptive arm of the immune response.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Joo-Yong</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robinson</LastName>
+                    <ForeName>Cory M</ForeName>
+                    <Initials>CM</Initials>
+                    <Affiliation>Department of Pathology, Microbiology, and Immunology, University of South Carolina School of Medicine, 6439 Garners Ferry Road, 29209 Columbia, SC, USA. cory.robinson@uscmed.sc.edu.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL093300</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cell Commun Signal</MedlineTA>
+            <NlmUniqueID>101170464</NlmUniqueID>
+            <ISSNLinking>1478-811X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-27</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>STAT1 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>STAT3 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>187348-17-0</RegistryNumber>
+                <NameOfSubstance>Interleukin-12</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82115-62-6</RegistryNumber>
+                <NameOfSubstance>Interferon-gamma</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.23.5</RegistryNumber>
+                <NameOfSubstance>Cathepsin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Vacuolar Proton-Translocating ATPases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 1999 Dec;172:121-9</RefSource>
+                <PMID Version="1">10631942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Crit Care Med. 2001 Dec 15;164(12):2213-9</RefSource>
+                <PMID Version="1">11751190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2002 Jun;16(6):779-90</RefSource>
+                <PMID Version="1">12121660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2002 Dec;70(12):6549-57</RefSource>
+                <PMID Version="1">12438324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Apr 29;100(9):5437-42</RefSource>
+                <PMID Version="1">12702770</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Nov 21;278(47):46961-7</RefSource>
+                <PMID Version="1">12963735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2004;20:367-94</RefSource>
+                <PMID Version="1">15473845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br Med J. 1977 Jul 30;2(6082):293-5</RefSource>
+                <PMID Version="1">326347</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Antibiot (Tokyo). 1984 Feb;37(2):110-7</RefSource>
+                <PMID Version="1">6423597</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1985 Jun 18;24(13):3165-73</RefSource>
+                <PMID Version="1">3927973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Nov;85(21):7972-6</RefSource>
+                <PMID Version="1">2973058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1991 Sep;59(9):3205-12</RefSource>
+                <PMID Version="1">1715324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Feb 4;263(5147):678-81</RefSource>
+                <PMID Version="1">8303277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Jan 1;181(1):257-70</RefSource>
+                <PMID Version="1">7807006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Aug;64(8):3038-47</RefSource>
+                <PMID Version="1">8757831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Dec 16;15(24):6960-8</RefSource>
+                <PMID Version="1">9003772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1998 Apr;111 ( Pt 7):897-905</RefSource>
+                <PMID Version="1">9490634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1999 Apr;5(4):444-7</RefSource>
+                <PMID Version="1">10202937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1999 Apr 15;162(8):4606-13</RefSource>
+                <PMID Version="1">10202000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Mar 15;174(6):3534-44</RefSource>
+                <PMID Version="1">15749890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2005 Aug;5(8):661-7</RefSource>
+                <PMID Version="1">16056257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Immunol Ther Exp (Warsz). 2006 Jan-Feb;54(1):15-24</RefSource>
+                <PMID Version="1">16642253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2006 Dec;74(12):6855-64</RefSource>
+                <PMID Version="1">17030572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 2007 May-Jun;42(5-6):204-14</RefSource>
+                <PMID Version="1">17369012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2007 Jul 15;196(2):191-8</RefSource>
+                <PMID Version="1">17570105</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2007 Nov;8(11):917-29</RefSource>
+                <PMID Version="1">17912264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2008 May 15;117(2):123-30</RefSource>
+                <PMID Version="1">18378322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2008 Aug 1;198(3):359-66</RefSource>
+                <PMID Version="1">18557702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Oncol Hematol. 2008 Oct;68(1):12-28</RefSource>
+                <PMID Version="1">18396408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2009 Dec;86(6):1295-303</RefSource>
+                <PMID Version="1">19801497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Innate Immun. 2010;2(1):56-65</RefSource>
+                <PMID Version="1">20375623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2011 Jun;89(6):837-45</RefSource>
+                <PMID Version="1">21345970</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Nov 29;108(48):19371-6</RefSource>
+                <PMID Version="1">22087003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunol. 2011 Dec;23(6):438-45</RefSource>
+                <PMID Version="1">21893418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Physiol. 2012;74:69-86</RefSource>
+                <PMID Version="1">22335796</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2012 Jun;44(6):942-54</RefSource>
+                <PMID Version="1">22426116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2012 Jun 1;188(11):5227-37</RefSource>
+                <PMID Version="1">22508931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2012 Oct;60(1):233-41</RefSource>
+                <PMID Version="1">22749533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2012 Oct 15;189(8):4079-87</RefSource>
+                <PMID Version="1">22972927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2013 May;62(2):202-5</RefSource>
+                <PMID Version="1">23557795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2013 Sep;81(9):3198-209</RefSource>
+                <PMID Version="1">23774601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(9):e74670</RefSource>
+                <PMID Version="1">24019973</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cathepsin D</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interferon-gamma</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-12</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-27</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium bovis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">STAT1 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">STAT3 Transcription Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuolar Proton-Translocating ATPases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC4007735</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1478-811X-12-16</ArticleId>
+            <ArticleId IdType="doi">10.1186/1478-811X-12-16</ArticleId>
+            <ArticleId IdType="pubmed">24618498</ArticleId>
+            <ArticleId IdType="pmc">PMC4007735</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

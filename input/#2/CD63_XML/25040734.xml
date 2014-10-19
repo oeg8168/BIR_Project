@@ -1,0 +1,133 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">25040734</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1398-9995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>69</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy</Title>
+                <ISOAbbreviation>Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sequential allergen desensitization of basophils is non-specific and may involve p38 MAPK.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1343-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/all.12482</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Sequential allergen desensitization provides temporary tolerance for allergic patients. We adapted a clinical protocol to desensitize human blood basophils ex vivo and investigated the mechanism and allergen specificity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We included 28 adult, grass allergic subjects. The optimal, activating allergen concentration was determined by measuring activated CD63(+) CD193(+) SS(Low) basophils in a basophil activation test with 8 log-dilutions of grass allergen. Basophils in whole blood were desensitized by incubation with twofold to 2.5-fold increasing allergen doses in 10 steps starting at 1 : 1000 of the optimal dose. Involvement of p38 mitogen-activated protein kinase (MAPK) was assessed after 3? min of allergen stimulation (n??=??7). Allergen specificity was investigated by desensitizing cells from multi-allergic subjects with grass allergen and challenging with optimal doses of grass, birch, recombinant house dust mite (rDer p2) allergen or anti-IgE (n??=??10).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Desensitization reduced the fraction of blood basophils responding to challenge with an optimal allergen dose from a median (IQR) 81.0% (66.3-88.8) to 35.4% (19.8-47.1, P??&lt;??0.0001). CD63 MFI expression was reduced from 68??248 (29??336-92??001) to 30??496 (14??046-46??179, P??&lt;??0.0001). Basophils from multi-allergic subjects were desensitized with grass allergen. Challenge with grass allergen resulted in 39.6% activation (15.8-58.3). An unrelated challenge (birch, rDer p2 or anti-IgE) resulted in 53.4% activation (30.8-66.8, P??=??0.16 compared with grass). Desensitization reduced p38 MAPK phosphorylation from a median 48.1% (15.6-92.8) to 26.1% (7.4-71.2, P??=??0.047) and correlated with decrease in CD63 upregulation (n??=??7, r??&gt;??0.79, P??&lt;??0.05).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Desensitization attenuated basophil response rapidly and non-specifically at a stage before p38 MAPK phosphorylation.</AbstractText>
+                <CopyrightInformation>Â© 2014 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Witting Christensen</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                    <Affiliation>Department of Pulmonary Medicine and Allergy, Aarhus University Hospital, Aarhus, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kortekaas Krohn</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thuraiaiyah</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skjold</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmid</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoffmann</LastName>
+                    <ForeName>H J H</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Allergy</MedlineTA>
+            <NlmUniqueID>7804028</NlmUniqueID>
+            <ISSNLinking>0105-4538</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">allergen desensitization</Keyword>
+            <Keyword MajorTopicYN="N">basophil activation test</Keyword>
+            <Keyword MajorTopicYN="N">basophil granulocytes</Keyword>
+            <Keyword MajorTopicYN="N">basophil sensitivity</Keyword>
+            <Keyword MajorTopicYN="N">p38 MAPK</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25040734</ArticleId>
+            <ArticleId IdType="doi">10.1111/all.12482</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

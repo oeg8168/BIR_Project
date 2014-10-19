@@ -1,0 +1,187 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">1466841</PMID>
+        <DateCreated>
+            <Year>1993</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0269-9370</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>1992</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AIDS (London, England)</Title>
+                <ISOAbbreviation>AIDS</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modulation of cell surface molecules during HIV-1 infection of H9 cells. An immunoelectron microscopic study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1105-16</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To study cell surface molecules and HIV-1 proteins on H9 cells 2 days after infection by immunogold electron microscopy, either in single or in double labelling using combinations of host cell-derived molecules and HIV-1 proteins.</AbstractText>
+                <AbstractText Label="DESIGN AND METHODS" NlmCategory="METHODS">The presence of host cell antigens CD3, CD4 and human leukocyte antigen-DR (HLA-DR) and HIV-1 antigens gag p15, p17, p24 and env gp41 was evaluated using immunocytochemistry at the light microscopic level. H9 cells 2 days after infection were processed for conventional transmission electron microscopy and cryo-ultramicrotomy. Leukocyte antigens investigated were CD2, CD3, CD4 (two antibodies), CD5, CD8, CD25, CD30, CD63 antigens and HLA-DR; HIV-1-encoded antigens were gag p24, pol reverse transcriptase, and env gp41 and gp120. Double immunogold labelling was performed using reagents with different sized gold particles. For leukocyte markers, the labelling density of the cell membrane was assessed quantitatively on uninfected and infected H9 cells.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Infected cells revealed the presence of gag p24, pol, and env gp41 and gp120 antigens on HIV-1 virions. Uninfected H9 cells showed a random distribution of cell surface molecules, including CD4 antigen, along the plasma membrane. The CD63 antigen, a lysosomal membrane glycoprotein, was located mainly in the cytoplasm of uninfected cells. Cells 2 days after infection showed CD4 labelling on sites where virions were budding from or attached to the cell surface and on free virions. Virions also showed labelling by CD3, CD5, CD25, CD30 and CD63 antibodies and anti-HLA-DR. Compared with uninfected cells, a significantly lower density was found on infected cells in labelling for CD4, CD5 and anti-HLA-DR. A significantly higher density on cells 2 days after infection was seen in CD63 labelling.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">During the first phase of infection host cell molecules concentrate on budding structures and newly generated HIV-1 virions. This phenomenon might contribute to the disappearance of these molecules (like the CD4 molecule) from the cell membrane after infection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meerloo</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Pathology, University Hospital, Utrecht, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parmentier</LastName>
+                    <ForeName>H K</ForeName>
+                    <Initials>HK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osterhaus</LastName>
+                    <ForeName>A D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goudsmit</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schuurman</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>AIDS</MedlineTA>
+            <NlmUniqueID>8710219</NlmUniqueID>
+            <ISSNLinking>0269-9370</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA Antigens</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD4</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Surface</DescriptorName>
+                <QualifierName MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Viral</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HLA Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1992</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1992</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1992</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1466841</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

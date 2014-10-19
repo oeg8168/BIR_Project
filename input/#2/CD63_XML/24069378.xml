@@ -1,0 +1,502 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24069378</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Proteome profiling of neuroblastoma-derived exosomes reveal the expression of proteins potentially involved in tumor progression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e75054</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0075054</ELocationID>
+            <Abstract>
+                <AbstractText>Neuroblastoma (NB) is the most common extracranial solid tumor in childhood, with grim prognosis in a half of patients. Exosomes are nanometer-sized membrane vesicles derived from the multivesicular bodies (MVBs) of the endocytic pathway and released by normal and neoplastic cells. Tumor-derived exosomes have been shown in different model systems to carry molecules that promote cancer growth and dissemination. In this respect, we have here performed the first characterization and proteomic analysis of exosomes isolated from human NB cell lines by filtration and ultracentrifugation. Electron microscopy demonstrated that NB-derived exosomes exhibited the characteristic cup-shaped morphology. Dynamic light scattering studies showed a bell-shaped curve and a polydispersity factor consistent with those of exosomes. Zeta potential values suggested a good nanoparticle stability. We performed proteomic analysis of NB-derived exosomes by two dimension liquid chromatography separation and mass spectrometry analyses using the multidimensional protein identification technology strategy. We found that the large majority of the proteins identified in NB derived exosomes are present in Exocarta database including tetraspanins, fibronectin, heat shock proteins, MVB proteins, cytoskeleton-related proteins, prominin-1 (CD133), basigin (CD147) and B7-H3 (CD276). Expression of the CD9, CD63 and CD81 tetraspanins, fibronectin, CD133, CD147 and CD276 was validated by flow cytometry. Noteworthy, flow cytometric analysis showed that NB-derived exosomes expressed the GD2 disialoganglioside, the most specific marker of NB. In conclusion, this study shows that NB-derived exosomes express a discrete set of molecules involved in defense response, cell differentiation, cell proliferation and regulation of other important biological process. Thus, NB-derived exosomes may play an important role in the modulation of tumor microenvironment and represent potential tumor biomarkers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Marimpietri</LastName>
+                    <ForeName>Danilo</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>Laboratory of Oncology, Department of Translational Research and Laboratory Medicine, Istituto Giannina Gaslini, Genoa, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petretto</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raffaghello</LastName>
+                    <ForeName>Lizzia</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pezzolo</LastName>
+                    <ForeName>Annalisa</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gagliani</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tacchetti</LastName>
+                    <ForeName>Carlo</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mauri</LastName>
+                    <ForeName>Pierluigi</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melioli</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pistoia</LastName>
+                    <ForeName>Vito</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Gangliosides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>65988-71-8</RegistryNumber>
+                <NameOfSubstance>ganglioside, GD2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2006 Dec;25(4):645-57</RefSource>
+                <PMID Version="1">17160711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochimie. 2007 Feb;89(2):205-12</RefSource>
+                <PMID Version="1">17157973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Proteomics. 2007 Apr;4(2):239-48</RefSource>
+                <PMID Version="1">17425459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2007 Jun 23;369(9579):2106-20</RefSource>
+                <PMID Version="1">17586306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2007 Oct 17;27(42):11214-27</RefSource>
+                <PMID Version="1">17942716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cells Tissues Organs. 2008;188(1-2):127-38</RefSource>
+                <PMID Version="1">18160824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histopathology. 2008 Jul;53(1):73-80</RefSource>
+                <PMID Version="1">18613926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2000 Oct;1(1):31-9</RefSource>
+                <PMID Version="1">11413487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Mar 28;278(13):10963-72</RefSource>
+                <PMID Version="1">12519789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Metastasis. 2003;20(2):161-9</RefSource>
+                <PMID Version="1">12705637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histol Histopathol. 2003 Jul;18(3):981-7</RefSource>
+                <PMID Version="1">12792908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Dec 15;102(13):4336-44</RefSource>
+                <PMID Version="1">12881314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Aug 24;101(34):12640-5</RefSource>
+                <PMID Version="1">15314238</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Oct 15;104(8):2332-8</RefSource>
+                <PMID Version="1">15231568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1981 Jan 29;289(5796):420-2</RefSource>
+                <PMID Version="1">7464911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1981 Jul 6;645(1):63-70</RefSource>
+                <PMID Version="1">6266476</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1987 Jan 15;39(1):73-6</RefSource>
+                <PMID Version="1">3539825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 1992 Aug;58(8):2606-15</RefSource>
+                <PMID Version="1">1381174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1994 Mar 1;91(5):1974-8</RefSource>
+                <PMID Version="1">8127917</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1996 Jul 29;67(3):379-85</RefSource>
+                <PMID Version="1">8707412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1997 Dec 15;90(12):5002-12</RefSource>
+                <PMID Version="1">9389720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1998 May;4(5):594-600</RefSource>
+                <PMID Version="1">9585234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1998 Oct 2;1394(1):43-56</RefSource>
+                <PMID Version="1">9767101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2010;10:294</RefSource>
+                <PMID Version="1">20553606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(8):e12265</RefSource>
+                <PMID Version="1">20824203</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteomics. 2010 Sep 10;73(10):1896-906</RefSource>
+                <PMID Version="1">20394844</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2010 Dec;124(3):677-88</RefSource>
+                <PMID Version="1">20213083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2010 Nov;10(22):4025-39</RefSource>
+                <PMID Version="1">21080493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2010 Dec 10;143(6):875-87</RefSource>
+                <PMID Version="1">21145455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2011 Feb;1812(2):213-9</RefSource>
+                <PMID Version="1">20674741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2011 Jan 6;30(1):97-105</RefSource>
+                <PMID Version="1">20818439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2011 Mar 1;17(5):959-64</RefSource>
+                <PMID Version="1">21224375</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Urol. 2011 May;59(5):823-31</RefSource>
+                <PMID Version="1">21196075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2011 Jun 1;71(11):3792-801</RefSource>
+                <PMID Version="1">21478294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2011;9:86</RefSource>
+                <PMID Version="1">21651777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Mol Med. 2011 Jul;3(7):398-409</RefSource>
+                <PMID Version="1">21591261</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2011 Aug;68(16):2667-88</RefSource>
+                <PMID Version="1">21560073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunopathol. 2011 Sep;33(5):419-40</RefSource>
+                <PMID Version="1">21174094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunopathol. 2011 Sep;33(5):441-54</RefSource>
+                <PMID Version="1">21688197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2012 Jan 15;130(2):300-8</RefSource>
+                <PMID Version="1">21328337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Dev Immunol. 2011;2011:842849</RefSource>
+                <PMID Version="1">22190973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D1241-4</RefSource>
+                <PMID Version="1">21989406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Chromosomes Cancer. 2012 Apr;51(4):409-18</RefSource>
+                <PMID Version="1">22420032</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Bioanal Chem. 2012 Mar;402(7):2407-15</RefSource>
+                <PMID Version="1">22293969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncol Rep. 2012 Jun;27(6):2003-9</RefSource>
+                <PMID Version="1">22427101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 May 15;72(10):2473-80</RefSource>
+                <PMID Version="1">22414581</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2012 May 15;18(10):2740-53</RefSource>
+                <PMID Version="1">22589483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Histopathology. 2012 Jun;60(7):1144-55</RefSource>
+                <PMID Version="1">22394107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2012 Aug 15;318(14):1788-98</RefSource>
+                <PMID Version="1">22659167</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2012 Oct 1;30(28):3525-32</RefSource>
+                <PMID Version="1">22927533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2008 Oct;8(19):4083-99</RefSource>
+                <PMID Version="1">18780348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Chemother Pharmacol. 2009 Mar;63(4):571-82</RefSource>
+                <PMID Version="1">19083000</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2009 May;229(1):88-100</RefSource>
+                <PMID Version="1">19426216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2009 May 19;100(10):1603-7</RefSource>
+                <PMID Version="1">19401683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2009 Aug;21(4):575-81</RefSource>
+                <PMID Version="1">19442504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Oncol. 2010 Jan;36(1):133-40</RefSource>
+                <PMID Version="1">19956842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Feb 15;70(4):1668-78</RefSource>
+                <PMID Version="1">20124479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Jun;9(6):1085-99</RefSource>
+                <PMID Version="1">20124223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Jun;9(6):1324-38</RefSource>
+                <PMID Version="1">20224111</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 1999 Jul;17(7):2264-79</RefSource>
+                <PMID Version="1">10561284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2001 Mar;2(3):269-74</RefSource>
+                <PMID Version="1">11224528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(10):e46737</RefSource>
+                <PMID Version="1">23091600</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2012 Dec;33(12):982-90</RefSource>
+                <PMID Version="1">23107341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1999 Oct 1;163(7):3718-26</RefSource>
+                <PMID Version="1">10490967</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2004 Dec;4(12):4019-31</RefSource>
+                <PMID Version="1">15478216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2005 Aug;5(13):3475-90</RefSource>
+                <PMID Version="1">16047398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Ther. 2005 Jul;4(7):759-62</RefSource>
+                <PMID Version="1">15970688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Natl Cancer Inst. 2006 Aug 16;98(16):1142-57</RefSource>
+                <PMID Version="1">16912267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2006 Oct 15;119(8):1800-10</RefSource>
+                <PMID Version="1">16721788</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2006 Oct;213:131-45</RefSource>
+                <PMID Version="1">16972901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2006 Oct 8;242(1):1-10</RefSource>
+                <PMID Version="1">16413116</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gangliosides</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuroblastoma</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Proteome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Proteomics</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3777909</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0075054</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-27234</ArticleId>
+            <ArticleId IdType="pubmed">24069378</ArticleId>
+            <ArticleId IdType="pmc">PMC3777909</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

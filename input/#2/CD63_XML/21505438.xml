@@ -1,0 +1,481 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21505438</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2041-1723</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature communications</Title>
+                <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Unidirectional transfer of microRNA-loaded exosomes from T cells to antigen-presenting cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>282</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ncomms1285</ELocationID>
+            <Abstract>
+                <AbstractText>The immune synapse is an exquisitely evolved means of communication between T cells and antigen-presenting cells (APCs) during antigen recognition. Recent evidence points to the transfer of RNA via exosomes as a novel mode of intercellular communication. Here we show that exosomes of T, B and dendritic immune cells contain microRNA (miRNA) repertoires that differ from those of their parent cells. We investigate whether miRNAs are exchanged during cognate immune interactions, and demonstrate the existence of antigen-driven unidirectional transfer of miRNAs from the T cell to the APC, mediated by the delivery of CD63+ exosomes on immune synapse formation. Inhibition of exosome production by targeting neutral sphingomyelinase-2 impairs transfer of miRNAs to APCs. Moreover, miRNAs transferred during immune synapsis are able to modulate gene expression in recipient cells. Thus, our results support a mechanism of cellular communication involving antigen-dependent, unidirectional intercellular transfer of miRNAs by exosomes during immune synapsis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mittelbrunn</LastName>
+                    <ForeName>María</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Centro Nacional de Investigaciones Cardiovasculares, Melchor Fernández Almagro, 3. 28029, Madrid, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gutiérrez-Vázquez</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villarroya-Beltri</LastName>
+                    <ForeName>Carolina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González</LastName>
+                    <ForeName>Susana</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez-Cabo</LastName>
+                    <ForeName>Fátima</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González</LastName>
+                    <ForeName>Manuel ?�ngel</ForeName>
+                    <Initials>M??</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernad</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez-Madrid</LastName>
+                    <ForeName>Francisco</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GEO</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>GSE27997</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Commun</MedlineTA>
+            <NlmUniqueID>101528555</NlmUniqueID>
+            <ISSNLinking>2041-1723</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Mar 13;172(6):923-35</RefSource>
+                <PMID Version="1">16533950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2010 Oct 1;111(2):488-96</RefSource>
+                <PMID Version="1">20533300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2006 Jul;25(1):117-27</RefSource>
+                <PMID Version="1">16860761</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2006 Sep;20(9):1487-95</RefSource>
+                <PMID Version="1">16791265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2006 Oct 30;203(11):2519-27</RefSource>
+                <PMID Version="1">17060477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2007 Mar;7(3):238-43</RefSource>
+                <PMID Version="1">17290299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Mar 30;282(13):9591-9</RefSource>
+                <PMID Version="1">17276987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Apr 6;129(1):147-61</RefSource>
+                <PMID Version="1">17382377</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2007 Apr 27;316(5824):604-8</RefSource>
+                <PMID Version="1">17463289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2007 Apr 27;316(5824):608-11</RefSource>
+                <PMID Version="1">17463290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Oct 1;110(7):2440-8</RefSource>
+                <PMID Version="1">17536014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2008 Jan 10;451(7175):147-52</RefSource>
+                <PMID Version="1">18185580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2008 Feb;8(2):120-30</RefSource>
+                <PMID Version="1">18204468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Feb 29;319(5867):1244-7</RefSource>
+                <PMID Version="1">18309083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2008 Mar 7;132(5):860-74</RefSource>
+                <PMID Version="1">18329371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2008 Apr;18(2):131-40</RefSource>
+                <PMID Version="1">18291670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Oct;9(10):1105-11</RefSource>
+                <PMID Version="1">18800163</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2008 Dec;10(12):1470-6</RefSource>
+                <PMID Version="1">19011622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Jan 9;136(1):26-36</RefSource>
+                <PMID Version="1">19135886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Feb;19(2):43-51</RefSource>
+                <PMID Version="1">19144520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2009 Feb 20;136(4):642-55</RefSource>
+                <PMID Version="1">19239886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 Mar 26;458(7237):445-52</RefSource>
+                <PMID Version="1">19325624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2009 Aug 1;183(3):1675-84</RefSource>
+                <PMID Version="1">19592652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2009 Aug;9(8):581-93</RefSource>
+                <PMID Version="1">19498381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2009 Aug;21(4):575-81</RefSource>
+                <PMID Version="1">19442504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2009 Aug 15;23(16):1971-9</RefSource>
+                <PMID Version="1">19684116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2009 Sep;11(9):1150-6</RefSource>
+                <PMID Version="1">19684574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Apr 1;168(7):3235-41</RefSource>
+                <PMID Version="1">11907077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2002;18 Suppl 1:S96-104</RefSource>
+                <PMID Version="1">12169536</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2002 Nov;189:84-97</RefSource>
+                <PMID Version="1">12445267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Dec 15;169(12):6691-5</RefSource>
+                <PMID Version="1">12471100</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2004 May;20(5):577-88</RefSource>
+                <PMID Version="1">15142526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1984 Nov;133(5):2762-6</RefSource>
+                <PMID Version="1">6384372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 1989 May;25(1):1-11</RefSource>
+                <PMID Version="1">2785516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 Jun 1;175(6):1493-9</RefSource>
+                <PMID Version="1">1588277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Feb 1;181(2):577-84</RefSource>
+                <PMID Version="1">7836913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 May 26;270(21):12839-45</RefSource>
+                <PMID Version="1">7759540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1998 Sep 3;395(6697):82-6</RefSource>
+                <PMID Version="1">9738502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1998 Sep 4;94(5):667-77</RefSource>
+                <PMID Version="1">9741631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Nov 15;104(10):3257-66</RefSource>
+                <PMID Version="1">15284116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Jul;16(7):3314-22</RefSource>
+                <PMID Version="1">15872088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2006 Mar;7(3):247-55</RefSource>
+                <PMID Version="1">16444260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2009 Sep;11(9):1143-9</RefSource>
+                <PMID Version="1">19684575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Dec 4;284(49):34211-22</RefSource>
+                <PMID Version="1">19801663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 2010;340:191-207</RefSource>
+                <PMID Version="1">19960315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Signal. 2009 Dec 8;2(100):ra81</RefSource>
+                <PMID Version="1">19996457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 Jan;12(1):19-30; sup pp 1-13</RefSource>
+                <PMID Version="1">19966785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2010 Feb;10(2):111-22</RefSource>
+                <PMID Version="1">20098459</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Apr 6;107(14):6328-33</RefSource>
+                <PMID Version="1">20304794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2010 May;11(5):675-87</RefSource>
+                <PMID Version="1">20136776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2010 May 3;189(3):399-406</RefSource>
+                <PMID Version="1">20439993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2010 May 27;115(21):4174-84</RefSource>
+                <PMID Version="1">20231423</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Jun 4;285(23):17442-52</RefSource>
+                <PMID Version="1">20353945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell. 2010 Jul 9;39(1):133-44</RefSource>
+                <PMID Version="1">20603081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2010 Oct 1;316(16):2692-706</RefSource>
+                <PMID Version="1">20570673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2006 May;20(5):847-56</RefSource>
+                <PMID Version="1">16453000</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen Presentation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen-Presenting Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Knockdown Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoblotting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunological Synapses</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Jurkat Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Linear Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microarray Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3104548</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ncomms1285</ArticleId>
+            <ArticleId IdType="doi">10.1038/ncomms1285</ArticleId>
+            <ArticleId IdType="pubmed">21505438</ArticleId>
+            <ArticleId IdType="pmc">PMC3104548</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

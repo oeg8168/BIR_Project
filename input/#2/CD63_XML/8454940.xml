@@ -1,0 +1,174 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8454940</PMID>
+        <DateCreated>
+            <Year>1993</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-2143</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>121</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of laboratory and clinical medicine</Title>
+                <ISOAbbreviation>J. Lab. Clin. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of platelet membrane markers for the detection of platelet activation in vitro and during platelet storage and cardiopulmonary bypass surgery.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>579-87</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Changes in the platelet plasma membrane during activation were investigated by flow cytometry in a comparative study of in vitro platelet activation during platelet storage and cardiopulmonary bypass surgery. We studied changes in the expression of the plasma membrane glycoproteins lb and llla and CD31 antigen (PECAM-1), the alpha-granule membrane proteins GMP-140 (PADGEM, CD62 antigen) and GMP-33, and lysosomal integral membrane protein-CD63. A simultaneous change in the expression of the various glycoproteins induced by platelet activation was seen after thrombin stimulation in vitro and during platelet storage. Platelet activation in vivo in patients showed a more complex change in the expression of membrane glycoproteins. During cardiopulmonary bypass the mean fluorescence values for glycoprotein llla, GMP-33, and the percentage of GMP-140 and lysosome integral membrane protein-CD63 expressing platelets increased significantly. CD31 antigen expression was significantly decreased, whereas glycoprotein lb expression did not change. We conclude that flow cytometry is useful for the detection of changes in the expression of membrane glycoproteins induced by platelet activation in vitro and during platelet storage. Application of flow cytometry as clinical tool for screening platelet activation in patients or for identification of a prethrombotic state requires evaluation of a panel of platelet membrane glycoproteins because the changes in membrane expression may be different in various clinical situations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Metzelaar</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Department of Hematology, University Hospital Utrecht, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korteweg</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sixma</LastName>
+                    <ForeName>J J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nieuwenhuis</LastName>
+                    <ForeName>H K</ForeName>
+                    <Initials>HK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Lab Clin Med</MedlineTA>
+            <NlmUniqueID>0375375</NlmUniqueID>
+            <ISSNLinking>0022-2143</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD31</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Differentiation, Myelomonocytic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD31</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Differentiation, Myelomonocytic</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cardiopulmonary Bypass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8454940</ArticleId>
+            <ArticleId IdType="pii">0022-2143(93)90093-E</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

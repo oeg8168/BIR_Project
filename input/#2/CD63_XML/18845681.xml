@@ -1,0 +1,423 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18845681</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>105</Volume>
+                    <Issue>42</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Oct</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of host cell lipid metabolism on alphavirus replication, virion morphogenesis, and infectivity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>16326-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.0808720105</ELocationID>
+            <Abstract>
+                <AbstractText>The alphavirus Sindbis virus (SINV) causes encephalomyelitis in mice. Lipid-containing membranes, particularly cholesterol and sphingomyelin (SM), play important roles in virus entry, RNA replication, glycoprotein transport, and budding. Levels of SM are regulated by sphingomyelinases (SMases). Acid SMase (ASMase) deficiency results in the lipid storage disease type A Niemann-Pick disease (NPD-A), mimicked in mice by interruption of the ASMase gene. We previously demonstrated that ASMase-deficient mice are more susceptible to fatal SINV encephalomyelitis, with increased viral replication, spread, and neuronal death. To determine the mechanisms by which ASMase deficiency enhances SINV replication, we compared NPD-A fibroblasts (NPAF) to normal human fibroblasts (NHF). NPAF accumulated cholesterol- and sphingolipid-rich late endosomes/lysosomes in the perinuclear region. SINV replication was faster and reached higher titer in NPAF than in NHF, and NPAF died more quickly. SINV RNA and protein synthesis was greater in NHF than in NPAF, but virions budding from NPAF were 26 times more infectious and were regular dense particles whereas virions from NHF were larger particles containing substantial amounts of CD63. Cellular regulation of alphavirus morphogenesis is a previously unrecognized mechanism for control of virus replication and spread.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Ching G</ForeName>
+                    <Initials>CG</Initials>
+                    <Affiliation>W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD 21205, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coppens</LastName>
+                    <ForeName>Isabelle</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Govindarajan</LastName>
+                    <ForeName>Dhanasekaran</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pisciotta</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shulaev</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griffin</LastName>
+                    <ForeName>Diane E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI060767</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HD24061</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS18596</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Viral Envelope Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Neurosci. 1999;22:1-10</RefSource>
+                <PMID Version="1">10202529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 May;73(5):4272-8</RefSource>
+                <PMID Version="1">10196324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1999 Sep 11;354(9182):901-5</RefSource>
+                <PMID Version="1">10489949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mass Spectrom. 2004 Nov;39(11):1321-36</RefSource>
+                <PMID Version="1">15532045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virus Res. 2004 Dec;106(2):103-16</RefSource>
+                <PMID Version="1">15567491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 May;79(9):5374-85</RefSource>
+                <PMID Version="1">15827152</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Nov;80(22):10989-99</RefSource>
+                <PMID Version="1">16943298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 1999 May;1(1):33-9</RefSource>
+                <PMID Version="1">10559861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2000 Apr 3;149(1):167-80</RefSource>
+                <PMID Version="1">10747095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2000 May;11(5):1829-43</RefSource>
+                <PMID Version="1">10793155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2000 May;7(5):413-24</RefSource>
+                <PMID Version="1">10800075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jul;74(13):6156-61</RefSource>
+                <PMID Version="1">10846099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Jul;74(14):6425-32</RefSource>
+                <PMID Version="1">10864654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2000 Sep;74(17):7708-19</RefSource>
+                <PMID Version="1">10933676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2000 Nov;10(11):459-62</RefSource>
+                <PMID Version="1">11050411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2000 Oct 2;19(19):5081-91</RefSource>
+                <PMID Version="1">11013211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Apr 6;105(1):127-36</RefSource>
+                <PMID Version="1">11301008</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2001 Apr 6;105(1):137-48</RefSource>
+                <PMID Version="1">11301009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2001 Oct;81(4):1689-723</RefSource>
+                <PMID Version="1">11581500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Nov 30;276(48):44976-83</RefSource>
+                <PMID Version="1">11579092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jun;76(12):6302-10</RefSource>
+                <PMID Version="1">12021363</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2002 Jul;110(1):3-8</RefSource>
+                <PMID Version="1">12093880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2002 Sep;110(5):597-603</RefSource>
+                <PMID Version="1">12208858</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Mar;77(5):2981-9</RefSource>
+                <PMID Version="1">12584323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2003 Sep;14(9):3804-20</RefSource>
+                <PMID Version="1">12972565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2003 Nov;77(21):11555-62</RefSource>
+                <PMID Version="1">14557641</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biochem Parasitol. 2004 Nov;138(1):107-22</RefSource>
+                <PMID Version="1">15500922</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1968 Nov;2(11):1326-38</RefSource>
+                <PMID Version="1">5750316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1972 Mar;125(3):257-62</RefSource>
+                <PMID Version="1">4552644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Trop Med Hyg. 1984 Nov;33(6):1203-11</RefSource>
+                <PMID Version="1">6150654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Chem Clin Biochem. 1986 Apr;24(4):205-20</RefSource>
+                <PMID Version="1">3009683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Invest. 1987 Apr;56(4):418-23</RefSource>
+                <PMID Version="1">3031369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1988 Jul;62(7):2329-36</RefSource>
+                <PMID Version="1">2836615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Nov;85(21):8052-6</RefSource>
+                <PMID Version="1">3186706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Mar;65(3):1187-94</RefSource>
+                <PMID Version="1">1847448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1991 Mar;65(3):1551-7</RefSource>
+                <PMID Version="1">1995953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1993 Aug;195(2):627-37</RefSource>
+                <PMID Version="1">8393239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1993 Oct;123(1):57-65</RefSource>
+                <PMID Version="1">8408205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Oct 1;90(19):9095-9</RefSource>
+                <PMID Version="1">8415660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Mar;68(3):1316-23</RefSource>
+                <PMID Version="1">7508993</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1994 Oct;204(1):471-4</RefSource>
+                <PMID Version="1">8091681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiol Rev. 1994 Sep;58(3):491-562</RefSource>
+                <PMID Version="1">7968923</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 Mar;69(3):1990-3</RefSource>
+                <PMID Version="1">7853547</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Feb 24;80(4):621-30</RefSource>
+                <PMID Version="1">7867069</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Virus Res. 1995;45:113-51</RefSource>
+                <PMID Version="1">7793323</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Jun 30;81(7):1053-61</RefSource>
+                <PMID Version="1">7600574</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 1995 Jul;10(3):288-93</RefSource>
+                <PMID Version="1">7670466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1995 Sep;3(9):346-50</RefSource>
+                <PMID Version="1">8520887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Structure. 1996 May 15;4(5):531-41</RefSource>
+                <PMID Version="1">8736552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuropathol Exp Neurol. 1996 Oct;55(10):1060-72</RefSource>
+                <PMID Version="1">8858003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 1997 Apr;45(4):515-25</RefSource>
+                <PMID Version="1">9111230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Physiol. 1998;60:643-65</RefSource>
+                <PMID Version="1">9558480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1998 Dec 15;37(50):17562-70</RefSource>
+                <PMID Version="1">9860872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Oct;73(10):8476-84</RefSource>
+                <PMID Version="1">10482600</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Alphavirus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibroblasts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lipid Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Niemann-Pick Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Viral Envelope Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Virus Replication</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2571027</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">0808720105</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0808720105</ArticleId>
+            <ArticleId IdType="pubmed">18845681</ArticleId>
+            <ArticleId IdType="pmc">PMC2571027</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

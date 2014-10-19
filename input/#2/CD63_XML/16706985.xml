@@ -1,0 +1,252 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16706985</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1538-7933</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of thrombosis and haemostasis : JTH</Title>
+                <ISOAbbreviation>J. Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Critical role of ADP interaction with P2Y12 receptor in the maintenance of alpha(IIb)beta3 activation: association with Rap1B activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1379-87</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Platelet integrin alpha(IIb)beta3 plays a crucial role in platelet aggregation, and the affinity of alpha(IIb)beta3 for fibrinogen is dynamically regulated. Employing modified ligand-binding assays, we analyzed the mechanism by which alpha(IIb)beta3 maintains its high-affinity state.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Washed platelets adjusted to 50 x 10(3) microL(-1) were stimulated with 0.2 U mL(-1) thrombin or 5 microm U46619 under static conditions. After the completion of alpha(IIb)beta3 activation and granule secretion, different kinds of antagonists were added to the activated platelets. The activated alpha(IIb)beta3 was then detected by fluorescein isothiocyanate (FITC)-labeled PAC1. The addition of 1 mum AR-C69931MX (a P2Y12 antagonist) or 1 mm A3P5P (a P2Y1 antagonist) disrupted the sustained alpha(IIb)beta3 activation by approximately 92% and approximately 38%, respectively, without inhibiting CD62P or CD63 expression. Dilution of the platelet preparation to 500 microL(-1) also disrupted the sustained alpha(IIb)beta3 activation, and the disruption by such dilution was abrogated by the addition of exogenous adenosine 5'-diphosphate (ADP) in a dose-dependent fashion. The amounts of ADP released from activated platelets determined by high-performance liquid chromatography were compatible with the amounts of exogenous ADP required for the restoration. We next examined the effects of antagonists on protein kinase C (PKC) and Rap1B activation induced by 0.2 U mL(-1) thrombin. Thrombin induced long-lasting PKC and Rap1B activation. AR-C69931MX markedly inhibited Rap1B activation without inhibiting PKC activation.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our data indicate that the continuous interaction between released ADP and P2Y12 is critical for the maintenance of alpha(IIb)beta3 activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kamae</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Hematology and Oncology, Graduate School of Medicine C9, Osaka University, Suita, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shiraga</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kashiwagi</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kato</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tadokoro</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurata</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomiyama</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kanakura</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Thromb Haemost</MedlineTA>
+            <NlmUniqueID>101170508</NlmUniqueID>
+            <ISSNLinking>1538-7836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P2RY12 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Purinergic P2 Receptor Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Purinergic P2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Purinergic P2Y12</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>415SHH325A</RegistryNumber>
+                <NameOfSubstance>Adenosine Monophosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>61D2G4IYVH</RegistryNumber>
+                <NameOfSubstance>Adenosine Diphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6AQ1Y404U7</RegistryNumber>
+                <NameOfSubstance>cangrelor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>76898-47-0</RegistryNumber>
+                <NameOfSubstance>15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance>Protein Kinase C</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>RAP1B protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>rap GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">15-Hydroxy-11 alpha,9 alpha-(epoxymethano)prosta-5,13-dienoic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Diphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Monophosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Kinase C</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Purinergic P2 Receptor Antagonists</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Purinergic P2</DescriptorName>
+                <QualifierName MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Purinergic P2Y12</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rap GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JTH1941</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1538-7836.2006.01941.x</ArticleId>
+            <ArticleId IdType="pubmed">16706985</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

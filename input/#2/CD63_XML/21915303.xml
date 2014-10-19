@@ -1,0 +1,406 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21915303</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Detachment of breast tumor cells induces rapid secretion of exosomes which subsequently mediate cellular adhesion and spreading.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e24234</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0024234</ELocationID>
+            <Abstract>
+                <AbstractText>Exosomes are nano-vesicles secreted by a wide range of mammalian cell types. These vesicles are abundant in serum and other extracellular fluids and contain a large repertoire of proteins, mRNA and microRNA. Exosomes have been implicated in cell to cell communication, the transfer of infectious agents, and neurodegenerative diseases as well as tumor progression. However, the precise mechanisms by which they are internalized and/or secreted remain poorly understood. In order to follow their release and uptake in breast tumor cells in real time, cell-derived exosomes were tagged with green fluorescent protein (GFP)-CD63 while human serum exosomes were rhodamine isothiocynate-labeled. We show that detachment of adherent cells from various substrata induces a rapid and substantial secretion of exosomes, which then concentrate on the cell surfaces and mediate adhesion to various extracellular matrix proteins. We also demonstrate that disruption of lipid rafts with methyl-beta-cyclodextrin (MβCD) inhibits the internalization of exosomes and that annexins are essential for the exosomal uptake mechanisms. Taken together, these data suggest that cellular detachment is accompanied by significant release of exosomes while cellular adhesion and spreading are enhanced by rapid uptake and disposition of exosomes on the cell surface.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Koumangoye</LastName>
+                    <ForeName>Rainelli B</ForeName>
+                    <Initials>RB</Initials>
+                    <Affiliation>Department of Biochemistry and Cancer Biology, Meharry Medical College, Nashville, Tennessee, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakwe</LastName>
+                    <ForeName>Amos M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodwin</LastName>
+                    <ForeName>J Shawn</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Tina</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ochieng</LastName>
+                    <ForeName>Josiah</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1SC1 CA134018-01</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>2G12RR003032-22</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 MD007593</GrantID>
+                    <Acronym>MD</Acronym>
+                    <Agency>NIMHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 RR026140</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Annexins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>beta-Cyclodextrins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>methyl-beta-cyclodextrin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2004 Jul;12(7):310-6</RefSource>
+                <PMID Version="1">15223058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1995 Jun 15;308 ( Pt 3):823-30</RefSource>
+                <PMID Version="1">8948438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Invasion Metastasis. 1997;17(2):101-12</RefSource>
+                <PMID Version="1">9561029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2005 Feb 20;113(5):752-60</RefSource>
+                <PMID Version="1">15499615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Jun 15;65(12):5238-47</RefSource>
+                <PMID Version="1">15958569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Mar 13;172(6):923-35</RefSource>
+                <PMID Version="1">16533950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Mol Pathol. 2006 Oct;81(2):146-56</RefSource>
+                <PMID Version="1">16643892</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2010 Oct 1;111(2):488-96</RefSource>
+                <PMID Version="1">20533300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2010 Nov;78(9):838-48</RefSource>
+                <PMID Version="1">20703216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Thromb Hemost. 2010 Nov;36(8):845-56</RefSource>
+                <PMID Version="1">21049385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Dec 31;285(53):41827-35</RefSource>
+                <PMID Version="1">20956534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 Feb 4;286(5):3261-9</RefSource>
+                <PMID Version="1">21097504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2011 Feb 15;186(4):2219-28</RefSource>
+                <PMID Version="1">21242526</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Ther. 2011 Feb;19(2):395-9</RefSource>
+                <PMID Version="1">21102562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2011 Apr 1;317(6):823-37</RefSource>
+                <PMID Version="1">21185831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2006 Nov 1;119(Pt 21):4486-98</RefSource>
+                <PMID Version="1">17046995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2007 Feb 15;313(4):652-64</RefSource>
+                <PMID Version="1">17184769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2007 Mar;170(3):951-66</RefSource>
+                <PMID Version="1">17322380</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2007 Oct 17;27(42):11214-27</RefSource>
+                <PMID Version="1">17942716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Direct. 2007;2:35</RefSource>
+                <PMID Version="1">18053135</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Pharm Bull. 2008 Jun;31(6):1059-62</RefSource>
+                <PMID Version="1">18520029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2008 Sep 30;338(1-2):21-30</RefSource>
+                <PMID Version="1">18675270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prostate. 2009 Feb 1;69(2):159-67</RefSource>
+                <PMID Version="1">18819103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2009 Feb 26;113(9):1957-66</RefSource>
+                <PMID Version="1">19005181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 Mar 10;106(10):3794-9</RefSource>
+                <PMID Version="1">19234131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 Jul 1;315(11):1875-88</RefSource>
+                <PMID Version="1">19327352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncol Rep. 2009 Nov;22(5):973-9</RefSource>
+                <PMID Version="1">19787209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2009 Nov;9(21):4997-5000</RefSource>
+                <PMID Version="1">19810033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2009 Dec;10(12):843-53</RefSource>
+                <PMID Version="1">19904298</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Dec 4;284(49):34211-22</RefSource>
+                <PMID Version="1">19801663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2010 Jan;12(1):19-30; sup pp 1-13</RefSource>
+                <PMID Version="1">19966785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2010 Jan 21;115(3):696-705</RefSource>
+                <PMID Version="1">19903899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2010 May 1;86(2):183-91</RefSource>
+                <PMID Version="1">20124403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2010 May;11(5):675-87</RefSource>
+                <PMID Version="1">20136776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Minerva Med. 2010 Jun;101(3):149-62</RefSource>
+                <PMID Version="1">20562803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:154</RefSource>
+                <PMID Version="1">20565834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Lipid Res. 2010 Oct;49(4):390-406</RefSource>
+                <PMID Version="1">20478335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2000 Apr;6(4):1389-93</RefSource>
+                <PMID Version="1">10778968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Jun 9;275(23):17221-4</RefSource>
+                <PMID Version="1">10770957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 15;166(12):7309-18</RefSource>
+                <PMID Version="1">11390481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Jan;13(1):238-50</RefSource>
+                <PMID Version="1">11809836</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2002 May;3(5):321-30</RefSource>
+                <PMID Version="1">11967126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1996 Nov;109 ( Pt 11):2613-8</RefSource>
+                <PMID Version="1">8937979</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Annexins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence Recovery After Photobleaching</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta-Cyclodextrins</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3167827</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0024234</ArticleId>
+            <ArticleId IdType="pii">PONE-D-11-07366</ArticleId>
+            <ArticleId IdType="pubmed">21915303</ArticleId>
+            <ArticleId IdType="pmc">PMC3167827</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

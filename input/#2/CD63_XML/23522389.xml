@@ -1,0 +1,496 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23522389</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-4598</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cancer</Title>
+                <ISOAbbreviation>Mol. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Timp1 interacts with beta-1 integrin and CD63 along melanoma genesis and confers anoikis resistance by activating PI3-K signaling pathway independently of Akt phosphorylation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1476-4598-12-22</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Anoikis resistance is one of the abilities acquired along tumor progression. This characteristic is associated with metastasis development, since tumorigenic cells must survive independently of cell-matrix interactions in this process. In our laboratory, it was developed a murine melanocyte malignant transformation model associated with a sustained stressful condition. After subjecting melan-a melanocytes to 1, 2, 3 and 4 cycles of anchorage impediment, anoikis resistant cells were established and named 1C, 2C, 3C and 4C, respectively. These cells showed altered morphology and PMA independent cell growth, but were not tumorigenic, corresponding to pre-malignant cells. After limiting dilution of 4C pre-malignant cells, melanoma cell lines with different characteristics were obtained. Previous data from our group showed that increased Timp1 expression correlated with anoikis-resistant phenotype. Timp1 was shown to confer anchorage-independent growth capability to melan-a melanocytes and render melanoma cells more aggressive when injected into mice. However, the mechanisms involved in anoikis regulation by Timp1 in tumorigenic cells are not clear yet.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The β1-integrin and Timp1 expression were evaluated by Western blotting and CD63 protein expression by flow cytometry using specific antibodies. To analyze the interaction among Timp1, CD63 and β1-integrin, immunoprecipitation assays were performed, anoikis resistance capability was evaluated in the presence or not of the PI3-K inhibitors, Wortmannin and LY294002. Relative expression of TIMP1 and CD63 in human metastatic melanoma cells was analyzed by real time PCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Differential association among Timp1, CD63 and β1-integrins was observed in melan-a melanocytes, 4C pre-malignant melanocytes and 4C11- and 4C11+ melanoma cells. Timp1 present in conditioned medium of melanoma cells rendered melan-a melanocytes anoikis-resistant through PI3-K signaling pathway independently of Akt activation. In human melanoma cell lines, in which TIMP1 and beta-1 integrin were also found to be interacting, TIMP1 and CD63 levels together was shown to correlate significantly with colony formation capacity.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Our results show that Timp1 is assembled in a supramolecular complex containing CD63 and β1-integrins along melanoma genesis and confers anoikis resistance by activating PI3-K signaling pathway, independently of Akt phosphorylation. In addition, our data point TIMP1, mainly together with CD63, as a potential biomarker of melanoma.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Toricelli</LastName>
+                    <ForeName>Mariana</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Pharmacology Department, Universidade Federal de São Paulo, São Paulo, Brazil.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melo</LastName>
+                    <ForeName>Fabiana H M</ForeName>
+                    <Initials>FH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peres</LastName>
+                    <ForeName>Giovani B</ForeName>
+                    <Initials>GB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Débora C P</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jasiulionis</LastName>
+                    <ForeName>Miriam G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>03</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Cancer</MedlineTA>
+            <NlmUniqueID>101147698</NlmUniqueID>
+            <ISSNLinking>1476-4598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD29</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Culture Media, Conditioned</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MART-1 Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Multiprotein Complexes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tissue Inhibitor of Metalloproteinase-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.-</RegistryNumber>
+                <NameOfSubstance>Phosphatidylinositol 3-Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-akt</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2006 Oct 23;95(8):1114-20</RefSource>
+                <PMID Version="1">17047657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Exp Pathol. 2006 Dec;87(6):437-43</RefSource>
+                <PMID Version="1">17222211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2007 Feb;8(2):89-96</RefSource>
+                <PMID Version="1">17181773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pigment Cell Res. 2007 Apr;20(2):80-91</RefSource>
+                <PMID Version="1">17371435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2008 May 1;122(9):2050-6</RefSource>
+                <PMID Version="1">18172859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2008 May;28(10):3258-72</RefSource>
+                <PMID Version="1">18347057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Signal. 2008;1(27):re6</RefSource>
+                <PMID Version="1">18612141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2008 Oct;7(19):2978-82</RefSource>
+                <PMID Version="1">18802401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2008 Dec 1;76(11):1352-64</RefSource>
+                <PMID Version="1">18708031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(4):e5219</RefSource>
+                <PMID Version="1">19381331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2010 Jan;10(1):9-22</RefSource>
+                <PMID Version="1">20029421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2010;674:43-54</RefSource>
+                <PMID Version="1">20549939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2010 Jun;20(3):161-8</RefSource>
+                <PMID Version="1">20470890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Res. 2010 Oct;342(1):87-96</RefSource>
+                <PMID Version="1">20798956</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2011 Apr 15;17(8):2417-25</RefSource>
+                <PMID Version="1">21487066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2011 Dec;68(23):3853-68</RefSource>
+                <PMID Version="1">21744247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Pharmacol Sci. 2012 Jul;33(7):405-12</RefSource>
+                <PMID Version="1">22633092</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Sep 21;287(39):32467-78</RefSource>
+                <PMID Version="1">22859303</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Mar 31;275(13):9230-8</RefSource>
+                <PMID Version="1">10734060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2000;28(4):311-39</RefSource>
+                <PMID Version="1">10961914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2000 Nov 1;351 Pt 3:629-37</RefSource>
+                <PMID Version="1">11042117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2001 Feb 15;61(4):1707-16</RefSource>
+                <PMID Version="1">11245487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2001 Apr;158(4):1207-15</RefSource>
+                <PMID Version="1">11290537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Mar 16;276(11):7974-84</RefSource>
+                <PMID Version="1">11113129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2001 Oct;13(5):555-62</RefSource>
+                <PMID Version="1">11544023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Dec;114(Pt 23):4143-51</RefSource>
+                <PMID Version="1">11739647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2001 Dec 24;155(7):1103-7</RefSource>
+                <PMID Version="1">11756464</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Surg Res. 2002 Jan;102(1):39-44</RefSource>
+                <PMID Version="1">11792150</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pathol. 2002 Jul;197(3):307-13</RefSource>
+                <PMID Version="1">12115876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2003 Jun;1(6):1161-73</RefSource>
+                <PMID Version="1">12871315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Mol Med. 2003 Aug 31;35(4):317-23</RefSource>
+                <PMID Version="1">14508073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Feb 1;64(3):952-61</RefSource>
+                <PMID Version="1">14871825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Apr 1;10(7):2289-98</RefSource>
+                <PMID Version="1">15073104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2004 May 19;23(10):2071-82</RefSource>
+                <PMID Version="1">15116068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1987 Mar 15;39(3):414-8</RefSource>
+                <PMID Version="1">3102392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1995 May;108 ( Pt 5):1945-57</RefSource>
+                <PMID Version="1">7544798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1995 Dec 15;86(12):4506-15</RefSource>
+                <PMID Version="1">8541540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1996 Apr 1;56(7):1682-9</RefSource>
+                <PMID Version="1">8603420</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1996 Oct 1;319 ( Pt 1):67-72</RefSource>
+                <PMID Version="1">8870650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1996 Oct 17;13(8):1709-19</RefSource>
+                <PMID Version="1">8895517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 31;272(5):2595-8</RefSource>
+                <PMID Version="1">9006891</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1998 Aug 15;92(4):1342-9</RefSource>
+                <PMID Version="1">9694723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 1995 Aug;1(8):899-906</RefSource>
+                <PMID Version="1">9816060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1999 Feb 19;84(1):44-8</RefSource>
+                <PMID Version="1">9988231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Pathol. 1999 May;30(5):562-7</RefSource>
+                <PMID Version="1">10333228</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Jun 1;59(11):2724-30</RefSource>
+                <PMID Version="1">10363998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Jul 26;146(2):477-92</RefSource>
+                <PMID Version="1">10427099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Sep 20;146(6):1375-89</RefSource>
+                <PMID Version="1">10491398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mt Sinai J Med. 2004 Nov;71(6):361-7</RefSource>
+                <PMID Version="1">15592654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Feb 1;65(3):898-906</RefSource>
+                <PMID Version="1">15705888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2005 Oct 15;104(8):1678-86</RefSource>
+                <PMID Version="1">16116595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2006 Mar;8(3):231-41</RefSource>
+                <PMID Version="1">16611417</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2006 Mar;25(1):99-113</RefSource>
+                <PMID Version="1">16680576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Dec 1;12(23):7054-8</RefSource>
+                <PMID Version="1">17114213</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Anoikis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD29</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Transformation, Neoplastic</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Culture Media, Conditioned</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MART-1 Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multiprotein Complexes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphatidylinositol 3-Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-akt</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Inhibitor of Metalloproteinase-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3635912</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1476-4598-12-22</ArticleId>
+            <ArticleId IdType="doi">10.1186/1476-4598-12-22</ArticleId>
+            <ArticleId IdType="pubmed">23522389</ArticleId>
+            <ArticleId IdType="pmc">PMC3635912</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

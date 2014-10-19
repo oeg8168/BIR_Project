@@ -1,0 +1,120 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18220977</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1389-5575</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mini reviews in medicinal chemistry</Title>
+                <ISOAbbreviation>Mini Rev Med Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tetraspanins-structural and signalling scaffolds that regulate platelet function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1248-54</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>There are several tetraspanins present in platelets including CD9, CD151, TSSC6, and CD63. Recent studies in knockout mouse models have revealed that CD151 and TSSC6 are physically and functionally involved in regulation of the 'outside-in' signalling properties of the major platelet integrin, integrin alpha(IIb)beta(3) and thrombus stability in vivo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Goschnick</LastName>
+                    <ForeName>Matt W</ForeName>
+                    <Initials>MW</Initials>
+                    <Affiliation>Immunoreceptor Laboratory, Burnet Institute at Austin, Studley Road, Heidelberg, Victoria 3084, Australia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jackson</LastName>
+                    <ForeName>Denise E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mini Rev Med Chem</MedlineTA>
+            <NlmUniqueID>101094212</NlmUniqueID>
+            <ISSNLinking>1389-5575</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Signal Transduction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>70</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18220977</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,163 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20103766</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1938-3673</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>87</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of leukocyte biology</Title>
+                <ISOAbbreviation>J. Leukoc. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Induction of neutrophil degranulation by S100A9 via a MAPK-dependent mechanism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>905-14</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1189/jlb.1009676</ELocationID>
+            <Abstract>
+                <AbstractText>S100A9 is a proinflammatory protein, expressed abundantly in the cytosol of neutrophils and monocytes. High extracellular S100A9 concentrations have been correlated with chronic inflammatory diseases such as rheumatoid arthritis and Crohn's disease, as well as with phagocyte extravasation. This study tested the hypothesis that S100A9 induces degranulation in human neutrophils. S100A9 was found to up-regulate the surface expression of CD35 and CD66b, proteins contained in secretory vesicles and specific/gelatinase granules, respectively. In addition, gelatinase and albumin, stored, respectively, in specific/gelatinase granules and secretory vesicles, were detected in the supernatants of neutrophils stimulated with S100A9. In contrast, stimulation with S100A9 had no effect on CD63 expression or MPO secretion, two proteins contained in azurophilic granules. S100A9 induced the phosphorylation of the MAPKs, ERK1/2, p38, and JNK. Inhibition of p38 and JNK but not ERK1/2, with specific inhibitors (SB203580, JNKII, and PD98059, respectively), blocked neutrophil degranulation induced by S100A9. Taken together, these results support the hypothesis and clearly indicate that S100A9 induces the degranulation of secretory and specific/gelatinase granules but not of azurophilic granules in a process involving p38 and JNK and further support its classification as a DAMP.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Simard</LastName>
+                    <ForeName>Jean-Christophe</ForeName>
+                    <Initials>JC</Initials>
+                    <Affiliation>Laboratoire de Recherche en Inflammation et Physiologie des Granulocytes, Université du Québec, INRS-Institut Armand-Frappier, Laval, Quebec, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Girard</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tessier</LastName>
+                    <ForeName>Philippe A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>FRN 84226</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Leukoc Biol</MedlineTA>
+            <NlmUniqueID>8405628</NlmUniqueID>
+            <ISSNLinking>0741-5400</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Calgranulin B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance>Mitogen-Activated Protein Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calgranulin B</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Separation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mitogen-Activated Protein Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophil Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jlb.1009676</ArticleId>
+            <ArticleId IdType="doi">10.1189/jlb.1009676</ArticleId>
+            <ArticleId IdType="pubmed">20103766</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

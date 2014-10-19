@@ -1,0 +1,452 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18032515</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>82</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J. Virol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of host proteins associated with retroviral vector particles by proteomic analysis of highly purified vector preparations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1107-17</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Moloney murine leukemia virus (MMLV) belongs to the Retroviridae family of enveloped viruses, which is known to acquire minute amounts of host cellular proteins both on the surface and inside the virion. Despite the extensive use of retroviral vectors in experimental and clinical applications, the repertoire of host proteins incorporated into MMLV vector particles remains unexplored. We report here the identification of host proteins from highly purified retroviral vector preparations obtained by rate-zonal ultracentrifugation. Viral proteins were fractionated by one-dimensional sodium dodecyl sulfate-polyacrylamide gel electrophoresis, in-gel tryptic digested, and subjected to liquid chromatography/tandem mass spectrometry analysis. Immunogold electron microscopy studies confirmed the presence of several host membrane proteins exposed at the vector surface. These studies led to the identification of 27 host proteins on MMLV vector particles derived from 293 HEK cells, including 5 proteins previously described as part of wild-type MMLV. Nineteen host proteins identified corresponded to intracellular proteins. A total of eight host membrane proteins were identified, including cell adhesion proteins integrin beta1 (fibronectin receptor subunit beta) and HMFG-E8, tetraspanins CD81 and CD9, and late endosomal markers CD63 and Lamp-2. Identification of membrane proteins on the retroviral surface is particularly attractive, since they can serve as anchoring sites for the insertion of tags for targeting or purification purposes. The implications of our findings for retrovirus-mediated gene therapy are discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Segura</LastName>
+                    <ForeName>María Mercedes</ForeName>
+                    <Initials>MM</Initials>
+                    <Affiliation>Biotechnology Research Institute, NRC, 6100 Royalmount Avenue, Montreal, Quebec, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garnier</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Di Falco</LastName>
+                    <ForeName>Marcos Rafael</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Whissell</LastName>
+                    <ForeName>Gavin</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meneses-Acosta</LastName>
+                    <ForeName>Angélica</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arcand</LastName>
+                    <ForeName>Normand</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamen</LastName>
+                    <ForeName>Amine</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 1998 Jun;123(6):1041-7</RefSource>
+                <PMID Version="1">9603991</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Nov;72(11):9329-36</RefSource>
+                <PMID Version="1">9765484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1999 Jul 20;260(1):23-34</RefSource>
+                <PMID Version="1">10405353</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2003 Sep 19;114(6):689-99</RefSource>
+                <PMID Version="1">14505569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2003 Nov;4(11):785-801</RefSource>
+                <PMID Version="1">14617360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Dec 26;278(52):52347-54</RefSource>
+                <PMID Version="1">14561735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 May;164(5):1807-15</RefSource>
+                <PMID Version="1">15111327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FASEB J. 2004 Jun;18(9):977-9</RefSource>
+                <PMID Version="1">15059973</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2004 Jul;12(7):310-6</RefSource>
+                <PMID Version="1">15223058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol. 2003;3(1):4</RefSource>
+                <PMID Version="1">14659004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Oct;81(19):5985-8</RefSource>
+                <PMID Version="1">6237366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol Methods. 1987 Jun;16(3):209-16</RefSource>
+                <PMID Version="1">3654898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci Suppl. 1987;8:231-50</RefSource>
+                <PMID Version="1">3332662</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Dec 18;258(5090):1935-8</RefSource>
+                <PMID Version="1">1470916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 1993 Nov;9(11):1157-65</RefSource>
+                <PMID Version="1">8312057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Aug 15;175(4):2237-43</RefSource>
+                <PMID Version="1">16081791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteome Res. 2006 Mar;5(3):530-8</RefSource>
+                <PMID Version="1">16512667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol Methods. 2006 Apr;133(1):82-91</RefSource>
+                <PMID Version="1">16325928</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2006 Jun 5;173(5):795-807</RefSource>
+                <PMID Version="1">16735575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Jul;80(13):6487-96</RefSource>
+                <PMID Version="1">16775336</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2006 Sep;80(18):9039-52</RefSource>
+                <PMID Version="1">16940516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Oct 15;177(8):5129-37</RefSource>
+                <PMID Version="1">17015697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Nov 1;147(3):599-610</RefSource>
+                <PMID Version="1">10545503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2000 Jan 5;266(1):42-51</RefSource>
+                <PMID Version="1">10612659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2000 Jan;267(2):583-90</RefSource>
+                <PMID Version="1">10632729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 2000 Mar 1;16(4):355-66</RefSource>
+                <PMID Version="1">10716373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2000 Dec 5;278(1):111-21</RefSource>
+                <PMID Version="1">11112487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Gene Ther. 2001 Jan 1;12(1):13-23</RefSource>
+                <PMID Version="1">11177538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Gene Ther. 2001 Feb 10;12(3):291-301</RefSource>
+                <PMID Version="1">11177565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Oct;73(10):8599-611</RefSource>
+                <PMID Version="1">10482613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2004 Dec;4(12):4019-31</RefSource>
+                <PMID Version="1">15478216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechnol Bioeng. 2005 May 20;90(4):391-404</RefSource>
+                <PMID Version="1">15812800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2005 Jun;72(6):1452-65</RefSource>
+                <PMID Version="1">15635128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Nov 2;276(44):40545-54</RefSource>
+                <PMID Version="1">11504738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 May;76(9):4666-70</RefSource>
+                <PMID Version="1">11932435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys Chem. 2002 Jun 19;97(2-3):159-72</RefSource>
+                <PMID Version="1">12050007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2002 Jul;76(14):6909-18</RefSource>
+                <PMID Version="1">12072492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Sep 6;277(36):32445-52</RefSource>
+                <PMID Version="1">12068019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Rep. 2002 Sep;3(9):899-904</RefSource>
+                <PMID Version="1">12189179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Gene Ther. 2002 Oct 10;13(15):1821-31</RefSource>
+                <PMID Version="1">12396615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Med Virol. 2002 Nov-Dec;12(6):359-74</RefSource>
+                <PMID Version="1">12410528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2002 Dec 15;100(13):4502-11</RefSource>
+                <PMID Version="1">12453879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Mar 28;278(13):10963-72</RefSource>
+                <PMID Version="1">12519789</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Gene Ther. 2003 May 20;14(8):789-802</RefSource>
+                <PMID Version="1">12804141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2003 Jul 15;373(Pt 2):409-21</RefSource>
+                <PMID Version="1">12708969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2003 Jul;5(1):161-74</RefSource>
+                <PMID Version="1">12852860</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2003 Aug 4;162(3):443-55</RefSource>
+                <PMID Version="1">12885763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Apr 27;276(17):14329-37</RefSource>
+                <PMID Version="1">11278880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 15;166(12):7309-18</RefSource>
+                <PMID Version="1">11390481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene Ther. 2001 Jul;8(14):1088-96</RefSource>
+                <PMID Version="1">11526456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Mol Life Sci. 2001 Aug;58(9):1189-205</RefSource>
+                <PMID Version="1">11577978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1994 Dec;68(12):8001-7</RefSource>
+                <PMID Version="1">7966590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1995 May;69(5):3117-24</RefSource>
+                <PMID Version="1">7707540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS Res Hum Retroviruses. 1995 Sep;11(9):1003-6</RefSource>
+                <PMID Version="1">8554896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1996 Jan 4;379(6560):85-8</RefSource>
+                <PMID Version="1">8538747</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Chem. 1996 Mar 1;68(5):850-8</RefSource>
+                <PMID Version="1">8779443</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1996 Aug 1;88(3):855-62</RefSource>
+                <PMID Version="1">8704241</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1996 Aug;2(8):876-82</RefSource>
+                <PMID Version="1">8705856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 Oct 15;93(21):11400-6</RefSource>
+                <PMID Version="1">8876147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1996 Nov;70(11):7734-43</RefSource>
+                <PMID Version="1">8892894</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 May;71(5):3444-50</RefSource>
+                <PMID Version="1">9094615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1997 May;71(5):3588-96</RefSource>
+                <PMID Version="1">9094631</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1997 Mar 31;230(1):125-33</RefSource>
+                <PMID Version="1">9126268</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1997 Mar 31;230(1):134-44</RefSource>
+                <PMID Version="1">9126269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Mar;72(3):2105-12</RefSource>
+                <PMID Version="1">9499066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Apr;72(4):2962-8</RefSource>
+                <PMID Version="1">9525617</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatography, Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genetic Vectors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Immunoelectron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Moloney murine leukemia virus</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ultracentrifugation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2224463</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">JVI.01909-07</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.01909-07</ArticleId>
+            <ArticleId IdType="pubmed">18032515</ArticleId>
+            <ArticleId IdType="pmc">PMC2224463</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

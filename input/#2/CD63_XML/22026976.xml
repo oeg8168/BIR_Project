@@ -1,0 +1,124 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">22026976</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1756-0500</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC research notes</Title>
+                <ISOAbbreviation>BMC Res Notes</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A putative diacidic motif in the SARS-CoV ORF6 protein influences its subcellular localization and suppression of expression of co-transfected expression constructs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>446</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1756-0500-4-446</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The ORF6 protein is one of the eight accessory proteins of the severe acute respiratory syndrome coronavirus (SARS-CoV). Numerous properties of ORF6 have been documented and this study focuses on two of these, namely, its ability to suppress the expression of co-transfected expression constructs and its subcellular localization to vesicular structures.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Using a transient transfection system, ORF6's ability to suppress the expression of co-transfected expression constructs was measured in a quantitative manner. While ORF6 does not have a global effect on protein synthesis, quantitative real-time PCR revealed that it down-regulated the mRNA level of the co-transfected myc-nsp8 gene. Furthermore, alanine substitution of a diacidic cluster motif (aa53-56) in the ORF6 gene caused a reduction in the suppression of expression of co-transfected myc-nsp8 gene. Our previous study revealed that ORF6 localized to vesicular structures in SARS-CoV infected Vero E6 cells. Here, ORF6 was observed to be localized to similar vesicular structures in Vero E6 cells which have been transiently transfected with a mammalian expression plasmid encoding for untagged ORF6. ORF6 showed partial colocalization with cellular proteins CD63 and Lamp1, suggesting that the vesicular structures may be a subpopulation of endosomal/lysosomal vesicles. The alanine substitution of the diacidic cluster motif also altered the subcellular localization of the ORF6 protein, indicating a potential relationship between the subcellular localization of the ORF6 protein and its ability to suppress the expression of co-transfected expression constructs.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">By combining quantitative real-time PCR and transient transfection system, a simple and safe method is established to measure ORF6's ability to suppress the expression of co-transfected myc-nsp8. In addition, immunofluorescence analysis revealed that the subcellular localization of ORF6 when expressed on its own is similar to that observed in SARS-CoV infected cells. Through the use of these two assays, a putative diacidic motif in the ORF6 protein was found to influence its subcellular localization and ability to suppress the expression of co-transfected expression constructs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gunalan</LastName>
+                    <ForeName>Vithiagaran</ForeName>
+                    <Initials>V</Initials>
+                    <Affiliation>Department of Microbiology, Yong Loo Lin School of Medicine, National University Health System, National University of Singapore, MD4, 5 Science Drive 2, Singapore 117597, Singapore. Yee_Joo_TAN@NUHS.edu.sg.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirazimi</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Yee-Joo</ForeName>
+                    <Initials>YJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Res Notes</MedlineTA>
+            <NlmUniqueID>101462768</NlmUniqueID>
+            <ISSNLinking>1756-0500</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3219739</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1756-0500-4-446</ArticleId>
+            <ArticleId IdType="doi">10.1186/1756-0500-4-446</ArticleId>
+            <ArticleId IdType="pubmed">22026976</ArticleId>
+            <ArticleId IdType="pmc">PMC3219739</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

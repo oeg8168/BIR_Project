@@ -1,0 +1,170 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18768832</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1550-6606</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>181</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Sep</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology (Baltimore, Md. : 1950)</Title>
+                <ISOAbbreviation>J. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rab27a regulates exocytosis of tertiary and specific granules in human neutrophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3793-803</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The correct mobilization of cytoplasmic granules is essential for the proper functioning of human neutrophils in host defense and inflammation. In this study, we have found that human peripheral blood neutrophils expressed high levels of Rab27a, whereas Rab27b expression was much lower. This indicates that Rab27a is the predominant Rab27 isoform present in human neutrophils. Rab27a was up-regulated during neutrophil differentiation of HL-60 cells. Subcellular fractionation and immunoelectron microscopy studies of resting human neutrophils showed that Rab27a was mainly located in the membranes of specific and gelatinase-enriched tertiary granules, with a minor localization in azurophil granules. Rab27a was largely absent from CD35-enriched secretory vesicles. Tertiary and specific granule-located Rab27a population was translocated to the cell surface upon neutrophil activation with PMA that induced exocytosis of both tertiary and specific granules. Specific Abs against Rab27a inhibited Ca(2+) and GTP-gamma-S activation and PMA-induced exocytosis of CD66b-enriched tertiary and specific granules in electropermeabilized neutrophils, whereas secretion of CD63-enriched azurophil granules was scarcely affected. Human neutrophils lacked or expressed low levels of most Slp/Slac2 proteins, putative Rab27 effectors, suggesting that additional proteins should act as Rab27a effectors in human neutrophils. Our data indicate that Rab27a is a major component of the exocytic machinery of human neutrophils, modulating the secretion of tertiary and specific granules that are readily mobilized upon neutrophil activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Herrero-Turrión</LastName>
+                    <ForeName>M Javier</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Centro de Investigación del Cáncer, Instituto de Biología Molecular y Celular del Cáncer, Consejo Superior de Investigaciones Cientificas-Universidad de Salamanca, Campus Miguel de Unamuno, Salamanca, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calafat</LastName>
+                    <ForeName>Jero</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janssen</LastName>
+                    <ForeName>Hans</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukuda</LastName>
+                    <ForeName>Mitsunori</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mollinedo</LastName>
+                    <ForeName>Faustino</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Immunol</MedlineTA>
+            <NlmUniqueID>2985117R</NlmUniqueID>
+            <ISSNLinking>0022-1767</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Protein Isoforms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>rab GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-.</RegistryNumber>
+                <NameOfSubstance>RAB27A protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HL-60 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophil Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">secretion</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Isoforms</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Subcellular Fractions</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">181/6/3793</ArticleId>
+            <ArticleId IdType="pubmed">18768832</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

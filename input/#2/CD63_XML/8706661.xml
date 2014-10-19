@@ -1,0 +1,191 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8706661</PMID>
+        <DateCreated>
+            <Year>1996</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>07</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0014-2956</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>238</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of biochemistry / FEBS</Title>
+                <ISOAbbreviation>Eur. J. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular cloning and characterization of a transmembrane surface antigen in human cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>631-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mouse mAb 6C6, raised against a plasma-membrane preparation from human breast-cancer cells, reacts with an antigen that appears to be overexpressed in human breast cancers and other human tumors. Here we describe the cDNA cloning and characterization of the antigen recognized by the 6C6 mAb. The isolated cDNA clone encodes a protein of 246 amino acids, with a predicted molecular mass of 27 991 Da. The protein contains three amino-terminal hydrophobic regions, which could represent transmembrane domains, and a hydrophilic carboxy-terminal region, which we show to be extracellular. The identity of the protein encoded by the cloned cDNA as the 6C6 antigen was confirmed by in vitro translation and immunoprecipitation experiments, and by transfection into cell lines that do not react with the 6C6 mAb, which resulted in the expression of a 28-kDa surface protein that was recognized by the antibody. The 6C6 antigen appears to be a type II transmembrane protein, with multiple membrane-spanning domains and a long extracellular non-glycosylated carboxy-terminal domain, to which the 6C6 epitope has been mapped. The overall structure of the protein and weak amino acid similarities with a family of multiple-transmembrane-spanning-domain proteins that includes some antigens (such as L6, CD63/ME491 and CO-029) that are overexpressed in tumor cells, suggest that the 6C6 antigen may belong to this family of proteins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <Affiliation>International Centre for Genetic Engineering and Biotechnology, Area Science Park, Trieste, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bestagno</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burrone</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>X81109</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Eur J Biochem</MedlineTA>
+            <NlmUniqueID>0107600</NlmUniqueID>
+            <ISSNLinking>0014-2956</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>6C6 antigen, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Complementary</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Surface</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">CHO Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Complementary</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epitope Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukemia, Erythroblastic, Acute</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8706661</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">25191648</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2296-2360</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in pediatrics</Title>
+                <ISOAbbreviation>Front Pediatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rethinking Molecular Mimicry in Rheumatic Heart Disease and Autoimmune Myocarditis: Laminin, Collagen IV, CAR, and B1AR as Initial Targets of Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>85</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fped.2014.00085</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE" NlmCategory="BACKGROUND">Molecular mimicry theory (MMT) suggests that epitope mimicry between pathogens and human proteins can activate autoimmune disease. Group A streptococci (GAS) mimics human cardiac myosin in rheumatic heart disease (RHD) and coxsackie viruses (CX) mimic actin in autoimmune myocarditis (AM). But myosin and actin are immunologically inaccessible and unlikely initial targets. Extracellular cardiac proteins that mimic GAS and CX would be more likely.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To determine whether extracellular cardiac proteins such as coxsackie and adenovirus receptor (CAR), beta 1 adrenergic receptor (B1AR), CD55/DAF, laminin, and collagen IV mimic GAS, CX, and/or cardiac myosin or actin.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">BLAST 2.0 and LALIGN searches of the UniProt protein database were employed to identify potential molecular mimics. Quantitative enzyme-linked immunosorbent assay was used to measure antibody cross-reactivity.</AbstractText>
+                <AbstractText Label="MEASUREMENTS" NlmCategory="METHODS">Similarities were considered to be significant if a sequence contained at least 5 identical amino acids in 10. Antibodies were considered to be cross-reactive if the binding constant had a K d less than 10(-9) M.</AbstractText>
+                <AbstractText Label="MAIN RESULTS" NlmCategory="RESULTS">Group A streptococci mimics laminin, CAR, and myosin. CX mimics actin and collagen IV and B1AR. The similarity search results are mirrored by antibody cross-reactivities. Additionally, antibodies against laminin recognize antibodies against collagen IV; antibodies against actin recognize antibodies against myosin, and antibodies against GAS recognize antibodies against CX. Thus, there is both mimicry of extracellular proteins and antigenic complementarity between GAS-CX in RHD/AM.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Rheumatic heart disease/AM may be due to combined infections of GAS with CX localized at cardiomyocytes that may produce a synergistic, hyperinflammatory response that cross-reacts with laminin, collagen IV, CAR, and/or B1AR. Epitope drift shifts the immune response to myosin and actin after cardiomyocytes become damaged.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Root-Bernstein</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Department of Physiology, Michigan State University , East Lansing, MI , USA.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Pediatr</MedlineTA>
+            <NlmUniqueID>101615492</NlmUniqueID>
+            <ISSNLinking>2296-2360</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC4137453</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">antigenic complementarity</Keyword>
+            <Keyword MajorTopicYN="N">co-infection</Keyword>
+            <Keyword MajorTopicYN="N">coxsackie virus</Keyword>
+            <Keyword MajorTopicYN="N">epitope drift</Keyword>
+            <Keyword MajorTopicYN="N">group A streptococci</Keyword>
+            <Keyword MajorTopicYN="N">hidden antigens</Keyword>
+            <Keyword MajorTopicYN="N">hyperinflammation</Keyword>
+            <Keyword MajorTopicYN="N">theory</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3389/fped.2014.00085</ArticleId>
+            <ArticleId IdType="pubmed">25191648</ArticleId>
+            <ArticleId IdType="pmc">PMC4137453</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

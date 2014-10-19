@@ -1,0 +1,210 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12010805</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-4971</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>99</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Jun</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Translocation of the tetraspanin CD63 in association with human eosinophil mediator release.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4039-47</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The tetraspanin CD63 (also known as LAMP-3) has been implicated in phagocytic and intracellular lysosome-phagosome fusion events. It is also present in eosinophils, with predominant expression on crystalloid granule membrane. However, its role in eosinophil function is obscure. We hypothesized that CD63 is associated with intracellular events involved in eosinophil activation and mediator release. We used a combination of confocal immunofluorescence microscopy, flow cytometry, and secretion assays, including beta-hexosaminidase, eosinophil peroxidase, and RANTES, to examine CD63 expression, intracellular localization, and its association with cell activation and mediator release. In resting eosinophils, CD63 immunoreactivity was localized to plasma and crystalloid granule membranes. In interferon-gamma (IFN-gamma)- or C5a/CB-stimulated cells (10 minutes), intracellular CD63 appeared to shift to the cell periphery and plasma membrane, while stimulation with a cocktail of interleukin-3 (IL-3)/IL-5/granulocyte-macrophage colony-stimulating factor induced the appearance of discrete intracellular clusters of CD63 immunoreactivity. IFN-gamma induced mobilization of CD63 to the cell periphery, which coincided with selective mobilization of RANTES prior to its release, implying CD63 association with piecemeal degranulation. Agonist-induced CD63 mobilization and cell surface up-regulation was associated with beta-hexosaminidase, eosinophil peroxidase, and RANTES release. Dexamethasone as well as genistein (a broad-spectrum inhibitor of tyrosine kinases) inhibited agonist-induced intracellular mobilization of CD63 and RANTES together with cell surface up-regulation of CD63 and mediator release. This is the first report of an association between CD63 mobilization and agonist-induced selective mediator release, which may imply the involvement of CD63 in eosinophil activation and piecemeal degranulation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mahmudi-Azer</LastName>
+                    <ForeName>Salahaddin</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Pulmonary Research Group, Department of Medicine, University of Alberta, Edmonton, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Downey</LastName>
+                    <ForeName>Gregory P</ForeName>
+                    <Initials>GP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moqbel</LastName>
+                    <ForeName>Redwan</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cell Adhesion Molecules</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemokine CCL5</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>11096-26-7</RegistryNumber>
+                <NameOfSubstance>Erythropoietin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+                <NameOfSubstance>Dexamethasone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Protein-Tyrosine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.52</RegistryNumber>
+                <NameOfSubstance>beta-N-Acetylhexosaminidases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Adhesion Molecules</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemokine CCL5</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dexamethasone</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Eosinophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Erythropoietin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein-Tyrosine Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">beta-N-Acetylhexosaminidases</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12010805</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

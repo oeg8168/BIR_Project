@@ -1,0 +1,99 @@
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">25222562</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>9</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1939-6376</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Systems biology in reproductive medicine</Title>
+                <ISOAbbreviation>Syst Biol Reprod Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Functional features and protein network of human sperm-egg interaction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText NlmCategory="UNLABELLED">Abstract Elucidation of the sperm-egg interaction at the molecular level is one of the unresolved problems in sexual reproduction, and understanding the molecular mechanism is crucial in solving problems in infertility and failed in vitro fertilization (IVF). Many molecular interactions in the form of protein-protein interactions (PPIs) mediate the sperm-egg membrane interaction. Due to the complexity of the problem such as difficulties in analyzing in vivo membrane PPIs, many efforts have failed to comprehensively elucidate the fusion mechanism and the molecular interactions that mediate sperm-egg membrane fusion. The main purpose of this study was to reveal possible protein interactions and associated molecular function during sperm-egg interaction using a protein interaction network approach. Different databases have been used to construct the human sperm-egg interaction network. The constructed network revealed new interactions. These included CD151 and CD9 in human oocyte that interact with CD49 in sperm, and CD49 and ITGA4 in sperm that interact with CD63 and CD81, respectively, in the oocyte. These results showed that the different integrins in sperm may be involved in human sperm-egg interaction. It was also suggested that sperm ADAM2 plays a role as a protein candidate involved in sperm-egg membrane interaction by interacting with CD9 in the oocyte. Interleukin-4 receptor activity, receptor signaling protein tyrosine kinase activity, and manganese ion transmembrane transport activity are the major molecular functions in sperm-egg interaction protein network. The disease association analysis indicated that sperm-egg interaction defects are also reflected in other disease networks such as cardiovascular, hematological, and breast cancer diseases. By analyzing the network, we identified the major molecular functions and disease association genes in sperm-egg interaction protein. Further experimental studies will be required to confirm the significance of these new computationally resolved interactions and the genetic links between sperm-egg interaction abnormalities and the associated disease.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Sabetian</LastName>
+                    <ForeName>Soudabeh</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Biological and Health Sciences, Faculty of Bioscience and Medical Engineering, Universiti Teknologi Malaysia , Johor , Malaysia.</Affiliation>
+                </Author>
+                <Author>
+                    <LastName>Shamsir</LastName>
+                    <ForeName>Mohd Shahir</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author>
+                    <LastName>Naser</LastName>
+                    <ForeName>Mohammed Abu</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType>JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Syst Biol Reprod Med</MedlineTA>
+            <NlmUniqueID>101464963</NlmUniqueID>
+            <ISSNLinking>1939-6368</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Infertility</Keyword>
+            <Keyword MajorTopicYN="N">protein interaction network</Keyword>
+            <Keyword MajorTopicYN="N">reproduction</Keyword>
+            <Keyword MajorTopicYN="N">sperm-egg interaction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/19396368.2014.955896</ArticleId>
+            <ArticleId IdType="pubmed">25222562</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,135 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21977985</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1582-4934</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular and molecular medicine</Title>
+                <ISOAbbreviation>J. Cell. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Telocytes are the common cell of origin of both PEComas and GISTs: an evidence-supported hypothesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2569-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1582-4934.2011.01461.x</ELocationID>
+            <Abstract>
+                <AbstractText>We advance the hypothesis that the telocyte might be the cell of origin of both PEComas (perivascular epithelioid cell tumours) and GISTs (gastro-intestinal and extra-gastrointestinal stromal tumours). The hypothesis is supported by data from the literature reporting that both PEComas and GISTs, as well as telocytes, share the expression of several markers. These data were supplemented by original immunohistochemical tests on selected series. Specifically: (1) Melanoma markers (Melan A, MiTF) typical of PEComas are expressed by a substantial fraction of GISTs. A fraction of GISTs was also found positive for CD63, a tetraspanin protein originally described in melanomas and marking exosomes. (2) c-KIT (CD117), proper of the vast majority of GISTs, can be expressed by PEComas (as well as by telocytes). (3) Markers described in telocytes (CD34, S-100, smooth muscle actin and vascular endothelial growth factor) have been reported as positive in cases of PEComas and GISTs. Telocytes show distinctive ultrastructural features with thin, extended, telopodes and are likely involved in inter-cellular signalling via paracrine secretion as well as by shed vesicles and exosomes. These cells have been described in many locations (cavitary and non-cavitary organs) and might display potentialities of a wide spectrum of differentiation (and function). In conclusion we propose that telocytes could be the common cells of origin for both PEComas and GISTs.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors Journal of Cellular and Molecular Medicine © 2011 Foundation for Cellular and Molecular Medicine/Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ardeleanu</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Victor Babes Institute, Bucharest, Romania Department of Biomedical Sciences and Human Oncology, University of Turin, Turin, Italy.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bussolati</LastName>
+                    <ForeName>Gianni</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Cell Mol Med</MedlineTA>
+            <NlmUniqueID>101083777</NlmUniqueID>
+            <ISSNLinking>1582-1838</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tumor Markers, Biological</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Lineage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Surface Extensions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gastrointestinal Stromal Tumors</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoenzyme Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Perivascular Epithelioid Cell Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Markers, Biological</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/j.1582-4934.2011.01461.x</ArticleId>
+            <ArticleId IdType="pubmed">21977985</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

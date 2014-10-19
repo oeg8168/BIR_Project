@@ -1,0 +1,482 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22574140</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The fbpA/sapM double knock out strain of Mycobacterium tuberculosis is highly attenuated and immunogenic in macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e36198</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0036198</ELocationID>
+            <Abstract>
+                <AbstractText>Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb), is the leading cause of death due to bacterial infections in mankind, and BCG, an attenuated strain of Mycobacterium bovis, is an approved vaccine. BCG sequesters in immature phagosomes of antigen presenting cells (APCs), which do not fuse with lysosomes, leading to decreased antigen processing and reduced Th1 responses. However, an Mtb derived ?”fbpA attenuated mutant underwent limited phagosome maturation, enhanced immunogenicity and was as effective as BCG in protecting mice against TB. To facilitate phagosome maturation of ?”fbpA, we disrupted an additional gene sapM, which encodes for an acid phosphatase. Compared to the wild type Mtb, the ?”fbpA?”sapM (double knock out; DKO) strain was attenuated for growth in mouse macrophages and PMA activated human THP1 macrophages. Attenuation correlated with increased oxidants in macrophages in response to DKO infection and enhanced labeling of lysosomal markers (CD63 and rab7) on DKO phagosomes. An in vitro Antigen 85B peptide presentation assay was used to determine antigen presentation to T cells by APCs infected with DKO or other mycobacterial strains. This revealed that DKO infected APCs showed the strongest ability to present Ag85B to T cells (&gt;2500 pgs/mL in 4 hrs) as compared to APCs infected with wild type Mtb or ?”fbpA or ?”sapM strain (&lt;1000 pgs/mL in 4 hrs), indicating that DKO strain has enhanced immunogenicity than other strains. The ability of DKO to undergo lysosomal fusion and vacuolar acidification correlated with antigen presentation since bafilomycin, that inhibits acidification in APCs, reduced antigen presentation. Finally, the DKO vaccine elicited a better Th1 response in mice after subcutaneous vaccination than either ?”fbpA or ?”sapM. Since ?”fbpA has been used in mice as a candidate vaccine and the DKO (?”fbpA?”sapM) mutant is more immunogenic than ?”fbpA, we propose the DKO is a potential anti-tuberculosis vaccine.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saikolappan</LastName>
+                    <ForeName>Sankaralingam</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Microbiology and Immunology, University of Texas Health Science Center at San Antonio, Edinburg, Texas, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Estrella</LastName>
+                    <ForeName>Jaymie</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sasindran</LastName>
+                    <ForeName>Smitha J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Arshad</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Armitige</LastName>
+                    <ForeName>Lisa Y</ForeName>
+                    <Initials>LY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jagannath</LastName>
+                    <ForeName>Chinnaswamy</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dhandayuthapani</LastName>
+                    <ForeName>Subramanian</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI49534</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI78420</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vaccines, Attenuated</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.-</RegistryNumber>
+                <NameOfSubstance>Acyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.-</RegistryNumber>
+                <NameOfSubstance>antigen 85A, Mycobacterium tuberculosis</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 Feb;68(2):767-78</RefSource>
+                <PMID Version="1">10639445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Apr 28;95(9):5299-304</RefSource>
+                <PMID Version="1">9560270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2000 Aug;146 ( Pt 8):1969-75</RefSource>
+                <PMID Version="1">10931901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2000 Dec;182(23):6850-3</RefSource>
+                <PMID Version="1">11073936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Dec 5;97(25):13853-8</RefSource>
+                <PMID Version="1">11095745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 Feb;69(2):1142-50</RefSource>
+                <PMID Version="1">11160012</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2001 Mar;22(3):160-8</RefSource>
+                <PMID Version="1">11286732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2001 May;69(5):2773-8</RefSource>
+                <PMID Version="1">11292688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Aug;2(8):569-77</RefSource>
+                <PMID Version="1">11483990</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2001 Nov 19;194(10):1421-32</RefSource>
+                <PMID Version="1">11714749</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2002 Oct;8(10):1171-4</RefSource>
+                <PMID Version="1">12219086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2003 May;9(5):533-9</RefSource>
+                <PMID Version="1">12692540</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tuberculosis (Edinb). 2005 Jan-Mar;85(1-2):25-8</RefSource>
+                <PMID Version="1">15687024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Mar 15;102(11):4033-8</RefSource>
+                <PMID Version="1">15753315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 May 15;174(10):6332-9</RefSource>
+                <PMID Version="1">15879133</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Immunol. 2005 Jul;141(1):21-8</RefSource>
+                <PMID Version="1">15958066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2005 May;7(5-6):905-10</RefSource>
+                <PMID Version="1">15878834</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 2005 May;7(5-6):955-61</RefSource>
+                <PMID Version="1">15914065</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2005 Aug;3(8):656-62</RefSource>
+                <PMID Version="1">16012514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2005 Sep;115(9):2472-9</RefSource>
+                <PMID Version="1">16110326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2006 Mar 15;103(2):196-9</RefSource>
+                <PMID Version="1">16297449</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2006 Mar 20;24(13):2333-42</RefSource>
+                <PMID Version="1">16388878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2006 Apr 24;24(17):3408-19</RefSource>
+                <PMID Version="1">16564606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2006 Jun;4(6):469-76</RefSource>
+                <PMID Version="1">16710326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1998 Jun;6(6):212-4</RefSource>
+                <PMID Version="1">9675795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1999 May;32(3):643-55</RefSource>
+                <PMID Version="1">10320585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1999 Jun;67(6):2867-73</RefSource>
+                <PMID Version="1">10338493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1999 May 28;284(5419):1520-3</RefSource>
+                <PMID Version="1">10348738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Dec;72(12):7084-95</RefSource>
+                <PMID Version="1">15557632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Feb;73(2):1097-105</RefSource>
+                <PMID Version="1">15664953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Feb;73(2):1196-203</RefSource>
+                <PMID Version="1">15664964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Sep 1;177(5):3250-9</RefSource>
+                <PMID Version="1">16920965</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2006 Sep 11;24(37-39):6309-20</RefSource>
+                <PMID Version="1">16860907</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Oct 1;177(7):4688-98</RefSource>
+                <PMID Version="1">16982908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Immunol. 2007 Feb;147(2):330-8</RefSource>
+                <PMID Version="1">17223975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2007;12:4676-81</RefSource>
+                <PMID Version="1">17485404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2007 Jul;5(7):484-7</RefSource>
+                <PMID Version="1">17571458</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2007 Oct 10;25(41):7153-9</RefSource>
+                <PMID Version="1">17804126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Oct 15;179(8):5137-45</RefSource>
+                <PMID Version="1">17911599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Biol Ther. 2008 Feb;8(2):201-11</RefSource>
+                <PMID Version="1">18194076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Jun;10(6):1286-303</RefSource>
+                <PMID Version="1">18248626</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2009 Mar;15(3):267-76</RefSource>
+                <PMID Version="1">19252503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2009;27:393-422</RefSource>
+                <PMID Version="1">19302046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2009 Jul 23;27(34):4709-17</RefSource>
+                <PMID Version="1">19500524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2010 Jul;78(7):3168-76</RefSource>
+                <PMID Version="1">20457786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2010 Jun;22(3):374-84</RefSource>
+                <PMID Version="1">20471231</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(9):e12978</RefSource>
+                <PMID Version="1">20885976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(1):e15857</RefSource>
+                <PMID Version="1">21264335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO Mol Med. 2011 Apr;3(4):222-34</RefSource>
+                <PMID Version="1">21328541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 2011 Apr;24(2):351-76</RefSource>
+                <PMID Version="1">21482729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2003 Jul;71(7):4190-2</RefSource>
+                <PMID Version="1">12819116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2003 Sep;5(9):776-8</RefSource>
+                <PMID Version="1">12951608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tuberculosis (Edinb). 2003;83(5):311-8</RefSource>
+                <PMID Version="1">12972344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2004 Feb;15(2):751-60</RefSource>
+                <PMID Version="1">14617817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2004 Jun;186(11):3590-8</RefSource>
+                <PMID Version="1">15150247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1975 Jul 1;142(1):1-16</RefSource>
+                <PMID Version="1">807671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1991;204:537-55</RefSource>
+                <PMID Version="1">1658570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1993 May 14;260(5110):984-6</RefSource>
+                <PMID Version="1">8098550</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1995 Nov 18;346(8986):1339-45</RefSource>
+                <PMID Version="1">7475776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J Suppl. 1995 Sep;20:649s-656s</RefSource>
+                <PMID Version="1">8590565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1996 Mar;178(5):1274-82</RefSource>
+                <PMID Version="1">8631702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1996 Mar;4(3):113-8</RefSource>
+                <PMID Version="1">8868090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 May 16;272(20):13326-31</RefSource>
+                <PMID Version="1">9148954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 May;68(5):2888-98</RefSource>
+                <PMID Version="1">10768986</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acyltransferases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">deficiency</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Bacterial</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Knockout Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vaccines, Attenuated</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3344844</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0036198</ArticleId>
+            <ArticleId IdType="pii">PONE-D-11-07856</ArticleId>
+            <ArticleId IdType="pubmed">22574140</ArticleId>
+            <ArticleId IdType="pmc">PMC3344844</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

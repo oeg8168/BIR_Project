@@ -1,0 +1,172 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14707480</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1424-7364</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Forschende Komplementärmedizin und klassische Naturheilkunde = Research in complementary and natural classical medicine</Title>
+                <ISOAbbreviation>Forsch Komplementarmed Klass Naturheilkd</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sensitive flow cytometric method to test basophil activation influenced by homeopathic histamine dilutions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>316-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In an experimental setting, human basophil degranulation was triggered by anti-IgE to measure the effects from homeopathic solutions in an in-vitro cell system. A 3-color flow cytometric method with enhanced accuracy was established. As an example we looked at the influence of histamine on anti-IgE activation of basophils.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Basophils were identified in the flow cytometer by their physical properties in the forward and side scatter light depiction and by gating on CD2(-), CD14(-), CD16(-), CD19(-), HLA-DR(-) negative and CD123-positive cells. CD63 expression on the cell surface of the anti-IgE-activated basophils served as an activation marker.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">With this method we were able to study basophil function of the 0.6-3.9% basophils out of the mononuclear blood cell fraction and to document their activation status upon anti-IgE activation. Optimal activation occurs at 0.6 microg/ml final anti-IgE concentration; not less than 10,000 basophils have to be counted per batch to reduce the variation of the measurement. The fixation method was able to stabilize activation for two days. After investigation and reduction of the source of measurement variability, an unequivocally inhibited basophil activation was documented in a partly optimized system with homeopathic dilutions of histamine (10(-22)M, 10(-23)M, 10(-24)M, and 10(-25)M histamine). Dilutions greater than 10(-20)M histamine (Avogadro's number 6.02 x 10(23)) account for less than 1.36 molecules of histamine in the test sample, indicating a true homeopathic effect.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This test system is adequate for studying the effects of highly diluted mediators on basophil activation by anti-IgE. The systematic application of this experimental arrangement is recommended to study the effects of homeopathic dilutions on basophils.</AbstractText>
+                <CopyrightInformation>Copyright 2003 S. Karger GmbH, Freiburg</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lorenz</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Forschungsinstitut KWALIS gGmbH, Dipperz. lorenzingrid@web.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>E M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stolz</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brack</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strube</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Forsch Komplementarmed Klass Naturheilkd</MedlineTA>
+            <NlmUniqueID>100958201</NlmUniqueID>
+            <ISSNLinking>1424-7364</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Anti-Idiotypic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>anti-IgE antibodies</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>820484N8I3</RegistryNumber>
+                <NameOfSubstance>Histamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Anti-Idiotypic</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Release</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14707480</ArticleId>
+            <ArticleId IdType="doi">75885</ArticleId>
+            <ArticleId IdType="pii">75885</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,357 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22547548</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5522</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ehrlichia chaffeensis TRP32 interacts with host cell targets that influence intracellular survival.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2297-306</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/IAI.00154-12</ELocationID>
+            <Abstract>
+                <AbstractText>Ehrlichia chaffeensis is an obligately intracellular bacterium that exhibits tropism for mononuclear phagocytes and survives by evading host cell defense mechanisms. Recently, molecular interactions of E. chaffeensis tandem repeat proteins 47 and 120 (TRP47 and -120) and the eukaryotic host cell have been described. In this investigation, yeast two-hybrid analysis demonstrated that an E. chaffeensis type 1 secretion system substrate, TRP32, interacts with a diverse group of human proteins associated with major biological processes of the host cell, including protein synthesis, trafficking, degradation, immune signaling, cell signaling, iron metabolism, and apoptosis. Eight target proteins, including translation elongation factor 1 alpha 1 (EF1A1), deleted in azoospermia (DAZ)-associated protein 2 (DAZAP2), ferritin light polypeptide (FTL), CD63, CD14, proteasome subunit beta type 1 (PSMB1), ring finger and CCCH-type domain 1 (RC3H1), and tumor protein p53-inducible protein 11 (TP53I11) interacted with TRP32 as determined by coimmunoprecipitation assays, colocalization with TRP32 in HeLa and THP-1 cells, and/or RNA interference. Interactions between TRP32 and host targets localized to the E. chaffeensis morulae or in the host cell cytoplasm adjacent to morulae. Common or closely related interacting partners of E. chaffeensis TRP32, TRP47, and TRP120 demonstrate a molecular convergence on common cellular processes and molecular cross talk between Ehrlichia TRPs and host targets. These findings further support the role of TRPs as effectors that promote intracellular survival.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Tian</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Pathology, University of Texas Medical Branch, Galveston, Texas, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McBride</LastName>
+                    <ForeName>Jere W</ForeName>
+                    <Initials>JW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI069270</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI071145</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Virulence Factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochimie. 2001 Mar-Apr;83(3-4):289-93</RefSource>
+                <PMID Version="1">11295488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Cell Infect Microbiol. 2011;1:22</RefSource>
+                <PMID Version="1">22919588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 Dec;114(Pt 23):4143-51</RefSource>
+                <PMID Version="1">11739647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biosci Biotechnol Biochem. 2002 Jan;66(1):1-21</RefSource>
+                <PMID Version="1">11866090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 2000 Feb;28(2):71-80</RefSource>
+                <PMID Version="1">10644493</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 Mar;68(3):1125-33</RefSource>
+                <PMID Version="1">10678916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genomics. 2000 May 1;65(3):266-73</RefSource>
+                <PMID Version="1">10857750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 2003 Jan;16(1):37-64</RefSource>
+                <PMID Version="1">12525424</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2003 May;71(5):2516-24</RefSource>
+                <PMID Version="1">12704123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Immunol Immunopathol. 2003 Aug 15;94(3-4):163-75</RefSource>
+                <PMID Version="1">12909412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Jan;72(1):498-507</RefSource>
+                <PMID Version="1">14688131</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2004 Feb;6(2):175-86</RefSource>
+                <PMID Version="1">14706103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart. 2004 Sep;90(9):983-8</RefSource>
+                <PMID Version="1">15310678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Nov;62(11):4804-10</RefSource>
+                <PMID Version="1">7927758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1995 May;20(5):169-70</RefSource>
+                <PMID Version="1">7610475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1997 Apr;65(4):1455-61</RefSource>
+                <PMID Version="1">9119487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Diagn Lab Immunol. 1997 Nov;4(6):731-5</RefSource>
+                <PMID Version="1">9384299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Jan;73(1):62-9</RefSource>
+                <PMID Version="1">15618141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2005 May 26;435(7041):452-8</RefSource>
+                <PMID Version="1">15917799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Diagn. 2005 Oct;7(4):504-10</RefSource>
+                <PMID Version="1">16237220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Nov;73(11):7629-36</RefSource>
+                <PMID Version="1">16239567</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2006 Jan;74(1):711-20</RefSource>
+                <PMID Version="1">16369028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Genet. 2006 Feb;2(2):e21</RefSource>
+                <PMID Version="1">16482227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2006 Oct;26(20):7707-18</RefSource>
+                <PMID Version="1">16908530</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2007 Jan;75(1):74-82</RefSource>
+                <PMID Version="1">17088359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 2007 Dec;19(6):665-73</RefSource>
+                <PMID Version="1">18036806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2008 Jan;28(2):803-13</RefSource>
+                <PMID Version="1">17984221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2008;606:195-216</RefSource>
+                <PMID Version="1">18183930</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Apr;76(4):1572-80</RefSource>
+                <PMID Version="1">18212082</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chang Gung Med J. 2007 Nov-Dec;30(6):469-79</RefSource>
+                <PMID Version="1">18350730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Signal. 2008 Nov;20(11):2134-44</RefSource>
+                <PMID Version="1">18762249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Mol Med. 2008 Sep-Oct;12(5A):1632-9</RefSource>
+                <PMID Version="1">18053095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2009 May;77(5):1734-45</RefSource>
+                <PMID Version="1">19273555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 May 15;315(9):1584-92</RefSource>
+                <PMID Version="1">18930046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2009 May;37(9):3007-20</RefSource>
+                <PMID Version="1">19304756</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Vaccine Immunol. 2009 Jul;16(7):982-90</RefSource>
+                <PMID Version="1">19420187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2009 Oct;77(10):4243-55</RefSource>
+                <PMID Version="1">19651857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Vaccine Immunol. 2010 Jan;17(1):87-97</RefSource>
+                <PMID Version="1">19955322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vet Parasitol. 2010 Feb 10;167(2-4):155-66</RefSource>
+                <PMID Version="1">19836896</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Mol Med. 2011;13:e3</RefSource>
+                <PMID Version="1">21276277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2011 Jul 1;51(1):5-16</RefSource>
+                <PMID Version="1">21530648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2011 Aug;79(8):3178-87</RefSource>
+                <PMID Version="1">21606187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2011 Nov;79(11):4370-81</RefSource>
+                <PMID Version="1">21859854</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2011 Nov;79(11):4382-91</RefSource>
+                <PMID Version="1">21859857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jul 13;276(28):26324-31</RefSource>
+                <PMID Version="1">11342538</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytosol</DescriptorName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ehrlichia chaffeensis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathogenicity</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Microbial Viability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Two-Hybrid System Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Virulence Factors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3416477</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">IAI.00154-12</ArticleId>
+            <ArticleId IdType="doi">10.1128/IAI.00154-12</ArticleId>
+            <ArticleId IdType="pubmed">22547548</ArticleId>
+            <ArticleId IdType="pmc">PMC3416477</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

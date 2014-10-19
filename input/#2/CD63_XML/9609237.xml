@@ -1,0 +1,149 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9609237</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>07</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0340-6245</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>79</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis and haemostasis</Title>
+                <ISOAbbreviation>Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Detection of platelets activated during acetylcholine-induced coronary vasospasm.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1004-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Although platelet activation may play a role in coronary artery spasm, platelets activated following coronary vasospasm have not been clinically detected. We performed flow cytometric analysis of activation-dependent granular proteins, CD62P (P-selectin), CD63, PAC-1 (activated glycoprotein [GP] IIb/IIIa) and thrombospondin on the platelet plasma membrane in patients who exhibited acetylcholine-induced coronary vasospasm and compared findings with those in control patients without vasospasm. We simultaneously investigated the plasma levels of thrombin anti-thrombin III complex (TAT), plasmin alpha2-plasmin inhibitor complex (PIC), and thrombomodulin. In patients with vasospasm, the expression of CD62P, CD63 and PAC-1 on the platelet membrane surface increased in coronary sinus blood samples following coronary vasospasm, although the expression in aortic samples did not change. The TAT level also increased in the coronary sinus after vasospasm. Platelets might be activated by coronary vasospasm within the coronary circulation. The platelet activation process may be modulated by thrombin generation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Inoue</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Cardiology, Koshigaya Hospital, Dokkyo University School of Medicine, Koshigaya City, Saitama, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujito</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoshi</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakai</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morooka</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohma</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>GERMANY</Country>
+            <MedlineTA>Thromb Haemost</MedlineTA>
+            <NlmUniqueID>7608063</NlmUniqueID>
+            <ISSNLinking>0340-6245</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>N9YNS0M02X</RegistryNumber>
+                <NameOfSubstance>Acetylcholine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acetylcholine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Vasospasm</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9609237</ArticleId>
+            <ArticleId IdType="pii">98051004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,149 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15238796</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1528-4050</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in allergy and clinical immunology</Title>
+                <ISOAbbreviation>Curr Opin Allergy Clin Immunol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnostic methods for insect sting allergy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>297-306</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE OF REVIEW" NlmCategory="OBJECTIVE">This review overviews advances from mid-2002 to the present in the validation and performance methods used in the diagnosis of Hymenoptera venom-induced immediate-type hypersensitivity.</AbstractText>
+                <AbstractText Label="RECENT FINDINGS" NlmCategory="RESULTS">The general diagnostic algorithm for insect sting allergy is initially discussed with an examination of the AAAAI's 2003 revised practice parameter guidelines. Changes as a result of a greater recognition of skin test negative systemic reactors include repeat analysis of all testing and acceptance of serology as a complementary diagnostic test to the skin test. Original data examining concordance of venom-specific IgE results produced by the second-generation Pharmacia CAP System with the Johns Hopkins University radioallergosorbent test are presented. Diagnostic performance of honeybee venom-specific IgE assays used in clinical laboratories in North America is discussed using data from the Diagnostic Allergy Proficiency Survey conducted by the College of American Pathologists. Validity of venom-specific IgE antibody in postmortem blood specimens is demonstrated. The utility of alternative in-vivo (provocation) and in-vitro (basophil-based) diagnostic testing methods is critiqued.</AbstractText>
+                <AbstractText Label="SUMMARY" NlmCategory="CONCLUSIONS">This overview supports the following conclusions. Improved practice parameter guidelines include serology and skin test as complementary in supporting a positive clinical history during the diagnostic process. Data are provided which support the analytical performance of commercially available venom-specific IgE antibody serology-based assays. Intentional sting challenge in-vivo provocation, in-vitro basophil flow cytometry (CD63, CD203c) based assays, and in-vitro basophil histamine and sulfidoleukotriene release assays have their utility in the study of difficult diagnostic cases, but their use will remain as supplementary, secondary diagnostic tests.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hamilton</LastName>
+                    <ForeName>Robert G</ForeName>
+                    <Initials>RG</Initials>
+                    <Affiliation>Division of Allergy and Clinical Immunology, Johns Hopkins University School of Medicine, Baltimore, Maryland 21224, USA. rhamilto@jhmi.edu</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Opin Allergy Clin Immunol</MedlineTA>
+            <NlmUniqueID>100936359</NlmUniqueID>
+            <ISSNLinking>1473-6322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bee Venoms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bee Venoms</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross Reactions</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hymenoptera</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoassay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Insect Bites and Stings</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Tests</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>35</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15238796</ArticleId>
+            <ArticleId IdType="pii">00130832-200408000-00008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

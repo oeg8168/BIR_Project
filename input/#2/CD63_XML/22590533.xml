@@ -1,0 +1,441 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22590533</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gametogenesis in the Pacific oyster Crassostrea gigas: a microarrays-based analysis identifies sex and stage specific genes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e36353</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0036353</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The Pacific oyster Crassostrea gigas (Mollusca, Lophotrochozoa) is an alternative and irregular protandrous hermaphrodite: most individuals mature first as males and then change sex several times. Little is known about genetic and phenotypic basis of sex differentiation in oysters, and little more about the molecular pathways regulating reproduction. We have recently developed and validated a microarray containing 31,918 oligomers (Dheilly et al., 2011) representing the oyster transcriptome. The application of this microarray to the study of mollusk gametogenesis should provide a better understanding of the key factors involved in sex differentiation and the regulation of oyster reproduction.</AbstractText>
+                <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">Gene expression was studied in gonads of oysters cultured over a yearly reproductive cycle. Principal component analysis and hierarchical clustering showed a significant divergence in gene expression patterns of males and females coinciding with the start of gonial mitosis. ANOVA analysis of the data revealed 2,482 genes differentially expressed during the course of males and/or females gametogenesis. The expression of 434 genes could be localized in either germ cells or somatic cells of the gonad by comparing the transcriptome of female gonads to the transcriptome of stripped oocytes and somatic tissues. Analysis of the annotated genes revealed conserved molecular mechanisms between mollusks and mammals: genes involved in chromatin condensation, DNA replication and repair, mitosis and meiosis regulation, transcription, translation and apoptosis were expressed in both male and female gonads. Most interestingly, early expressed male-specific genes included bindin and a dpy-30 homolog and female-specific genes included foxL2, nanos homolog 3, a pancreatic lipase related protein, cd63 and vitellogenin. Further functional analyses are now required in order to investigate their role in sex differentiation in oysters.</AbstractText>
+                <AbstractText Label="CONCLUSIONS/SIGNIFICANCE" NlmCategory="CONCLUSIONS">This study allowed us to identify potential markers of early sex differentiation in the oyster C. gigas, an alternative hermaphrodite mollusk. We also provided new highly valuable information on genes specifically expressed by mature spermatozoids and mature oocytes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dheilly</LastName>
+                    <ForeName>Nolwenn M</ForeName>
+                    <Initials>NM</Initials>
+                    <Affiliation>Université de Caen Basse-Normandie, Biologie des Organismes Marins et des Ecosystèmes Associés, IBFA, SFR ICORE, Caen, France. nolwenn.dheilly@univ-perp.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lelong</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huvet</LastName>
+                    <ForeName>Arnaud</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kellner</LastName>
+                    <ForeName>Kristell</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dubos</LastName>
+                    <ForeName>Marie-Pierre</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riviere</LastName>
+                    <ForeName>Guillaume</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boudry</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Favrel</LastName>
+                    <ForeName>Pascal</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol B Biochem Mol Biol. 2000 Mar;125(3):359-69</RefSource>
+                <PMID Version="1">10818269</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2011;12:468</RefSource>
+                <PMID Version="1">21951653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2002 Mar;18(3):490-1</RefSource>
+                <PMID Version="1">11934752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2002 Jun 6;417(6889):660-3</RefSource>
+                <PMID Version="1">12050669</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Biol. 2002 Jun 18;3(7):RESEARCH0034</RefSource>
+                <PMID Version="1">12184808</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2002 Nov;3(5):697-710</RefSource>
+                <PMID Version="1">12431376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Genet. 2002 Dec;39(12):916-21</RefSource>
+                <PMID Version="1">12471206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Zoolog Sci. 2003 Jan;20(1):37-42</RefSource>
+                <PMID Version="1">12560599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biotechniques. 2003 Feb;34(2):374-8</RefSource>
+                <PMID Version="1">12613259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Reproduction. 2003 Apr;125(4):447-56</RefSource>
+                <PMID Version="1">12683916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Evol Biol. 2003 May;16(3):399-414</RefSource>
+                <PMID Version="1">14635840</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2008;9:76</RefSource>
+                <PMID Version="1">18261244</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 2008 Jul;150(3):347-54</RefSource>
+                <PMID Version="1">18511315</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Cell. 2008 Aug;40(4):251-60</RefSource>
+                <PMID Version="1">18294667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Reprod Domest Anim. 2008 Jul;43 Suppl 2:359-67</RefSource>
+                <PMID Version="1">18638147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol B Biochem Mol Biol. 2008 Sep;151(1):52-8</RefSource>
+                <PMID Version="1">18602322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2008 Aug 11;182(3):559-72</RefSource>
+                <PMID Version="1">18695046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2008 Nov 1;423(2):215-20</RefSource>
+                <PMID Version="1">18675329</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol A Mol Integr Physiol. 2009 Feb;152(2):189-96</RefSource>
+                <PMID Version="1">18854223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2009 Jan;26(1):84-90</RefSource>
+                <PMID Version="1">19010421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2009 Jun 1;122(Pt 11):1747-58</RefSource>
+                <PMID Version="1">19417004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS J. 2009 May;276(9):2566-73</RefSource>
+                <PMID Version="1">19476495</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol B Biochem Mol Biol. 2009 Sep;154(1):134-42</RefSource>
+                <PMID Version="1">19481171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2009;10:262</RefSource>
+                <PMID Version="1">19505337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2009;10:341</RefSource>
+                <PMID Version="1">19640306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Tissue Res. 2010 Apr;340(1):201-10</RefSource>
+                <PMID Version="1">20151153</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2010;11:173</RefSource>
+                <PMID Version="1">20226095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2010 Oct;83(4):663-75</RefSource>
+                <PMID Version="1">20631398</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Genomics. 2010;11:553</RefSource>
+                <PMID Version="1">20937081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comp Biochem Physiol B Biochem Mol Biol. 2011 Jan;158(1):9-22</RefSource>
+                <PMID Version="1">20601063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fish Shellfish Immunol. 2011 Mar;30(3):870-6</RefSource>
+                <PMID Version="1">21272653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 2004 Feb;131(4):933-42</RefSource>
+                <PMID Version="1">14736745</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2004 Mar 19;315(4):897-904</RefSource>
+                <PMID Version="1">14985097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Reprod Dev. 2004 Apr;67(4):465-71</RefSource>
+                <PMID Version="1">14991738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 2004 Apr;52(4):549-54</RefSource>
+                <PMID Version="1">15034007</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2004 Jul;71(1):319-30</RefSource>
+                <PMID Version="1">15028632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2004 Jul 23;320(2):592-8</RefSource>
+                <PMID Version="1">15219870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2004 Sep;168(1):147-60</RefSource>
+                <PMID Version="1">15454534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1988 Oct;2(10):1284-95</RefSource>
+                <PMID Version="1">3060404</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Zool. 1992 Aug 15;263(2):210-4</RefSource>
+                <PMID Version="1">1500885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1995 Oct;121(10):3323-34</RefSource>
+                <PMID Version="1">7588066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1997 Mar 21;88(6):757-66</RefSource>
+                <PMID Version="1">9118219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1997 Aug 1;7(8):R501-4</RefSource>
+                <PMID Version="1">9259538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Dec 4;390(6659):477-84</RefSource>
+                <PMID Version="1">9393998</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 1998 Dec 1;12(23):3741-51</RefSource>
+                <PMID Version="1">9851980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Dyn. 1999 Aug;215(4):344-51</RefSource>
+                <PMID Version="1">10417823</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1999 Sep 23;9(18):1009-18</RefSource>
+                <PMID Version="1">10508609</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 2004 Dec 8;343(1):211-20</RefSource>
+                <PMID Version="1">15563847</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2005 Feb;72(2):492-501</RefSource>
+                <PMID Version="1">15496517</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2005 Nov;73(5):959-66</RefSource>
+                <PMID Version="1">16014816</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2005 Dec 16;338(2):1089-97</RefSource>
+                <PMID Version="1">16256949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2006 Jul 11;16(13):R507-9</RefSource>
+                <PMID Version="1">16824913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 2006;411:134-93</RefSource>
+                <PMID Version="1">16939790</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Genes Evol. 2006 Nov;216(11):709-20</RefSource>
+                <PMID Version="1">17021866</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Dec 29;281(52):40096-106</RefSource>
+                <PMID Version="1">17074753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Anim Sci. 2007 Mar;85(13 Suppl):E1-3</RefSource>
+                <PMID Version="1">17322120</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Reproduction. 2007 Sep;134(3):455-72</RefSource>
+                <PMID Version="1">17709564</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Feb 12;105(6):1993-8</RefSource>
+                <PMID Version="1">18268333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2001 May;114(Pt 9):1665-75</RefSource>
+                <PMID Version="1">11309198</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Crassostrea</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gametogenesis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hermaphroditic Organisms</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sex Differentiation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spermatozoa</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3348941</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0036353</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-00806</ArticleId>
+            <ArticleId IdType="pubmed">22590533</ArticleId>
+            <ArticleId IdType="pmc">PMC3348941</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

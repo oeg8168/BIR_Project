@@ -1,0 +1,165 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10539114</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0955-3886</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion science</Title>
+                <ISOAbbreviation>Transfus Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Annexin V and platelet antigen expression is not altered during storage of platelet concentrates obtained with the AMICUS cell separator.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>113-20</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>During storage of platelet concentrate the so-called &quot;storage lesion&quot; occurs. During this time, platelets loose their morphological and functional capacities that are necessary for proper in vivo efficacy following transfusion. Annexin V represents a marker for apoptosis. In this study, Annexin V and additional antigens were analyzed by flow cytometry. Platelet concentrates were obtained with a new cell separator (AMICUS Separator, Fenwal). Following apheresis, platelet units were stored for an experimentally prolonged time of seven days. Daily aliquots of the platelet-rich plasma were obtained to measure Annexin V and platelet antigens CD62p, CD63, CD41a, CD42b, and the binding of fibrinogen. All analyses were performed using flow cytometry. During storage, no significant changes in mean channel fluorescence intensity (MCFI) of CD41a (P = 0.99) and CD42b (P = 0.29), percentage of CD62p+ and CD63+ platelets (P = 0.23 for CD62p; P = 0.52 for CD63), and the binding of fibrinogen to platelets occurred (P = 0.85). Also, the expression of Annexin V remained constant with no significant change (P = 0.36). This study shows that antigens of platelets, obtained with the AMICUS cell separator are well preserved during storage. Regarding Annexin V, no obvious signs of apoptosis can be detected by flow cytometry. These findings demonstrate the high degree of biocompatibility of the apheresis device and storage container.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gutensohn</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Department of Transfusion Medicine/Transplantation Immunology, University Hospital Eppendorf, University of Hamburg, Germany. gutensohn@uke.uni-hamburg.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alisch</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geidel</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crespeigne</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuehnl</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Transfus Sci</MedlineTA>
+            <NlmUniqueID>9001514</NlmUniqueID>
+            <ISSNLinking>0955-3886</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Annexin A5</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9001-32-5</RegistryNumber>
+                <NameOfSubstance>Fibrinogen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>T</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Transfus Sci. 1999 Aug;21(1):101-2</RefSource>
+                <PMID Version="1">10724780</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Annexin A5</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Platelets</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Preservation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Separation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibrinogen</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10539114</ArticleId>
+            <ArticleId IdType="pii">S0955-3886(99)00021-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,227 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23649467</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1528-0020</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>121</Volume>
+                    <Issue>25</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Leukemia surfaceome analysis reveals new disease-associated features.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e149-59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1182/blood-2012-11-468702</ELocationID>
+            <Abstract>
+                <AbstractText>A better description of the leukemia cell surface proteome (surfaceome) is a prerequisite for the development of diagnostic and therapeutic tools. Insights into the complexity of the surfaceome have been limited by the lack of suitable methodologies. We combined a leukemia xenograft model with the discovery-driven chemoproteomic Cell Surface Capture technology to explore the B-cell precursor acute lymphoblastic leukemia (BCP-ALL) surfaceome; 713 cell surface proteins, including 181 CD proteins, were detected through combined analysis of 19 BCP-ALL cases. Diagnostic immunophenotypes were recapitulated in each case, and subtype specific markers were detected. To identify new leukemia-associated markers, we filtered the surfaceome data set against gene expression information from sorted, normal hematopoietic cells. Nine candidate markers (CD18, CD63, CD31, CD97, CD102, CD157, CD217, CD305, and CD317) were validated by flow cytometry in patient samples at diagnosis and during chemotherapy. CD97, CD157, CD63, and CD305 accounted for the most informative differences between normal and malignant cells. The ALL surfaceome constitutes a valuable resource to assist the functional exploration of surface markers in normal and malignant lymphopoiesis. This unbiased approach will also contribute to the development of strategies that rely on complex information for multidimensional flow cytometry data analysis to improve its diagnostic applications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mirkowska</LastName>
+                    <ForeName>Paulina</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Department of Oncology, University Children's Hospital Zurich, Zurich, Switzerland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hofmann</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sedek</LastName>
+                    <ForeName>Lukasz</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slamova</LastName>
+                    <ForeName>Lucie</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mejstrikova</LastName>
+                    <ForeName>Ester</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szczepanski</LastName>
+                    <ForeName>Tomasz</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmitz</LastName>
+                    <ForeName>Maike</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cario</LastName>
+                    <ForeName>Gunnar</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanulla</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schrappe</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Velden</LastName>
+                    <ForeName>Vincent H J</ForeName>
+                    <Initials>VH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bornhauser</LastName>
+                    <ForeName>Beat C</ForeName>
+                    <Initials>BC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wollscheid</LastName>
+                    <ForeName>Bernd</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bourquin</LastName>
+                    <ForeName>Jean-Pierre</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tumor Markers, Biological</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunophenotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Precursor Cell Lymphoblastic Leukemia-Lymphoma</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Markers, Biological</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Xenograft Model Antitumor Assays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">blood-2012-11-468702</ArticleId>
+            <ArticleId IdType="doi">10.1182/blood-2012-11-468702</ArticleId>
+            <ArticleId IdType="pubmed">23649467</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,398 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18363792</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2958</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>68</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular microbiology</Title>
+                <ISOAbbreviation>Mol. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The metabolic activity of Mycobacterium tuberculosis, assessed by use of a novel inducible GFP expression system, correlates with its capacity to inhibit phagosomal maturation and acidification in human macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1047-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2958.2008.06214.x</ELocationID>
+            <Abstract>
+                <AbstractText>Mycobacterium tuberculosis generally reside in phagosomes within human macrophages that resist maturation and acidification, but exhibit significant heterogeneity. In this study we have constructed an IPTG-inducible GFP expression system in M. tuberculosis to assess the relationship between the metabolic status of M. tuberculosis and the degree of phagosomal maturation. Using these recombinant bacteria, we have found that, in human macrophages, M. tuberculosis that respond to IPTG with expression of GFP fluorescence, and hence are metabolically active, reside in non-acidified phagosomes that have not fused with Texas red dextran pre-labelled lysosomes. In contrast, M. tuberculosis that fail to express GFP in response to IPTG, and hence are metabolically inactive, reside within acidified phagosomes that have fused with Texas red dextran labelled lysosomes. These studies demonstrate that metabolic activity of M. tuberculosis correlates strongly with phagosomal maturation and that the inducible GFP expression system is useful for assessing metabolic activity of intracellular M. tuberculosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Bai-Yu</ForeName>
+                    <Initials>BY</Initials>
+                    <Affiliation>Division of Infectious Diseases, Department of Medicine, University of California-Los Angeles, School of Medicine, Center for Health Sciences, Los Angeles, CA 90095-1688, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clemens</LastName>
+                    <ForeName>Daniel L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horwitz</LastName>
+                    <ForeName>Marcus A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HL077000</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL077000</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Microbiol</MedlineTA>
+            <NlmUniqueID>8712028</NlmUniqueID>
+            <ISSNLinking>0950-382X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Xanthenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance>Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>367-93-1</RegistryNumber>
+                <NameOfSubstance>Isopropyl Thiogalactoside</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82354-19-6</RegistryNumber>
+                <NameOfSubstance>Texas red</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1993 Jul;61(7):2763-73</RefSource>
+                <PMID Version="1">8514378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Jan 5;267(1):126-32</RefSource>
+                <PMID Version="1">1730578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1994 Mar;124(5):677-88</RefSource>
+                <PMID Version="1">8120091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1994 Sep 15;153(6):2568-78</RefSource>
+                <PMID Version="1">8077667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Jan 1;181(1):257-70</RefSource>
+                <PMID Version="1">7807006</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Cell Biol. 1994;45:277-88</RefSource>
+                <PMID Version="1">7707992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1995 Dec 1;166(1):181-2</RefSource>
+                <PMID Version="1">8529888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Jan;64(1):319-25</RefSource>
+                <PMID Version="1">8557358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Jun 15;156(12):4764-73</RefSource>
+                <PMID Version="1">8648123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1996 Mar;4(3):113-8</RefSource>
+                <PMID Version="1">8868090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Oct 1;184(4):1349-55</RefSource>
+                <PMID Version="1">8879207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Nov;135(3):611-22</RefSource>
+                <PMID Version="1">8909537</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 May 16;272(20):13326-31</RefSource>
+                <PMID Version="1">9148954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 1997 Dec;18(14):2542-7</RefSource>
+                <PMID Version="1">9527483</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1998 Apr;111 ( Pt 7):897-905</RefSource>
+                <PMID Version="1">9490634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 28;273(35):22466-70</RefSource>
+                <PMID Version="1">9712871</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 1998;67:509-44</RefSource>
+                <PMID Version="1">9759496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1971 Sep 1;134(3 Pt 1):713-40</RefSource>
+                <PMID Version="1">15776571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2007 Jun 29;129(7):1287-98</RefSource>
+                <PMID Version="1">17604718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Orig Life Evol Biosph. 2007 Oct;37(4-5):423-8</RefSource>
+                <PMID Version="1">17634746</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2000 Jan 17;191(2):287-302</RefSource>
+                <PMID Version="1">10637273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2000 Feb;146 ( Pt 2):297-303</RefSource>
+                <PMID Version="1">10708368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 May;68(5):2671-84</RefSource>
+                <PMID Version="1">10768959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2000 Sep;68(9):5154-66</RefSource>
+                <PMID Version="1">10948139</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Electrophoresis. 2000 Oct;21(16):3378-85</RefSource>
+                <PMID Version="1">11079558</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Mar 1;166(5):3392-401</RefSource>
+                <PMID Version="1">11207296</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biotechnol. 2002 Jul 3;96(3):271-9</RefSource>
+                <PMID Version="1">12044555</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2002 Oct;70(10):5800-7</RefSource>
+                <PMID Version="1">12228310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2002 Nov;184(21):5935-45</RefSource>
+                <PMID Version="1">12374827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microbiol Methods. 2003 Aug;54(2):203-11</RefSource>
+                <PMID Version="1">12782376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2003 Jul;71(7):3927-36</RefSource>
+                <PMID Version="1">12819079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2004 Apr 1;172(7):4592-8</RefSource>
+                <PMID Version="1">15034077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2004 Jul;150(Pt 7):2143-51</RefSource>
+                <PMID Version="1">15256557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1976 Jul;73(7):2510-4</RefSource>
+                <PMID Version="1">821057</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Rev Respir Dis. 1984 Feb;129(2):322-8</RefSource>
+                <PMID Version="1">6421212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1991 May;59(5):1823-31</RefSource>
+                <PMID Version="1">1902198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Jun 6;351(6326):456-60</RefSource>
+                <PMID Version="1">1904554</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Feb 4;263(5147):678-81</RefSource>
+                <PMID Version="1">8303277</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Acids</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genes, Reporter</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Isopropyl Thiogalactoside</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">growth &amp; development</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plasmids</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Xanthenes</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS443455</OtherID>
+        <OtherID Source="NLM">PMC3591484</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">MMI6214</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2958.2008.06214.x</ArticleId>
+            <ArticleId IdType="pubmed">18363792</ArticleId>
+            <ArticleId IdType="pmc">PMC3591484</ArticleId>
+            <ArticleId IdType="mid">NIHMS443455</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

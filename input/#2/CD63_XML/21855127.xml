@@ -1,0 +1,224 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21855127</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-6825</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>128</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of allergy and clinical immunology</Title>
+                <ISOAbbreviation>J. Allergy Clin. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Individual IL-3 priming is crucial for consistent in? vitro activation of donor basophils in patients with chronic urticaria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1227-1234.e5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jaci.2011.07.021</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The in? vivo autologous serum skin test (ASST) is the diagnostic gold standard to detect autoantibodies against FcÎµRI or IgE itself, as well as other autoreactive serum components, in patients with chronic spontaneous urticaria (CU). Coincubation of patient sera with donor basophils and measuring their degranulation in? vitro could be a safe alternative but has shown inconsistent results.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Optimization of the basophil activation test to detect autoreactive serum components in patients with CU.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The ability of patient sera to induce CD63 and CD203c in donor basophils (n??= 15) was measured by means of flow cytometry. Sera of 20 patients with CU (10 with positive ASST results), 15 patients with cold urticaria, and 27 healthy control subjects were included to optimize test conditions with donor basophils and a basophil cell line (RBL703/21) followed by testing of 110 consecutive patients from clinical routine.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We demonstrate that individual IL-3 priming normalized the initially inconsistent basophil reactivity and led to reproducible and comparable test results irrespective of the basophil donors used. CD203c as an activation marker and the use of a basophil cell line were less suitable for this purpose.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The basophil activation test with individualized IL-3 priming for each basophil donor is a reproducible and reliable alternative to the ASST. There are several advantages over the ASST: no risk of accidental infection, no influence of antihistamines on the test result, quantifiable results, and a potential in providing treatment monitoring. The exact nature of the degranulating factor or factors in patient sera remains an open question.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2011 American Academy of Allergy, Asthma &amp; Immunology. Published by Mosby, Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gentinetta</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Rheumatology, Clinical Immunology and Allergology, Inselspital, University Bern, Bern, Switzerland.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pecaric-Petkovic</LastName>
+                    <ForeName>Tatjana</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falcone</LastName>
+                    <ForeName>Franco H</ForeName>
+                    <Initials>FH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahinden</LastName>
+                    <ForeName>Clemens A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pichler</LastName>
+                    <ForeName>Werner J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hausmann</LastName>
+                    <ForeName>Oliver V</ForeName>
+                    <Initials>OV</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Allergy Clin Immunol</MedlineTA>
+            <NlmUniqueID>1275002</NlmUniqueID>
+            <ISSNLinking>0091-6749</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>IL3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-3</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Allergy Clin Immunol. 2012 Jul;130(1):280-1; author reply 281</RefSource>
+                <PMID Version="1">22633320</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophil Degranulation Test</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Separation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chronic Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-3</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Urticaria</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0091-6749(11)01094-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaci.2011.07.021</ArticleId>
+            <ArticleId IdType="pubmed">21855127</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

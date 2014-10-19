@@ -1,0 +1,198 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23278880</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>02</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2222</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>43</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology</Title>
+                <ISOAbbreviation>Clin. Exp. Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Heterogeneity in the responses of human lung mast cells to stem cell factor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>50-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/cea.12045</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Stem cell factor (SCF) is a growth factor that is involved in mast cell differentiation and proliferation. SCF primes human lung mast cells for enhanced responses to IgE-directed activation but is not generally recognized as a direct activator. SCF mediates its effects through c-kit.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to reappraise the effects of SCF on human lung mast cells.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Mast cells were isolated from human lung. Mast cells were challenged with anti-IgE or SCF and the generation of histamine, cysteinyl-leukotrienes (cys-LTs) and prostaglandin D(2) (PGD(2) ) was assessed as was expression of the activation marker, CD63. The effects of c-kit inhibitors on mediator release were evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Stem cell factor (10 ng/mL) alone was unable to induce mediator release but primed mast cells for enhanced IgE-dependent secretion. At higher concentrations (?‰¥ 30 ng/mL), SCF had more varied effects and even when used alone was able to drive substantial levels of histamine release in about a third of all preparations studied. Similarly, SCF (100 ng/mL) alone was effective in stimulating the generation of cys-LTs in half of the preparations studied. SCF (100 ng/mL) was even more effective at stimulating PGD(2) generation as almost all preparations generated substantial quantities of the prostanoid. Mediator release induced by SCF was accompanied by the up-regulation of the activation marker, CD63. There was a positive correlation between the extent of mediator release induced by SCF and c-kit receptor expression. The effects of SCF on mediator release from mast cells were reversed by the c-kit inhibitor imatinib.</AbstractText>
+                <AbstractText Label="CONCLUSIONS AND CLINICAL RELEVANCE" NlmCategory="CONCLUSIONS">These data demonstrate that the responses of mast cells to SCF are heterogeneous. SCF can drive much greater levels of mediator release from mast cells, especially of PGD(2), than hitherto appreciated and this could be important in the context of respiratory diseases.</AbstractText>
+                <CopyrightInformation>Â© 2012 Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Academic Unit of Respiratory Medicine, The Medical School, University of Sheffield, Beech Hill Road, Sheffield, S10 2RX, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baothman</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monk</LastName>
+                    <ForeName>P N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suvarna</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peachell</LastName>
+                    <ForeName>P T</ForeName>
+                    <Initials>PT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Exp Allergy</MedlineTA>
+            <NlmUniqueID>8906443</NlmUniqueID>
+            <ISSNLinking>0954-7894</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Stem Cell Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>RXY07S6CZ2</RegistryNumber>
+                <NameOfSubstance>Prostaglandin D2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Release</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mast Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prostaglandin D2</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">secretion</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stem Cell Factor</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1111/cea.12045</ArticleId>
+            <ArticleId IdType="pubmed">23278880</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

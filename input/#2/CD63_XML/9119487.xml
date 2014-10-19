@@ -1,0 +1,287 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9119487</PMID>
+        <DateCreated>
+            <Year>1997</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-9567</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>65</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ehrlichia chaffeensis inclusions are early endosomes which selectively accumulate transferrin receptor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1455-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Ehrlichia chaffeensis is an obligatory intracellular bacterium which infects macrophages and monocytes. Double immunofluorescence labeling was used to characterize the nature of E. chaffeensis inclusion in the human promyelocytic leukemia cell line THP-1. E. chaffeensis was labeled with dog anti-E. chaffeensis serum and fluorescein isothiocyanate-conjugated anti-dog immunoglobulin G (IgG). Lissamine rhodamine-conjugated anti-mouse IgG was used to label various mouse monoclonal antibodies. Ehrlichial inclusions did not fuse with lysosomes, since they were not labeled with anti-CD63 or anti-LAMP-1. The ehrlichial inclusions were slightly acidic, since they weakly accumulated 3-(2,4-dinitroanilino)-3'-amino-N-methyldipropylamine and stained weakly positive for vacuolar type H+ ATPase. Some ehrlichial inclusions were labeled positive with antibodies against HLA-DR, HLA-ABC, and beta2 microglobulin, while other inclusions in the same cell were labeled negative. The inclusions were labeled strongly positive for transferrin receptors (TfRs) and negative for the clathrin heavy chain. Time course labeling for TfRs showed that up to 3 h postinfection, most of the ehrlichial inclusions were negative for TfRs. After 6 h postinfection, 100% of the ehrlichial inclusions became TfR positive and the intensity of labeling was increased during the subsequent 3 days. Reverse transcription-PCR showed a gradual increase in the level of TfR mRNA postinfection, which reached a peak at 24 h postinfection. These results suggest that ehrlichial inclusions are early endosomes which selectively accumulate TfRs and that the ehrlichiae up-regulate TfR mRNA expression.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barnewall</LastName>
+                    <ForeName>R E</ForeName>
+                    <Initials>RE</Initials>
+                    <Affiliation>Department of Veterinary Biosciences, College of Veterinary Medicine, Ohio State University, Columbus 43210-1092, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rikihisa</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>E H</ForeName>
+                    <Initials>EH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI30010</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01-HD-2-3144</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Transferrin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Nov;62(11):4804-10</RefSource>
+                <PMID Version="1">7927758</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1994 May 12;369(6476):113-20</RefSource>
+                <PMID Version="1">8177316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Aug 1;182(2):325-34</RefSource>
+                <PMID Version="1">7629497</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1995 Nov 4;346(8984):1233-4</RefSource>
+                <PMID Version="1">7475691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Mar;64(3):796-809</RefSource>
+                <PMID Version="1">8641784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 1974 Dec;22(12):1077-83</RefSource>
+                <PMID Version="1">4374474</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 1976 Mar;32(3):341-50</RefSource>
+                <PMID Version="1">3195</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1977 Sep;50(3):433-9</RefSource>
+                <PMID Version="1">328083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1983 Aug;97(2):329-39</RefSource>
+                <PMID Version="1">6309857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1984 Jul;37(3):789-800</RefSource>
+                <PMID Version="1">6204769</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Aug;81(15):4838-42</RefSource>
+                <PMID Version="1">6146980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Symp. 1986;51:97-112</RefSource>
+                <PMID Version="1">3101702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1987 Apr 2;316(14):853-6</RefSource>
+                <PMID Version="1">3029590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1987 Apr;162(1):156-9</RefSource>
+                <PMID Version="1">2440339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1988 Dec;56(12):3209-15</RefSource>
+                <PMID Version="1">3182078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 1988 Nov;170(11):5012-7</RefSource>
+                <PMID Version="1">3182726</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1989 May;83(5):1457-65</RefSource>
+                <PMID Version="1">2496141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Apr 6;61(1):171-83</RefSource>
+                <PMID Version="1">2156628</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1990 Nov 7;264(17):2251-8</RefSource>
+                <PMID Version="1">2214103</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1990 Dec 5;265(34):21099-107</RefSource>
+                <PMID Version="1">2147429</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Clin (Barc). 1991 Feb 16;96(6):236-7</RefSource>
+                <PMID Version="1">2041392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1991 Sep 7;338(8767):633-4</RefSource>
+                <PMID Version="1">1679172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 1991 Jul;4(3):286-308</RefSource>
+                <PMID Version="1">1889044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 1991 Dec;29(12):2741-5</RefSource>
+                <PMID Version="1">1757543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Trop Med Hyg. 1992 Feb;46(2):161-4</RefSource>
+                <PMID Version="1">1539750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1991 Oct;56(1):19-33</RefSource>
+                <PMID Version="1">1839281</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 May 1;175(5):1317-26</RefSource>
+                <PMID Version="1">1569400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1992 Sep;60(9):3504-8</RefSource>
+                <PMID Version="1">1323533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 Oct 8;359(6395):557-8</RefSource>
+                <PMID Version="1">1383831</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Feb 4;263(5147):678-81</RefSource>
+                <PMID Version="1">8303277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1993 Dec;4(12):1251-66</RefSource>
+                <PMID Version="1">8167408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1995 Jan 1;181(1):257-70</RefSource>
+                <PMID Version="1">7807006</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ehrlichia chaffeensis</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Transferrin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC175153</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9119487</ArticleId>
+            <ArticleId IdType="pmc">PMC175153</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,226 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16633147</PMID>
+        <DateCreated>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0271-0749</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>26</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical psychopharmacology</Title>
+                <ISOAbbreviation>J Clin Psychopharmacol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Escitalopram, but not its major metabolites, exhibits antiplatelet activity in humans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>172-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Clinical depression has been identified as an independent risk factor for increased mortality during follow-up in patients suffered from acute coronary events, whereas increased platelet activity has been proposed as one of the mechanisms for this association. Some evidence suggests that selective serotonin reuptake inhibitors and/or their metabolites exhibit potent antiplatelet properties.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We assessed the in vitro effects of preincubation with escalating (50-200 nmol/L) concentrations of escitalopram (ESC) S-desmethyl-citalopram (S-DCT), and S-di-desmethyl-citalopram, (S-DCT) on platelet aggregation through the expression of major surface receptors using flow cytometry and quantitatively using platelet function analyzers in 20 healthy volunteers.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Pretreatment of blood samples with ESC with ESC resulted in a significant inhibition of platelet aggregation induced by ADP (P = 0.0001) and by collagen with the highest dose (P = 0.001). Surface platelet expressions of glycoprotein Ib (CD42) (P = 0.04), lysosome associated membrane protein-3 (CD63) (P = 0.02), and GP37 (CD165) (P = 0.03) was decreased in the ESC-pretreated samples. Closure time by the Platelet Function Analyzer-100 analyzer was prolonged for the 200 nmol/L dose (P = 0.02), indicating platelet inhibition under high shear conditions. Two major metabolites of ESC, namely S-DCT and S-DDCT, did not affect platelet activity.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Escitalopram, but not its metabolites, exhibited selective inhibition of human platelet properties. The direct antiplatelet effect of ESC requires further prospective or ex vivo testing to determine the possible clinical advantage of this finding.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Atar</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>University of Oslo, Aker University Hospital, Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malinin</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takserman</LastName>
+                    <ForeName>Aviv</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pokov</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Zyl</LastName>
+                    <ForeName>Louis</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanguay</LastName>
+                    <ForeName>Jean-Francois</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lesperance</LastName>
+                    <ForeName>Francois</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serebruany</LastName>
+                    <ForeName>Victor</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Psychopharmacol</MedlineTA>
+            <NlmUniqueID>8109496</NlmUniqueID>
+            <ISSNLinking>0271-0749</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antidepressive Agents, Second-Generation</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>LAMP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosome-Associated Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Aggregation Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIb-IX Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>glycoprotein GP37</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0DHU5B8D6V</RegistryNumber>
+                <NameOfSubstance>Citalopram</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antidepressive Agents, Second-Generation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Citalopram</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosome-Associated Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Aggregation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIb-IX Complex</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/01.jcp.0000204047.76286.6e</ArticleId>
+            <ArticleId IdType="pii">00004714-200604000-00011</ArticleId>
+            <ArticleId IdType="pubmed">16633147</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

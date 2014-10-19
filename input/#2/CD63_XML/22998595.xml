@@ -1,0 +1,409 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22998595</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC cancer</Title>
+                <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hypoxic enhancement of exosome release by breast cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>421</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2407-12-421</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Exosomes are nanovesicles secreted by tumour cells which have roles in paracrine signalling during tumour progression, including tumour-stromal interactions, activation of proliferative pathways and bestowing immunosuppression. Hypoxia is an important feature of solid tumours which promotes tumour progression, angiogenesis and metastasis, potentially through exosome-mediated signalling.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Breast cancer cell lines were cultured under either moderate (1% O2) or severe (0.1% O2) hypoxia. Exosomes were isolated from conditioned media and quantitated by nanoparticle tracking analysis (NTA) and immunoblotting for the exosomal protein CD63 in order to assess the impact of hypoxia on exosome release. Hypoxic exosome fractions were assayed for miR-210 by real-time reverse transcription polymerase chain reaction and normalised to exogenous and endogenous control genes. Statistical significance was determined using the Student T test with a P value of??&lt;??0.05 considered significant.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Exposure of three different breast cancer cell lines to moderate (1% O2) and severe (0.1% O2) hypoxia resulted in significant increases in the number of exosomes present in the conditioned media as determined by NTA and CD63 immunoblotting. Activation of hypoxic signalling by dimethyloxalylglycine, a hypoxia-inducible factor (HIF) hydroxylase inhibitor, resulted in significant increase in exosome release. Transfection of cells with HIF-1α siRNA prior to hypoxic exposure prevented the enhancement of exosome release by hypoxia. The hypoxically regulated miR-210 was identified to be present at elevated levels in hypoxic exosome fractions.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These data provide evidence that hypoxia promotes the release of exosomes by breast cancer cells, and that this hypoxic response may be mediated by HIF-1α. Given an emerging role for tumour cell-derived exosomes in tumour progression, this has significant implications for understanding the hypoxic tumour phenotype, whereby hypoxic cancer cells may release more exosomes into their microenvironment to promote their own survival and invasion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>King</LastName>
+                    <ForeName>Hamish W</ForeName>
+                    <Initials>HW</Initials>
+                    <Affiliation>Renal Department, Flinders Medical Centre, Flinders University School of Medicine, Bedford Park, South Australia, 5042, Australia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michael</LastName>
+                    <ForeName>Michael Z</ForeName>
+                    <Initials>MZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gleadle</LastName>
+                    <ForeName>Jonathan M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Cancer</MedlineTA>
+            <NlmUniqueID>100967800</NlmUniqueID>
+            <ISSNLinking>1471-2407</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Culture Media, Conditioned</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hypoxia-Inducible Factor 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MIRN210 microRNA, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MicroRNAs</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2012 Sep 1;428(1):44-53</RefSource>
+                <PMID Version="1">22691960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2010 Nov;120(11):4141-54</RefSource>
+                <PMID Version="1">20972335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioinformatics. 2003 Jul 22;19(11):1439-40</RefSource>
+                <PMID Version="1">12874059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Oct 1;64(19):7045-9</RefSource>
+                <PMID Version="1">15466198</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2005 Feb;6(2):131-43</RefSource>
+                <PMID Version="1">15634213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2005 Apr 1;11(7):2492-501</RefSource>
+                <PMID Version="1">15814625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Feb 1;176(3):1375-85</RefSource>
+                <PMID Version="1">16424164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2006 May 1;66(9):4795-801</RefSource>
+                <PMID Version="1">16651434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2006 Jun 2;281(22):15215-26</RefSource>
+                <PMID Version="1">16565084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2007 Mar 7;26(5):1221-33</RefSource>
+                <PMID Version="1">17304217</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2007 Jun;292(6):H3052-6</RefSource>
+                <PMID Version="1">17307989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2007 Jun;26(2):225-39</RefSource>
+                <PMID Version="1">17440684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2008 Jan;15(1):80-8</RefSource>
+                <PMID Version="1">17932500</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Feb 29;319(5867):1244-7</RefSource>
+                <PMID Version="1">18309083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2008 Mar 1;14(5):1340-8</RefSource>
+                <PMID Version="1">18316553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Jun;9(6):871-81</RefSource>
+                <PMID Version="1">18331451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Jun 1;180(11):7249-58</RefSource>
+                <PMID Version="1">18490724</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Jun 6;283(23):15878-83</RefSource>
+                <PMID Version="1">18417479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2008 Jul;110(1):13-21</RefSource>
+                <PMID Version="1">18589210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Death Differ. 2008 Nov;15(11):1723-33</RefSource>
+                <PMID Version="1">18617898</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2008 Dec;10(12):1470-6</RefSource>
+                <PMID Version="1">19011622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2009 Feb 1;69(3):1221-9</RefSource>
+                <PMID Version="1">19141645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2009 Jul;220(1):155-62</RefSource>
+                <PMID Version="1">19259945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biochem. 2009 Aug 15;107(6):1053-62</RefSource>
+                <PMID Version="1">19479945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2009 Oct 1;125(7):1595-603</RefSource>
+                <PMID Version="1">19462451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med. 2010;8:64</RefSource>
+                <PMID Version="1">20964835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Dec 1;70(23):9621-30</RefSource>
+                <PMID Version="1">21098712</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2011 Jan 1;186(1):73-82</RefSource>
+                <PMID Version="1">21106852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Mar 22;108(12):5003-8</RefSource>
+                <PMID Version="1">21383194</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2011;728:235-46</RefSource>
+                <PMID Version="1">21468952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2011 Jun 1;71(11):3792-801</RefSource>
+                <PMID Version="1">21478294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Colloids Surf B Biointerfaces. 2011 Oct 1;87(1):146-50</RefSource>
+                <PMID Version="1">21640565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2011;2:180</RefSource>
+                <PMID Version="1">21285958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Aug 9;108(32):13147-52</RefSource>
+                <PMID Version="1">21788507</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2011;784:181-95</RefSource>
+                <PMID Version="1">21898221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nanomedicine. 2011 Dec;7(6):780-8</RefSource>
+                <PMID Version="1">21601655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 2012 Jan;40(Database issue):D1241-4</RefSource>
+                <PMID Version="1">21989406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neoplasia. 2012 Feb;14(2):95-107</RefSource>
+                <PMID Version="1">22431918</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Liver Dis. 2009 Dec;41(12):875-80</RefSource>
+                <PMID Version="1">19473897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Dec 4;284(49):34211-22</RefSource>
+                <PMID Version="1">19801663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2010 Feb 15;70(4):1635-44</RefSource>
+                <PMID Version="1">20145132</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods. 2010 Apr;50(4):298-301</RefSource>
+                <PMID Version="1">20146939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2010 Apr 9;394(3):792-7</RefSource>
+                <PMID Version="1">20230787</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Apr 13;107(15):6976-81</RefSource>
+                <PMID Version="1">20308562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Proteomics. 2010 Jun;9(6):1085-99</RefSource>
+                <PMID Version="1">20124223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2010;10:294</RefSource>
+                <PMID Version="1">20553606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Proteomics. 2010 Sep 10;73(10):1907-20</RefSource>
+                <PMID Version="1">20601276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2010 Sep 30;116(13):2385-94</RefSource>
+                <PMID Version="1">20558614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(10):e13247</RefSource>
+                <PMID Version="1">20949044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Cancer. 2002 Jan;2(1):38-47</RefSource>
+                <PMID Version="1">11902584</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Fractionation</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Hypoxia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Culture Media, Conditioned</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypoxia-Inducible Factor 1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3488584</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1471-2407-12-421</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2407-12-421</ArticleId>
+            <ArticleId IdType="pubmed">22998595</ArticleId>
+            <ArticleId IdType="pmc">PMC3488584</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

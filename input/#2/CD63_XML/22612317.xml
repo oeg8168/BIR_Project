@@ -1,0 +1,478 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22612317</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-8534</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Stem cells and development</Title>
+                <ISOAbbreviation>Stem Cells Dev.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Derivation of stromal (skeletal and mesenchymal) stem-like cells from human embryonic stem cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3114-24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1089/scd.2012.0035</ELocationID>
+            <Abstract>
+                <AbstractText>Derivation of bone forming cells (osteoblasts) from human embryonic stem cells (hESCs) is a prerequisite for their use in clinical applications. However, there is no standard protocol for differentiating hESCs into osteoblastic cells. The aim of this study was to identify the emergence of a human stromal (mesenchymal and skeletal) stem cell (hMSC)-like population, known to be osteoblastic cell precursors and to test their osteoblastic differentiation capacity in ex vivo cultures and in vivo. We cultured hESCs in a feeder-free environment using serum replacement and as suspension aggregates (embryoid bodies; hEBs). Over a 20 day developmental period, the hEBs demonstrated increasing enrichment for cells expressing hMSC markers: CD29, CD44, CD63, CD56, CD71, CD73, CD105, CD106, and CD166 as revealed by immunohistochemical staining and flow cytometry (fluorescence-activated cell sorting) analysis. Ex vivo differentiation of hEBs using bone morphogenic protein 2 (BMP2) combined with standard osteoblast induction medium led to weak osteoblastic induction. Conversely, subcutaneous in vivo implantation of day 20 hEBs in immune deficient mice, mixed with hydroxyapatite/tricalcium phosphate (HA/TCP) as an osteoconductive scaffold, revealed bone and cartilage, and fibrous tissue elements after 8 weeks. These tissues were of human origin and there was no evidence of differentiation to nonmesodermal tissues. hEBs implanted in the absence of HA/TCP formed vacuolated tissue containing glandular, fibrous and muscle-like tissue elements. Conversely, implantation of undifferentiated hESCs resulted in the formation of a teratoma containing a mixture of endodermal, mesodermal, and ectodermal tissues. Our study demonstrates that hMSC-like cells can be obtained from hESCs and they can be induced to form skeletal tissues in vivo when combined with HA/TCP. These findings are relevant for tissue engineering and suggest that differentiated hEBs can provide an unlimited source for functional osteogenic cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mahmood</LastName>
+                    <ForeName>Amer</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Stem Cell Unit, Department of Anatomy, College of Medicine, King Saud University and King Khalid University Hospital, Riyadh, Kingdom of Saudi Arabia. ammahmood@ksu.edu.sa</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harkness</LastName>
+                    <ForeName>Linda</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdallah</LastName>
+                    <ForeName>Basem M</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elsafadi</LastName>
+                    <ForeName>Mona</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Nbaheen</LastName>
+                    <ForeName>May S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aldahmash</LastName>
+                    <ForeName>Abdullah</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kassem</LastName>
+                    <ForeName>Moustapha</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Stem Cells Dev</MedlineTA>
+            <NlmUniqueID>101197107</NlmUniqueID>
+            <ISSNLinking>1547-3287</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>BMP2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bone Morphogenetic Protein 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vimentin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Med. 2000 Feb;6(2):88-95</RefSource>
+                <PMID Version="1">10859025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Hum Reprod. 2007 Jan;13(1):21-32</RefSource>
+                <PMID Version="1">17090644</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2007 Jan;35(1):146-54</RefSource>
+                <PMID Version="1">17198883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2007 Feb;25(2):425-36</RefSource>
+                <PMID Version="1">17053208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Dev. 2007 Feb;16(1):39-52</RefSource>
+                <PMID Version="1">17233553</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cells. 2007 Feb 28;23(1):49-56</RefSource>
+                <PMID Version="1">17464211</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2007 May;13(5):642-8</RefSource>
+                <PMID Version="1">17417652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2003 Dec;33(6):919-26</RefSource>
+                <PMID Version="1">14678851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 Mar 25;350(13):1353-6</RefSource>
+                <PMID Version="1">14999088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fetal Diagn Ther. 2004 May-Jun;19(3):218-23</RefSource>
+                <PMID Version="1">15067230</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biogerontology. 2004;5(2):107-18</RefSource>
+                <PMID Version="1">15105585</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Eng. 2004 May-Jun;10(5-6):796-806</RefSource>
+                <PMID Version="1">15265297</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1993 Oct;119(2):295-306</RefSource>
+                <PMID Version="1">7507029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Oct 20;83(2):279-87</RefSource>
+                <PMID Version="1">7585945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1996 Nov 25;229(1):27-34</RefSource>
+                <PMID Version="1">8940246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Development. 1999 Feb;126(3):535-46</RefSource>
+                <PMID Version="1">9876182</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tissue Eng. 2004 Sep-Oct;10(9-10):1518-25</RefSource>
+                <PMID Version="1">15588411</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2005 Jan 15;105(2):617-26</RefSource>
+                <PMID Version="1">15374881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Dev Biol. 2005;5:1</RefSource>
+                <PMID Version="1">15673475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2005 May;36(5):758-69</RefSource>
+                <PMID Version="1">15794925</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Dev. 2005 May 15;19(10):1129-55</RefSource>
+                <PMID Version="1">15905405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2005 Jun;2(6):e161</RefSource>
+                <PMID Version="1">15971941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Mol Med. 2005 Sep 19;7(19):1-21</RefSource>
+                <PMID Version="1">16171533</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2006 Mar;24(3):516-30</RefSource>
+                <PMID Version="1">16293578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2006 Apr;24(4):835-43</RefSource>
+                <PMID Version="1">16253980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2006 Jun;24(6):1433-40</RefSource>
+                <PMID Version="1">16556709</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2006 Aug;24(8):1914-22</RefSource>
+                <PMID Version="1">16644919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Nov 7;103(45):16806-11</RefSource>
+                <PMID Version="1">17077151</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2007 Apr 1;109(7):2679-87</RefSource>
+                <PMID Version="1">17148580</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Biol Med (Maywood). 2007 Jun;232(6):833-43</RefSource>
+                <PMID Version="1">17526776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells. 2007 Aug;25(8):1924-30</RefSource>
+                <PMID Version="1">17464084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2007 Oct 26;362(3):568-74</RefSource>
+                <PMID Version="1">17761145</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2007 Sep;25(9):1015-24</RefSource>
+                <PMID Version="1">17721512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Heart. 2007 Oct;93(10):1278-84</RefSource>
+                <PMID Version="1">17566061</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2007 Nov;22(11):1720-31</RefSource>
+                <PMID Version="1">17680723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene Ther. 2008 Jan;15(2):109-16</RefSource>
+                <PMID Version="1">17989700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2008;455:89-100</RefSource>
+                <PMID Version="1">18463812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 May 13;105(19):6840-5</RefSource>
+                <PMID Version="1">18467492</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2009 Jan;218(1):9-12</RefSource>
+                <PMID Version="1">18726996</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2009 Feb;218(2):323-33</RefSource>
+                <PMID Version="1">18932205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cells Tissues Organs. 2009;189(1-4):256-60</RefSource>
+                <PMID Version="1">18728355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Dec 30;105(52):20641-6</RefSource>
+                <PMID Version="1">19095799</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2009 Feb;1790(2):110-8</RefSource>
+                <PMID Version="1">19007861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cell Rev. 2009 Dec;5(4):353-68</RefSource>
+                <PMID Version="1">20058200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2010 Apr;25(4):796-808</RefSource>
+                <PMID Version="1">19821776</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2010 Jun;25(6):1216-33</RefSource>
+                <PMID Version="1">20200949</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stem Cells Dev. 2009 Jan-Feb;18(1):47-54</RefSource>
+                <PMID Version="1">18393673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2011;695:281-308</RefSource>
+                <PMID Version="1">21042979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2011 Feb;48(2):231-41</RefSource>
+                <PMID Version="1">20869473</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2011 Aug;26(8):1685-93</RefSource>
+                <PMID Version="1">21538513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Saudi Med. 2012 Jan-Feb;32(1):68-77</RefSource>
+                <PMID Version="1">22156642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Miner Res. 2012 Aug;27(8):1773-83</RefSource>
+                <PMID Version="1">22492532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Tissue Eng Regen Med. 2013 Mar;7(3):226-35</RefSource>
+                <PMID Version="1">22052864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Artif Organs. 2007 Nov;31(11):792-800</RefSource>
+                <PMID Version="1">18273446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Jun 23;475(3):201-4</RefSource>
+                <PMID Version="1">10869556</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Biol Med (Maywood). 2001 Jun;226(6):507-20</RefSource>
+                <PMID Version="1">11395921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2002 Jun;20(6):592-6</RefSource>
+                <PMID Version="1">12042863</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2003 May 1;116(Pt 9):1827-35</RefSource>
+                <PMID Version="1">12665563</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cloning Stem Cells. 2003;5(2):149-55</RefSource>
+                <PMID Version="1">12930627</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bone Morphogenetic Protein 2</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chondrocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Embryonic Stem Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stem Cell Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesenchymal Stromal Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mesoderm</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, Inbred NOD</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle, Skeletal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Osteoblasts</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Osteogenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Teratoma</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vimentin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3495116</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1089/scd.2012.0035</ArticleId>
+            <ArticleId IdType="pubmed">22612317</ArticleId>
+            <ArticleId IdType="pmc">PMC3495116</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

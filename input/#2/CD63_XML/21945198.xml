@@ -1,0 +1,321 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21945198</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7905</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>375</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunological methods</Title>
+                <ISOAbbreviation>J. Immunol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analyzing histamine release by flow cytometry (HistaFlow): a novel instrument to study the degranulation patterns of basophils.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>30-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jim.2011.09.003</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Stimulated human basophils exhibit different degranulation patterns with release of mediators and appearance of activation markers such as CD63 and CD203c. Traditionally, released mediators are quantified in the supernatant of activated cells, whereas the expression of activation markers by individual cells is analyzed by flow cytometry. Alternatively, intracellular histamine and its release by basophils and mast cells have been repeatedly studied applying an enzyme-affinity-gold method based on the affinity of the histaminase diamine oxidase for its substrate histamine.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To develop a flow cytometric technique enabling to study histamine release by individual basophils in combination with the expression of activation markers. To elucidate the principles of basophil degranulation on a single cell level.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Intracellular histamine and its release is analyzed flow cytometrically by an enzyme-affinity method using diamine oxidase conjugated to laser-excitable fluorochromes. Phenotyping of cells implied flow cytometric quantification of CD63 and CD203c. Stimuli such as allergen, anti-IgE, N-formyl-met-leu-phe (fMLP), phorbol 12-myristate 13-acetate (PMA), ionomycin and interleukin (IL-)3 are applied to obtain different degranulation profiles.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Stimulation with anti-IgE, allergen, fMLP and PMA±ionomycin induces a rapid release of histamine that can be analyzed flow cytometrically. Analyses on a single cell level reveal that histamine release is not restricted to cells showing significant up-regulation of CD63. Alternatively, up-regulation of CD203c does not per se indicate histamine release. In some patients, priming of cells with IL-3 not only facilitates basophil responsiveness but also implies an increased ability of DAO to label the cells.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study provides the proof-of-concept that histamine and its release can be studied by multicolor flow cytometry on a single cell level (HistaFlow). Coupling the data to simultaneous phenotyping of activated basophils confirms that histamine release principally results from anaphylactic degranulation and in a lesser extent from piecemeal degranulation.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ebo</LastName>
+                    <ForeName>Didier G</ForeName>
+                    <Initials>DG</Initials>
+                    <Affiliation>Immunology-Allergology-Rheumatology, University of Antwerp, Antwerpen, Belgium. immuno@ua.ac.be</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bridts</LastName>
+                    <ForeName>Chris H</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mertens</LastName>
+                    <ForeName>Christel H</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hagendorens</LastName>
+                    <ForeName>Margo M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stevens</LastName>
+                    <ForeName>Wim J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Clerck</LastName>
+                    <ForeName>Luc S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Immunol Methods</MedlineTA>
+            <NlmUniqueID>1305440</NlmUniqueID>
+            <ISSNLinking>0022-1759</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Anti-Idiotypic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>ENPP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>IL3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Phorbol Esters</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>anti-IgE antibodies</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>20839-06-9</RegistryNumber>
+                <NameOfSubstance>phorbol-12-myristate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>56092-81-0</RegistryNumber>
+                <NameOfSubstance>Ionomycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59880-97-6</RegistryNumber>
+                <NameOfSubstance>N-Formylmethionine Leucyl-Phenylalanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59881-08-2</RegistryNumber>
+                <NameOfSubstance>methionyl-leucyl-phenylalanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>820484N8I3</RegistryNumber>
+                <NameOfSubstance>Histamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.4.3.21</RegistryNumber>
+                <NameOfSubstance>Amine Oxidase (Copper-Containing)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.-</RegistryNumber>
+                <NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Pyrophosphatases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amine Oxidase (Copper-Containing)</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Anti-Idiotypic</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophil Degranulation Test</DescriptorName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine Release</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-3</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ionomycin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">N-Formylmethionine Leucyl-Phenylalanine</DescriptorName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phorbol Esters</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphoric Diester Hydrolases</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrophosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0022-1759(11)00248-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jim.2011.09.003</ArticleId>
+            <ArticleId IdType="pubmed">21945198</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

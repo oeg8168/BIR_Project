@@ -1,0 +1,242 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10728364</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>04</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>04</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-6363</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jan</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular research</Title>
+                <ISOAbbreviation>Cardiovasc. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Paradoxical inhibition of fibrinogen binding and potentiation of alpha-granule release by specific types of inhibitors of glycoprotein IIb-IIIa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>437-46</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether glycoprotein (GP) IIb-IIIa inhibitors can paradoxically augment activation of platelets, activation of GP IIb-IIIa, alpha-granule degranulation, and lysosome release were induced after exposure of platelets to GP IIb-IIIa inhibitors.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">ADP-induced platelet activation was assessed after exposure of platelets to Abciximab, or to a non-peptide ligand, the free acid of Orbofiban (Orbofiban(a)). Activation of GP IIb-IIIa was detected based on binding of fluorochrome labeled fibrinogen or a labeled monoclonal antibody, PAC-1. alpha-Granule degranulation was detected based on surface expression of P-selectin and lysosome release was detected based on surface expression of CD63.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Despite significant inter-individual variability in inhibition of fibrinogen binding in response to each of the GP IIb-IIIa inhibitors used, a concentration dependent decrease in fibrinogen binding was seen with each agent in samples from each subject. Binding of PAC-1 was inhibited in a parallel manner. Abciximab increased ADP-induced P-selectin expression. Orbofiban(a) did not alter ADP-induced P-selectin expression. Neither agent altered ADP-induced CD63 expression. When platelets were exposed to Abciximab and Orbofiban(a), both Abciximab and Orbofiban(a) were found in the alpha-granules (by confocal microscopy), consistent with potentiation of agonist-induced release of alpha-granular products associated with uptake of proteins.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Specific types of GP IIb-IIIa inhibitors can paradoxically augment agonist-induced release of alpha-granules despite inhibiting agonist-induced fibrinogen binding.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                    <Affiliation>Department of Medicine, University of Vermont, Burlington, Colchester 05446, USA. djschnei@zoo.uvm.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taatjes</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sobel</LastName>
+                    <ForeName>B E</ForeName>
+                    <Initials>BE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>NETHERLANDS</Country>
+            <MedlineTA>Cardiovasc Res</MedlineTA>
+            <NlmUniqueID>0077427</NlmUniqueID>
+            <ISSNLinking>0008-6363</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin Fab Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Aggregation Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIIb-IIIa Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Pyrrolidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9001-32-5</RegistryNumber>
+                <NameOfSubstance>Fibrinogen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FGJ53JS7PT</RegistryNumber>
+                <NameOfSubstance>orbofiban</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OF5P57N2ZX</RegistryNumber>
+                <NameOfSubstance>Alanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>X85G7936GV</RegistryNumber>
+                <NameOfSubstance>abciximab</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Alanine</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibrinogen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin Fab Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIIb-IIIa Complex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrrolidines</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>4</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10728364</ArticleId>
+            <ArticleId IdType="pii">S0008-6363(99)00253-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,621 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23826184</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>SLE peripheral blood B cell, T cell and myeloid cell transcriptomes display unique profiles and each subset contributes to the interferon signature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e67003</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0067003</ELocationID>
+            <Abstract>
+                <AbstractText>Systemic lupus erythematosus (SLE) is a chronic autoimmune disease that is characterized by defective immune tolerance combined with immune cell hyperactivity resulting in the production of pathogenic autoantibodies. Previous gene expression studies employing whole blood or peripheral blood mononuclear cells (PBMC) have demonstrated that a majority of patients with active disease have increased expression of type I interferon (IFN) inducible transcripts known as the IFN signature. The goal of the current study was to assess the gene expression profiles of isolated leukocyte subsets obtained from SLE patients. Subsets including CD19(+) B lymphocytes, CD3(+)CD4(+) T lymphocytes and CD33(+) myeloid cells were simultaneously sorted from PBMC. The SLE transcriptomes were assessed for differentially expressed genes as compared to healthy controls. SLE CD33(+) myeloid cells exhibited the greatest number of differentially expressed genes at 208 transcripts, SLE B cells expressed 174 transcripts and SLE CD3(+)CD4(+) T cells expressed 92 transcripts. Only 4.4% (21) of the 474 total transcripts, many associated with the IFN signature, were shared by all three subsets. Transcriptional profiles translated into increased protein expression for CD38, CD63, CD107a and CD169. Moreover, these studies demonstrated that both SLE lymphoid and myeloid subsets expressed elevated transcripts for cytosolic RNA and DNA sensors and downstream effectors mediating IFN and cytokine production. Prolonged upregulation of nucleic acid sensing pathways could modulate immune effector functions and initiate or contribute to the systemic inflammation observed in SLE.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Becker</LastName>
+                    <ForeName>Amy M</ForeName>
+                    <Initials>AM</Initials>
+                    <Affiliation>Department of Immunology, The University of Texas Southwestern Medical Center, Dallas, Texas, United States of America.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dao</LastName>
+                    <ForeName>Kathryn H</ForeName>
+                    <Initials>KH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Bobby Kwanghoon</ForeName>
+                    <Initials>BK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kornu</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lakhanpal</LastName>
+                    <ForeName>Shuchi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mobley</LastName>
+                    <ForeName>Angela B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Quan-Zhen</ForeName>
+                    <Initials>QZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lian</LastName>
+                    <ForeName>Yun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Tianfu</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reimold</LastName>
+                    <ForeName>Andreas M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsen</LastName>
+                    <ForeName>Nancy J</ForeName>
+                    <Initials>NJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karp</LastName>
+                    <ForeName>David R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chowdhury</LastName>
+                    <ForeName>Fatema Z</ForeName>
+                    <Initials>FZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farrar</LastName>
+                    <ForeName>J David</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Satterthwaite</LastName>
+                    <ForeName>Anne B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohan</LastName>
+                    <ForeName>Chandra</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lipsky</LastName>
+                    <ForeName>Peter E</ForeName>
+                    <Initials>PE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wakeland</LastName>
+                    <ForeName>Edward K</ForeName>
+                    <Initials>EK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davis</LastName>
+                    <ForeName>Laurie S</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50AR055503</GrantID>
+                    <Acronym>AR</Acronym>
+                    <Agency>NIAMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01AR45293</GrantID>
+                    <Acronym>AR</Acronym>
+                    <Agency>NIAMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>63231-63-0</RegistryNumber>
+                <NameOfSubstance>RNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance>DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9008-11-1</RegistryNumber>
+                <NameOfSubstance>Interferons</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2009 Jun;60(6):1785-96</RefSource>
+                <PMID Version="1">19479852</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2009 Jul;76(4):261-70</RefSource>
+                <PMID Version="1">19199277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Immunol. 2010 Mar;159(3):281-91</RefSource>
+                <PMID Version="1">19968664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Jan 26;107(4):1512-7</RefSource>
+                <PMID Version="1">20080593</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Med (Berl). 2010 Jul;88(7):719-27</RefSource>
+                <PMID Version="1">20396862</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2011 Mar;41(3):863-72</RefSource>
+                <PMID Version="1">21312191</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(4):e19366</RefSource>
+                <PMID Version="1">21559410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2011 Aug 1;187(3):1506-13</RefSource>
+                <PMID Version="1">21705616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2011 Aug 1;187(3):1298-303</RefSource>
+                <PMID Version="1">21705624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2011 Sep;243(1):109-18</RefSource>
+                <PMID Version="1">21884171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2011 Sep 23;35(3):426-40</RefSource>
+                <PMID Version="1">21903422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2011 Oct 6;118(14):3890-900</RefSource>
+                <PMID Version="1">21832277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autoimmunity. 1999 Oct;31(2):117-24</RefSource>
+                <PMID Version="1">10680750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2003 Oct;48(10):2788-95</RefSource>
+                <PMID Version="1">14558084</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2003 Oct 16;349(16):1526-33</RefSource>
+                <PMID Version="1">14561795</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2004;13(5):283-9</RefSource>
+                <PMID Version="1">15230280</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1975 Nov-Dec;18(6):587-94</RefSource>
+                <PMID Version="1">1081876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1978 Apr;21(3):295-305</RefSource>
+                <PMID Version="1">646828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1979 Jul 5;301(1):5-8</RefSource>
+                <PMID Version="1">449915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 1982 Apr;25(4):401-6</RefSource>
+                <PMID Version="1">6176248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Haematol. 1982;67(4):242-8</RefSource>
+                <PMID Version="1">6810623</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Rheumatol. 1995 Sep;7(5):395-401</RefSource>
+                <PMID Version="1">8519612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1997 Dec 1;16(23):7118-29</RefSource>
+                <PMID Version="1">9384589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2004 Dec;50(12):3958-67</RefSource>
+                <PMID Version="1">15593221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2005 Mar;5(3):230-42</RefSource>
+                <PMID Version="1">15738953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2005 May;52(5):1491-503</RefSource>
+                <PMID Version="1">15880830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2005 Sep;17(9):1179-91</RefSource>
+                <PMID Version="1">16051621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2005;14(8):598-606</RefSource>
+                <PMID Version="1">16175931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Immunol. 2005;6:21</RefSource>
+                <PMID Version="1">16164753</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autoimmun Rev. 2006 Feb;5(2):118-21</RefSource>
+                <PMID Version="1">16431340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 Feb 1;107(3):1124-32</RefSource>
+                <PMID Version="1">16234363</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2006 Sep;24(9):1151-61</RefSource>
+                <PMID Version="1">16964229</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2006;15(12):840-4</RefSource>
+                <PMID Version="1">17211988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Feb 1;178(3):1938-47</RefSource>
+                <PMID Version="1">17237445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Feb 1;178(3):1960-6</RefSource>
+                <PMID Version="1">17237447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autoimmunity. 2007 Feb;40(1):1-8</RefSource>
+                <PMID Version="1">17364491</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2007 Aug;117(8):2186-96</RefSource>
+                <PMID Version="1">17641780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Sep 15;179(6):3662-71</RefSource>
+                <PMID Version="1">17785802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Oct 15;26(47):6838-49</RefSource>
+                <PMID Version="1">17934490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autoimmun Rev. 2007 Dec;7(2):102-8</RefSource>
+                <PMID Version="1">18035318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol. 2008 Feb;126(2):189-201</RefSource>
+                <PMID Version="1">18077220</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2008 Feb 28;358(9):956-61</RefSource>
+                <PMID Version="1">18204099</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2008 Apr;58(4):1136-45</RefSource>
+                <PMID Version="1">18383365</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2009 Jul;230(1):160-71</RefSource>
+                <PMID Version="1">19594635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Immun. 2009 Jul;10(5):482-6</RefSource>
+                <PMID Version="1">19262578</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2008 Jun;58(6):1762-73</RefSource>
+                <PMID Version="1">18512812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Jul 1;181(1):27-38</RefSource>
+                <PMID Version="1">18566367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ups J Med Sci. 2011 Nov;116(4):227-37</RefSource>
+                <PMID Version="1">22066971</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(11):e27384</RefSource>
+                <PMID Version="1">22096565</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Interferon Cytokine Res. 2011 Dec;31(12):893-906</RefSource>
+                <PMID Version="1">21902548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2012 Feb 1;188(3):1451-9</RefSource>
+                <PMID Version="1">22205024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2012 Mar 12;209(3):581-96</RefSource>
+                <PMID Version="1">22370718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Cell Biol. 2012 May;90(5):498-504</RefSource>
+                <PMID Version="1">22430248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Cell Biol. 2012 May;90(5):474-82</RefSource>
+                <PMID Version="1">22450802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Res Ther. 2012;14(3):211</RefSource>
+                <PMID Version="1">22640752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(9):e44362</RefSource>
+                <PMID Version="1">23028528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 2013 Feb;74(2):170-5</RefSource>
+                <PMID Version="1">23200755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 Apr 25;496(7446):513-7</RefSource>
+                <PMID Version="1">23467085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2013 Apr 25;496(7446):518-22</RefSource>
+                <PMID Version="1">23467095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2000 Nov 15;165(10):5970-9</RefSource>
+                <PMID Version="1">11067960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lupus. 2000;9(9):664-71</RefSource>
+                <PMID Version="1">11199920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Aug 15;167(4):2361-9</RefSource>
+                <PMID Version="1">11490026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Mol Med. 2001 Dec;1(6):689-725</RefSource>
+                <PMID Version="1">11899257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Mar 4;100(5):2610-5</RefSource>
+                <PMID Version="1">12604793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2003 Mar 17;197(6):711-23</RefSource>
+                <PMID Version="1">12642603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genes Immun. 2003 Apr;4(3):177-86</RefSource>
+                <PMID Version="1">12700592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2003 Jul;4(7):687-93</RefSource>
+                <PMID Version="1">12766768</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rheumatology (Oxford). 2003 Oct;42(10):1155-63</RefSource>
+                <PMID Version="1">12777642</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2008 Jul 15;105(28):9727-32</RefSource>
+                <PMID Version="1">18621685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Leukemia. 2008 Aug;22(8):1639-43</RefSource>
+                <PMID Version="1">18305557</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glycobiology. 2008 Oct;18(10):750-60</RefSource>
+                <PMID Version="1">18701722</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Rheum Dis. 2008 Dec;67 Suppl 3:iii83-6</RefSource>
+                <PMID Version="1">19022821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2008 Nov 24;205(12):2873-86</RefSource>
+                <PMID Version="1">18981236</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chembiochem. 2009 Jan 5;10(1):55-62</RefSource>
+                <PMID Version="1">19089881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Autoimmun Rev. 2009 Jan;8(3):209-13</RefSource>
+                <PMID Version="1">18723129</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2009 Mar;39(3):820-5</RefSource>
+                <PMID Version="1">19189309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2009 Apr 1;182(7):4116-26</RefSource>
+                <PMID Version="1">19299709</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interferons</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lupus Erythematosus, Systemic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myeloid Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">T-Lymphocyte Subsets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcriptome</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Up-Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3691135</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0067003</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-20077</ArticleId>
+            <ArticleId IdType="pubmed">23826184</ArticleId>
+            <ArticleId IdType="pmc">PMC3691135</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

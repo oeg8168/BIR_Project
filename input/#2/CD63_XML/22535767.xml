@@ -1,0 +1,285 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22535767</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-7170</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>153</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrinology</Title>
+                <ISOAbbreviation>Endocrinology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PTTG-binding factor (PBF) is a novel regulator of the thyroid hormone transporter MCT8.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3526-36</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/en.2011-2030</ELocationID>
+            <Abstract>
+                <AbstractText>Within the basolateral membrane of thyroid follicular epithelial cells, two transporter proteins are central to thyroid hormone (TH) biosynthesis and secretion. The sodium iodide symporter (NIS) delivers iodide from the bloodstream into the thyroid, and after TH biosynthesis, monocarboxylate transporter 8 (MCT8) mediates TH secretion from the thyroid gland. Pituitary tumor-transforming gene-binding factor (PBF; PTTG1IP) is a protooncogene that is up-regulated in thyroid cancer and that binds NIS and modulates its subcellular localization and function. We now show that PBF binds MCT8 in vitro, eliciting a marked shift in MCT8 subcellular localization and resulting in a significant reduction in the amount of MCT8 at the plasma membrane as determined by cell surface biotinylation assays. Colocalization and interaction between PBF and Mct8 was also observed in vivo in a mouse model of thyroid-specific PBF overexpression driven by a bovine thyroglobulin (Tg) promoter (PBF-Tg). Thyroidal Mct8 mRNA and protein expression levels were similar to wild-type mice. Critically, however, PBF-Tg mice demonstrated significantly enhanced thyroidal TH accumulation and reduced TH secretion upon TSH stimulation. Importantly, Mct8-knockout mice share this phenotype. These data show that PBF binds and alters the subcellular localization of MCT8 in vitro, with PBF overexpression leading to an accumulation of TH within the thyroid in vivo. Overall, these studies identify PBF as the first protein to interact with the critical TH transporter MCT8 and modulate its function in vivo. Furthermore, alongside NIS repression, PBF may thus represent a new regulator of TH biosynthesis and secretion.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>V E</ForeName>
+                    <Initials>VE</Initials>
+                    <Affiliation>School of Clinical and Experimental Medicine, Institute for Biomedical Research, University of Birmingham, Birmingham, B15 2TT, United Kingdom.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Read</LastName>
+                    <ForeName>M L</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turnell</LastName>
+                    <ForeName>A S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewy</LastName>
+                    <ForeName>G D</ForeName>
+                    <Initials>GD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fong</LastName>
+                    <ForeName>J C W</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seed</LastName>
+                    <ForeName>R I</ForeName>
+                    <Initials>RI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kwan</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryan</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehanna</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>S Y</ForeName>
+                    <Initials>SY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Darras</LastName>
+                    <ForeName>V M</ForeName>
+                    <Initials>VM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boelaert</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franklyn</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCabe</LastName>
+                    <ForeName>C J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>G0601811</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0700064</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>04</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Endocrinology</MedlineTA>
+            <NlmUniqueID>0375040</NlmUniqueID>
+            <ISSNLinking>0013-7227</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Carrier Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>DNA, Complementary</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>PTTG1IP protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Slc16a2 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Thyroid Hormones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.1.18</RegistryNumber>
+                <NameOfSubstance>Glutathione Transferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biotinylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">COS Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carrier Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cercopithecus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA, Complementary</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glutathione Transferase</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Transport Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Processing, Post-Translational</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thyroid Hormones</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">en.2011-2030</ArticleId>
+            <ArticleId IdType="doi">10.1210/en.2011-2030</ArticleId>
+            <ArticleId IdType="pubmed">22535767</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,191 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20608915</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1398-9995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Allergy</Title>
+                <ISOAbbreviation>Allergy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Robust expression of CCR3 as a single basophil selection marker in flow cytometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>85-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1398-9995.2010.02431.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Basophil activation tests (BAT) rely on different combinations of basophil selection and activation markers. Whereas activation markers, especially CD63, are widely validated, the most suitable and robust marker for basophil selection is still a matter of debate.</AbstractText>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">Comparison of cell surface expression of two commonly used basophil selection markers (IgE, CD123/HLA-DR) with CCR3 in an unselected group of atopic and nonatopic donors in resting and activated basophils.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">EDTA blood of 94 healthy adults, about half of them atopic by history, was analyzed using two different staining strategies: anti-CD123-PE/anti-HLA-DR-PerCP/anti-lin1-FITC and anti-IgE-FITC/anti-CD3-PerCP/anti-CCR3-PE. Additionally 40 pollen-allergic patients were recruited for the assessment of CCR3 expression after basophil activation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In resting basophils, cell surface expression of the three basophil selection markers was most constant for CCR3. IgE gating strategy showed the highest variation and up to 80% of nonbasophils in the selected gate in certain donors. During basophil activation, a shift of the mean fluorescence intensity for CCR3 toward the lower third of the CCR3-positive population could be demonstrated, but neither were CCR3-positive cells significantly lost for further analysis nor was differentiation between CCR3-positive and CCR3-negative cell populations hampered by this shift.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">CCR3 is a stable and highly expressed basophil selection marker, independent of the atopic background or basophil activation state and allows an accurate identification of basophils without need of a second marker. The basophil markers CD123/HLA-DR and IgE showed significantly higher interindividual variability in cell surface expression and are therefore less suited as selection markers.</AbstractText>
+                <CopyrightInformation>© 2010 John Wiley &amp; Sons A/S.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hausmann</LastName>
+                    <ForeName>O V</ForeName>
+                    <Initials>OV</Initials>
+                    <Affiliation>Department of Rheumatology, Clinical Immunology and Allergology, Inselspital, University Bern, Bern, Switzerland. oliver.hausmann@insel.ch</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gentinetta</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fux</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ducrest</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pichler</LastName>
+                    <ForeName>W J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahinden</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Evaluation Studies</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Allergy</MedlineTA>
+            <NlmUniqueID>7804028</NlmUniqueID>
+            <ISSNLinking>0105-4538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CCR3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, CCR3</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophil Degranulation Test</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pollen</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, CCR3</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">ALL2431</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1398-9995.2010.02431.x</ArticleId>
+            <ArticleId IdType="pubmed">20608915</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

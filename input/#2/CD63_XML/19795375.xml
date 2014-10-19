@@ -1,0 +1,444 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19795375</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4547</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>88</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neuroscience research</Title>
+                <ISOAbbreviation>J. Neurosci. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction of Rab31 and OCRL-1 in oligodendrocytes: its role in transport of mannose 6-phosphate receptors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>589-604</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jnr.22236</ELocationID>
+            <Abstract>
+                <AbstractText>Rab31, a protein that we cloned from an oligodendrocyte cDNA library, is required for transport of mannose 6-phosphate receptors (MPRs) from the trans-Golgi network (TGN) to endosomes and for Golgi/TGN organization. Here we extend the knowledge of the mechanism of action of Rab31 by demonstrating its interaction with OCRL-1, a phosphatidylinositol 4,5-diphosphate 5-phosphatase (PI(4,5)P(2) 5-phosphatase) that regulates the levels of PI(4,5)P(2) and PI(4)P, molecules involved in transport and Golgi/TGN organization. We show that Rab31 interacts with OCRL-1 in a yeast two-hybrid system, GST-Rab31 pull-down experiments, and coimmunoprecipitation of OCRL-1 using oligodendrocyte culture lysates. Rab31 and OCRL-1 colocalize in the TGN, post-TGN carriers, and endosomes. Cation-dependent MPR (CD-MPR) is sorted to OCRL-1-containing carriers, but CD63 and vesicular stomatitis virus G (VSVG) are not. siRNA-mediated depletion of endogenous Rab31 causes collapse of the TGN apparatus and markedly decreases the levels of OCRL-1 in the TGN and endosomes. Our observations indicate that the role of Rab31 in the Golgi/TGN structure and transport of MPRs depends on its capability to recruit OCRL-1 to domains of the TGN where the formation of carriers occurs. The importance of our observations is highlighted by the fact that mutation of OCRL-1 causes demyelination in humans.</AbstractText>
+                <CopyrightInformation>Copyright 2009 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez-Gabin</LastName>
+                    <ForeName>A G</ForeName>
+                    <Initials>AG</Initials>
+                    <Affiliation>Department of Neurology, Albert Einstein College of Medicine, Yeshiva University, Bronx, New York 10461, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demoliner</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Si</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almazan</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Larocca</LastName>
+                    <ForeName>J N</ForeName>
+                    <Initials>JN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>NS 07098</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS 47500-01</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS047500-01</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Neurosci Res</MedlineTA>
+            <NlmUniqueID>7600111</NlmUniqueID>
+            <ISSNLinking>0360-4012</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptor, IGF Type 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.-</RegistryNumber>
+                <NameOfSubstance>Phosphoric Monoester Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>rab GTP-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res Mol Brain Res. 1997 Oct 15;50(1-2):9-15</RefSource>
+                <PMID Version="1">9406912</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Hum Genet. 1997 Jun;60(6):1384-8</RefSource>
+                <PMID Version="1">9199559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Jan 16;273(3):1574-82</RefSource>
+                <PMID Version="1">9430698</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1998 Jul 21;95(15):8607-12</RefSource>
+                <PMID Version="1">9671725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Fr Pediatr. 1962 Aug-Sep;19:945-60</RefSource>
+                <PMID Version="1">13951659</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2005 Aug;33(Pt 4):627-30</RefSource>
+                <PMID Version="1">16042559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Aug;16(8):3467-79</RefSource>
+                <PMID Version="1">15917292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2005 Sep;16(9):4231-42</RefSource>
+                <PMID Version="1">15987739</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Aug 23;25(16):3750-61</RefSource>
+                <PMID Version="1">16902405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2007 Jul;18(7):2646-55</RefSource>
+                <PMID Version="1">17494868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dev Cell. 2007 Sep;13(3):377-90</RefSource>
+                <PMID Version="1">17765681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2008 May;40(5):663-9</RefSource>
+                <PMID Version="1">18425126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2008 Oct 8;27(19):2457-70</RefSource>
+                <PMID Version="1">18784754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 Aug 1;315(13):2215-30</RefSource>
+                <PMID Version="1">19345684</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Nov 9;96(23):13342-4</RefSource>
+                <PMID Version="1">10557322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Histochem Cytochem. 2000 Feb;48(2):179-90</RefSource>
+                <PMID Version="1">10639484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 2000 Feb 1;59(3):446-53</RefSource>
+                <PMID Version="1">10679782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2000 Mar;32(3):303-7</RefSource>
+                <PMID Version="1">10716627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2000 Jul 21;289(5478):444-8</RefSource>
+                <PMID Version="1">10903204</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cell Dev Biol. 2000 Jun;11(3):165-71</RefSource>
+                <PMID Version="1">10906273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mutat. 2000;16(2):157-65</RefSource>
+                <PMID Version="1">10923037</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuropediatrics. 2001 Feb;32(1):45-8</RefSource>
+                <PMID Version="1">11315202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bioessays. 2001 Apr;23(4):333-43</RefSource>
+                <PMID Version="1">11268039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2001 Feb;2(2):107-17</RefSource>
+                <PMID Version="1">11252952</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Membr Biol. 2001 Apr 1;180(3):187-94</RefSource>
+                <PMID Version="1">11337890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2001;17:517-68</RefSource>
+                <PMID Version="1">11687498</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 2001 Dec 15;66(6):1149-60</RefSource>
+                <PMID Version="1">11746448</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2002 Mar;13(3):1071-82</RefSource>
+                <PMID Version="1">11907283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2002 Aug;14(4):434-47</RefSource>
+                <PMID Version="1">12383794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurochem Res. 2002 Nov;27(11):1313-29</RefSource>
+                <PMID Version="1">12512937</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Jan 17;278(3):1957-65</RefSource>
+                <PMID Version="1">12411436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Mol Genet. 2003 Oct 1;12(19):2449-56</RefSource>
+                <PMID Version="1">12915445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2003;72:395-447</RefSource>
+                <PMID Version="1">12651740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Dec 19;302(5653):2141-4</RefSource>
+                <PMID Version="1">14684825</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Jan 23;116(2):153-66</RefSource>
+                <PMID Version="1">14744428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 2004 Jun 15;76(6):758-70</RefSource>
+                <PMID Version="1">15160388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1980 Jun;85(3):890-902</RefSource>
+                <PMID Version="1">6248568</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1988 Feb 12;52(3):329-41</RefSource>
+                <PMID Version="1">2964276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1989 Apr 15;77(1):51-9</RefSource>
+                <PMID Version="1">2744487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1992 Nov;103 ( Pt 3):857-62</RefSource>
+                <PMID Version="1">1478975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 1993 Aug;5(4):613-20</RefSource>
+                <PMID Version="1">8257602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 1994 Jun 27;347(2-3):273-8</RefSource>
+                <PMID Version="1">8034017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1995 May 23;92(11):4853-6</RefSource>
+                <PMID Version="1">7761412</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 1996 Aug 1;45(3):258-68</RefSource>
+                <PMID Version="1">8841986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Genet. 1997 Feb;99(2):145-50</RefSource>
+                <PMID Version="1">9048911</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci Res. 1997 Dec 1;50(5):743-54</RefSource>
+                <PMID Version="1">9418962</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cations</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligodendroglia</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphoric Monoester Hydrolases</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptor, IGF Type 2</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">rab GTP-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">trans-Golgi Network</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS159661</OtherID>
+        <OtherID Source="NLM">PMC3133691</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/jnr.22236</ArticleId>
+            <ArticleId IdType="pubmed">19795375</ArticleId>
+            <ArticleId IdType="pmc">PMC3133691</ArticleId>
+            <ArticleId IdType="mid">NIHMS159661</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

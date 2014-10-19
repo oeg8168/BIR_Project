@@ -1,0 +1,356 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20218655</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1936-086X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Apr</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS nano</Title>
+                <ISOAbbreviation>ACS Nano</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural-mechanical characterization of nanoparticle exosomes in human saliva, using correlative AFM, FESEM, and force spectroscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1921-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/nn901824n</ELocationID>
+            <Abstract>
+                <AbstractText>All living systems contain naturally occurring nanoparticles with unique structural, biochemical, and mechanical characteristics. Specifically, human saliva exosomes secreted by normal cells into saliva via exocytosis are novel biomarkers showing tumor-antigen enrichment during oral cancer. Here we show the substructure of single human saliva exosomes, using a new ultrasensitive low force atomic force microscopy (AFM) exhibiting substructural organization unresolvable in electron microscopy. We correlate the data with field emission scanning electron microscopy (FESEM) and AFM images to interpret the nanoscale structures of exosomes under varying forces. Single exosomes reveal reversible mechanical deformation displaying distinct elastic, 70-100 nm trilobed membrane with substructures carrying specific transmembrane receptors. Further, we imaged and investigated, using force spectroscopy with antiCD63 IgG functionalized AFM tips, highly specific and sensitive detection of antigenCD63, potentially useful cancer markers on individual exosomes. The quantitative nanoscale morphological, biomechanical, and surface biomolecular properties of single saliva exosomes are critical for the applications of exosomes for cancer diagnosis and as a model for developing new cell delivery systems.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Shivani</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Chemistry and Biochemistry, University of California, Los Angeles, California 90095, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasool</LastName>
+                    <ForeName>Haider I</ForeName>
+                    <Initials>HI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palanisamy</LastName>
+                    <ForeName>Viswanathan</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mathisen</LastName>
+                    <ForeName>Cliff</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>David T</ForeName>
+                    <Initials>DT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gimzewski</LastName>
+                    <ForeName>James K</ForeName>
+                    <Initials>JK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R00 DE018165</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00 DE018165-04</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R00DE018165</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DE017170</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DE017170</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-DE016275</GrantID>
+                    <Acronym>DE</Acronym>
+                    <Agency>NIDCR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Nano</MedlineTA>
+            <NlmUniqueID>101313589</NlmUniqueID>
+            <ISSNLinking>1936-0851</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7440-57-5</RegistryNumber>
+                <NameOfSubstance>Gold</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Invest. 2009 Jul;89(7):769-81</RefSource>
+                <PMID Version="1">19398958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2009 Aug;9(8):581-93</RefSource>
+                <PMID Version="1">19498381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Feb;19(2):43-51</RefSource>
+                <PMID Version="1">19144520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2008 Dec;10(12):1470-6</RefSource>
+                <PMID Version="1">19011622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2008 Oct;8(19):4083-99</RefSource>
+                <PMID Version="1">18780348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Drug Discov Today. 2008 Oct;13(19-20):882-7</RefSource>
+                <PMID Version="1">18656548</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Nanotechnol. 2007 Dec;2(12):780-3</RefSource>
+                <PMID Version="1">18654431</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2008;484:97-109</RefSource>
+                <PMID Version="1">18592175</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Pharm Bull. 2008 Jun;31(6):1059-62</RefSource>
+                <PMID Version="1">18520029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 2006 May 1;90(9):3333-44</RefSource>
+                <PMID Version="1">16473913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Mar 22;102(12):4348-52</RefSource>
+                <PMID Version="1">15753293</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biophys J. 1997 Feb;72(2 Pt 1):806-13</RefSource>
+                <PMID Version="1">9017205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1994 Oct 14;266(5183):257-9</RefSource>
+                <PMID Version="1">7939660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2004 Aug;16(4):415-21</RefSource>
+                <PMID Version="1">15261674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Drug Targets Infect Disord. 2004 Jun;4(2):163-7</RefSource>
+                <PMID Version="1">15180463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Drug Deliv Rev. 2004 Mar 27;56(5):675-711</RefSource>
+                <PMID Version="1">15019752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2003 Mar 4;100(5):2592-7</RefSource>
+                <PMID Version="1">12604782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2002 May;3(5):321-30</RefSource>
+                <PMID Version="1">11967126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Proteomics. 2009 Jun;6(3):267-83</RefSource>
+                <PMID Version="1">19489699</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gold</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin G</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Mechanical Processes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Atomic Force</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron, Scanning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nanoparticles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Organ Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saliva</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Spectrum Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS187006</OtherID>
+        <OtherID Source="NLM">PMC2866049</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/nn901824n</ArticleId>
+            <ArticleId IdType="pubmed">20218655</ArticleId>
+            <ArticleId IdType="pmc">PMC2866049</ArticleId>
+            <ArticleId IdType="mid">NIHMS187006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

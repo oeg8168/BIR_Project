@@ -1,0 +1,197 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21271515</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-3824</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>223</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinische Pädiatrie</Title>
+                <ISOAbbreviation>Klin Padiatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Basophil activation test for the diagnosis of hymenoptera venom allergy in childhood: a pilot study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>27-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/s-0030-1268430</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Cellular in vitro tests such as the CD63-based basophil activation test (BAT) have been successfully used to diagnose hymenoptera venom sensitization in adult patients while this has not been investigated in children so far.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">15 children (9 male, 6 female; 12.7±3.5 years) with suspected allergy to vespula (VE) or honey bee (HB) venom entered this study. Besides serum tryptase (ST) levels, sensitisation against VE and HB was assessed by titrated skin testing and determination of venom-specific serum IgE (sIgE) in all patients. After stimulation with 50 ng of insect venom, CD63-expression of activated basophils was measured by flow cytometry.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Skin testing permitted identification of the culprit insect in 7 patients, 3 cases were diagnosed by additional sIgE measurements. In addition, BAT identified mono-sensitization in 3 further patients with double sensitization upon skin and sIgE testing. Test sensitivity was lower for the BAT (67-75%) than for skin testing (89-100%) and sIgE determination (100%). Neither basophil activation nor sIgE serum levels were identified as reliable predictors of sting reaction severity. In all patients, ST measurements yielded values below the upper reference value.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The current pilot study suggests a possible clinical benefit of BAT analysis in the diagnostic workup of pediatric insect venom allergy. However, further large-scale trials are required to investigate whether the BAT reliably contributes to the correct identification of the culprit insect venom. Due to its comparatively low sensitivity, the BAT should currently not be used in isolation from, but only in combination with established diagnostic instruments.</AbstractText>
+                <CopyrightInformation>© Georg Thieme Verlag KG Stuttgart · New York.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ott</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>RWTH Aachen University, Department of Dermatology and Allergology, Aachen, Germany. hagen.ott@post.rwth-aachen.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tenbrock</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baron</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merk</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lehmann</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Klin Padiatr</MedlineTA>
+            <NlmUniqueID>0326144</NlmUniqueID>
+            <ISSNLinking>0300-8630</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bee Venoms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Wasp Venoms</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anaphylaxis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Basophil Degranulation Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bee Venoms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoenzyme Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Insect Bites and Stings</DescriptorName>
+                <QualifierName MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intradermal Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wasp Venoms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1055/s-0030-1268430</ArticleId>
+            <ArticleId IdType="pubmed">21271515</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

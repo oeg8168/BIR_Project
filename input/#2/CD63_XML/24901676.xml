@@ -1,0 +1,124 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24901676</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5118</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>62</Volume>
+                    <Issue>27</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jul</Month>
+                        <Day>9</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of agricultural and food chemistry</Title>
+                <ISOAbbreviation>J. Agric. Food Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mast-cell-based fluorescence biosensor for rapid detection of major fish allergen parvalbumin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6473-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jf501382t</ELocationID>
+            <Abstract>
+                <AbstractText>In this study, we developed a rat basophilic leukemia cell (RBL-2H3) fluorescence sensor to detect and identify the major fish allergen parvalbumin (PV). We constructed and transfected a CD63-enhanced green fluorescent protein (EGFP) plasmid into RBL cells through a highly efficient, lipid-mediated, DNA-transfection procedure. Stable transfectant RBL cells were then obtained for a cell fluorescence assay with confocal laser scanning microscopy. Results show that the cell surface expression of CD63 reflects degranulation, indicating that a fluorescence assay with these cells could efficiently measure the activation of antigen-stimulated transfectant cells and detect antigens with a nanogram level. Therefore, this cell-based fluorescence biosensor technique for detecting fish PV exhibits promise for quantifying fish PV after anti-PV immunoglobulin E (IgE) stimulation. Results show that fluorescence intensities increased with purified PV concentrations from 1 to 100 ng/mL, with a detection limit of 0.35 ng/mL [relative standard deviation (RSD) of 4.5%], confirmed by β-hexosaminidase assays. These rat basophilic leukemia (RBL) mast cells transfected with the CD63-EGFP gene and responded to PV only when they were sensitized with the specific IgE antibody. This demonstrates the utility of this highly sensitive biosensor for food allergen detection and prediction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Donglei</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>State Key Laboratory of Food Science and Technology, School of Food Science and Technology, Synergetic Innovation Center of Food Safety and Nutrition, Jiangnan University , Wuxi, Jiangsu 214122, People's Republic of China.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiulan</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qian</LastName>
+                    <ForeName>He</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Genyi</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Lili</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Agric Food Chem</MedlineTA>
+            <NlmUniqueID>0374755</NlmUniqueID>
+            <ISSNLinking>0021-8561</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1021/jf501382t</ArticleId>
+            <ArticleId IdType="pubmed">24901676</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

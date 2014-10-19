@@ -1,0 +1,180 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12032632</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>05</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-186X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Diabetologia</Title>
+                <ISOAbbreviation>Diabetologia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Detection of monocyte-derived microparticles in patients with Type II diabetes mellitus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>550-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIMS/HYPOTHESIS" NlmCategory="OBJECTIVE">The role of plasma monocyte-derived microparticles (MDMPs) and platelet-activation markers (platelet-derived microparticle [PDMP], platelet-bound CD62P [plt-CD62P], and platelet-bound CD63 [plt-CD63]) in diabetic vascular complications is not clear. We measured and compared plasma concentrations of MDMPs and the platelet-activation markers to investigate their possible contribution to diabetic vascular complications.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Activated platelets and microparticles (PDMP and MDMP) were analysed by flow cytometry. Concentrations of serum sE-selectin were measured with enzyme-linked immunosorbent assay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The concentration of MDMPs in diabetic patients was higher than in normal subjects. We found no differences in the binding of anti-GPIIb/IIIa and anti-GPIb monoclonal antibodies between groups. There were differences, however, in the concentrations of PDMPs, plt-CD62P, and plt-CD63 between Type II (non-insulin-dependent) diabetes mellitus patients and control subjects (PDMPs: 585 +/- 25 vs 263 +/- 9, p &lt; 0.01; plt-CD62P: 28.1 % +/- 1.4 % vs 9.4 % +/- 0.6 %, p &lt; 0.001; plt-CD63: 28.1 % +/- 1.4 % vs 8.6 % +/- 0.5 %, p &lt; 0.001). Amounts of MDMPs correlated positively with these platelet activation markers, and the relation between PDMP and MDMP was the most significant. The concentration of MDMP in patients who had diabetes complicated with nephropathy, retinopathy, or neuropathy was higher than in those without diabetes-related complications. The increase in MDMP was particularly significant in patients with nephropathy. Concentrations of sE-selectin were higher in Type II diabetes patients than in control subjects, and correlated with MDMP, PDMP, plt-CD62P, and plt-CD63 levels in nephropathy patients.</AbstractText>
+                <AbstractText Label="CONCLUSION/INTERPRETATION" NlmCategory="CONCLUSIONS">In Type II diabetes patients, we detected increased activation of monocytes, which could have been stimulated by activated platelets and PDMPs. Because the activation of monocytes is associated with vascular endothelial damage, high concentrations of MDMPs could indicate vascular complications in diabetes patients, especially those who have diabetes-related nephropathy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Omoto</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Second Department of Internal Medicine, Kansai Medical University, Osaka, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nomura</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shouzu</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishikawa</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukuhara</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwasaka</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Diabetologia</MedlineTA>
+            <NlmUniqueID>0006777</NlmUniqueID>
+            <ISSNLinking>0012-186X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Body Mass Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diabetes Mellitus, Type 2</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12032632</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00125-001-0772-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,355 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21235781</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1479-5876</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of translational medicine</Title>
+                <ISOAbbreviation>J Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human saliva, plasma and breast milk exosomes contain RNA: uptake by macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1479-5876-9-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Exosomes are 30-100 nm membrane vesicles of endocytic origin produced by numerous cells. They can mediate diverse biological functions, including antigen presentation. Exosomes have recently been shown to contain functional RNA, which can be delivered to other cells. Exosomes may thus mediate biological functions either by surface-to-surface interactions with cells, or by the delivery of functional RNA to cells. Our aim was therefore to determine the presence of RNA in exosomes from human saliva, plasma and breast milk and whether these exosomes can be taken up by macrophages.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Exosomes were purified from human saliva, plasma and breast milk using ultracentrifugation and filtration steps. Exosomes were detected by electron microscopy and examined by flow cytometry. Flow cytometry was performed by capturing the exosomes on anti-MHC class II coated beads, and further stain with anti-CD9, anti-CD63 or anti-CD81. Breast milk exosomes were further analysed for the presence of Hsc70, CD81 and calnexin by Western blot. Total RNA was detected with a Bioanalyzer and mRNA was identified by the synthesis of cDNA using an oligo (dT) primer and analysed with a Bioanalyzer. The uptake of PKH67-labelled saliva and breast milk exosomes by macrophages was examined by measuring fluorescence using flow cytometry and fluorescence microscopy.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">RNA was detected in exosomes from all three body fluids. A portion of the detected RNA in plasma exosomes was characterised as mRNA. Our result extends the characterisation of exosomes in healthy humans and confirms the presence of RNA in human saliva and plasma exosomes and reports for the first time the presence of RNA in breast milk exosomes. Our results also show that the saliva and breast milk exosomes can be taken up by human macrophages.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Exosomes in saliva, plasma and breast milk all contain RNA, confirming previous findings that exosomes from several sources contain RNA. Furthermore, exosomes are readily taken up by macrophages, supporting the notion that exosomal RNA can be shuttled between cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lässer</LastName>
+                    <ForeName>Cecilia</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Krefting Research Centre, Sahlgrenska Academy, University of Gothenburg, Box 424, 405 30 Gothenburg, Sweden.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alikhani</LastName>
+                    <ForeName>Vesta Seyed</ForeName>
+                    <Initials>VS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekström</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eldh</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paredes</LastName>
+                    <ForeName>Patricia Torregrosa</ForeName>
+                    <Initials>PT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bossios</LastName>
+                    <ForeName>Apostolos</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sjöstrand</LastName>
+                    <ForeName>Margareta</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabrielsson</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lötvall</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valadi</LastName>
+                    <ForeName>Hadi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Transl Med</MedlineTA>
+            <NlmUniqueID>101190741</NlmUniqueID>
+            <ISSNLinking>1479-5876</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD81</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD81 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HSC70 Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>139873-08-8</RegistryNumber>
+                <NameOfSubstance>Calnexin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>63231-63-0</RegistryNumber>
+                <NameOfSubstance>RNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2008 Jul;110(1):13-21</RefSource>
+                <PMID Version="1">18589210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2009 Aug;175(2):696-705</RefSource>
+                <PMID Version="1">19628765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2009 Dec 4;284(49):34211-22</RefSource>
+                <PMID Version="1">19801663</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(1):e8577</RefSource>
+                <PMID Version="1">20052414</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oral Dis. 2010 Jan;16(1):34-8</RefSource>
+                <PMID Version="1">19627513</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2008 Jul 4;26(29-30):3662-72</RefSource>
+                <PMID Version="1">18538453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1997 Dec;8(12):2631-45</RefSource>
+                <PMID Version="1">9398681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2004 Nov 15;104(10):3257-66</RefSource>
+                <PMID Version="1">15284116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2005 May;52(5):1517-21</RefSource>
+                <PMID Version="1">15880835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2005 Jun;72(6):1452-65</RefSource>
+                <PMID Version="1">15635128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2005 Jul;17(7):879-87</RefSource>
+                <PMID Version="1">15908444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2006 Dec;54(12):3809-14</RefSource>
+                <PMID Version="1">17133577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2007 Aug 1;179(3):1969-78</RefSource>
+                <PMID Version="1">17641064</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2008 Feb;8(2):120-30</RefSource>
+                <PMID Version="1">18204468</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Pharm Bull. 2008 Jun;31(6):1059-62</RefSource>
+                <PMID Version="1">18520029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2008 Jul;14(7):1424-32</RefSource>
+                <PMID Version="1">18456845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Nov 1;147(3):599-610</RefSource>
+                <PMID Version="1">10545503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2001 Jan 24-31;285(4):413-20</RefSource>
+                <PMID Version="1">11242425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Mar;7(3):297-303</RefSource>
+                <PMID Version="1">11231627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2001 Aug;121(2):337-49</RefSource>
+                <PMID Version="1">11487543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Apr 1;168(7):3235-41</RefSource>
+                <PMID Version="1">11907077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2002 Jul 27;360(9329):295-305</RefSource>
+                <PMID Version="1">12147373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2003;532:215-21</RefSource>
+                <PMID Version="1">12908560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2003 Oct;22(4):578-83</RefSource>
+                <PMID Version="1">14582906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2008 Dec;10(12):1470-6</RefSource>
+                <PMID Version="1">19011622</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD81</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calnexin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HSC70 Heat-Shock Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Milk, Human</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plasma</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saliva</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3033821</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1479-5876-9-9</ArticleId>
+            <ArticleId IdType="doi">10.1186/1479-5876-9-9</ArticleId>
+            <ArticleId IdType="pubmed">21235781</ArticleId>
+            <ArticleId IdType="pmc">PMC3033821</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

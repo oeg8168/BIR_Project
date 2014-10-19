@@ -1,0 +1,199 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">7668222</PMID>
+        <DateCreated>
+            <Year>1995</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0361-8609</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>50</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of hematology</Title>
+                <ISOAbbreviation>Am. J. Hematol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flow cytometric evaluation of platelet activation in blood collected into EDTA vs. Diatube-H, a sodium citrate solution supplemented with theophylline, adenosine, and dipyridamole.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>40-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>With platelet activation, there is modulation of platelet surface molecule expression. In flow cytometric analyses of in vivo platelet activation, results are often confounded by activation induced in vitro by the preparative procedures. It is particularly important therefore to prevent or retard platelet activation as soon as possible after withdrawal of the blood sample. Taking blood into paraformaldehyde, or fixing the cells with paraformaldehyde as soon as possible after withdrawal, has been employed to prevent platelet activation in vitro, but paraformaldehyde-fixed platelets cannot be further used in functional studies. We investigated the efficacy of Diatube-H, a commercially available combination of platelet antagonists (theophylline, adenosine, and dipyridamole), in preventing or retarding platelet activation in vitro, along with its effects on modulation of platelet membrane glycoproteins (GP) and adhesion molecules. In contrast to blood taken into EDTA, blood taken into Diatube-H vacutainer tubes could be stored at room temperature for up to 4 hr prior to paraformaldehyde fixation without significant in vitro platelet activation, as measured by CD62P, CD63 and modulation of GPIb and GPIIbIIIa surface expression. Hence, paraformaldehyde fixation could be deferred for several hours, permitting transport of samples from distant sites. Studies of thrombin-induced platelet activation indicated that platelets taken into Diatube-H remained functional i.e. were able to be activated. Expression of the CD29, CD49b and CD31 adhesion molecules on the platelet surface was unaffected by storage in Diatube-H. The results suggest that Diatube-H may be a useful reagent for flow cytometric studies of platelets when the samples cannot be processed immediately.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kühne</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Department of Immunohaematology, St. Michael's Hospital, Toronto, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hornstein</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Semple</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blanchette</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freedman</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Hematol</MedlineTA>
+            <NlmUniqueID>7610369</NlmUniqueID>
+            <ISSNLinking>0361-8609</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Citrates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Solutions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2968PHW8QP</RegistryNumber>
+                <NameOfSubstance>Citric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>64ALC7F90C</RegistryNumber>
+                <NameOfSubstance>Dipyridamole</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9G34HU7RV0</RegistryNumber>
+                <NameOfSubstance>Edetic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>C137DTR5RG</RegistryNumber>
+                <NameOfSubstance>Theophylline</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K72T3FS567</RegistryNumber>
+                <NameOfSubstance>Adenosine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Am J Hematol. 1997 Apr;54(4):343-4</RefSource>
+                <PMID Version="1">9092701</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Anticoagulants</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Citrates</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Citric Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dipyridamole</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Edetic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Solutions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Theophylline</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7668222</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

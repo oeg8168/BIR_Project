@@ -1,0 +1,361 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22202123</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5522</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>O-antigen-deficient Francisella tularensis Live Vaccine Strain mutants are ingested via an aberrant form of looping phagocytosis and show altered kinetics of intracellular trafficking in human macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>952-67</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/IAI.05221-11</ELocationID>
+            <Abstract>
+                <AbstractText>We examined the uptake and intracellular trafficking of F. tularensis Live Vaccine Strain (LVS) and LVS with disruptions of wbtDEF and wbtI genes essential for synthesis of the O antigen of lipopolysaccharide. Unlike parental bacteria, O-antigen-deficient LVS is efficiently killed by serum with intact complement but not by serum lacking terminal complement components. Opsonization of O-antigen-deficient LVS in serum lacking terminal complement components allows efficient uptake of these live bacteria by macrophages. In the presence of complement, whereas parental F. tularensis LVS is internalized within spacious pseudopod loops, mutant LVS is internalized within tightly juxtaposed multiple onion-like layers of pseudopodia. Without complement, both parental and mutant LVSs are internalized within spacious pseudopod loops. Thus, molecules other than O antigen are important in triggering dramatic pseudopod extensions and uptake by spacious pseudopod loops. Following uptake, both parental and mutant LVSs enter compartments that show limited staining for the lysosomal membrane glycoprotein CD63 and little fusion with secondary lysosomes. Subsequently, both parental and mutant LVSs lose their CD63 staining. Whereas the majority of parental LVS escapes into the cytosol by 6 h after uptake, mutant LVS shows a marked lag but does escape by 1 day after uptake. Despite the altered kinetics of phagosome escape, both mutant and parental strains grow to high levels within human macrophages. Thus, the O antigen plays a role in the morphology of uptake in the presence of complement and the kinetics of intracellular growth but is not essential for escape, survival, altered membrane trafficking, or intramacrophage growth.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Clemens</LastName>
+                    <ForeName>Daniel L</ForeName>
+                    <Initials>DL</Initials>
+                    <Affiliation>Division of Infectious Diseases, Department of Medicine, University of California?”Los Angeles School of Medicine, Center for Health Sciences, Los Angeles, California, USA. dclemens@mednet.ucla.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Bai-Yu</ForeName>
+                    <Initials>BY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horwitz</LastName>
+                    <ForeName>Marcus A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI065359</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 AI065359</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Bacterial Vaccines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>O Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Opsonin Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vaccines, Attenuated</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-36-7</RegistryNumber>
+                <NameOfSubstance>Complement System Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 1999 Jul;1(8):633-8</RefSource>
+                <PMID Version="1">10611740</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2007 Jun;1105:160-86</RefSource>
+                <PMID Version="1">17435118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Microbiol Rev. 2002 Oct;15(4):631-46</RefSource>
+                <PMID Version="1">12364373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Biochem. 2002 Dec;269(24):6112-8</RefSource>
+                <PMID Version="1">12473106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 2003 May 28;222(2):273-80</RefSource>
+                <PMID Version="1">12770718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Microbiol. 2003 Sep;52(Pt 9):839-42</RefSource>
+                <PMID Version="1">12909664</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Microbiol. 2003 Oct;52(Pt 10):845-51</RefSource>
+                <PMID Version="1">12972577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2003 Oct;71(10):5940-50</RefSource>
+                <PMID Version="1">14500514</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2007 Sep;153(Pt 9):3141-53</RefSource>
+                <PMID Version="1">17768257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Jun;76(6):2671-7</RefSource>
+                <PMID Version="1">18390995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2008 Jul;84(1):77-85</RefSource>
+                <PMID Version="1">18430786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2008 Oct 15;181(8):5568-78</RefSource>
+                <PMID Version="1">18832715</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2009 May;77(5):1757-73</RefSource>
+                <PMID Version="1">19237528</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(7):e11060</RefSource>
+                <PMID Version="1">20625403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2011 Feb;79(2):581-94</RefSource>
+                <PMID Version="1">21078861</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2004 Jun;72(6):3204-17</RefSource>
+                <PMID Version="1">15155622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J R Soc Med. 1982 Feb;75(2):121-3</RefSource>
+                <PMID Version="1">7040652</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Infect Dis. 1982 Jan-Feb;4(1):104-23</RefSource>
+                <PMID Version="1">6122253</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1984 Jan;36(1):27-33</RefSource>
+                <PMID Version="1">6692469</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1990 Apr;85(4):1304-14</RefSource>
+                <PMID Version="1">2138634</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1990 Apr 1;144(7):2771-80</RefSource>
+                <PMID Version="1">2108212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 May 1;175(5):1317-26</RefSource>
+                <PMID Version="1">1569400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Dec;135(5):1249-60</RefSource>
+                <PMID Version="1">8947549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1998 Oct;6(10):384-8</RefSource>
+                <PMID Version="1">9807780</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1999 Feb;112 ( Pt 3):307-16</RefSource>
+                <PMID Version="1">9885284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 1961 May;107:702-14</RefSource>
+                <PMID Version="1">13746667</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Intern Med. 1961 May;107:689-701</RefSource>
+                <PMID Version="1">13746668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1964 Jun;114:277-83</RefSource>
+                <PMID Version="1">14183401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2004 Dec;2(12):967-78</RefSource>
+                <PMID Version="1">15550942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Appl Environ Microbiol. 2004 Dec;70(12):7511-9</RefSource>
+                <PMID Version="1">15574954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2005 Sep;73(9):5892-902</RefSource>
+                <PMID Version="1">16113308</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2006 Jul;74(7):4002-13</RefSource>
+                <PMID Version="1">16790773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2006 Aug;8(8):1361-70</RefSource>
+                <PMID Version="1">16882038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2006 Sep;74(9):5114-25</RefSource>
+                <PMID Version="1">16926403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2006 Sep;80(3):563-71</RefSource>
+                <PMID Version="1">16816147</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Sep 26;103(39):14578-83</RefSource>
+                <PMID Version="1">16983090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2007 Jan;75(1):536-41</RefSource>
+                <PMID Version="1">17030571</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2007 Jan;75(1):371-8</RefSource>
+                <PMID Version="1">17074846</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbes Infect. 1999 Jul;1(9):727-35</RefSource>
+                <PMID Version="1">10611750</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Bacterial Vaccines</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Complement System Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytosol</DescriptorName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Francisella tularensis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">O Antigens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Opsonin Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Phagocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vaccines, Attenuated</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3294633</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">IAI.05221-11</ArticleId>
+            <ArticleId IdType="doi">10.1128/IAI.05221-11</ArticleId>
+            <ArticleId IdType="pubmed">22202123</ArticleId>
+            <ArticleId IdType="pmc">PMC3294633</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

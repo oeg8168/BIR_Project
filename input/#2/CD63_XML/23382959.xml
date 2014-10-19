@@ -1,0 +1,382 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23382959</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Basolateral invasion and trafficking of Campylobacter jejuni in polarized epithelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e54759</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0054759</ELocationID>
+            <Abstract>
+                <AbstractText>Campylobacter jejuni is a major cause of bacterial diarrheal disease. Most enteropathogenic bacteria including C. jejuni can invade cultured eukaryotic cells via an actin- and/or microtubule-dependent and an energy-consuming uptake process. Recently, we identified a novel highly efficient C. jejuni invasion pathway that involves bacterial migration into the subcellular space of non-polarized epithelial cells (termed subvasion) followed by invasion from the cell basis. Here we report cellular requirements of this entry mechanism and the subsequent intracellular trafficking route of C. jejuni in polarized islands of Caco-2 intestinal epithelial cells. Advanced microscopy on infected cells revealed that C. jejuni invades the polarized intestinal cells via the subcellular invasion pathway. Remarkably, invasion was not blocked by the inhibitors of microtubule dynamics colchicine or paclitaxel, and was even enhanced after disruption of host cell actin filaments by cytochalasin D. Invasion also continued after dinitrophenol-induced cellular depletion of ATP, whereas this compound effectively inhibited the uptake of invasive Escherichia coli. Confocal microscopy demonstrated that intracellular C. jejuni resided in membrane-bound CD63-positive cellular compartments for up to 24 h. Establishment of a novel luciferase reporter-based bacterial viability assay, developed to overcome the limitations of the classical bacterial recovery assay, demonstrated that a subset of C. jejuni survived intracellularly for up to 48 h. Taken together, our results indicate that C. jejuni is able to actively invade polarized intestinal epithelial cells via a novel actin- and microtubule-independent mechanism and remains metabolically active in the intracellular niche for up to 48 hours.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bouwman</LastName>
+                    <ForeName>Lieneke I</ForeName>
+                    <Initials>LI</Initials>
+                    <Affiliation>Department of Infectious Diseases and Immunology, Utrecht University, Utrecht, The Netherlands.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niewold</LastName>
+                    <ForeName>Paula</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Putten</LastName>
+                    <ForeName>Jos P M</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Actins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance>Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1994 Sep;62(9):3773-9</RefSource>
+                <PMID Version="1">8063393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2012 Sep;80(9):3307-18</RefSource>
+                <PMID Version="1">22778098</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 1996 Jun 6;12(11):2425-35</RefSource>
+                <PMID Version="1">8649784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Microbiol. 1998 Jul;29(1):369-79</RefSource>
+                <PMID Version="1">9701828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1999 Mar 1;18(5):1199-213</RefSource>
+                <PMID Version="1">10064587</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunol. 1999 Jun;11(3):193-203</RefSource>
+                <PMID Version="1">10381865</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1999 Aug;67(8):4171-82</RefSource>
+                <PMID Version="1">10417189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Sep 20;146(6):1333-50</RefSource>
+                <PMID Version="1">10491395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Lett. 1999 Oct 15;179(2):209-15</RefSource>
+                <PMID Version="1">10518717</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Biotechnol. 2004 Dec;22(12):1567-72</RefSource>
+                <PMID Version="1">15558047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2001 Mar;2(3):149-59</RefSource>
+                <PMID Version="1">11260520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 2001 Aug;9(8):389-96</RefSource>
+                <PMID Version="1">11514222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2002 May;50 Suppl 3:III2-8</RefSource>
+                <PMID Version="1">11953325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2002 Dec;70(12):6665-71</RefSource>
+                <PMID Version="1">12438340</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2002 Dec;4(12):783-91</RefSource>
+                <PMID Version="1">12464009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2003 Jan;149(Pt 1):153-65</RefSource>
+                <PMID Version="1">12576589</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2004 Apr 9;304(5668):242-8</RefSource>
+                <PMID Version="1">15073367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 1985 Sep;26(9):945-51</RefSource>
+                <PMID Version="1">4029720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1988 Mar;157(3):472-9</RefSource>
+                <PMID Version="1">3343522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Microbiol. 1988 Jan;134(1):53-9</RefSource>
+                <PMID Version="1">3053972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Can J Microbiol. 1988 Oct;34(10):1142-7</RefSource>
+                <PMID Version="1">3196964</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Med Microbiol. 1989 Jan;28(1):59-67</RefSource>
+                <PMID Version="1">2643706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1989 Jul;57(7):2214-22</RefSource>
+                <PMID Version="1">2731988</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gene. 1991 Jul 22;103(2):171-7</RefSource>
+                <PMID Version="1">1889744</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1992 Aug;166(2):308-15</RefSource>
+                <PMID Version="1">1634802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 1992 Nov;13(5):357-70</RefSource>
+                <PMID Version="1">1297914</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1993 Jul 15;90(14):6884-8</RefSource>
+                <PMID Version="1">8341714</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Microbiol Methods. 2005 May;61(2):145-60</RefSource>
+                <PMID Version="1">15722140</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2005 Jul;151(Pt 7):2451-8</RefSource>
+                <PMID Version="1">16000735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microb Pathog. 2006 Mar;40(3):91-100</RefSource>
+                <PMID Version="1">16426812</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Vaccine. 2006 Apr 5;24(15):2732-50</RefSource>
+                <PMID Version="1">16483695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2007 Jul;44(15):3702-14</RefSource>
+                <PMID Version="1">17493681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2007 Sep;5(9):665-79</RefSource>
+                <PMID Version="1">17703225</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2007 Oct;9(10):2431-44</RefSource>
+                <PMID Version="1">17521326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Host Microbe. 2007 Nov 15;2(5):340-51</RefSource>
+                <PMID Version="1">18005755</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Microbiol. 2008 Jan;10(1):53-66</RefSource>
+                <PMID Version="1">18052944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Microbiology. 2008 Feb;154(Pt 2):584-92</RefSource>
+                <PMID Version="1">18227262</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2008 Jan;4(1):e14</RefSource>
+                <PMID Version="1">18225954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Microbiol. 2008 Feb;11(1):46-52</RefSource>
+                <PMID Version="1">18282735</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 2008 Aug;76(8):3390-8</RefSource>
+                <PMID Version="1">18490463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Microbiol. 2009;35(1):1-22</RefSource>
+                <PMID Version="1">19514906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 2009;337:197-229</RefSource>
+                <PMID Version="1">19812984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2010 Jul 1;185(1):460-7</RefSource>
+                <PMID Version="1">20498358</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2011 Apr 26;108(17):7194-9</RefSource>
+                <PMID Version="1">21482772</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Microbiol. 2011 Sep;9(9):635-46</RefSource>
+                <PMID Version="1">21765451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2011 Oct 3;195(1):7-17</RefSource>
+                <PMID Version="1">21969466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Pathog. 2012;8(3):e1002562</RefSource>
+                <PMID Version="1">22412372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 Mar 23;287(13):10115-20</RefSource>
+                <PMID Version="1">22337879</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bacteriol. 2012 Aug;194(15):3803-13</RefSource>
+                <PMID Version="1">22636777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 May;64(5):1621-30</RefSource>
+                <PMID Version="1">8613370</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Campylobacter Infections</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Campylobacter jejuni</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diarrhea</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intestinal Mucosa</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microtubules</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3557275</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0054759</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-30250</ArticleId>
+            <ArticleId IdType="pubmed">23382959</ArticleId>
+            <ArticleId IdType="pmc">PMC3557275</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

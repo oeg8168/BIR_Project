@@ -1,0 +1,374 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24896633</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Epstein-Barr virus-encoded small RNAs (EBERs) are present in fractions related to exosomes released by EBV-transformed cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e99163</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0099163</ELocationID>
+            <Abstract>
+                <AbstractText>Epstein-Barr virus (EBV) is an oncogenic herpesvirus associated with a number of human malignancies of epithelial and lymphoid origin. However, the mechanism of oncogenesis is unclear. A number of viral products, including EBV latent proteins and non-protein coding RNAs have been implicated. Recently it was reported that EBV-encoded small RNAs (EBERs) are released from EBV infected cells and they can induce biological changes in cells via signaling from toll-like receptor 3. Here, we investigated if these abundantly expressed non-protein coding EBV RNAs (EBER-1 and EBER-2) are excreted from infected cells in exosomal fractions. Using differential ultracentrifugation we isolated exosomes from three EBV positive cell lines (B95-8, EBV-LCL, BL30-B95-8), one EBER-1 transfected cell line (293T-pHEBo-E1) and two EBV-negative cell lines (BL30, 293T-pHEBo). The identity of purified exosomes was determined by electron microscopy and western blotting for CD63. The presence of EBERs in cells, culture supernatants and purified exosomal fractions was determined using RT-PCR and confirmed by sequencing. Purified exosomal fractions were also tested for the presence of the EBER-1-binding protein La, using western blotting. Both EBER-1 and EBER-2 were found to be present not only in the culture supernatants, but also in the purified exosome fractions of all EBV-infected cell lines. EBER-1 could also be detected in exosomal fractions from EBER-1 transfected 293T cells whilst the fractions from vector only transfectants were clearly negative. Furthermore, purified exosomal fractions also contained the EBER-binding protein (La), supporting the notion that EBERs are most probably released from EBV infected cells in the form of EBER-La complex in exosomes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ahmed</LastName>
+                    <ForeName>Waqar</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Department of Microbiology and Immunology, College of Medicine and Health Sciences, United Arab Emirates University, Al Alin, United Arab Emirates.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Philip</LastName>
+                    <ForeName>Pretty S</ForeName>
+                    <Initials>PS</Initials>
+                    <Affiliation>Department of Microbiology and Immunology, College of Medicine and Health Sciences, United Arab Emirates University, Al Alin, United Arab Emirates.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tariq</LastName>
+                    <ForeName>Saeed</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Department of Anatomy, College of Medicine and Health Sciences, United Arab Emirates University, Al Alin, United Arab Emirates.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Gulfaraz</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Department of Microbiology and Immunology, College of Medicine and Health Sciences, United Arab Emirates University, Al Alin, United Arab Emirates.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2006;6:283</RefSource>
+                <PMID Version="1">17156439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2007 Oct;81(20):11236-45</RefSource>
+                <PMID Version="1">17686859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Dev Biol. 2007;23:519-47</RefSource>
+                <PMID Version="1">17506697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2009 Feb;19(2):43-51</RefSource>
+                <PMID Version="1">19144520</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2009 Jul 1;315(11):1875-88</RefSource>
+                <PMID Version="1">19327352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2009 Sep 28;206(10):2091-9</RefSource>
+                <PMID Version="1">19720839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(2):e9092</RefSource>
+                <PMID Version="1">20161707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Apr 6;107(14):6328-33</RefSource>
+                <PMID Version="1">20304794</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cancer. 2010;9:241</RefSource>
+                <PMID Version="1">20843307</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Nov 23;107(47):20370-5</RefSource>
+                <PMID Version="1">21059916</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2011 Jan;85(2):996-1010</RefSource>
+                <PMID Version="1">21068248</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2011 Apr;85(7):3535-45</RefSource>
+                <PMID Version="1">21248031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2011 May 27;286(21):18583-92</RefSource>
+                <PMID Version="1">21454636</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2011 Jun 1;30(11):2115-29</RefSource>
+                <PMID Version="1">21527913</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2011 Nov-Dec;1809(11-12):715-21</RefSource>
+                <PMID Version="1">21855666</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Vis Exp. 2011;(57). pii: 3321. doi: 10.3791/3321</RefSource>
+                <PMID Version="1">22090023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cancer Biol. 2012 Apr;22(2):162-5</RefSource>
+                <PMID Version="1">22210180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2012 Mar 13;106(6):1166-70</RefSource>
+                <PMID Version="1">22343621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2012 Jun 1;83(11):1484-94</RefSource>
+                <PMID Version="1">22230477</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Feb 15;88(4):1546-50</RefSource>
+                <PMID Version="1">1847527</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nucleic Acids Res. 1991 Jan 25;19(2):243-8</RefSource>
+                <PMID Version="1">1673026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Jun 28;65(7):1107-15</RefSource>
+                <PMID Version="1">1648447</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1991 Dec;139(6):1259-65</RefSource>
+                <PMID Version="1">1661073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Pathol. 1992 Jul;45(7):616-20</RefSource>
+                <PMID Version="1">1325480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1992 Nov 1;89(21):10292-6</RefSource>
+                <PMID Version="1">1332043</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 1992 Dec;73 ( Pt 12):3169-75</RefSource>
+                <PMID Version="1">1335024</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1993 Jan;13(1):703-10</RefSource>
+                <PMID Version="1">8380232</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arthritis Rheum. 2005 May;52(5):1517-21</RefSource>
+                <PMID Version="1">15880835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Carcinog. 2005 Oct;44(2):92-101</RefSource>
+                <PMID Version="1">16086371</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2005 Dec;79(23):14562-9</RefSource>
+                <PMID Version="1">16282456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 20;25(18):4207-14</RefSource>
+                <PMID Version="1">16946700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Oct 3;103(40):14935-40</RefSource>
+                <PMID Version="1">17001014</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA. 2012 Nov;18(11):2073-82</RefSource>
+                <PMID Version="1">23012480</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Mol Biol. 2013;1024:53-68</RefSource>
+                <PMID Version="1">23719942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Lett. 2013 Sep 1;337(2):193-9</RefSource>
+                <PMID Version="1">23684926</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2013 Jul 30;110(31):E2925-33</RefSource>
+                <PMID Version="1">23818640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2013 Sep;87(18):10334-47</RefSource>
+                <PMID Version="1">23864627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Med Virol. 2014 Jan;24(1):3-14</RefSource>
+                <PMID Version="1">24105992</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1999 Dec;73(12):9827-31</RefSource>
+                <PMID Version="1">10559294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEBS Lett. 2000 Nov 3;484(2):153-8</RefSource>
+                <PMID Version="1">11068051</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2002 Mar 1;21(5):954-65</RefSource>
+                <PMID Version="1">11867523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Biochem. 2002;71:375-403</RefSource>
+                <PMID Version="1">12045101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 2002 Jun 5;297(2):253-69</RefSource>
+                <PMID Version="1">12083824</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gen Virol. 2003 Jul;84(Pt 7):1871-9</RefSource>
+                <PMID Version="1">12810882</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2003 Nov 1;63(21):7062-7</RefSource>
+                <PMID Version="1">14612496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2004 Aug 1;64(15):5332-7</RefSource>
+                <PMID Version="1">15289339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 1968 Nov 15;3(6):857-66</RefSource>
+                <PMID Version="1">4894385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1973 Jan;70(1):190-4</RefSource>
+                <PMID Version="1">4346033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Virology. 1977 Jan;76(1):152-63</RefSource>
+                <PMID Version="1">189490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1981 Feb;78(2):805-9</RefSource>
+                <PMID Version="1">6262773</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2012 May 2;31(9):2207-21</RefSource>
+                <PMID Version="1">22473208</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 2012 Jun;86(12):6889-98</RefSource>
+                <PMID Version="1">22496226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1982 Feb;41(2):376-89</RefSource>
+                <PMID Version="1">6281455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1985 Jan 4;227(4682):23-8</RefSource>
+                <PMID Version="1">2981116</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1985 Dec;43(3 Pt 2):831-40</RefSource>
+                <PMID Version="1">3000618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1988 Mar;62(3):902-11</RefSource>
+                <PMID Version="1">2828685</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1988 Aug;62(8):2790-8</RefSource>
+                <PMID Version="1">2839701</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1990 May;64(5):2309-18</RefSource>
+                <PMID Version="1">2157887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1991 Feb;10(2):459-66</RefSource>
+                <PMID Version="1">1846807</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4045842</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0099163</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-54217</ArticleId>
+            <ArticleId IdType="pubmed">24896633</ArticleId>
+            <ArticleId IdType="pmc">PMC4045842</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

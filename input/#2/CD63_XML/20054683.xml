@@ -1,0 +1,236 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20054683</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1496-8975</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Canadian journal of anaesthesia = Journal canadien d'anesthésie</Title>
+                <ISOAbbreviation>Can J Anaesth</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vacuolar ATPase-mediated sequestration of local anesthetics in swollen macroautophagosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>230-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12630-009-9220-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Local anesthetics in their therapeutic concentration range cause a vacuolar cytopathology that has been observed in vivo and in various types of mammalian cells. We examined whether active concentration ranges of drugs and the kinetics of the vacuolar response are clinically relevant and whether this phenomenon is associated with cytotoxicity, autophagy, and cell stress signalling.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We compared procaine and lidocaine for morphological, functional, and signalling responses in a previously exploited non-neuronal system, primary smooth muscle cells. Several markers conjugated to fluorescent proteins allowed morphological and functional analysis of vacuolar cells. Signalling related to autophagy and cell stress was addressed (immunoblotting of cell lysates).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Within 2-4 hr, lidocaine and procaine (&gt; or = 1 mM) induced massive cell vacuolization, a response abated by the V-ATPase inhibitor, bafilomycin A1, and activated macroautophagic signalling (LC3 II formation) but not other stress signalling (p38, ERK1/2, p53, no influence on serum-controlled Akt phosphorylation). Novel aspects of the morphological analysis include reduced LC3 labelling of the large vacuoles in cells treated with 3-methyl-adenine, inhibition of CD63 labelling of these vacuoles by co-expression of dominant negative Rab7, retention of secretory green fluorescent protein (GFP) possessing a signal sequence in vacuolar cells, and partial vacuole labelling with lysosomal-associated membrane protein 1 (LAMP1). Lidocaine (2.5-5 mM) was not overtly cytotoxic but arrested cell division over 48 hr.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">V-ATPase-mediated sequestration of clinically relevant concentrations of local anesthetics sequentially involves vacuolization, macroautophagic signalling, and lysosome fusion to large vacuoles. Disruption of the secretory pathway and mitotic arrest were also observed over several hours without major cytotoxicity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bawolak</LastName>
+                    <ForeName>Marie-Thérèse</ForeName>
+                    <Initials>MT</Initials>
+                    <Affiliation>Centre de recherche en Rhumatologie et Immunologie, Centre Hospitalier Universitaire de Québec, Quebec, QC, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morissette</LastName>
+                    <ForeName>Guillaume</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marceau</LastName>
+                    <ForeName>François</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MOP-74448</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Can J Anaesth</MedlineTA>
+            <NlmUniqueID>8701709</NlmUniqueID>
+            <ISSNLinking>0832-610X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>AnOV compound</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anesthetics, Local</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anthracenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4Z8Y51M438</RegistryNumber>
+                <NameOfSubstance>Procaine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>98PI200987</RegistryNumber>
+                <NameOfSubstance>Lidocaine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Adenosine Triphosphatases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Vacuolar Proton-Translocating ATPases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Can J Anaesth. 2010 Mar;57(3):195-200</RefSource>
+                <PMID Version="1">20054677</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adenosine Triphosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anesthetics, Local</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anthracenes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Autophagy</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoblotting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lidocaine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Myocytes, Smooth Muscle</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Procaine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuolar Proton-Translocating ATPases</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vacuoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s12630-009-9220-9</ArticleId>
+            <ArticleId IdType="pubmed">20054683</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

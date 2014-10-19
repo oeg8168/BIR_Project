@@ -1,0 +1,163 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9438413</PMID>
+        <DateCreated>
+            <Year>1998</Year>
+            <Month>02</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>02</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0892-6638</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FASEB journal : official publication of the Federation of American Societies for Experimental Biology</Title>
+                <ISOAbbreviation>FASEB J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Enhanced activation of platelets with abnormal release of RANTES in human immunodeficiency virus type 1 infection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>79-89</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Besides their role in hemostasis, platelets are involved in inflammatory and immunological processes, and we hypothesize that platelet activation may play an immunopathogenetic role in HIV-1 infection. Blood was drawn from 15 controls and 20 HIV-1-infected patients with normal platelet counts, classified into groups of non-AIDS and AIDS. Platelet activation was detected using flow cytometry with mAbs against the release markers P-selectin and CD63, mAb against GPIb, and the probe annexin V detecting surface exposure of aminophospholipids. The amount of microvesicles was measured using mAb against GPIIIa. Compared to controls, blood samples from HIV-1-infected patients showed significantly enhanced levels of microvesicles and activated platelets as detected by their exposure of P-selectin, CD63, and aminophospholipids, as well as reduction in GPIb expression. Increased expression of P-selectin and amounts of microvesicles were most pronounced in advanced clinical and immunological disease. When studying the effect of HIV-1 protease inhibitor therapy (indinavir) on platelet activation, we found that concomitant with a profound decrease in plasma viral load, there was a near normalization of several of the parameters reflecting enhanced platelet activation. Finally, we demonstrated that platelets may be an important source of the chemokine RANTES in HIV-1-infected patients. Although both unstimulated and SFLLRN-stimulated platelets from asymptomatic patients had enhanced release of RANTES, platelets from AIDS patients were characterized by markedly enhanced spontaneous, but decreased SFLLRN-stimulated release of this chemokine. Taken together, these results, which demonstrate for the first time increased platelet activation in HIV-1-infected patients with normal platelet counts, may represent a previously unrecognized immunopathogenic factor in HIV-1 infection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Holme</LastName>
+                    <ForeName>P A</ForeName>
+                    <Initials>PA</Initials>
+                    <Affiliation>Research Institute for Internal Medicine, Medical Department A, The National Hospital, University of Oslo, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Müller</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Solum</LastName>
+                    <ForeName>N O</ForeName>
+                    <Initials>NO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brosstad</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frøland</LastName>
+                    <ForeName>S S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aukrust</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>FASEB J</MedlineTA>
+            <NlmUniqueID>8804484</NlmUniqueID>
+            <ISSNLinking>0892-6638</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-HIV Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemokine CCL5</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-HIV Agents</DescriptorName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemokine CCL5</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HIV-1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Viral Load</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9438413</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

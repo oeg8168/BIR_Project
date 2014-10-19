@@ -1,0 +1,259 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24788965</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glatiramer acetate (copaxone) modulates platelet activation and inhibits thrombin-induced calcium influx: possible role of copaxone in targeting platelets during autoimmune neuroinflammation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e96256</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0096256</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Glatiramer acetate (GA, Copaxone, Copolymer-1) is an FDA approved drug for the treatment of MS and it is very effective in suppressing neuroinflammation in experimental autoimmune encephalitis (EAE), an animal model of MS. Although this drug was designed to inhibit pathogenic T cells, the exact mechanism of EAE/MS suppression by GA is still not well understood. Previously we presented evidence that platelets become activated and promote neuroinflammation in EAE, suggesting a possible pathogenic role of platelets in MS and EAE. We hypothesized that GA could inhibit neuroinflammation by affecting not only immune cells but also platelets.</AbstractText>
+                <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">We investigated the effect of GA on the activation of human platelets in vitro: calcium influx, platelet aggregation and expression of activation markers. Our results in human platelets were confirmed by in-vitro and in-vivo studies of modulation of functions of platelets in mouse model. We found that GA inhibited thrombin-induced calcium influx in human and mouse platelets. GA also decreased thrombin-induced CD31, CD62P, CD63, and active form of αIIbβ3 integrin surface expression and formation of platelet aggregates for both mouse and human platelets, and prolonged the bleeding time in mice by 2.7-fold. In addition, we found that GA decreased the extent of macrophage activation induced by co-culture of macrophages with platelets.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">GA inhibited the activation of platelets, which suggests a new mechanism of GA action in suppression of EAE/MS by targeting platelets and possibly preventing their interaction with immune cells such as macrophages. Furthermore, the reduction in platelet activation by GA may have additional cardiovascular benefits to prevent thrombosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Starossom</LastName>
+                    <ForeName>Sarah C</ForeName>
+                    <Initials>SC</Initials>
+                    <Affiliation>Center for Neurologic Diseases, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts, United States of America; Institute for Medical Immunology and NeuroCure, Charité - Universitätsmedizin Berlin, Berlin, Germany.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veremeyko</LastName>
+                    <ForeName>Tatyana</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, NT, Hong Kong.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dukhinova</LastName>
+                    <ForeName>Marina</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, NT, Hong Kong.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yung</LastName>
+                    <ForeName>Amanda W Y</ForeName>
+                    <Initials>AW</Initials>
+                    <Affiliation>School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, NT, Hong Kong.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ponomarev</LastName>
+                    <ForeName>Eugene D</ForeName>
+                    <Initials>ED</Initials>
+                    <Affiliation>Center for Neurologic Diseases, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts, United States of America; School of Biomedical Sciences, The Chinese University of Hong Kong, Shatin, NT, Hong Kong.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 NS071039-01A1</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroimmunol. 2010 Feb 26;219(1-2):47-53</RefSource>
+                <PMID Version="1">20034680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroinflammation. 2010;7:10</RefSource>
+                <PMID Version="1">20128908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2010 Dec;8(12):2820-2</RefSource>
+                <PMID Version="1">21138523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2011 Apr;11(4):264-74</RefSource>
+                <PMID Version="1">21436837</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2012 Apr 27;110(9):1202-10</RefSource>
+                <PMID Version="1">22456181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(3):e58979</RefSource>
+                <PMID Version="1">23555611</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Neurosci. 2013 May;123(5):287-99</RefSource>
+                <PMID Version="1">23301959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2013 Aug;14(8):768-70</RefSource>
+                <PMID Version="1">23867924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2013 Oct 31;110(5):888-93</RefSource>
+                <PMID Version="1">23636306</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(12):e81774</RefSource>
+                <PMID Version="1">24358127</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2014 Apr 24;123(17):2722-31</RefSource>
+                <PMID Version="1">24585775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mult Scler. 2000 Aug;6(4):255-66</RefSource>
+                <PMID Version="1">10962546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cardiovasc Res. 2002 Feb 15;53(3):634-41</RefSource>
+                <PMID Version="1">11861034</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2003 Jan;9(1):61-7</RefSource>
+                <PMID Version="1">12483207</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 1965 Nov 27;2(7422):1109-10</RefSource>
+                <PMID Version="1">4158810</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 1993 Nov;88(5 Pt 1):2035-44</RefSource>
+                <PMID Version="1">8222096</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1996 Sep 15;88(6):2081-92</RefSource>
+                <PMID Version="1">8822927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Acad Dermatol. 1997 Oct;37(4):553-8</RefSource>
+                <PMID Version="1">9344192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Thromb Haemost. 2006 Nov;4(11):2377-83</RefSource>
+                <PMID Version="1">16869934</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol. 2006 Oct;253(10):1370-1</RefSource>
+                <PMID Version="1">16773267</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2007 Aug;13(8):935-43</RefSource>
+                <PMID Version="1">17676050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2007 Nov;37(11):3143-54</RefSource>
+                <PMID Version="1">17948266</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2008 Jul;14(7):756-61</RefSource>
+                <PMID Version="1">18516052</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroinflammation. 2008;5:27</RefSource>
+                <PMID Version="1">18588683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Neurol. 2010 Jan;221(1):136-45</RefSource>
+                <PMID Version="1">19879259</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2010 Jan 29;327(5965):580-3</RefSource>
+                <PMID Version="1">20110505</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Drug Metab Toxicol. 2010 May;6(5):643-60</RefSource>
+                <PMID Version="1">20397968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(8):e12174</RefSource>
+                <PMID Version="1">20730098</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">PMC4008572</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2014</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0096256</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-50187</ArticleId>
+            <ArticleId IdType="pubmed">24788965</ArticleId>
+            <ArticleId IdType="pmc">PMC4008572</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

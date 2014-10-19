@@ -1,0 +1,698 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20082712</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>10</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-2094</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neuroinflammation</Title>
+                <ISOAbbreviation>J Neuroinflammation</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prehospital resuscitation with hypertonic saline-dextran modulates inflammatory, coagulation and endothelial activation marker profiles in severe traumatic brain injured patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1742-2094-7-5</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Traumatic brain injury (TBI) initiates interrelated inflammatory and coagulation cascades characterized by wide-spread cellular activation, induction of leukocyte and endothelial cell adhesion molecules and release of soluble pro/antiinflammatory cytokines and thrombotic mediators. Resuscitative care is focused on optimizing cerebral perfusion and reducing secondary injury processes. Hypertonic saline is an effective osmotherapeutic agent for the treatment of intracranial hypertension and has immunomodulatory properties that may confer neuroprotection. This study examined the impact of hypertonic fluids on inflammatory/coagulation cascades in isolated head injury.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using a prospective, randomized controlled trial we investigated the impact of prehospital resuscitation of severe TBI (GCS &lt; 8) patients using 7.5% hypertonic saline in combination with 6% dextran-70 (HSD) vs 0.9% normal saline (NS), on selected cellular and soluble inflammatory/coagulation markers. Serial blood samples were drawn from 65 patients (30 HSD, 35 NS) at the time of hospital admission and at 12, 24, and 48-h post-resuscitation. Flow cytometry was used to analyze leukocyte cell-surface adhesion (CD62L, CD11b) and degranulation (CD63, CD66b) molecules. Circulating concentrations of soluble (s)L- and sE-selectins (sL-, sE-selectins), vascular and intercellular adhesion molecules (sVCAM-1, sICAM-1), pro/antiinflammatory cytokines [tumor necrosis factor (TNF)-alpha and interleukin (IL-10)], tissue factor (sTF), thrombomodulin (sTM) and D-dimers (D-D) were assessed by enzyme immunoassay. Twenty-five healthy subjects were studied as a control group.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">TBI provoked marked alterations in a majority of the inflammatory/coagulation markers assessed in all patients. Relative to control, NS patients showed up to a 2-fold higher surface expression of CD62L, CD11b and CD66b on polymorphonuclear neutrophils (PMNs) and monocytes that persisted for 48-h. HSD blunted the expression of these cell-surface activation/adhesion molecules at all time-points to levels approaching control values. Admission concentrations of endothelial-derived sVCAM-1 and sE-selectin were generally reduced in HSD patients. Circulating sL-selectin levels were significantly elevated at 12 and 48, but not 24 h post-resuscitation with HSD. TNF-alpha and IL-10 levels were elevated above control throughout the study period in all patients, but were reduced in HSD patients. Plasma sTF and D-D levels were also significantly lower in HSD patients, whereas sTM levels remained at control levels.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">These findings support an important modulatory role of HSD resuscitation in attenuating the upregulation of leukocyte/endothelial cell proinflammatory/prothrombotic mediators, which may help ameliorate secondary brain injury after TBI.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION" NlmCategory="BACKGROUND">NCT00878631.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rhind</LastName>
+                    <ForeName>Shawn G</ForeName>
+                    <Initials>SG</Initials>
+                    <Affiliation>Defence Research and Development Canada, Toronto, Canada. shawn.rhind@drdc-rddc.gc.ca</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crnko</LastName>
+                    <ForeName>Naomi T</ForeName>
+                    <Initials>NT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baker</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrison</LastName>
+                    <ForeName>Laurie J</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shek</LastName>
+                    <ForeName>Pang N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scarpelini</LastName>
+                    <ForeName>Sandro</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rizoli</LastName>
+                    <ForeName>Sandro B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT00878631</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Neuroinflammation</MedlineTA>
+            <NlmUniqueID>101222974</NlmUniqueID>
+            <ISSNLinking>1742-2094</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Fibrin Fibrinogen Degradation Products</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Saline Solution, Hypertonic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Thrombomodulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vascular Cell Adhesion Molecule-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>fibrin fragment D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9035-58-9</RegistryNumber>
+                <NameOfSubstance>Thromboplastin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K3R6ZDH4DU</RegistryNumber>
+                <NameOfSubstance>Dextrans</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Medicina (B Aires). 2001;61(5 Pt 1):573-6</RefSource>
+                <PMID Version="1">11721324</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Immunol Ther Exp (Warsz). 2001;49(4):317-24</RefSource>
+                <PMID Version="1">11726035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Feb 1;168(3):1389-96</RefSource>
+                <PMID Version="1">11801680</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2002 May;52(5):867-71</RefSource>
+                <PMID Version="1">11988651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anaesthesia. 2002 Jul;57(7):644-8</RefSource>
+                <PMID Version="1">12059821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroimmunol. 2002 Jul;128(1-2):58-68</RefSource>
+                <PMID Version="1">12098511</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2002 Nov;236(5):634-42</RefSource>
+                <PMID Version="1">12409670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Res. 2002 Sep 1;107(5):255-61</RefSource>
+                <PMID Version="1">12479887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurotrauma. 2002 Sep;19(9):1007-15</RefSource>
+                <PMID Version="1">12482114</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chin J Traumatol. 2003 Apr;6(2):114-7</RefSource>
+                <PMID Version="1">12659708</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surgery. 2003 Aug;134(2):312-8</RefSource>
+                <PMID Version="1">12947335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Magn Reson Med. 2004 Feb;51(2):248-52</RefSource>
+                <PMID Version="1">14755648</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroimmunol. 1990 Dec;30(2-3):213-7</RefSource>
+                <PMID Version="1">2229409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1991 Jan;31(1):8-14</RefSource>
+                <PMID Version="1">1986137</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurotrauma. 1990 Winter;7(4):207-17</RefSource>
+                <PMID Version="1">2127947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1992 Jan;32(1):40-4</RefSource>
+                <PMID Version="1">1370697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1993 Sep;35(3):415-22</RefSource>
+                <PMID Version="1">8371301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 1992 Dec 4;667:324-31</RefSource>
+                <PMID Version="1">1285023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 1994 Apr;22(4):651-7</RefSource>
+                <PMID Version="1">7511496</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosci Lett. 1994 Feb 28;168(1-2):201-4</RefSource>
+                <PMID Version="1">7913216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cerebrovasc Brain Metab Rev. 1994 Winter;6(4):341-60</RefSource>
+                <PMID Version="1">7880718</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1997 Mar;61(3):279-85</RefSource>
+                <PMID Version="1">9060450</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1997 May;42(5 Suppl):S41-7</RefSource>
+                <PMID Version="1">9191695</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Haematol. 1997 Sep;98(3):612-20</RefSource>
+                <PMID Version="1">9332316</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Neurochir Suppl. 1997;70:12-6</RefSource>
+                <PMID Version="1">9416264</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Neurochir Suppl. 1997;70:265-6</RefSource>
+                <PMID Version="1">9416342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurol Res. 1997 Dec;19(6):588-92</RefSource>
+                <PMID Version="1">9427957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Anaesth. 1998 Jan;80(1):77-84</RefSource>
+                <PMID Version="1">9505783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1998 Mar;44(3):460-8</RefSource>
+                <PMID Version="1">9529172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anesth Analg. 1998 Apr;86(4):759-65</RefSource>
+                <PMID Version="1">9539598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1998 Jul;4(7):808-13</RefSource>
+                <PMID Version="1">9662372</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1998 Jul;45(1):7-12; discussion 12-3</RefSource>
+                <PMID Version="1">9680004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Neurochir Suppl. 1998;71:200-2</RefSource>
+                <PMID Version="1">9779183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neuroreport. 1999 Apr 26;10(6):1363-7</RefSource>
+                <PMID Version="1">10363954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroimmunol. 1999 Aug 3;98(2):77-88</RefSource>
+                <PMID Version="1">10430040</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Neurochir (Wien). 2008 Feb;150(2):165-75; discussion 175</RefSource>
+                <PMID Version="1">18166989</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Intensive Care Med. 2008 Mar;34(3):402-4</RefSource>
+                <PMID Version="1">17938886</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Surg. 2008 Feb;143(2):139-48; discussion 149</RefSource>
+                <PMID Version="1">18283138</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Behav Immun. 2009 Oct;23(7):877-84</RefSource>
+                <PMID Version="1">19394418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurotrauma. 2009 Oct;26(10):1665-8</RefSource>
+                <PMID Version="1">19697972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurotrauma. 2009 Sep;26(9):1497-1507</RefSource>
+                <PMID Version="1">19257803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Regul Integr Comp Physiol. 2009 Nov;297(5):R1532-45</RefSource>
+                <PMID Version="1">19759333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res. 2009 Dec 11;1305:183-91</RefSource>
+                <PMID Version="1">19804766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surg Infect (Larchmt). 2009 Oct;10(5):379-87</RefSource>
+                <PMID Version="1">19630503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trials. 2009;10:105</RefSource>
+                <PMID Version="1">19930566</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Glia. 2010 Feb;58(3):253-63</RefSource>
+                <PMID Version="1">19705460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cereb Blood Flow Metab. 2010 Feb;30(2):255-66</RefSource>
+                <PMID Version="1">19809467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2010 Feb;68(2):331-6</RefSource>
+                <PMID Version="1">19935110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2010 Mar;33(3):282-8</RefSource>
+                <PMID Version="1">19536047</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>ANZ J Surg. 2006 Mar;76(3):163-74</RefSource>
+                <PMID Version="1">16626360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2006 Apr;25(4):321-8</RefSource>
+                <PMID Version="1">16670632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2006 Dec;61(6):1350-8</RefSource>
+                <PMID Version="1">17159676</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2007 Jan;27(1):32-5</RefSource>
+                <PMID Version="1">17172977</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surgery. 2005 Jan;137(1):66-74</RefSource>
+                <PMID Version="1">15614283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2005 Apr;33(Pt 2):406-8</RefSource>
+                <PMID Version="1">15787616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Brain Res Brain Res Rev. 2005 Apr;48(2):388-99</RefSource>
+                <PMID Version="1">15850678</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2005 Jun 24;96(12):1233-9</RefSource>
+                <PMID Version="1">15920023</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurocrit Care. 2004;1(4):479-88</RefSource>
+                <PMID Version="1">16174954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2006 Jan;243(1):47-57</RefSource>
+                <PMID Version="1">16371736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Thromb Hemost. 2006 Feb;32(1):33-9</RefSource>
+                <PMID Version="1">16479460</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Thromb Hemost. 2006 Feb;32(1):48-53</RefSource>
+                <PMID Version="1">16479462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2007 Aug;102(3):900-12</RefSource>
+                <PMID Version="1">17561941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chin J Traumatol. 2007 Oct;10(5):263-8</RefSource>
+                <PMID Version="1">17919362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroimmune Pharmacol. 2007 Jun;2(2):140-53</RefSource>
+                <PMID Version="1">18040839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Injury. 2007 Dec;38(12):1392-400</RefSource>
+                <PMID Version="1">18048036</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Resuscitation. 2008 Jan;76(1):52-6</RefSource>
+                <PMID Version="1">17706857</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biotechnol. 2008 Jan;38(1):33-40</RefSource>
+                <PMID Version="1">18095189</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosignals. 2008;16(2-3):154-64</RefSource>
+                <PMID Version="1">18253055</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Anaesthesiol Suppl. 2008;42:154-9</RefSource>
+                <PMID Version="1">18289434</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anesthesiology. 2008 May;108(5):873-81</RefSource>
+                <PMID Version="1">18431123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci. 2008;13:5559-70</RefSource>
+                <PMID Version="1">18508605</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2008;40(9):1669-73</RefSource>
+                <PMID Version="1">17709273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Rev Neurol Dis. 2008;5 Suppl 1:S4-11</RefSource>
+                <PMID Version="1">18645570</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Intensive Care Med. 2008 Jul-Aug;23(4):236-49</RefSource>
+                <PMID Version="1">18504260</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2008 Oct;65(4):748-54</RefSource>
+                <PMID Version="1">18849786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Sci. 2008 Nov 15;274(1-2):23-6</RefSource>
+                <PMID Version="1">18573502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Med Res. 2008 Oct 27;13(10):464-8</RefSource>
+                <PMID Version="1">19008173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2008 Dec;36(12):3220-5</RefSource>
+                <PMID Version="1">18936699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2009 Jan;37(1 Suppl):S129-35</RefSource>
+                <PMID Version="1">19104212</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurosci. 2009 Feb 18;29(7):2089-102</RefSource>
+                <PMID Version="1">19228962</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci (Landmark Ed). 2009;14:3795-813</RefSource>
+                <PMID Version="1">19273311</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surgery. 2009 Apr;145(4):384-91</RefSource>
+                <PMID Version="1">19303986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Res. 2009;58(2):263-8</RefSource>
+                <PMID Version="1">18380546</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2009;338:b1683</RefSource>
+                <PMID Version="1">19454738</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurol Neurosurg Psychiatry. 2009 Aug;80(8):916-20</RefSource>
+                <PMID Version="1">19293171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurotrauma. 2009 Aug;26(8):1227-40</RefSource>
+                <PMID Version="1">19637968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anaesthesia. 2009 Sep;64(9):990-1003</RefSource>
+                <PMID Version="1">19686485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Mol Med. 2009 Jul;13(7):1211-20</RefSource>
+                <PMID Version="1">19538472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 2006 Dec;51(12):2257-63</RefSource>
+                <PMID Version="1">17103038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Med Res Rev. 2007 May;27(3):401-16</RefSource>
+                <PMID Version="1">16758487</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anaesthesia. 2007 May;62(5):474-82</RefSource>
+                <PMID Version="1">17448059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neuroimmunol. 1999 Nov 15;101(2):211-21</RefSource>
+                <PMID Version="1">10580806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2000 Jan;28(1):74-8</RefSource>
+                <PMID Version="1">10667502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2000 Jun;48(6):1081-90</RefSource>
+                <PMID Version="1">10866255</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Surg Res. 2000 Dec;94(2):145-52</RefSource>
+                <PMID Version="1">11104654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2001 Apr;15(4):254-60</RefSource>
+                <PMID Version="1">11303723</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurol Res. 2001 Mar-Apr;23(2-3):175-82</RefSource>
+                <PMID Version="1">11320596</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surg Neurol. 2001 Apr;55(4):190-6</RefSource>
+                <PMID Version="1">11358584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2001 Jun;15(6):421-6</RefSource>
+                <PMID Version="1">11386612</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Surgery. 2001 Aug;130(2):157-65</RefSource>
+                <PMID Version="1">11490344</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2001 Aug;70(2):261-73</RefSource>
+                <PMID Version="1">11493618</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cereb Blood Flow Metab. 2001 Sep;21(9):1115-24</RefSource>
+                <PMID Version="1">11524616</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Analysis of Variance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Coagulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Brain Injuries</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dextrans</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibrin Fibrinogen Degradation Products</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glasgow Coma Scale</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Resuscitation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saline Solution, Hypertonic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombomodulin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thromboplastin</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vascular Cell Adhesion Molecule-1</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2819256</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1742-2094-7-5</ArticleId>
+            <ArticleId IdType="doi">10.1186/1742-2094-7-5</ArticleId>
+            <ArticleId IdType="pubmed">20082712</ArticleId>
+            <ArticleId IdType="pmc">PMC2819256</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

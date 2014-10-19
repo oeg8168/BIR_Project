@@ -1,0 +1,186 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10625677</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>02</Month>
+            <Day>18</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>02</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>275</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jan</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular characterization of the protein encoded by the Hermansky-Pudlak syndrome type 1 gene.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1300-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Hermansky-Pudlak syndrome (HPS) comprises a group of genetic disorders characterized by defective lysosome-related organelles. The most common form of HPS (HPS type 1) is caused by mutations in a gene encoding a protein with no homology to any other known protein. Here we report the identification and biochemical characterization of this gene product, termed HPS1p. Endogenous HPS1p was detected in a wide variety of human cell lines and exhibited an electrophoretic mobility corresponding to a protein of approximately 80 kDa. In contrast to previous theoretical analysis predicting that HPS1p is an integral membrane protein, we found that this protein was predominantly cytosolic, with a small amount being peripherally associated with membranes. The sedimentation coefficient of the soluble form of HPS1p was approximately 6 S as inferred from ultracentrifugation on sucrose gradients. HPS1p-deficient cells derived from patients with HPS type 1 displayed normal distribution and trafficking of the lysosomal membrane proteins, CD63 and Lamp-1. This was in contrast to cells from HPS type 2 patients, having mutations in the beta3A subunit of the AP-3 adaptor complex, which exhibited increased routing of these lysosomal proteins through the plasma membrane. Similar analyses performed on fibroblasts from 10 different mouse models of HPS revealed that only the AP-3 mutants pearl and mocha display increased trafficking of Lamp-1 through the plasma membrane. Taken together, these observations suggest that the product of the HPS1 gene is a cytosolic protein capable of associating with membranes and involved in the biogenesis and/or function of lysosome-related organelles by a mechanism distinct from that dependent on the AP-3 complex.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dell'Angelica</LastName>
+                    <ForeName>E C</ForeName>
+                    <Initials>EC</Initials>
+                    <Affiliation>Cell Biology and Metabolism Branch, NICHD, National Institutes of Health, Bethesda, Maryland 20892, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguilar</LastName>
+                    <ForeName>R C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolins</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hazelwood</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gahl</LastName>
+                    <ForeName>W A</ForeName>
+                    <Initials>WA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonifacino</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HPS1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Hps1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytosol</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Duplication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Genetic Diseases, Inborn</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Membranes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Syndrome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10625677</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

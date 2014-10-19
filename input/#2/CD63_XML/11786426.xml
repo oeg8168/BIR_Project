@@ -1,0 +1,372 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">11786426</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>07</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9440</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>160</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of pathology</Title>
+                <ISOAbbreviation>Am. J. Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inhibition of cytoskeletal assembly by cytochalasin B prevents signaling through tyrosine phosphorylation and secretion triggered by collagen but not by thrombin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>329-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Activation of platelets leads to cytoskeletal assembly that is responsible for platelet motility and internal contraction. We have evaluated the involvement of the cytoskeleton in platelet activation by two strong agonists, collagen and thrombin. Activation was assessed by measuring changes in cytoskeletal assembly, externalization of activation-dependent markers and expression of procoagulant activity, and tyrosine phosphorylation of proteins, in both the absence and the presence of cytochalasin B. Activation of platelets with collagen and thrombin induced morphological changes and increased the expression of CD62P, CD63, glycoprotein IV, and binding of annexin V to platelets. Moreover, both activating agents induced actin polymerization, increased the association of other contractile proteins, and promoted tyrosine phosphorylation of multiple proteins, some of which were associated with the cytoskeleton. The presence of cytochalasin B blocked the previous events when collagen was used as the activating agent, although binding of annexin V still occurred. In contrast, platelet response to thrombin was not completely prevented by the presence of cytochalasin B. Thus, activation by collagen requires a functional cytoskeleton to trigger signaling through tyrosine phosphorylation and secretion. This is not the case for thrombin, which is capable of activating signaling mechanisms in the presence of strong inhibitors of cytoskeletal assembly. Moreover, the expression of a procoagulant surface in platelets still occurs even when platelet motility has been inhibited.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Díaz-Ricart</LastName>
+                    <ForeName>Maribel</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Servei d'Hemoterapia-Hemostasia, Hospital Clínic, IDIBAPS, Universitat de Barcelona, Barcelona, Spain. mdiaz@clinic.ub.es</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arderiu</LastName>
+                    <ForeName>Gemma</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Estebanell</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pérez-Pujol</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lozano</LastName>
+                    <ForeName>Miguel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>James G</ForeName>
+                    <Initials>JG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escolar</LastName>
+                    <ForeName>Ginés</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ordinas</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Pathol</MedlineTA>
+            <NlmUniqueID>0370502</NlmUniqueID>
+            <ISSNLinking>0002-9440</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Collagen Type I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3CHI920QS7</RegistryNumber>
+                <NameOfSubstance>Cytochalasin B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>42HK56048U</RegistryNumber>
+                <NameOfSubstance>Tyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-34-5</RegistryNumber>
+                <NameOfSubstance>Collagen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Mar 22;64(6):1057-68</RefSource>
+                <PMID Version="1">1672265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1999 Aug 15;342 ( Pt 1):171-7</RefSource>
+                <PMID Version="1">10432314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Mar 15;267(8):5025-8</RefSource>
+                <PMID Version="1">1544885</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Methods Enzymol. 1992;215:109-27</RefSource>
+                <PMID Version="1">1435317</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1993 Sep;143(3):823-31</RefSource>
+                <PMID Version="1">8362980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cold Spring Harb Symp Quant Biol. 1992;57:149-54</RefSource>
+                <PMID Version="1">1339654</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 1993 Dec 20;70(6):884-93</RefSource>
+                <PMID Version="1">8165606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1993 Dec;62(2):194-204</RefSource>
+                <PMID Version="1">7925478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 May 10;271(19):11581-7</RefSource>
+                <PMID Version="1">8626721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Haemostasis. 1999 Sep;29(1):16-26</RefSource>
+                <PMID Version="1">10494031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Transfusion. 1999 Sep;39(9):951-9</RefSource>
+                <PMID Version="1">10533821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2000 Jan 27;267(3):875-80</RefSource>
+                <PMID Version="1">10673384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Haematologica. 2000 Mar;85(3):280-8</RefSource>
+                <PMID Version="1">10702817</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2000 Sep 1;96(5):1782-8</RefSource>
+                <PMID Version="1">10961877</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2000 Nov 15;96(10):3480-9</RefSource>
+                <PMID Version="1">11071645</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1970 Aug 15;227(5259):680-5</RefSource>
+                <PMID Version="1">5432063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1973 Jun;41(6):823-32</RefSource>
+                <PMID Version="1">4736475</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1979 Sep;76(9):4350-4</RefSource>
+                <PMID Version="1">388439</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1980 Sep;86(3):795-802</RefSource>
+                <PMID Version="1">6157694</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1981 Jul 10;256(13):6927-32</RefSource>
+                <PMID Version="1">6894599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells. 1983;9(2):237-61</RefSource>
+                <PMID Version="1">6661559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1985 Oct 5;260(22):11970-7</RefSource>
+                <PMID Version="1">4044584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Ultrastruct Res. 1984 Oct;89(1):98-109</RefSource>
+                <PMID Version="1">6400031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 1986 Apr;123(1):86-94</RefSource>
+                <PMID Version="1">2870643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Res. 1986 Mar 15;41(6):801-9</RefSource>
+                <PMID Version="1">3705019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1986 Sep;68(3):692-5</RefSource>
+                <PMID Version="1">2943331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Res. 1986 Oct 1;44(1):65-74</RefSource>
+                <PMID Version="1">3787562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1987 Mar;69(3):878-85</RefSource>
+                <PMID Version="1">3814820</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1988 Mar;71(3):629-35</RefSource>
+                <PMID Version="1">3345342</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prog Clin Biol Res. 1988;283:1-32</RefSource>
+                <PMID Version="1">3062624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 Apr 5;264(10):5400-6</RefSource>
+                <PMID Version="1">2494164</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1989 May 5;264(13):7576-83</RefSource>
+                <PMID Version="1">2468670</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1989 Nov;84(5):1440-5</RefSource>
+                <PMID Version="1">2808700</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 Aug;111(2):483-93</RefSource>
+                <PMID Version="1">2116419</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lab Clin Med. 1990 Nov;116(5):636-50</RefSource>
+                <PMID Version="1">2104522</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1997 Feb 15;89(4):1235-42</RefSource>
+                <PMID Version="1">9028946</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Jan 30;273(5):3013-20</RefSource>
+                <PMID Version="1">9446615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1999 Mar 5;256(1):114-20</RefSource>
+                <PMID Version="1">10066433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Soc Exp Biol Med. 1991 Dec;198(3):792-9</RefSource>
+                <PMID Version="1">1658806</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Collagen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Collagen Type I</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytochalasin B</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoskeleton</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tyrosine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC1867124</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11786426</ArticleId>
+            <ArticleId IdType="pmc">PMC1867124</ArticleId>
+            <ArticleId IdType="pii">S0002-9440(10)64376-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0002-9440(10)64376-3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

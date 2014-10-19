@@ -1,0 +1,195 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10452764</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0091-6749</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>104</Volume>
+                    <Issue>2 Pt 1</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of allergy and clinical immunology</Title>
+                <ISOAbbreviation>J. Allergy Clin. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Validation of a flow cytometric assay detecting in vitro basophil activation for the diagnosis of muscle relaxant allergy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>411-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Anaphylactic reactions during anesthesia are mainly the result of muscle-relaxant (MR) drugs. Skin tests, serologic detection of specific IgE, and in vitro leukocyte histamine release are used to investigate MR allergy.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We describe a new assay that is based on the detection by flow cytometry of the altered expression of plasma membrane molecules of MR-activated basophils.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">For this assay, which we have named the BASIC assay, basophils are incubated in vitro with MR, after which they are fixed and then triple labeled with fluorescein-conjugated anti-CD63, tandem dye R-phycoerythrin-cyanin 5.1 conjugated anti-CD45, and R-phycoerythrin conjugated anti-IgE. The resulting B asophils' A ltered S urface I mmunofluorescence is detected by flow C ytometry (BASIC).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Forty-one patients who had an allergic reaction during general anesthesia and 23 control subjects without such a history were studied. All included subjects' basophils were tested in the BASIC assay with at least 4 MR: suxamethonium, gallamine, vecuronium, and pancuronium. After reaction of the basophils of the MR-allergic patients with MRs, increased surface expression of CD63 and CD45 and decreased expression of IgE were detected. Increased expression of CD63 was observed most frequently and it was stronger than the alteration of the 2 other markers. Cross-reactivity between MRs commonly occurred. MRs diluted 10(-1) activate the basophils of the control subjects, suggesting that at relatively high concentrations MRs are also nonspecific basophil activators.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In the diagnosis of MR allergy, the BASIC assay has a good specificity but a low sensitivity, and it correlates strongly with skin test results. It is currently appraised for the diagnosis of anaphylactic reaction induced by other classes of drugs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abuaf</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Service d'Immunologie et d'Hématologie Biologique, Hôpital Rothschild Assistance Publique, Hôpitaux de Paris, Centre Hospital-Universitaire Saint-Antoine, Université Pierre et Marie Curie, Paris, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rajoely</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghazouani</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levy</LastName>
+                    <ForeName>D A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pecquet</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chabane</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leynadier</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Allergy Clin Immunol</MedlineTA>
+            <NlmUniqueID>1275002</NlmUniqueID>
+            <ISSNLinking>0091-6749</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Muscle Relaxants, Central</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7E4PHP5N1D</RegistryNumber>
+                <NameOfSubstance>Vecuronium Bromide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>J76UF062FS</RegistryNumber>
+                <NameOfSubstance>Pancuronium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anaphylaxis</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Muscle Relaxants, Central</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pancuronium</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Skin Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vecuronium Bromide</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10452764</ArticleId>
+            <ArticleId IdType="pii">S0091674999004686</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,126 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16078925</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>08</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>08</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-1132</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Platelet activation and residual activation potential during storage of hyperconcentrated platelet products in two different platelet additive solutions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1349-55</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To improve platelet (PLT) quality, hyperconcentrated PLT concentrates (hcPCs) were compared to standard PLT concentrates (stdPCs) in two different PLT additive solutions, T-Sol and PAS-27a. PAS-27a differs from T-Sol by containing glucose, phosphate, potassium, magnesium, and bicarbonate.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">PLTs were harvested by apheresis twice from 14 donors; each unit was divided into two. Four units from each donor were produced: hcPCs, 2000 x 10(9) per L in T-Sol or PAS-27a; and stdPCs, 1400 x 10(9) per L in 65 percent T-Sol or PAS-27a and 35 percent acid citrate dextrose-plasma. On Days 1 through 4, swirling was scored and PLT count, mean PLT volume, pH, blood gas, glucose, and lactate were measured. Expression of CD42a, CD62P, CD63, and PAC-1 was analyzed by flow cytometry on resting PLTs and PLTs stimulated with thrombin receptor agonist peptide (TRAP).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Glucose consumption and lactate production were significantly higher in hcPCs stored in PAS-27a than in T-Sol. Both stdPC and hcPC PLTs in T-Sol expressed CD62P and PAC-1 significantly higher than in PAS-27a. Over time the T-Sol hcPCs revealed highest expression of CD62P and CD63. A significantly higher capacity for up regulation of CD62P, CD63, and PAC-1 upon TRAP stimulation was found for stdPCs and hcPCs in PAS-27a compared to PLTs in T-Sol. TRAP-stimulated PLTs in stdPCs and hcPCs suspended in PAS-27a showed significantly higher potential for down regulation of CD42a than the T-Sol concentrates.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">PLTs appear better preserved in vitro in PAS-27a than in T-Sol, and this suggests that storage of hcPCs in PAS-27a could be extended beyond 24 hours.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vetlesen</LastName>
+                    <ForeName>Annette</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Department of Immunology and Transfusion Medicine, Ullevål University Hospital, Oslo, Norway. annette.vetlesen@ulleval.no</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mirlashari</LastName>
+                    <ForeName>Mohammad Reza</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Torsheim</LastName>
+                    <ForeName>Inger Anne</ForeName>
+                    <Initials>IA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kjeldsen-Kragh</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">TRF00218</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1537-2995.2005.00218.x</ArticleId>
+            <ArticleId IdType="pubmed">16078925</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,220 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20018626</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1550-6606</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>184</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Jan</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology (Baltimore, Md. : 1950)</Title>
+                <ISOAbbreviation>J. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cytohesin-1 regulates the Arf6-phospholipase D signaling axis in human neutrophils: impact on superoxide anion production and secretion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>637-49</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4049/jimmunol.0901654</ELocationID>
+            <Abstract>
+                <AbstractText>Polymorphonuclear neutrophil (PMN) stimulation with fMLP stimulates small G proteins such as ADP-ribosylation factors (Arfs) Arf1 and Arf6, leading to phospholipase D (PLD) activation and functions such as degranulation and the oxidative burst. However, the molecular links between fMLF receptors and PLD remain unclear. PMNs express cytohesin-1, an Arf-guanine exchange factor that activates Arfs, and its expression is strongly induced during the acquisition of the neutrophilic phenotype by neutrophil-like cells. The role of cytohesin-1 in the activation of the fMLF-Arf-PLD signaling axis, and the accomplishment of superoxide anion production, and degranulation was investigated in PMNs using the selective inhibitor of cytohesin, Sec 7 inhibitor H3 (secinH3). Cytohesin-1 inhibition with secinH3 leads to Arf6 but not Arf1 inhibition, demonstrating the specificity for Arf6, and fMLF-mediated activation of PLD and of the oxidative burst as well. We observed a decrease in fMLF-mediated protein secretion and expression of cell surface markers corresponding to primary (CD63/myeloperoxidase), secondary (CD66/lactoferrin), and tertiary (matrix metalloproteinase-9) granules in PMNs incubated with secinH3. Similarly, silencing cytohesin-1 or Arf6 in PLB-985 cells negatively affected fMLF-induced activation of PLD, superoxide production, and expression of granule markers on the cell surface. In contrast, stable overexpression of cytohesin-1 in PLB-985 cells enhanced fMLF-induced activation of Arf6, PLD, and NADPH oxidase. The results of this study provide evidence for an involvement of cytohesin-1 in the regulation of the functional responses of human PMNs and link these events, in part at least, to the activation of Arf6.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El Azreq</LastName>
+                    <ForeName>Mohammed-Amine</ForeName>
+                    <Initials>MA</Initials>
+                    <Affiliation>Centre de Recherche en Rhumatologie et Immunologie, Centre de Recherche du Centre Hospitalier de l'Université Québec-Centre Hospitalier de l'Université Laval, Québec, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garceau</LastName>
+                    <ForeName>Valérie</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harbour</LastName>
+                    <ForeName>Danielle</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pivot-Pajot</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bourgoin</LastName>
+                    <ForeName>Sylvain G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>TAS04/0061</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Immunol</MedlineTA>
+            <NlmUniqueID>2985117R</NlmUniqueID>
+            <ISSNLinking>0022-1767</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Guanine Nucleotide Exchange Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>SecinH3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Triazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>cytohesin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>11062-77-4</RegistryNumber>
+                <NameOfSubstance>Superoxides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59880-97-6</RegistryNumber>
+                <NameOfSubstance>N-Formylmethionine Leucyl-Phenylalanine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.3.1</RegistryNumber>
+                <NameOfSubstance>NADPH Oxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.4</RegistryNumber>
+                <NameOfSubstance>Phospholipase D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>ADP-Ribosylation Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance>ADP-ribosylation factor 6</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">ADP-Ribosylation Factors</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Guanine Nucleotide Exchange Factors</DescriptorName>
+                <QualifierName MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">N-Formylmethionine Leucyl-Phenylalanine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">NADPH Oxidase</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phospholipase D</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Superoxides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Triazoles</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">jimmunol.0901654</ArticleId>
+            <ArticleId IdType="doi">10.4049/jimmunol.0901654</ArticleId>
+            <ArticleId IdType="pubmed">20018626</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

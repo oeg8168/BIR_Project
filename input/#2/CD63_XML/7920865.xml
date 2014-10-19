@@ -1,0 +1,159 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">7920865</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0968-7688</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>1994 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular membrane biology</Title>
+                <ISOAbbreviation>Mol. Membr. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biosynthesis and intracellular transport of a membrane glycoprotein (plgp57) of the prelysosome compartment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>127-34</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have characterized the biosynthesis and intracellular transport of a membrane glycoprotein, designated plgp57, which is found predominantly in the prelysosome compartment (PLC) of Madin-Darby bovine kidney cells. In pulse-chase experiments, plgp57 was found to be initially synthesized as a 35 kDa precursor which was modified to yield a diffuse approximately 57 kDa mature form. Digestion with endoglycosidase H (endo H) demonstrated that the 35 kDa precursor contained three endo H-sensitive, high mannose-type oligosaccharides which became modified to endo H-resistant, complex-type sugars on the approximately 57 kDa mature form. Labelling cells in the presence of tunicamycin and treatment of the 35 kDa precursor with endo H revealed that plgp57 has a core protein of 24 kDa to which three N-asparagine-liked oligosaccharides are attached. Other experiments indicated that plgp57 could be differentially glycosylated on a common 24 kDa core protein in different cell types. The half-lives of the glycosylated and non-glycosylated forms of plgp57 were approximately 18 and approximately 13 h, respectively. Glycosylated and non-glycosylated plgp57 exhibited similar steady-state intracellular distributions, indicating that targeting of plgp57 to the PLC does not require carbohydrate address markers. Pulse-labeling of cells followed by organelle fractionation at various chase times revealed a t1/2 = approximately 1 h for the transit of newly synthesized plgp57 to the PLC. Finally, amino terminal sequencing of plgp57 revealed the similarity of this protein to the CD63/ME491 family of membrane glycoproteins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heller</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <Affiliation>Section of Biochemistry, Molecular and Cell Biology, Cornell University, Ithaca, NY 14853.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>J E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>W J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AM 37249</GrantID>
+                    <Acronym>AM</Acronym>
+                    <Agency>NIADDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>ENGLAND</Country>
+            <MedlineTA>Mol Membr Biol</MedlineTA>
+            <NlmUniqueID>9430797</NlmUniqueID>
+            <ISSNLinking>0968-7688</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Compartmentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glycosylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Fluid</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Processing, Post-Translational</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7920865</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

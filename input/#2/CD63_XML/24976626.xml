@@ -1,0 +1,187 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">24976626</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2933</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>47</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical biochemistry</Title>
+                <ISOAbbreviation>Clin. Biochem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exosomal transfer from human renal proximal tubule cells to distal tubule and collecting duct cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>89-94</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clinbiochem.2014.06.018</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0009-9120(14)00414-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Exosomes are 50-90nm extracellular membrane particles that may mediate trans-cellular communication between cells and tissues. We have reported that human urinary exosomes contain miRNA that are biomarkers for salt sensitivity and inverse salt sensitivity of blood pressure. This study examines exosomal transfer between cultured human renal proximal tubule cells (RPTCs) and from RPTCs to human distal tubule and collecting duct cells.</AbstractText>
+                <AbstractText Label="DESIGN AND METHODS" NlmCategory="METHODS">For RPTC-to-RPTC exosomal transfer, we utilized 5 RPTC lines producing exosomes that were fluorescently labeled with exosomal-specific markers CD63-EGFP or CD9-RFP. Transfer between RPTCs was demonstrated by co-culturing CD63-EGFP and CD9-RFP stable clones and performing live confocal microscopy. For RPTC-to-distal segment exosomal transfer, we utilized 5 distal tubule and 3 collecting duct immortalized cell lines.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Time-lapse videos revealed unique proximal tubule cellular uptake patterns for exosomes and eventual accumulation into the multivesicular body. Using culture supernatant containing exosomes from 3 CD9-RFP and 2 CD63-EGFP RPTC cell lines, all 5 distal tubule cell lines and all 3 collecting duct cell lines showed exosomal uptake as measured by microplate fluorometry. Furthermore, we found that RPTCs stimulated with fenoldopam (dopamine receptor agonist) had increased production of exosomes, which upon transfer to distal tubule and collecting duct cells, reduced the basal reactive oxygen species (ROS) production rates in those recipient cells.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Due to the complex diversity of exosomal contents, this proximal-to-distal vesicular inter-nephron transfer may represent a previously unrecognized trans-renal communication system.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 The Canadian Society of Clinical Chemists. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gildea</LastName>
+                    <ForeName>John J</ForeName>
+                    <Initials>JJ</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA. Electronic address: jjg5b@virginia.edu.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seaton</LastName>
+                    <ForeName>Joscelyn E</ForeName>
+                    <Initials>JE</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Victor</LastName>
+                    <ForeName>Ken G</ForeName>
+                    <Initials>KG</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reyes</LastName>
+                    <ForeName>Camellia M</ForeName>
+                    <Initials>CM</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bigler Wang</LastName>
+                    <ForeName>Dora</ForeName>
+                    <Initials>D</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pettigrew</LastName>
+                    <ForeName>Abigail C</ForeName>
+                    <Initials>AC</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Courtner</LastName>
+                    <ForeName>Crystal E</ForeName>
+                    <Initials>CE</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Neema</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tran</LastName>
+                    <ForeName>Hanh T</ForeName>
+                    <Initials>HT</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Sciver</LastName>
+                    <ForeName>Robert E</ForeName>
+                    <Initials>RE</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlson</LastName>
+                    <ForeName>Julia M</ForeName>
+                    <Initials>JM</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Felder</LastName>
+                    <ForeName>Robin A</ForeName>
+                    <Initials>RA</Initials>
+                    <Affiliation>The University of Virginia Health System, Department of Pathology, Charlottesville, VA, USA.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Biochem</MedlineTA>
+            <NlmUniqueID>0133660</NlmUniqueID>
+            <ISSNLinking>0009-9120</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Collecting duct</Keyword>
+            <Keyword MajorTopicYN="N">Distal tubule</Keyword>
+            <Keyword MajorTopicYN="N">Dopamine</Keyword>
+            <Keyword MajorTopicYN="N">Exosomes</Keyword>
+            <Keyword MajorTopicYN="N">Proximal tubule</Keyword>
+            <Keyword MajorTopicYN="N">ROS</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24976626</ArticleId>
+            <ArticleId IdType="pii">S0009-9120(14)00414-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clinbiochem.2014.06.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,322 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">24393345</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1479-5876</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of translational medicine</Title>
+                <ISOAbbreviation>J Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ovarian cancer cell invasiveness is associated with discordant exosomal sequestration of Let-7 miRNA and miR-200.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1479-5876-12-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The role of exosomes in the pathogenesis and metastatic spread of cancer remains to be fully elucidated. Recent studies support the hypothesis that the release of exosomes from cells modifies local extracellular conditions to promote cell growth and neovascularisation. In addition, exosomes may modify the phenotype of parent and/or target cell. For example, sequestration of signaling mediators into exosomes may reduce their intracellular bioavailability to the parent cell thereby altering cell phenotype and metastatic potential. The fusion of released exosomes with target cell and delivery may also modify cell function and activity. In this study, to further elucidate the role of exosomes in ovarian cancer, the release of exosomes from two ovarian cancer cell lines of different invasive capacity and their miRNA content of exosomes were compared. The hypothesis to be tested was that ovarian cancer cell invasiveness is associated with altered release of exosomes and discordant exosomal sequestration of miRNA.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">High (SKOV-3) and low (OVCAR-3) invasive ovarian cancer cell lines were used to characterize their exosome release. SKOV-3 and OVCAR-3 cells were cultured (DMEM, 20% exosome-free FBS) under an atmosphere of 8% O2 for 24 hours. Cell-conditioned media were collected and exosomes were isolated by differential and buoyant density centrifugation and characterised by Western blot (CD63 and CD9). Exosomal microRNA (let-7a-f and miR-200a-c) content was established by real-time PCR.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Exosomes were identified with by the presence of typical cup-shaped spherical vesicle and the expression of exosome markers: CD63, CD9. SKOV-3 cells released 2.7-fold more exosomes (1.22 ± 0.11 μg/106 cells) compared to OVCAR-3 (0.44 ± 0.05 μg/106 cells). The let-7 family miRNA transcripts were identified in both ovarian cancer cell lines and their exosomes. The let-7 family transcripts were more abundant in OVCAR-3 cell than SKOV-3 cells. In contrast, let-7 family transcripts were more abundant in exosomes from SKOV-3 than OVCAR-3. miR-200 family transcripts were only identified in OVCAR-3 cells and their exosomes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The data obtained in this study are consistent with the hypothesis that the releases of exosomes varies significantly between ovarian cancer cell lines and correlates with their invasive potential.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kobayashi</LastName>
+                    <ForeName>Miharu</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salomon</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Centre for Clinical Diagnostics, Royal Brisbane and Women's Hospital, University of Queensland Centre for Clinical Research, Building 71/918, Herston, Queensland 4029, Australia. c.salomongallo@uq.edu.au.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tapia</LastName>
+                    <ForeName>Jorge</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Illanes</LastName>
+                    <ForeName>Sebastian E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Murray D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rice</LastName>
+                    <ForeName>Gregory E</ForeName>
+                    <Initials>GE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Transl Med</MedlineTA>
+            <NlmUniqueID>101190741</NlmUniqueID>
+            <ISSNLinking>1479-5876</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MIRN200 microRNA, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>mirnlet7 microRNA, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 15;166(12):7309-18</RefSource>
+                <PMID Version="1">11390481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2004 Jan 23;116(2):281-97</RefSource>
+                <PMID Version="1">14744438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2004 Sep 16;431(7006):350-5</RefSource>
+                <PMID Version="1">15372042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1977 Aug 26;197(4306):893-5</RefSource>
+                <PMID Version="1">887927</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 1998 Sep-Oct;18(5A):3433-7</RefSource>
+                <PMID Version="1">9858920</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2005 Jan 31;92(2):305-11</RefSource>
+                <PMID Version="1">15655551</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocr Relat Cancer. 2005 Jun;12(2):407-21</RefSource>
+                <PMID Version="1">15947112</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Genet Dev. 2005 Oct;15(5):563-8</RefSource>
+                <PMID Version="1">16099643</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Sep 15;67(18):8699-707</RefSource>
+                <PMID Version="1">17875710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Protoc Cell Biol. 2006 Apr;Chapter 3:Unit 3.22</RefSource>
+                <PMID Version="1">18228490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2008 Jul;110(1):13-21</RefSource>
+                <PMID Version="1">18589210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2008 Oct;8(19):4083-99</RefSource>
+                <PMID Version="1">18780348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2009 Jul-Aug;59(4):225-49</RefSource>
+                <PMID Version="1">19474385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2009 Nov;58(11):1546-54</RefSource>
+                <PMID Version="1">19834118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Transl Med. 2011;9:9</RefSource>
+                <PMID Version="1">21235781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(2):e16899</RefSource>
+                <PMID Version="1">21364924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2011 Mar-Apr;61(2):69-90</RefSource>
+                <PMID Version="1">21296855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2011 May 1;317(8):1192-202</RefSource>
+                <PMID Version="1">21276792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2011;11:108</RefSource>
+                <PMID Version="1">21439085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(4):e18064</RefSource>
+                <PMID Version="1">21533284</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>CA Cancer J Clin. 2012 Jan-Feb;62(1):10-29</RefSource>
+                <PMID Version="1">22237781</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 2012 Jun;136(2):192-7</RefSource>
+                <PMID Version="1">22348503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2012 May 4;287(19):15874-85</RefSource>
+                <PMID Version="1">22396543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 2012 Sep 1;428(1):44-53</RefSource>
+                <PMID Version="1">22691960</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2012 Nov;82(9):1024-32</RefSource>
+                <PMID Version="1">22785172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Cancer. 2012;12:421</RefSource>
+                <PMID Version="1">22998595</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Placenta. 2013 May;34(5):443-8</RefSource>
+                <PMID Version="1">23545322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(7):e68451</RefSource>
+                <PMID Version="1">23861904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>RNA Biol. 2013 Aug 1;10(8):1333-44</RefSource>
+                <PMID Version="1">23807490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2013;8(11):e79636</RefSource>
+                <PMID Version="1">24244532</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasm Invasiveness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ovarian Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3896684</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1479-5876-12-4</ArticleId>
+            <ArticleId IdType="doi">10.1186/1479-5876-12-4</ArticleId>
+            <ArticleId IdType="pubmed">24393345</ArticleId>
+            <ArticleId IdType="pmc">PMC3896684</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

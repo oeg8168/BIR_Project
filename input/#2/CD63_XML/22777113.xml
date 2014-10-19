@@ -1,0 +1,508 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22777113</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-0514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Shock (Augusta, Ga.)</Title>
+                <ISOAbbreviation>Shock</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Resuscitation of traumatic hemorrhagic shock patients with hypertonic saline-without dextran-inhibits neutrophil and endothelial cell activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>341-50</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Posttraumatic inflammation and excessive neutrophil activation cause multiple organ dysfunction syndrome (MODS), a major cause of death among hemorrhagic shock patients. Traditional resuscitation strategies may exacerbate inflammation; thus, novel fluid treatments are needed to reduce such posttraumatic complications. Hypertonic resuscitation fluids inhibit inflammation and reduce MODS in animal models. Here we studied the anti-inflammatory efficacy of hypertonic fluids in a controlled clinical trial. Trauma patients in hypovolemic shock were resuscitated in a prehospital setting with 250 mL of either 7.5% hypertonic saline (HS; n = 9), 7.5% hypertonic saline + 6% dextran 70 (HSD; n = 8), or 0.9% normal saline (NS; n = 17). Blood samples were collected on hospital admission and 12 and 24 h after resuscitation. Multicolor flow cytometry was used to quantify neutrophil expression of cell-surface activation/adhesion (CD11b, CD62L, CD64) and degranulation (CD63, CD66b, CD35) markers as well as oxidative burst activity. Circulating concentrations of soluble intercellular adhesion molecule-1 (sICAM-1), vascular cell adhesion molecule-1 (sVACM-1), P- and E-selectins, myeloperoxidase (MPO), and matrix metalloproteinase 9 (MMP-9) were assessed by immunoassay. Multiple organ dysfunction syndrome, leukocytosis, and mortality were lower in the HS and HSD groups than in the NS group. However, these differences were not statistically significant. Hypertonic saline prevented priming and activation and neutrophil oxidative burst and CD11b and CD66b expression. Hypertonic saline also reduced circulating markers of neutrophil degranulation (MPO and MMP-9) and endothelial cell activation (sICAM-1, sVCAM-1, soluble E-selectin, and soluble P-selectin). Hypertonic saline + 6% dextran 70 was less capable than HS of suppressing the upregulation of most of these activation markers. This study demonstrates that initial resuscitation with HS, but neither NS nor HSD, can attenuate posttraumatic neutrophil and endothelial cell activation in hemorrhagic shock patients. These data suggest that hypertonic resuscitation without dextran may inhibit posttraumatic inflammation. However, despite this effect, neither HS nor HSD reduced MODS in trauma patients with hemorrhagic shock.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Junger</LastName>
+                    <ForeName>Wolfgang G</ForeName>
+                    <Initials>WG</Initials>
+                    <Affiliation>Department of Surgery, Beth Israel Deaconess Medical Center, Harvard Medical School and Ludwig Boltzmann Institute for Experimental and Clinical Traumatology, Vienna, Austria. wjunger@bidmc.harvard.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhind</LastName>
+                    <ForeName>Shawn G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rizoli</LastName>
+                    <ForeName>Sandro B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cuschieri</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shiu</LastName>
+                    <ForeName>Maria Y</ForeName>
+                    <Initials>MY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baker</LastName>
+                    <ForeName>Andrew J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Linglin</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shek</LastName>
+                    <ForeName>Pang N</ForeName>
+                    <Initials>PN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoyt</LastName>
+                    <ForeName>David B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bulger</LastName>
+                    <ForeName>Eileen M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5U01HL077863</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-072287</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI-080582</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM-51477</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM-60475</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077865</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077866</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077867</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077871</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077872</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077873</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077881</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077885</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077887</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL077908</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>PR043034</GrantID>
+                    <Acronym>PR</Acronym>
+                    <Agency>OCPHP CDC HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI072287</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI080582</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM051477</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM060475</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM076101</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL073233</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R29 GM051477</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Multicenter Study</PublicationType>
+                <PublicationType>Randomized Controlled Trial</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Shock</MedlineTA>
+            <NlmUniqueID>9421564</NlmUniqueID>
+            <ISSNLinking>1073-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Saline Solution, Hypertonic</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2000 Jan;28(1):74-8</RefSource>
+                <PMID Version="1">10667502</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2004 Jul;76(1):245-53</RefSource>
+                <PMID Version="1">15107462</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2000 Oct;49(4):580-3</RefSource>
+                <PMID Version="1">11038073</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2000 Nov;14(5):503-8</RefSource>
+                <PMID Version="1">11092681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Feb 14;278(7):4590-6</RefSource>
+                <PMID Version="1">12464620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Surg. 2003 Sep;197(3):426-32</RefSource>
+                <PMID Version="1">12946798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2004 May;21(5):391-400</RefSource>
+                <PMID Version="1">15087814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infusionsther Transfusionsmed. 1993 Oct;20(5):206-10</RefSource>
+                <PMID Version="1">7508309</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Intensive Care Med. 1995 Mar;21(3):277-85</RefSource>
+                <PMID Version="1">7790621</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Intensive Care Med. 1996 Feb;22(2):122-8</RefSource>
+                <PMID Version="1">8857119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1998 Jun 15;101(12):2768-79</RefSource>
+                <PMID Version="1">9637711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 1998 Jul;45(1):7-12; discussion 12-3</RefSource>
+                <PMID Version="1">9680004</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Dec 1;161(11):6288-96</RefSource>
+                <PMID Version="1">9834118</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anesth Analg. 2005 Jun;100(6):1554-60</RefSource>
+                <PMID Version="1">15920174</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2006 Jan;243(1):47-57</RefSource>
+                <PMID Version="1">16371736</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2006 Apr;290(4):C1051-9</RefSource>
+                <PMID Version="1">16282197</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2006 Apr;25(4):321-8</RefSource>
+                <PMID Version="1">16670632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2007 Mar;27(3):242-50</RefSource>
+                <PMID Version="1">17304104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2007 Apr;245(4):635-41</RefSource>
+                <PMID Version="1">17414614</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytokine. 2006 Dec;36(5-6):283-90</RefSource>
+                <PMID Version="1">17368039</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Neurosurg Rev. 2007 Oct;30(4):277-89; discussion 289-90</RefSource>
+                <PMID Version="1">17574484</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2008 Sep;36(9):2569-75</RefSource>
+                <PMID Version="1">18679117</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care. 2008;12(4):218</RefSource>
+                <PMID Version="1">18638356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Injury. 2010 Jan;41(1):21-6</RefSource>
+                <PMID Version="1">19729158</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Intern Med. 2010 Jul;268(1):25-34</RefSource>
+                <PMID Version="1">20497300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Anaesthesiol Scand. 2010 Sep;54(8):1007-17</RefSource>
+                <PMID Version="1">20626360</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 2010 Dec;88(6):1181-9</RefSource>
+                <PMID Version="1">20884646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2011 Feb;35(2):178-83</RefSource>
+                <PMID Version="1">20661181</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg. 2011 Mar;253(3):431-41</RefSource>
+                <PMID Version="1">21178763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Surg. 2011 Feb;77(2):201-6</RefSource>
+                <PMID Version="1">21337881</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2011 Mar;11(3):201-12</RefSource>
+                <PMID Version="1">21331080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 2011 Mar 9;305(10):1001-7</RefSource>
+                <PMID Version="1">21386078</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Trauma. 2011 May;70(5 Suppl):S27-9</RefSource>
+                <PMID Version="1">21666775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2011 Nov;36(5):435-9</RefSource>
+                <PMID Version="1">21841534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Shock. 2000 Jul;14(1):18-23</RefSource>
+                <PMID Version="1">10909888</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypovolemia</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Multiple Organ Failure</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophil Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Resuscitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Saline Solution, Hypertonic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Shock, Hemorrhagic</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Wounds and Injuries</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS392121</OtherID>
+        <OtherID Source="NLM">PMC3455119</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/SHK.0b013e3182635aca</ArticleId>
+            <ArticleId IdType="pubmed">22777113</ArticleId>
+            <ArticleId IdType="pmc">PMC3455119</ArticleId>
+            <ArticleId IdType="mid">NIHMS392121</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,187 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17287016</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0049-3848</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>120</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis research</Title>
+                <ISOAbbreviation>Thromb. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Platelet activation in acute, decompensated congestive heart failure.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>709-13</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Congestive heart failure (CHF) is associated with increased risk of venous thromboembolism, stroke and sudden death. This may be related to abnormalities of thrombogenesis and platelet activation. A comprehensive assessment of platelet (dys)function in acute decompensated heart failure (AHF) is lacking, and we hypothesised that such patients would show greater abnormalities in platelet indices, compared to stable CHF and healthy controls.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We measured soluble P-selectin (sP-sel, by ELISA); platelet surface P-selectin (CD62P%G) and CD63%G expression by flow cytometry; and platelet structural indices [mean platelet volume (MPV), mean platelet mass (MPM) and mean platelet component (MPC)] in 22 patients with AHF (pre- and posttreatment), who were compared to 68 patients with stable congestive heart failure (CHF, all with left ventricular ejection fraction (LVEF) &lt;50%) and 23 healthy controls.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were significant differences between the 3 study groups in MPV (p&lt;0.001), MPC (p=0.001), platelet surface P-selectin (CD62P%G, p&lt;0.0001) and platelet surface CD63P%G (p=0.017). On post-hoc analyses, AHF patients had higher platelet surface P-selectin (CD62P%G) compared to stable CHF patients and healthy controls (Tukey's test, all p&lt;0.05), whilst CD63%P was similarly high in both disease groups, compared to healthy controls. Platelet surface P-selectin (p=0.032), CD63 (p=0.024) and CD40L (p=0.024) were significantly reduced following treatment of AHF, though platelet morphology and sP-sel levels were not significantly changed.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">AHF patients demonstrate some abnormalities of platelet activation compared to stable CHF patients and healthy controls. These platelet abnormalities are modified by treatment, raising the possibility that platelets may partly contribute to the pathophysiology of adverse complications associated with AHF.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Haemostasis, Thrombosis and Vascular Biology Unit, University Department of Medicine, City Hospital, Birmingham B18 7QH, England UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhury</LastName>
+                    <ForeName>Anirban</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lip</LastName>
+                    <ForeName>Gregory Y H</ForeName>
+                    <Initials>GY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thromb Res</MedlineTA>
+            <NlmUniqueID>0326377</NlmUniqueID>
+            <ISSNLinking>0049-3848</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Aggregation Inhibitors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Aggregation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation Inhibitors</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0049-3848(07)00012-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thromres.2007.01.003</ArticleId>
+            <ArticleId IdType="pubmed">17287016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

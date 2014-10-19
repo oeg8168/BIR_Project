@@ -1,0 +1,413 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17894858</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>01</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1466-609X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical care (London, England)</Title>
+                <ISOAbbreviation>Crit Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Platelet-derived exosomes induce endothelial cell apoptosis through peroxynitrite generation: experimental evidence for a novel mechanism of septic vascular dysfunction.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>R107</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Several studies link hematological dysfunction to severity of sepsis. Previously we showed that platelet-derived microparticles from septic patients induce vascular cell apoptosis through the NADPH oxidase-dependent release of superoxide. We sought to further characterize the microparticle-dependent vascular injury pathway.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">During septic shock there is increased generation of thrombin, TNF-alpha and nitric oxide (NO). Human platelets were exposed for 1 hour to the NO donor diethylamine-NONOate (0.5 microM), lipopolysaccharide (LPS; 100 ng/ml), TNF-alpha (40 ng/ml), or thrombin (5 IU/ml). Microparticles were recovered through filtration and ultracentrifugation and analyzed by electron microscopy, flow cytometry or Western blotting for protein identification. Redox activity was characterized by lucigenin (5 microM) or coelenterazine (5 microM) luminescence and by 4,5-diaminofluorescein (10 mM) and 2',7'-dichlorofluorescein (10 mM) fluorescence. Endothelial cell apoptosis was detected by phosphatidylserine exposure and by measurement of caspase-3 activity with an enzyme-linked immunoassay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Size, morphology, high exposure of the tetraspanins CD9, CD63, and CD81, together with low phosphatidylserine, showed that platelets exposed to NONOate and LPS, but not to TNF-alpha or thrombin, generate microparticles similar to those recovered from septic patients, and characterize them as exosomes. Luminescence and fluorescence studies, and the use of specific inhibitors, revealed concomitant superoxide and NO generation. Western blots showed the presence of NO synthase II (but not isoforms I or III) and of the NADPH oxidase subunits p22phox, protein disulfide isomerase and Nox. Endothelial cells exposed to the exosomes underwent apoptosis and caspase-3 activation, which were inhibited by NO synthase inhibitors or by a superoxide dismutase mimetic and totally blocked by urate (1 mM), suggesting a role for the peroxynitrite radical. None of these redox properties and proapoptotic effects was evident in microparticles recovered from platelets exposed to thrombin or TNF-alpha.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">We showed that, in sepsis, NO and bacterial elements are responsible for type-specific platelet-derived exosome generation. Those exosomes have an active role in vascular signaling as redox-active particles that can induce endothelial cell caspase-3 activation and apoptosis by generating superoxide, NO and peroxynitrite. Thus, exosomes must be considered for further developments in understanding and treating vascular dysfunction in sepsis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gambim</LastName>
+                    <ForeName>Marcela Helena</ForeName>
+                    <Initials>MH</Initials>
+                    <Affiliation>Division of Rheumatology, University of São Paulo School of Medicine, Avenida Doutor Arnaldo, 455, 01246-903, São Paulo, SP. mgambim@gmail.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>do Carmo</LastName>
+                    <ForeName>Alipio de Oliveira</ForeName>
+                    <Initials>Ade O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marti</LastName>
+                    <ForeName>Luciana</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veríssimo-Filho</LastName>
+                    <ForeName>Sidney</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lopes</LastName>
+                    <ForeName>Lucia Rossetti</ForeName>
+                    <Initials>LR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janiszewski</LastName>
+                    <ForeName>Mariano</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Crit Care</MedlineTA>
+            <NlmUniqueID>9801902</NlmUniqueID>
+            <ISSNLinking>1364-8535</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>14691-52-2</RegistryNumber>
+                <NameOfSubstance>Peroxynitrous Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>31C4KY9ESH</RegistryNumber>
+                <NameOfSubstance>Nitric Oxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.22.-</RegistryNumber>
+                <NameOfSubstance>Caspase 3</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2004 Nov;5(11):896-903</RefSource>
+                <PMID Version="1">15479454</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Jun 17;280(24):23349-55</RefSource>
+                <PMID Version="1">15826944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 1992 Jun;101(6):1644-55</RefSource>
+                <PMID Version="1">1303622</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1993 May 1;81(9):2442-51</RefSource>
+                <PMID Version="1">8481524</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Jun 1;150(11):5080-5</RefSource>
+                <PMID Version="1">7684418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1994 Dec 30;79(7):1137-46</RefSource>
+                <PMID Version="1">7528106</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1997 May 1;99(9):2118-27</RefSource>
+                <PMID Version="1">9151784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Aug 7;273(32):20121-7</RefSource>
+                <PMID Version="1">9685355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nitric Oxide. 1997 Aug;1(4):275-81</RefSource>
+                <PMID Version="1">9441899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 1998 Dec;80(6):982-8</RefSource>
+                <PMID Version="1">9869171</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Mar 12;274(11):6823-6</RefSource>
+                <PMID Version="1">10066732</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Nov 1;147(3):599-610</RefSource>
+                <PMID Version="1">10545503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1999 Dec 1;94(11):3791-9</RefSource>
+                <PMID Version="1">10572093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Physiol Scand. 2000 Jan;168(1):33-40</RefSource>
+                <PMID Version="1">10691777</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2000 Oct;113 Pt 19:3365-74</RefSource>
+                <PMID Version="1">10984428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2005 Jun 24;308(5730):1862-3</RefSource>
+                <PMID Version="1">15976285</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2005 Jul-Aug;35(1):11-6</RefSource>
+                <PMID Version="1">15893486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Sci (Lond). 2005 Sep;109(3):217-26</RefSource>
+                <PMID Version="1">16104842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2005 Dec 9;280(49):40813-9</RefSource>
+                <PMID Version="1">16150729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2006 Mar-Apr;36(2):166-70</RefSource>
+                <PMID Version="1">16469512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2006 Mar-Apr;36(2):315-21</RefSource>
+                <PMID Version="1">16487731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2007 Apr 27;100(8):1128-41</RefSource>
+                <PMID Version="1">17463328</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Heart Circ Physiol. 2007 May;292(5):H2023-31</RefSource>
+                <PMID Version="1">17237240</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Thromb Haemost. 2000 Sep;84(3):478-83</RefSource>
+                <PMID Version="1">11019975</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2000 Nov 10;87(10):840-4</RefSource>
+                <PMID Version="1">11073878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2001 Jun 15;166(12):7309-18</RefSource>
+                <PMID Version="1">11390481</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circ Res. 2001 Aug 31;89(5):408-14</RefSource>
+                <PMID Version="1">11532901</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 2001 Nov 27;104(22):2649-52</RefSource>
+                <PMID Version="1">11723013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Hematol. 2002 May;30(5):450-9</RefSource>
+                <PMID Version="1">12031651</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Immunol. 2002 Jun;23(6):301-4</RefSource>
+                <PMID Version="1">12072369</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Free Radic Biol Med. 2002 Sep 1;33(5):676-84</RefSource>
+                <PMID Version="1">12208354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Pharmacol. 2003 May 15;65(10):1575-82</RefSource>
+                <PMID Version="1">12754093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care. 2003 Oct;7(5):359-73</RefSource>
+                <PMID Version="1">12974969</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2003 Dec 15;102(13):4336-44</RefSource>
+                <PMID Version="1">12881314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2004 Mar;32(3):818-25</RefSource>
+                <PMID Version="1">15090968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2004 Mar 22;1636(2-3):169-74</RefSource>
+                <PMID Version="1">15164764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Signal. 2004 Sep;16(9):983-9</RefSource>
+                <PMID Version="1">15212759</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2004 Jul;90(2):462-71</RefSource>
+                <PMID Version="1">15228602</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Antioxid Redox Signal. 2004 Aug;6(4):691-8</RefSource>
+                <PMID Version="1">15242549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2004 Aug;16(4):415-21</RefSource>
+                <PMID Version="1">15261674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Pharmacol. 2004 Oct;66(4):1043-53</RefSource>
+                <PMID Version="1">15258257</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Regul Integr Comp Physiol. 2004 Nov;287(5):R1014-30</RefSource>
+                <PMID Version="1">15475499</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1999 Apr 23;274(17):11721-6</RefSource>
+                <PMID Version="1">10206987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2005 Feb 20;113(5):752-60</RefSource>
+                <PMID Version="1">15499615</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 2005 May;115(1):1-20</RefSource>
+                <PMID Version="1">15819693</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1976 May;73(5):1612-6</RefSource>
+                <PMID Version="1">179091</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Caspase 3</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nitric Oxide</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peroxynitrous Acid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sepsis</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vascular Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2556756</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">cc6133</ArticleId>
+            <ArticleId IdType="doi">10.1186/cc6133</ArticleId>
+            <ArticleId IdType="pubmed">17894858</ArticleId>
+            <ArticleId IdType="pmc">PMC2556756</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,140 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">10924604</PMID>
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-1132</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>40</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of pooled platelet concentrates using prestorage versus poststorage WBC reduction: impact of filtration timing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>781-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Concern for the undesirable consequences of transfusing passenger WBCs is leading to the general use of WBC-reduced platelet concentrates (PCs). However, the impact of prestorage versus poststorage WBC reduction on the quality of platelet products has not been clearly defined.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">Pooled PCs were WBC reduced before or after 5-day storage, by use of a WBC filter (PXL-8, Pall Corp.). Samples from pools were taken on days 1 and 5, before and after filtration, and on Day 9 of storage and assessed for cell counts, biochemical values, expression of platelet glycoproteins, thrombin generation, and content of IL-6, IL-8, TNFalpha, transforming growth factor beta1 (TGFbeta1), and anaphylatoxins C3a and C4a.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Filtration of fresh and 5-day-stored pooled PCs via a PXL-8 filter was similarly efficient, rendering pools with low WBC counts (&lt;1 x 10(6) cells) and high platelet recovery (&gt;95%). No major changes were found in the metabolic behavior or the expression of platelet GPIb, GPIIb/IIIa, CD62, and CD63 in PCs filtered before or after storage. Filtration, either before or after storage, increased by less than 5 percent the proportion of CD62+ platelets. Moreover, no changes were found in the concentration of prothrombin fragments 1 and 2 and thrombin-antithrombin complexes in the pooled PCs derived from the time of filtration. Finally, prestorage WBC reduction abrogated the accumulation of IL-6 and IL-8, but it did not prevent that of anaphylatoxins C3a and C4a nor of TGFbeta1. However, filtration through a PXL-8 filter significantly reduced (40-90%) the amount of IL-8, C3a, and C4a in the filtrate.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The timing of PXL-8 filtration of PCs has little impact on the efficiency of WBC reduction and on platelet recovery, and it does not seem to affect the quality of platelets or the generation of thrombin in the PCs. As regards the goal of reducing the amount of bioactive products in PCs, it remains uncertain as to whether prestorage WBC reduction fully eliminates the need for poststorage filtration. Prestorage filtration leads to low levels of IL-6 and IL-8 in PCs, but it does not impair the poststorage content of TGFbeta1 or anaphyla-toxins. By contrast, poststorage PXL-8 filtration removes significant amounts of C3a and C4a, and thus it might provide clinical benefits beyond those of prestorage WBC reduction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ferrer</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <Affiliation>Unit of Hematology-Hemotherapy and Clinical Oncology, School of Medicine, University General Hospital, Regional Center for Blood Donation, Murcia, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rivera</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Corral</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gonzalez-Conejero</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lozano</LastName>
+                    <ForeName>M L</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vicente</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Filtration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Transfusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plateletpheresis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>11</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10924604</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

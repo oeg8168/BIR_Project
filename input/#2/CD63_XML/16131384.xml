@@ -1,0 +1,182 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">16131384</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0041-1132</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transfusion</Title>
+                <ISOAbbreviation>Transfusion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Soluble glycoprotein V as a quality marker of platelet concentrates stressed by transportation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1504-11</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Despite ongoing improvements in storage conditions for platelet concentrates (PCs) for clinical use, leukoreduced platelets (PLTs) undergo subtle changes that are partly due to PLT activation. As PLTs are activated, the expression of P-selectin (CD62P) increases, and soluble glycoprotein V (sGPV) is released. GPV, part of the GPIbIXV complex, has been suggested as a marker of PLT activation.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">An array of assays, used for quality control of PCs, was performed and the results were compared. The tests included PLT count, swirling, mean PLT volume, extent of shape change (ESC), hypotonic shock response (HSR), CD62P, lysosomal membrane protein (CD63), sGPV, and the metabolic tests (pH, pO(2), pCO(2), lactate, glucose). The performance of the assays was evaluated during the storage period by comparing buffy coat-derived PCs (24 PCs of 4 units) stored on flatbed agitator or stressed twice by overnight transportation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The repeatability of all tests was good. ESC and HSR correlated with each other (r = 0.559). Importantly, there were also associations between sGPV and ESC (r = -0.564) and HSR (r = -0.389). The correlations of sGPV with lactate and glucose concentrations and with expression of CD62P and CD63 were also good. No significant changes were induced by two overnight transportations.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">sGPV might be applicable for statistical process control of the quality of PCs, in addition to metabolic tests. It may also be helpful in analyzing potential improvements in blood component processing. Repeat transportation of PCs may cause minimal changes on PLT in vitro properties, if any.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Javela</LastName>
+                    <ForeName>Kaija</ForeName>
+                    <Initials>K</Initials>
+                    <Affiliation>Finnish Red Cross Blood Service, Kivihaantie 7, FIN-00310 Helsinki, Finland. kaija.javela@bts.redcross.fi</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eronen</LastName>
+                    <ForeName>Juha</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarna</LastName>
+                    <ForeName>Seppo</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kekomäki</LastName>
+                    <ForeName>Riitta</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transfusion</MedlineTA>
+            <NlmUniqueID>0417360</NlmUniqueID>
+            <ISSNLinking>0041-1132</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Glycoprotein GPIb-IX Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>33X04XA5AT</RegistryNumber>
+                <NameOfSubstance>Lactic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.5</RegistryNumber>
+                <NameOfSubstance>Thrombin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance>Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lactic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Glycoprotein GPIb-IX Complex</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Transfusion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Quality Control</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Solubility</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thrombin</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Transportation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">TRF00562</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1537-2995.2005.00562.x</ArticleId>
+            <ArticleId IdType="pubmed">16131384</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

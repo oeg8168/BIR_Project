@@ -1,0 +1,466 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9916047</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0019-9567</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>67</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection and immunity</Title>
+                <ISOAbbreviation>Infect. Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The mannose receptor mediates uptake of pathogenic and nonpathogenic mycobacteria and bypasses bactericidal responses in human macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>469-77</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mannose receptor (MR) is involved in the phagocytosis of pathogenic microorganisms. Here we investigated its role in the bactericidal functions of human monocyte-derived macrophages (MDMs), using (i) trimannoside-bovine serum albumin (BSA)-coated latex beads and zymosan as particulate ligands of the MR, and (ii) mannan and mannose-BSA as soluble ligands. We show that phagocytosis of mannosylated latex beads did not elicit the production of O2-. Zymosan, which is composed of alpha-mannan and beta-glucan, was internalized by the MR and a beta-glucan receptor, but the production of O2- was triggered only by phagocytosis through the beta-glucan receptor. Activation and translocation of Hck, a Src family tyrosine kinase located on lysosomes, has previously been used as a marker of fusion between lysosomes and phagosomes in human neutrophils. In MDMs, Hck was activated and recruited to phagosomes containing zymosan later than LAMP-1 and CD63. Phagosomes containing mannosylated latex beads fused with LAMP-1 and CD63 vesicles but not with the Hck compartment, and the kinase was not activated. We also demonstrate that the MR was unable to distinguish between nonpathogenic and pathogenic mycobacteria, as they were internalized at similar rates by this receptor, indicating that this route of entry cannot be considered as a differential determinant of the intracellular fate of mycobacteria. In conclusion, MR-dependent phagocytosis is coupled neither to the activation of NADPH oxidase nor to the maturation of phagosomes until fusion with the Hck compartment and therefore constitutes a safe portal of entry for microorganisms.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Astarie-Dequeker</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <Affiliation>Institut de Pharmacologie et de Biologie Structurale, Centre National de la Recherche Scientifique, UPR 9062, 31077 Toulouse, France. astarie@ipbs.fr</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>N'Diaye</LastName>
+                    <ForeName>E N</ForeName>
+                    <Initials>EN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Cabec</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rittig</LastName>
+                    <ForeName>M G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prandi</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maridonneau-Parini</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Infect Immun</MedlineTA>
+            <NlmUniqueID>0246127</NlmUniqueID>
+            <ISSNLinking>0019-9567</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lectins, C-Type</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Mannose-Binding Lectins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>mannose receptor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>11062-77-4</RegistryNumber>
+                <NameOfSubstance>Superoxides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>42HK56048U</RegistryNumber>
+                <NameOfSubstance>Tyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance>Protein-Tyrosine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance>HCK protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance>Hck protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.2</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-hck</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance>Glucuronidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1987 Jun;7(6):2267-75</RefSource>
+                <PMID Version="1">3496523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1996 Feb;64(2):428-33</RefSource>
+                <PMID Version="1">8550187</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1987 Nov;42(5):485-90</RefSource>
+                <PMID Version="1">2445884</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 1988 Feb;174(2):481-90</RefSource>
+                <PMID Version="1">2828085</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1988 Feb;56(2):363-9</RefSource>
+                <PMID Version="1">2962944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 1989 Jun;83(6):1936-40</RefSource>
+                <PMID Version="1">2542378</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1989 Jul 15;143(2):617-22</RefSource>
+                <PMID Version="1">2525590</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Biol. 1989;5:483-525</RefSource>
+                <PMID Version="1">2557062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>FEMS Microbiol Immunol. 1990 Sep;2(2):89-96</RefSource>
+                <PMID Version="1">2147856</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1990 Dec 1;172(6):1785-94</RefSource>
+                <PMID Version="1">2258707</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1991 May;59(5):1697-702</RefSource>
+                <PMID Version="1">1826895</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 May 9;351(6322):155-8</RefSource>
+                <PMID Version="1">1903183</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1992 Jan;116(1):95-112</RefSource>
+                <PMID Version="1">1730752</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1992 Mar 25;267(9):6396-402</RefSource>
+                <PMID Version="1">1556142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lab Clin Med. 1992 Jun;119(6):772-81</RefSource>
+                <PMID Version="1">1593222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Biochem Biophys. 1992 Oct;298(1):49-55</RefSource>
+                <PMID Version="1">1524442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1992 Dec 1;176(6):1673-80</RefSource>
+                <PMID Version="1">1460425</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1996 Jan;132(1-2):49-61</RefSource>
+                <PMID Version="1">8567729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 1996 Feb 9;1289(1):159-68</RefSource>
+                <PMID Version="1">8605227</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1996 Jun 15;156(12):4764-73</RefSource>
+                <PMID Version="1">8648123</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 1996 Jul;174(1):105-12</RefSource>
+                <PMID Version="1">8655979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Top Microbiol Immunol. 1996;215:71-96</RefSource>
+                <PMID Version="1">8791710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1996 Nov;89(3):436-41</RefSource>
+                <PMID Version="1">8958059</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1997 Jan 3;272(1):102-9</RefSource>
+                <PMID Version="1">8995234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1997 Mar;65(3):1077-82</RefSource>
+                <PMID Version="1">9038318</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1997 Sep 1;159(5):2462-7</RefSource>
+                <PMID Version="1">9278339</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1997 Sep;74(1):49-62</RefSource>
+                <PMID Version="1">9309390</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Microb Physiol. 1998;39:131-203</RefSource>
+                <PMID Version="1">9328647</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Soc Exp Biol Med. 1998 Jan;217(1):81-8</RefSource>
+                <PMID Version="1">9421210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 1998 May;175(2):203-10</RefSource>
+                <PMID Version="1">9525479</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Infect Immun. 1998 Sep;66(9):4331-9</RefSource>
+                <PMID Version="1">9712785</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Microbiol. 1998 Aug;6(8):328-35</RefSource>
+                <PMID Version="1">9746944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Nov 1;161(9):4983-91</RefSource>
+                <PMID Version="1">9794435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1958 Apr 4;127(3301):756-7</RefSource>
+                <PMID Version="1">13543326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1975 Jul 1;142(1):1-16</RefSource>
+                <PMID Version="1">807671</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1983 May 31;113(1):192-8</RefSource>
+                <PMID Version="1">6305348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunology. 1983 Aug;49(4):705-15</RefSource>
+                <PMID Version="1">6307868</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1983 Dec 1;158(6):2016-23</RefSource>
+                <PMID Version="1">6227677</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1984 Feb 1;159(2):405-16</RefSource>
+                <PMID Version="1">6319532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1985 Jan 10;260(1):160-4</RefSource>
+                <PMID Version="1">3965445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Leukoc Biol. 1985 Nov;38(5):655-8</RefSource>
+                <PMID Version="1">3862731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carbohydr Res. 1986 Nov 15;156:39-56</RefSource>
+                <PMID Version="1">3815408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1987 Jun 15;262(17):7955-62</RefSource>
+                <PMID Version="1">3597356</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1992 Dec 1;288 ( Pt 2):427-32</RefSource>
+                <PMID Version="1">1281405</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Cell Biol. 1992;8:333-63</RefSource>
+                <PMID Version="1">1476803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Rev Cytol. 1992;137B:221-44</RefSource>
+                <PMID Version="1">1478821</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Apr 1;150(7):2920-30</RefSource>
+                <PMID Version="1">8454864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Dec 15;151(12):7067-76</RefSource>
+                <PMID Version="1">8258711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1994 Oct 15;303 ( Pt 2):481-7</RefSource>
+                <PMID Version="1">7526843</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1995 Feb 3;270(5):2067-73</RefSource>
+                <PMID Version="1">7530716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1995 Jul 15;309 ( Pt 2):657-65</RefSource>
+                <PMID Version="1">7626033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lab Anim Sci. 1995 Aug;45(4):334-51</RefSource>
+                <PMID Version="1">7474869</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 1987 Jun;7(6):2276-85</RefSource>
+                <PMID Version="1">3453117</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Glucuronidase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Lectins, C-Type</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Mannose-Binding Lectins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium kansasii</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium phlei</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mycobacterium smegmatis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagosomes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein-Tyrosine Kinases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-hck</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Superoxides</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tyrosine</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC96343</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9916047</ArticleId>
+            <ArticleId IdType="pmc">PMC96343</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

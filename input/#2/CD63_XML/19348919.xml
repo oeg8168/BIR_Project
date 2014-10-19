@@ -1,0 +1,314 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19348919</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-6825</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>123</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of allergy and clinical immunology</Title>
+                <ISOAbbreviation>J. Allergy Clin. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Allergen-specific basophil suppression associated with clinical tolerance in patients with milk allergy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>789-94.e20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jaci.2008.12.1128</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Children with milk allergy who tolerate heat-denatured milk (HM) have less severe reactions and outgrow the condition earlier than those who react to HM, which might be related to differences in IgE-dependent effector cell function.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">We sought to apply a novel assay to test the hypothesis that HM-tolerant children have suppressed IgE-mediated basophil responses.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Allergic, HM-tolerant, outgrown, or control subjects were defined based on oral food challenges. Whole blood cells were stimulated in vitro with a range of milk allergen doses in the presence or absence of autologous serum or with dilutions of autologous serum. Activated basophils were identified by means of flow cytometry as CD63(bright)CD123+CD203c+HLA-DR(-)CD41a(-).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">HM-tolerant subjects' basophils were significantly less responsive to milk allergen stimulation at all doses than were basophils from HM-reactive (allergic) individuals. In the absence of autologous serum, HM-tolerant subjects' basophils were significantly more reactive at low allergen concentrations. To a lesser extent, autologous serum also inhibited IL-3- and anti-IgE-induced, but not N-formyl-methionyl-leucyl-phenylalanine-induced, responses. The allergen-specific responsiveness of HM-tolerant subjects' basophils increased with dilution of autologous serum with normal pooled serum.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Children with milk allergy with a favorable prognosis have evidence of extrinsically suppressed allergen-specific effector cell reactivity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wanich</LastName>
+                    <ForeName>Niya</ForeName>
+                    <Initials>N</Initials>
+                    <Affiliation>Division of Allergy and Immunology, Department of Pediatrics, Jaffe Food Allergy Institute, Mount Sinai School of Medicine, New York, NY 10029, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nowak-Wegrzyn</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sampson</LastName>
+                    <ForeName>Hugh A</ForeName>
+                    <Initials>HA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shreffler</LastName>
+                    <ForeName>Wayne G</ForeName>
+                    <Initials>WG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 AI044236</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 AI044236-05</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Allergy Clin Immunol</MedlineTA>
+            <NlmUniqueID>1275002</NlmUniqueID>
+            <ISSNLinking>0091-6749</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Anti-Idiotypic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>anti-IgE antibodies</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 1991 Apr;21(4):881-5</RefSource>
+                <PMID Version="1">1708341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1989 Jul 27;321(4):228-32</RefSource>
+                <PMID Version="1">2473400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2004 Dec;114(6):1317-24</RefSource>
+                <PMID Version="1">15577829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Jan 15;174(2):735-41</RefSource>
+                <PMID Version="1">15634893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2005 Sep;138(1):29-39</RefSource>
+                <PMID Version="1">16088210</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2005 Oct;116(4):893-9</RefSource>
+                <PMID Version="1">16210066</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 May 1;176(9):5346-53</RefSource>
+                <PMID Version="1">16622002</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Allergy Clin Immunol. 2006 Jun;6(3):226-33</RefSource>
+                <PMID Version="1">16670519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2006 Jul 15;177(2):1040-51</RefSource>
+                <PMID Version="1">16818760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2007 Mar 30;320(1-2):40-8</RefSource>
+                <PMID Version="1">17275019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2007 May;72(3):196-203</RefSource>
+                <PMID Version="1">17111386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Immunopathol Pharmacol. 2007 Apr-Jun;20(2):267-78</RefSource>
+                <PMID Version="1">17624239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2007 Nov;120(5):1172-7</RefSource>
+                <PMID Version="1">17935766</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Mar;9(3):310-8</RefSource>
+                <PMID Version="1">18300366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2008;146(3):177-89</RefSource>
+                <PMID Version="1">18268385</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2008 Jul;9(7):733-42</RefSource>
+                <PMID Version="1">18516038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2008 Aug;122(2):342-7, 347.e1-2</RefSource>
+                <PMID Version="1">18620743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2000 Aug;106(2):337-48</RefSource>
+                <PMID Version="1">10932079</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2001 Jan 19;291(5503):484-6</RefSource>
+                <PMID Version="1">11161202</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br Med Bull. 2000;56(4):925-35</RefSource>
+                <PMID Version="1">11359629</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Allergy Immunol. 2001;12 Suppl 14:78-84</RefSource>
+                <PMID Version="1">11380906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 2002 Sep;38(16-18):1323-7</RefSource>
+                <PMID Version="1">12217402</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2003 Feb;31(Pt 1):281-5</RefSource>
+                <PMID Version="1">12546702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatrics. 2003 Jun;111(6 Pt 3):1631-7</RefSource>
+                <PMID Version="1">12777603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1981 Dec;127(6):2410-4</RefSource>
+                <PMID Version="1">6170702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1986 Feb;77(2):291-4</RefSource>
+                <PMID Version="1">2418091</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1999 Oct;104(4 Pt 1):811-9</RefSource>
+                <PMID Version="1">10518826</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Anti-Idiotypic</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Immune Tolerance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-3</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Milk Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS109169</OtherID>
+        <OtherID Source="NLM">PMC2831768</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">S0091-6749(09)00119-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jaci.2008.12.1128</ArticleId>
+            <ArticleId IdType="pubmed">19348919</ArticleId>
+            <ArticleId IdType="pmc">PMC2831768</ArticleId>
+            <ArticleId IdType="mid">NIHMS109169</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

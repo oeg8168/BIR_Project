@@ -1,0 +1,197 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">14679016</PMID>
+        <DateCreated>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-5472</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>63</Volume>
+                    <Issue>23</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Dec</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer research</Title>
+                <ISOAbbreviation>Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biological significance of aminopeptidase N/CD13 in thyroid carcinomas.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8500-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Aminopeptidase N (APN)/CD13 is a transmembrane ectopeptidase expressed on a wide variety of cells. However, the precise function of APN/CD13 in tumor cells and the relationship of APN/CD13 to thyroid cancer remain unclear. In our study, we quantified the expression of APN/CD13 and additionally dipeptidyl peptidase IV (DPIV)/CD26 in thyroid carcinoma cell lines and in tissues of patients with thyroid carcinomas. Undifferentiated anaplastic thyroid carcinomas expressed more APN/CD13 than differentiated thyroid carcinomas. DPIV/CD26 showed an opposite expression pattern. We detected higher levels of DPIV/CD26 in follicular thyroid carcinomas (FTCs) and papillary thyroid carcinomas than in undifferentiated anaplastic thyroid carcinomas. In the undifferentiated thyroid carcinoma cell line 1736, APN/CD13 mRNA expression could be increased by epidermal growth factor, basic fibroblast growth factor, interleukin-6, and tumor necrosis factor alpha. FTC-133 cells stably transfected with an expression vector for APN-enhanced green fluorescent protein showed a higher migration rate than FTC-133 cells transfected with the enhanced green fluorescent protein-control plasmid. Overexpression of APN/CD13 in stably transfected cells is associated with down-regulation of N-myc down-regulated gene (NDRG)-1, melanoma-associated antigen ME491/CD63, and DPIV/CD26 gene expression. Inhibition of APN/CD13 mRNA expression by small interfering RNA induced NDRG-1, ME491/CD63, and DPIV/CD26 mRNA expression in cells of the undifferentiated thyroid carcinoma cell line C643. We conclude that APN/CD13-associated down-regulation of NDRG-1, ME491/CD63, and DPIV/CD26 in thyroid carcinoma cells is an important step of tumor progression to more malignant phenotypes, and we underline the important role of APN/CD13 as mediator in a multimolecular process regulating cell migration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kehlen</LastName>
+                    <ForeName>Astrid</ForeName>
+                    <Initials>A</Initials>
+                    <Affiliation>Institute of Medical Immunology, University of Halle-Wittenberg, Halle, Germany. astris.kehlen@medizin.uni-halle.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lendeckel</LastName>
+                    <ForeName>Uwe</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dralle</LastName>
+                    <ForeName>Henning</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Langner</LastName>
+                    <ForeName>Jürgen</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoang-Vu</LastName>
+                    <ForeName>Cuong</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Res</MedlineTA>
+            <NlmUniqueID>2984705R</NlmUniqueID>
+            <ISSNLinking>0008-5472</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62229-50-9</RegistryNumber>
+                <NameOfSubstance>Epidermal Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.11.2</RegistryNumber>
+                <NameOfSubstance>Antigens, CD13</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.14.5</RegistryNumber>
+                <NameOfSubstance>Dipeptidyl Peptidase 4</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD13</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Carcinoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Movement</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dipeptidyl Peptidase 4</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidermal Growth Factor</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Thyroid Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14679016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

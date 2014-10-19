@@ -1,0 +1,505 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22957045</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nitric oxide synthase and breast cancer: role of TIMP-1 in NO-mediated Akt activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e44081</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0044081</ELocationID>
+            <Abstract>
+                <AbstractText>Prediction of therapeutic response and cancer patient survival can be improved by the identification of molecular markers including tumor Akt status. A direct correlation between NOS2 expression and elevated Akt phosphorylation status has been observed in breast tumors. Tissue inhibitor matrix metalloproteinase-1 (TIMP-1) has been proposed to exert oncogenic properties through CD63 cell surface receptor pathway initiation of pro-survival PI3k/Akt signaling. We employed immunohistochemistry to examine the influence of TIMP-1 on the functional relationship between NOS2 and phosphorylated Akt in breast tumors and found that NOS2-associated Akt phosphorylation was significantly increased in tumors expressing high TIMP-1, indicating that TIMP-1 may further enhance NO-induced Akt pathway activation. Moreover, TIMP-1 silencing by antisense technology blocked NO-induced PI3k/Akt/BAD phosphorylation in cultured MDA-MB-231 human breast cancer cells. TIMP-1 protein nitration and TIMP-1/CD63 co-immunoprecipitation was observed at NO concentrations that induced PI3k/Akt/BAD pro-survival signaling. In the survival analysis, elevated tumor TIMP-1 predicted poor patient survival. This association appears to be mainly restricted to tumors with high NOS2 protein. In contrast, TIMP-1 did not predict poor survival in patient tumors with low NOS2 expression. In summary, our findings suggest that tumors with high TIMP-1 and NOS2 behave more aggressively by mechanisms that favor Akt pathway activation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ridnour</LastName>
+                    <ForeName>Lisa A</ForeName>
+                    <Initials>LA</Initials>
+                    <Affiliation>Radiation Biology Branch, National Cancer Institute, Bethesda, Maryland, United States of America. ridnourl@mail.nih.gov</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barasch</LastName>
+                    <ForeName>Kimberly M</ForeName>
+                    <Initials>KM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Windhausen</LastName>
+                    <ForeName>Alisha N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorsey</LastName>
+                    <ForeName>Tiffany H</ForeName>
+                    <Initials>TH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lizardo</LastName>
+                    <ForeName>Michael M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yfantis</LastName>
+                    <ForeName>Harris G</ForeName>
+                    <Initials>HG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Dong H</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Switzer</LastName>
+                    <ForeName>Christopher H</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Robert Y S</ForeName>
+                    <Initials>RY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heinecke</LastName>
+                    <ForeName>Julie L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brueggemann</LastName>
+                    <ForeName>Ernst</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hines</LastName>
+                    <ForeName>Harry B</ForeName>
+                    <Initials>HB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khanna</LastName>
+                    <ForeName>Chand</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glynn</LastName>
+                    <ForeName>Sharon A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ambs</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wink</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Intramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD36</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Oligonucleotides, Antisense</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>TIMP1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tissue Inhibitor of Metalloproteinase-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>31C4KY9ESH</RegistryNumber>
+                <NameOfSubstance>Nitric Oxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.13.39</RegistryNumber>
+                <NameOfSubstance>Nitric Oxide Synthase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance>Proto-Oncogene Proteins c-akt</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mutat Res. 2008 Jul-Aug;659(1-2):15-30</RefSource>
+                <PMID Version="1">18485806</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nitric Oxide. 2008 Sep;19(2):65-7</RefSource>
+                <PMID Version="1">18638716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Cancer Res. 2008;101:45-61</RefSource>
+                <PMID Version="1">19055942</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 2009 Jan;321(1-2):95-102</RefSource>
+                <PMID Version="1">18830569</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Biochem Cell Biol. 2009 May;41(5):1102-15</RefSource>
+                <PMID Version="1">19010442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2009;4(2):e4531</RefSource>
+                <PMID Version="1">19225562</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2009 Jun;28(1-2):35-49</RefSource>
+                <PMID Version="1">19169797</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Breast Cancer Res Treat. 2009 Sep;117(1):31-44</RefSource>
+                <PMID Version="1">18787947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2009 Oct 29;28(43):3837-46</RefSource>
+                <PMID Version="1">19701246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Mol Diagn. 2010 Jan;10(1):75-87</RefSource>
+                <PMID Version="1">20014924</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bone. 2010 Jul;47(1):102-10</RefSource>
+                <PMID Version="1">20362703</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Bone Joint Surg Am. 2010 Jul 21;92(8):1738-46</RefSource>
+                <PMID Version="1">20660237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Carcinogenesis. 2010 Sep;31(9):1669-75</RefSource>
+                <PMID Version="1">20584750</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Invest. 2010 Nov;120(11):3843-54</RefSource>
+                <PMID Version="1">20978357</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Cycle. 2011 Feb 15;10(4):619-24</RefSource>
+                <PMID Version="1">21293193</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Physiol. 2012 Jun;227(6):2767-74</RefSource>
+                <PMID Version="1">21928345</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2012 May 1;72(9):2394-404</RefSource>
+                <PMID Version="1">22436383</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hepatology. 2012 Sep;56(3):1074-85</RefSource>
+                <PMID Version="1">22407827</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(9):e44156</RefSource>
+                <PMID Version="1">22970173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 1999 Dec 15;59(24):6267-75</RefSource>
+                <PMID Version="1">10626822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2000 Apr 14;275(15):11341-7</RefSource>
+                <PMID Version="1">10753947</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2000 Dec;6(12):4768-75</RefSource>
+                <PMID Version="1">11156233</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2002 Feb 12;86(4):540-5</RefSource>
+                <PMID Version="1">11870534</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Am Coll Cardiol. 2002 Jun 19;39(12):1943-50</RefSource>
+                <PMID Version="1">12084592</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2003 Jun 15;372(Pt 3):767-74</RefSource>
+                <PMID Version="1">12639219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2003 Oct 15;290(1):38-48</RefSource>
+                <PMID Version="1">14516786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gynecol Oncol. 2004 Mar;92(3):806-12</RefSource>
+                <PMID Version="1">14984945</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Mar 12;279(11):9758-64</RefSource>
+                <PMID Version="1">14701803</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jun 15;101(24):8894-9</RefSource>
+                <PMID Version="1">15178764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2004 Oct 15;10(20):6779-88</RefSource>
+                <PMID Version="1">15501954</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chem Res Toxicol. 1994 Jul-Aug;7(4):519-25</RefSource>
+                <PMID Version="1">7981416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1996 May 14;93(10):4736-41</RefSource>
+                <PMID Version="1">8643472</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer. 2005 Jan;41(2):265-71</RefSource>
+                <PMID Version="1">15661552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2005 Feb 1;65(3):898-906</RefSource>
+                <PMID Version="1">15705888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oral Oncol. 2005 Mar;41(3):261-7</RefSource>
+                <PMID Version="1">15743688</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13147-52</RefSource>
+                <PMID Version="1">16141331</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2006 Apr 6;25(15):2273-84</RefSource>
+                <PMID Version="1">16288205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Metastasis Rev. 2006 Mar;25(1):99-113</RefSource>
+                <PMID Version="1">16680576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2006 Sep 6;25(17):3934-42</RefSource>
+                <PMID Version="1">16917503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Cancer. 2006 Oct 23;95(8):1114-20</RefSource>
+                <PMID Version="1">17047657</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2006 Dec 1;12(23):7054-8</RefSource>
+                <PMID Version="1">17114213</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Dermatol Sci. 2007 Jan;45(1):37-44</RefSource>
+                <PMID Version="1">17145168</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2007 Feb 15;120(4):796-805</RefSource>
+                <PMID Version="1">17096325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Res. 2007 Jan 1;67(1):289-99</RefSource>
+                <PMID Version="1">17210710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncogene. 2007 Mar 22;26(13):1875-84</RefSource>
+                <PMID Version="1">16983333</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 2007 May 15;109(10):1933-9</RefSource>
+                <PMID Version="1">17407159</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2007 Jul 15;13(14):4117-22</RefSource>
+                <PMID Version="1">17634538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2007 Oct 23;104(43):16898-903</RefSource>
+                <PMID Version="1">17942699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Lett. 2008 Jan 29;115(2):126-30</RefSource>
+                <PMID Version="1">18054391</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Head Neck. 2008 Feb;30(2):208-14</RefSource>
+                <PMID Version="1">17657783</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Acta Oncol. 2008;47(4):580-90</RefSource>
+                <PMID Version="1">18465326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2008 Jun 1;26(16):2653-8</RefSource>
+                <PMID Version="1">18443351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Signal. 2008;1(27):re6</RefSource>
+                <PMID Version="1">18612141</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nitric Oxide. 2008 Sep;19(2):73-6</RefSource>
+                <PMID Version="1">18472020</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Opin Ther Targets. 2008 Sep;12(9):1139-65</RefSource>
+                <PMID Version="1">18694380</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD36</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Enzyme Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Enzymologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nitric Oxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nitric Oxide Synthase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oligonucleotides, Antisense</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proto-Oncogene Proteins c-akt</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tissue Inhibitor of Metalloproteinase-1</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3434220</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0044081</ArticleId>
+            <ArticleId IdType="pii">PONE-D-11-25630</ArticleId>
+            <ArticleId IdType="pubmed">22957045</ArticleId>
+            <ArticleId IdType="pmc">PMC3434220</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

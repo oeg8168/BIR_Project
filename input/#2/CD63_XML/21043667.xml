@@ -1,0 +1,100 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">21043667</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>03</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0953-7104</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>5-6</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Platelets</Title>
+                <ISOAbbreviation>Platelets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential secretion of blood platelet storage granules.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>313-20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/09537109609023594</ELocationID>
+            <Abstract>
+                <AbstractText>Platelets contain three types of secretory granules, dense granules, α-granules and lysosomes, which are characterized by their different contents. Dense granule and α-granule secretion appear to be similar in responsiveness to dose and types of agonists, whereas lysosomal secretion is observed only with higher doses of strong agonists such as thrombin. Recently, with the advent of flow cytometry, surface expression of membrane granule proteins, which are claimed to be specific for granule type, has come into use as a monitor for secretion. Expression of CD62 (PADGEM) in particular has become synonymous with α-granule secretion, based on comparisons with measurements of β-thromboglobulin release by a method in which secretion is not stopped by fixation. We have now developed an immunoassay for fibrinogen that tolerates fixation stopping and have compared the release of dense and α-granule markers in the same platelet supernatants with the expression of CD62 and CD63 in gel-filtered platelets. At thrombin concentrations less than 0.04 U/ml, secretion of α-granule fibrinogen was both more rapid and quantitatively greater than that of dense granule serotonin, ATP and ADP. Comparison of the secretion of granule markers (contents) with the expression of granule membrane markers on the platelet surface showed that surface expression of CD62 (P-selectin, PADGEM) corresponded to fibrinogen secretion, and CD63 correlated reasonably well with the release of dense granule contents. Pretreatment of platelets with acetylsalicylic acid (ASA) before gel-filtration moderately inhibited thrombin-induced dense and α-granule release in GFP at a concentration range of 0.01-0.03 U/ml. The agonist effect of a thrombin receptor agonist peptide (TRAP) was comparable to that of thrombin with respect to all measured markers except for β-hexosaminidase release, which was significantly less with TRAP.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mirlashari</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                    <Affiliation>Department of Biochemistry and Molecular Biology, University of Bergen, Bergen, Norway.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryningen</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikkelsen</LastName>
+                    <ForeName>H M</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukami</LastName>
+                    <ForeName>M H</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Platelets</MedlineTA>
+            <NlmUniqueID>9208117</NlmUniqueID>
+            <ISSNLinking>0953-7104</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/09537109609023594</ArticleId>
+            <ArticleId IdType="pubmed">21043667</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

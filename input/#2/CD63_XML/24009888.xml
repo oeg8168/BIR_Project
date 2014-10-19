@@ -1,0 +1,159 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24009888</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2001-3078</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of extracellular vesicles</Title>
+                <ISOAbbreviation>J Extracell Vesicles</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extracellular Vesicle (EV) Array: microarray capturing of exosomes and other extracellular vesicles for multiplexed phenotyping.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3402/jev.v2i0.20920</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Exosomes are one of the several types of cell-derived vesicles with a diameter of 30-100 nm. These extracellular vesicles are recognized as potential markers of human diseases such as cancer. However, their use in diagnostic tests requires an objective and high-throughput method to define their phenotype and determine their concentration in biological fluids. To identify circulating as well as cell culture-derived vesicles, the current standard is immunoblotting or a flow cytometrical analysis for specific proteins, both of which requires large amounts of purified vesicles.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Based on the technology of protein microarray, we hereby present a highly sensitive Extracellular Vesicle (EV) Array capable of detecting and phenotyping exosomes and other extracellular vesicles from unpurified starting material in a high-throughput manner. To only detect the exosomes captured on the EV Array, a cocktail of antibodies against the tetraspanins CD9, CD63 and CD81 was used. These antibodies were selected to ensure that all exosomes captured are detected, and concomitantly excluding the detection of other types of microvesicles.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The limit of detection (LOD) was determined on exosomes derived from the colon cancer cell line LS180. It clarified that supernatant from only approximately 10(4) cells was needed to obtain signals or that only 2.5??10(4) exosomes were required for each microarray spot (~1 nL). Phenotyping was performed on plasma (1-10 µL) from 7 healthy donors, which were applied to the EV Array with a panel of antibodies against 21 different cellular surface antigens and cancer antigens. For each donor, there was considerable heterogeneity in the expression levels of individual markers. The protein profiles of the exosomes (defined as positive for CD9, CD63 and CD81) revealed that only the expression level of CD9 and CD81 was approximately equal in the 7 donors. This implies questioning the use of CD63 as a standard exosomal marker since the expression level of this tetraspanin was considerably lower.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jørgensen</LastName>
+                    <ForeName>Malene</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Clinical Immunology, Aalborg University Hospital, Aalborg, Denmark.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bæk</LastName>
+                    <ForeName>Rikke</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pedersen</LastName>
+                    <ForeName>Shona</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Søndergaard</LastName>
+                    <ForeName>Evo K L</ForeName>
+                    <Initials>EK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kristensen</LastName>
+                    <ForeName>Søren R</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Varming</LastName>
+                    <ForeName>Kim</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Sweden</Country>
+            <MedlineTA>J Extracell Vesicles</MedlineTA>
+            <NlmUniqueID>101610479</NlmUniqueID>
+            <ISSNLinking>2001-3078</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3760630</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">EV Array</Keyword>
+            <Keyword MajorTopicYN="N">antigenic capturing</Keyword>
+            <Keyword MajorTopicYN="N">exosomes</Keyword>
+            <Keyword MajorTopicYN="N">extracellular vesicles</Keyword>
+            <Keyword MajorTopicYN="N">nanoparticle tracking analysis</Keyword>
+            <Keyword MajorTopicYN="N">phenotyping</Keyword>
+            <Keyword MajorTopicYN="N">plasma</Keyword>
+            <Keyword MajorTopicYN="N">protein microarray</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3402/jev.v2i0.20920</ArticleId>
+            <ArticleId IdType="pii">20920</ArticleId>
+            <ArticleId IdType="pubmed">24009888</ArticleId>
+            <ArticleId IdType="pmc">PMC3760630</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

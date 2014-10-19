@@ -1,0 +1,366 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">8207055</PMID>
+        <DateCreated>
+            <Year>1994</Year>
+            <Month>07</Month>
+            <Day>12</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>07</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9525</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>125</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of cell biology</Title>
+                <ISOAbbreviation>J. Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transport and intracellular distribution of MHC class II molecules and associated invariant chain in normal and antigen-processing mutant cell lines.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1225-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have compared the intracellular transport and subcellular distribution of MHC class II-invariant chain complexes in a wild-type HLA-DR3 homozygous cell line and a mutant cell line, T2.DR3. The latter has a defect in antigen processing and accumulates HLA-DR3 molecules associated with an invariant chain-derived peptide (CLIP) rather than the normal complement of peptides derived from endocytosed proteins. We find that in the wild-type cells, CLIP is transiently associated with HLA-DR3 molecules, suggesting that the peptide is a normal class II-associated intermediate generated during proteolysis of the invariant chain. In the mutant cell line proteolysis of the invariant chain is less efficient, and HLA-DR3/CLIP complexes are generated much more slowly. Examination of the mutant cell line by immunoelectronmicroscopy shows that class II-invariant chain complexes accumulate intracellularly in large acidic vesicles which contain lysosomal markers, including beta-hexosaminidase, cathepsin D, and the lysosomal membrane protein CD63. The markers in these vesicles are identical to those seen in the class II-containing vesicles (MIICs) seen in the wild-type cells but the morphology is drastically different. The vesicles in the mutant cells are endocytic, as measured by the internalization of BSA-gold conjugates. The implication of these findings for antigen processing in general and the nature of the mutation in particular are discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Riberdy</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                    <Affiliation>Section of Immunobiology, Howard Hughes Medical Institute, Yale University School of Medicine, New Haven, Connecticut 06510.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Avva</LastName>
+                    <ForeName>R R</ForeName>
+                    <Initials>RR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geuze</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cresswell</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AI23081</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NWO PG 900-523-094</GrantID>
+                    <Acronym>PG</Acronym>
+                    <Agency>OAPP OPHS HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>J Cell Biol</MedlineTA>
+            <NlmUniqueID>0375356</NlmUniqueID>
+            <ISSNLinking>0021-9525</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, Differentiation, B-Lymphocyte</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>HLA-DR3 Antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>invariant chain</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1988 Jun;85(11):3975-9</RefSource>
+                <PMID Version="1">3287381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Oct 15;151(8):4153-63</RefSource>
+                <PMID Version="1">8409392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 1989 Mar;24(3):153-63</RefSource>
+                <PMID Version="1">2925452</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1989;7:601-24</RefSource>
+                <PMID Version="1">2469442</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Jan 4;343(6253):71-4</RefSource>
+                <PMID Version="1">1967485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Today. 1990 Jan;11(1):28-32</RefSource>
+                <PMID Version="1">2405876</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Jun 14;345(6276):615-8</RefSource>
+                <PMID Version="1">2190094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1990 Sep;111(3):839-55</RefSource>
+                <PMID Version="1">2391366</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1990 Nov 16;63(4):707-16</RefSource>
+                <PMID Version="1">2121367</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1990 Dec 13;348(6302):600-5</RefSource>
+                <PMID Version="1">2250716</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1991 Jan 25;64(2):393-401</RefSource>
+                <PMID Version="1">1899049</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1991 Feb 15;266(5):3239-45</RefSource>
+                <PMID Version="1">1993697</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Feb 21;349(6311):669-76</RefSource>
+                <PMID Version="1">1847504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 Aug 27;358(6389):764-8</RefSource>
+                <PMID Version="1">1380674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1970 Aug 15;227(5259):680-5</RefSource>
+                <PMID Version="1">5432063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Immunol. 1979 Jan;16(1):51-60</RefSource>
+                <PMID Version="1">376435</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1982 Dec;129(6):2564-9</RefSource>
+                <PMID Version="1">6982931</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1984 Aug;81(15):4838-42</RefSource>
+                <PMID Version="1">6146980</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cell Biol. 1985 Jul;38(1):87-93</RefSource>
+                <PMID Version="1">4029177</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1985 Oct 1;162(4):1371-6</RefSource>
+                <PMID Version="1">3930653</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 1984;2:395-428</RefSource>
+                <PMID Version="1">6242349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1987 Nov 1;166(2):368-79</RefSource>
+                <PMID Version="1">2449095</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1991 Apr;113(1):123-35</RefSource>
+                <PMID Version="1">2007617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3150-4</RefSource>
+                <PMID Version="1">2014234</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 May 1;173(5):1099-109</RefSource>
+                <PMID Version="1">2022921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1991 Jul 15;88(14):5998-6002</RefSource>
+                <PMID Version="1">2068076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Sep 12;353(6340):134-9</RefSource>
+                <PMID Version="1">1891045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Oct 17;353(6345):622-7</RefSource>
+                <PMID Version="1">1656276</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1991 Dec 5;354(6352):392-4</RefSource>
+                <PMID Version="1">1956401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1992 Feb;11(2):411-6</RefSource>
+                <PMID Version="1">1311249</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Apr 15;148(8):2586-90</RefSource>
+                <PMID Version="1">1373173</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1992 Jun 1;148(11):3478-82</RefSource>
+                <PMID Version="1">1588042</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Jun 26;256(5065):1817-20</RefSource>
+                <PMID Version="1">1319610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1992 Aug;11(8):2841-7</RefSource>
+                <PMID Version="1">1639058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1992 Dec 3;360(6403):474-7</RefSource>
+                <PMID Version="1">1448172</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1992 Dec 11;258(5089):1801-4</RefSource>
+                <PMID Version="1">1465617</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1993 Mar 1;177(3):583-96</RefSource>
+                <PMID Version="1">8436902</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1993 Oct 15;151(8):3988-98</RefSource>
+                <PMID Version="1">8409381</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1988 Dec;107(6 Pt 2):2491-501</RefSource>
+                <PMID Version="1">2849607</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen Presentation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Antigens, Differentiation, B-Lymphocyte</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Frozen Sections</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HLA-DR3 Antigen</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Homozygote</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Immunoelectron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC2290929</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8207055</ArticleId>
+            <ArticleId IdType="pmc">PMC2290929</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

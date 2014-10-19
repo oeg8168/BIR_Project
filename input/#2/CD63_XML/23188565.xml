@@ -1,0 +1,471 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23188565</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>14</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1534-6315</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current allergy and asthma reports</Title>
+                <ISOAbbreviation>Curr Allergy Asthma Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Update on the performance and application of basophil activation tests.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11882-012-0324-x</ELocationID>
+            <Abstract>
+                <AbstractText>The basophil activation test (BAT) is a flow-cytometry-based functional assay that assesses the degree of cell activation after exposure to a stimuli. Though no standardized technique currently exists, recent advances have improved the performance of this assay, including identification of new basophil-specific markers and comparisons of the expression of CD63 to CD203c during activation. The basophil activation test has also been validated for many IgE-mediated disease conditions, which have been extensively reviewed elsewhere. This review focuses on the most recent applications of this test to the diagnosis of allergy to drugs, foods, venoms, and pollens, and the evolving role of the BAT in monitoring immunotherapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McGowan</LastName>
+                    <ForeName>Emily C</ForeName>
+                    <Initials>EC</Initials>
+                    <Affiliation>Division of Allergy and Clinical Immunology, Johns Hopkins Asthma and Allergy Center, 5501 Hopkins Bayview Circle, Baltimore, MD 21224, USA. emcgowa4@jhmi.edu</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saini</LastName>
+                    <ForeName>Sarbjit</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 AI088604</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Allergy Asthma Rep</MedlineTA>
+            <NlmUniqueID>101096440</NlmUniqueID>
+            <ISSNLinking>1529-7322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>ENPP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.-</RegistryNumber>
+                <NameOfSubstance>Phosphoric Diester Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance>Pyrophosphatases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Res. 2005 May;15(5):325-35</RefSource>
+                <PMID Version="1">15916720</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Immunopathol Pharmacol. 2007 Apr-Jun;20(2):267-78</RefSource>
+                <PMID Version="1">17624239</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2007 Nov;37(11):1668-75</RefSource>
+                <PMID Version="1">17868401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2007;17(6):357-60</RefSource>
+                <PMID Version="1">18088016</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2008 Feb;63(2):233-6</RefSource>
+                <PMID Version="1">18186814</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2008 Jun;38(6):921-8</RefSource>
+                <PMID Version="1">18331364</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy Asthma Proc. 2008 May-Jun;29(3):241-9</RefSource>
+                <PMID Version="1">18534081</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2008 Jul;38(7):1239-40</RefSource>
+                <PMID Version="1">18477015</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2009 Feb;64(2):234-41</RefSource>
+                <PMID Version="1">19178403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2009;19(2):91-109</RefSource>
+                <PMID Version="1">19476013</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Wien Klin Wochenschr. 2009;121(9-10):344-8</RefSource>
+                <PMID Version="1">19562299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2009 Aug;39(8):1217-24</RefSource>
+                <PMID Version="1">19400910</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2009 Aug;39(8):1234-45</RefSource>
+                <PMID Version="1">19549026</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2009 Sep;64(9):1319-26</RefSource>
+                <PMID Version="1">19243362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2009 Sep;64(9):1388-9</RefSource>
+                <PMID Version="1">19392999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2009;150(3):261-70</RefSource>
+                <PMID Version="1">19494523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2009 Nov;39(11):1730-7</RefSource>
+                <PMID Version="1">19689457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2009;19(6):465-73</RefSource>
+                <PMID Version="1">20128421</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2010 Mar;40(3):411-8</RefSource>
+                <PMID Version="1">20082620</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2010 Apr;65(4):531-2</RefSource>
+                <PMID Version="1">19839979</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2010 Apr;65(4):535-6</RefSource>
+                <PMID Version="1">19845576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2010 Apr;40(4):688; author reply 689-90</RefSource>
+                <PMID Version="1">20447080</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2010 Jun;40(6):953; author reply 954</RefSource>
+                <PMID Version="1">20557552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2010 Sep;40(9):1333-45</RefSource>
+                <PMID Version="1">20545702</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2010 Sep;40(9):1365-77</RefSource>
+                <PMID Version="1">20633031</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Dermatol. 2010 Oct;35(7):765-70</RefSource>
+                <PMID Version="1">19874355</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Arch Immunol Ther Exp (Warsz). 2010 Dec;58(6):459-65</RefSource>
+                <PMID Version="1">20872290</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2010 Sep;78(5):308-18</RefSource>
+                <PMID Version="1">20533392</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Jan;66(1):85-91</RefSource>
+                <PMID Version="1">20608915</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Jan;66(1):92-100</RefSource>
+                <PMID Version="1">20608919</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Feb;66(2):247-54</RefSource>
+                <PMID Version="1">20722637</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2010;20(6):535-6</RefSource>
+                <PMID Version="1">21243941</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2011 Feb;127(2):531-533.e1-3</RefSource>
+                <PMID Version="1">21094523</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Allergy Asthma Immunol. 2011 Mar;106(3):258-9</RefSource>
+                <PMID Version="1">21354029</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Allergy Asthma Immunol. 2011 May;106(5):387-93</RefSource>
+                <PMID Version="1">21530870</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2011;21(3):179-84</RefSource>
+                <PMID Version="1">21548445</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2011;155(3):257-62</RefSource>
+                <PMID Version="1">21293144</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2011 Jul;242(1):144-60</RefSource>
+                <PMID Version="1">21682743</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunotherapy. 2011 Aug;3(8):1013-7</RefSource>
+                <PMID Version="1">21843104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Nov;66(11):1497-9</RefSource>
+                <PMID Version="1">21752028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2011 Dec;66(12):1530-7</RefSource>
+                <PMID Version="1">21883279</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Exp Allergy. 2011 Nov;41(11):1643-52</RefSource>
+                <PMID Version="1">21955222</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2011 Dec;128(6):1259-1265.e2</RefSource>
+                <PMID Version="1">21794906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Rhinol Allergy. 2011 Nov-Dec;25(6):e225-31</RefSource>
+                <PMID Version="1">22185730</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2012 Feb;67(2):280-5</RefSource>
+                <PMID Version="1">22070352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2011;21(7):527-31</RefSource>
+                <PMID Version="1">22312936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2012;157(3):299-302</RefSource>
+                <PMID Version="1">22041525</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pediatr Allergy Immunol. 2012 Mar;23(2):166-72</RefSource>
+                <PMID Version="1">22136583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2012;22(1):65-6</RefSource>
+                <PMID Version="1">22448457</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Allergy Asthma Immunol. 2012 Apr;108(4):286-7</RefSource>
+                <PMID Version="1">22469455</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Allergy Asthma Immunol. 2012 May;108(5):367-72</RefSource>
+                <PMID Version="1">22541410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2012 May;129(5):1404-6</RefSource>
+                <PMID Version="1">22464646</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2012 Jun;67(6):822-30</RefSource>
+                <PMID Version="1">22469017</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2012 Jul;67(7):962-5</RefSource>
+                <PMID Version="1">22676063</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2012 Jul;130(1):155-61</RefSource>
+                <PMID Version="1">22421265</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2012 Jul;130(1):215-24.e7</RefSource>
+                <PMID Version="1">22677046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2012;159(3):243-52</RefSource>
+                <PMID Version="1">22722613</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2013 Jan;131(1):180-6.e1-3</RefSource>
+                <PMID Version="1">22819512</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2001 May 15;97(10):3303-5</RefSource>
+                <PMID Version="1">11342463</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2004 Apr;113(4):771-5</RefSource>
+                <PMID Version="1">15100686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Med. 1968 Apr;44(4):514-24</RefSource>
+                <PMID Version="1">4171086</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1976 Sep;58(3):432-7</RefSource>
+                <PMID Version="1">61221</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1978 Jul 27;299(4):157-61</RefSource>
+                <PMID Version="1">78446</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fed Proc. 1983 May 15;42(8):2510-5</RefSource>
+                <PMID Version="1">6840300</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1986 Jan 10;255(2):225-9</RefSource>
+                <PMID Version="1">2416958</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AJR Am J Roentgenol. 1989 May;152(5):939-44</RefSource>
+                <PMID Version="1">2495706</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Radiology. 1990 Jun;175(3):621-8</RefSource>
+                <PMID Version="1">2343107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 1991 Sep;88(3 Pt 1):328-38</RefSource>
+                <PMID Version="1">1716273</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 1996 Feb 27;219(3):740-4</RefSource>
+                <PMID Version="1">8645251</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1996 Dec 1;88(11):4090-101</RefSource>
+                <PMID Version="1">8943842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1999 Oct 1;94(7):2343-56</RefSource>
+                <PMID Version="1">10498606</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Pharmacol Exp Ther. 2005 Feb;312(2):627-34</RefSource>
+                <PMID Version="1">15388786</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hypersensitivity, Immediate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Immunologic Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphoric Diester Hydrolases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pyrophosphatases</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS424839</OtherID>
+        <OtherID Source="NLM">PMC4078398</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s11882-012-0324-x</ArticleId>
+            <ArticleId IdType="pubmed">23188565</ArticleId>
+            <ArticleId IdType="pmc">PMC4078398</ArticleId>
+            <ArticleId IdType="mid">NIHMS424839</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,177 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20553222</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1029-2470</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>44</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Free radical research</Title>
+                <ISOAbbreviation>Free Radic. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effect of tert-butyl hydroperoxide on hepatic transcriptome expression patterns in the striped sea bream (Lithognathus mormyrus; Teleostei).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>991-1003</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/10715762.2010.492831</ELocationID>
+            <Abstract>
+                <AbstractText>The study was aimed at examining the effects of tert-butyl hydroperoxide (tBHP) on hepatic transcriptome expression patterns of the teleost fish Lithognathus mormyrus. tBHP is an organic hydro-peroxide, widely used as a model pro-oxidant. It generates the reactive oxygen species (ROS) tert-butoxyl and tert-butylperoxyl. Complementary DNAs of tBHP-treated vs control fish were applied onto a previously produced cDNA microarray of approximately 1500 unique sequences. The effects of the tBHP application were demonstrated by leukocyte infiltration into the liver and by differential expression of various genes, some already known to be involved in ROS-related responses. Indicator genes of putative ROS effects were: aldehyde dehydrogenase 3A2, Heme oxygenase and the hemopexin-like protein. Putative indicators of transendothelial leukocyte migration and function were: p22phox, Rac1 and CD63-like genes. Interestingly, 7-dehydrocholesterol reductase was significantly down-regulated in response to all treatments. Several non-annotated genes revealed uniform directions of differential expression in response to all treatments.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Auslander</LastName>
+                    <ForeName>Meirav</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Israel Oceanographic and Limnological Research, Haifa, Israel.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neumann</LastName>
+                    <ForeName>Peter M</ForeName>
+                    <Initials>PM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tom</LastName>
+                    <ForeName>Moshe</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Evaluation Studies</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Free Radic Res</MedlineTA>
+            <NlmUniqueID>9423872</NlmUniqueID>
+            <ISSNLinking>1029-2470</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Reactive Oxygen Species</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>955VYL842B</RegistryNumber>
+                <NameOfSubstance>tert-Butylhydroperoxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.3.-</RegistryNumber>
+                <NameOfSubstance>Oxidoreductases Acting on CH-CH Group Donors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.3.1.21</RegistryNumber>
+                <NameOfSubstance>7-dehydrocholesterol reductase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipid Metabolism</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microarray Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxidoreductases Acting on CH-CH Group Donors</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Reactive Oxygen Species</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sea Bream</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">tert-Butylhydroperoxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.3109/10715762.2010.492831</ArticleId>
+            <ArticleId IdType="pubmed">20553222</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

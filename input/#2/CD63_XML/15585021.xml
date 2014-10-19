@@ -1,0 +1,155 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15585021</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-9007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>87</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vox sanguinis</Title>
+                <ISOAbbreviation>Vox Sang.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlation between the extent of platelet activation in platelet concentrates and in vitro and in vivo parameters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>257-63</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND OBJECTIVES" NlmCategory="OBJECTIVE">Platelet activation, which is necessary to stop bleeding, also occurs in vitro during the storage of platelet concentrates (PCs). However, it is unknown whether in vitro-activated platelets are able to reduce blood loss in the patient. We studied correlations between platelet activation in PCs and in vitro parameters (pH, platelet count, swirling effect, storage time). In addition, we studied the correlation between platelet activation and in vivo parameters [the volume of thorax drain fluid as a measure of blood loss, platelet count, international normalized ratio (INR), and activated partial thrombin time (APTT)] in a clinical pilot study.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">White blood cell-reduced PCs prepared from five buffy coats and one plasma unit (n = 55; storage time: median, 5 days; range, 2-12 days) were sampled. Platelet activation (CD62p, CD63, CD42b), as measured by flow cytometry, pH, platelet count, swirling effect and storage time, was determined. For the in vivo pilot study, PCs (n = 21) stored for 2-7 days were also checked for the above parameters and transfused into patients (n = 21) immediately after coronary artery bypass graft surgery. The volume of thorax drain fluid was measured for up to 12 h after surgery, and the platelet count, INR and APTT were measured &lt; 1 h and 16-24 h postsurgery.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A good correlation (r2 &gt; 0.5) was observed between CD62p and CD63, between CD62p and CD42b, between CD62p or CD63 and pH and between CD62p or CD63 and swirling effect. Also, a significant increase in platelet activation was observed for PCs stored for &gt; or = 8 days (mean +/- standard deviation: CD62p, 41.6 +/- 30.7; CD63, 23.8 +/- 18.6), compared to PCs stored for 2-7 days (mean +/- standard deviation: CD62p, 12.3 +/- 4.8; CD63, 10.4 +/- 3.6). No correlation (r2 &lt; or = 0.1) was observed between platelet activation and the in vivo parameters.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although a correlation between platelet activation and in vitro parameters was observed, no correlation was found between platelet activation and in vivo parameters. Possible explanations for this are a too low variance in platelet activation in transfused PCs, and too small a number of patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dijkstra-Tiekstra</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Affiliation>Sanquin Blood Bank North-west Region, Amsterdam, the Netherlands. m.dijkstra@sanquin.nl</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pietersz</LastName>
+                    <ForeName>R N I</ForeName>
+                    <Initials>RN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huijgens</LastName>
+                    <ForeName>P C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Clinical Trial</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Vox Sang</MedlineTA>
+            <NlmUniqueID>0413606</NlmUniqueID>
+            <ISSNLinking>0042-9007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Artery Bypass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drainage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">International Normalized Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Partial Thromboplastin Time</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Transfusion</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">VOX573</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1423-0410.2004.00573.x</ArticleId>
+            <ArticleId IdType="pubmed">15585021</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

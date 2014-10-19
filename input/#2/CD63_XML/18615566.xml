@@ -1,0 +1,167 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">18615566</PMID>
+        <DateCreated>
+            <Year>2008</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-1136</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Glia</Title>
+                <ISOAbbreviation>Glia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Confocal imaging and tracking of the exocytotic routes for D-serine-mediated gliotransmission.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1271-84</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/glia.20696</ELocationID>
+            <Abstract>
+                <AbstractText>D-Serine is an astrocyte-derived regulator for N-methyl-D-aspartate receptors, but the intracellular routes of its trafficking are still largely unknown. Here, we combined confocal microscopy with colocalization quantification to track the astrocytic organelles that store D-serine. We report that D-serine colocalizes with the transfected eGFP-synaptobrevin/VAMP2 and eGFP-cellubrevin/VAMP3, two v-SNAREs of the regulated secretory pathway. No significant colocalization was found with markers of the endosomal sorting and recycling system: EEA1, eGFP-endobrevin/VAMP8, eGFP-TI-VAMP/VAMP7, LAMP1, and CD63. Blockade of vesicular budding with colchicine shows that secretory vesicles import D-serine downstream to the Golgi apparatus. Finally, treatment of astrocytes with the Ca2+-ionophore A23187, glutamate agonists, or bradykinin trigger translocation of synaptobrevin/VAMP2 to the plasma membrane with a concomitant disappearance of D-serine from the regulated secretory pathway. Our results provide morphological evidence for a vesicular storage of D-serine in the regulated secretory pathway and the possible recruitment of these stores by Ca2+ mobilization to release D-serine.</AbstractText>
+                <CopyrightInformation>(c) 2008 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martineau</LastName>
+                    <ForeName>Magalie</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>CNRS, Institut de Neurobiologie Alfred Fessard, FRC 2118, Laboratoire de Neurobiologie Cellulaire et Moléculaire, UPR 9040, F-91198 Gif-sur-Yvette, France.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galli</LastName>
+                    <ForeName>Thierry</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baux</LastName>
+                    <ForeName>Gérard</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mothet</LastName>
+                    <ForeName>Jean-Pierre</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Glia</MedlineTA>
+            <NlmUniqueID>8806785</NlmUniqueID>
+            <ISSNLinking>0894-1491</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>452VLY9402</RegistryNumber>
+                <NameOfSubstance>Serine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neuroglia</DescriptorName>
+                <QualifierName MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats, Wistar</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Serine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Synaptic Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1002/glia.20696</ArticleId>
+            <ArticleId IdType="pubmed">18615566</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

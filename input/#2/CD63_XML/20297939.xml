@@ -1,0 +1,95 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">20297939</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0953-7104</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>2-3</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Platelets</Title>
+                <ISOAbbreviation>Platelets</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential effects of native and oxidatively modified low-density lipoproteins on platelet function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>163-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/09537109709169333</ELocationID>
+            <Abstract>
+                <AbstractText>Low-density lipoproteins (LDL) have been various reported to induce platelet aggregation independently and/or sensitise platelets to other agonists. In these earlier studies the extent of oxidation of LDL was not always reported or addressed. We have now investigated the effects of native, minimally modified and fully oxidised LDL (0-1gapolipoproteinB(100)/l on platelet function using platelet aggregometry and fluorescence activated flow cytometry. Native LDL did not activate isolated platelets but inhibited ADP- and thrombin-induced aggregation of isolated platelets by 51 % in the presence or absence of added fibrinogen. Longer pre-incubations were required to produce a comparable inhibition by native LDL on platelets in plasma. Flow cytometric analysis showed that native LDL inhibited ADP-induced fibrinogen binding by up to 38%. In contrast, minimally modified LDL induced primary platelet aggregation and fibrinogen binding in the absence of other agonists, enhanced both submaximal (1-2mumol/l) ADP-induced aggregation, fibrinogen binding and degranulation (CD63 and P-selectin expression). Fully oxidised LDL, however, inhibited ADP-induced platelet aggregation and fibrinogen binding. The effects of minimally modified LDL on platelet aggregation could be reproduced partially by adding 15-hydroperoxy-eicosatetraenoic acid to native LDL. These data indicate that the extent of oxidation of LDL is critical in determining their effects on platelet function. Native LDL did not activate platelets, whilst minimally modified LDL exerted a pro-aggregatory effect, possibly due to the presence of lipid hydroperoxides near to the concentration range found in pathological states.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Naseem</LastName>
+                    <ForeName>K M</ForeName>
+                    <Initials>KM</Initials>
+                    <Affiliation>Department of Biochemistry and Molecular Biology, Royal Free Hospital School of Medicine, Rowland Hill Street, London NW3 2PF, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodall</LastName>
+                    <ForeName>A H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bruckdorfer</LastName>
+                    <ForeName>K R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Platelets</MedlineTA>
+            <NlmUniqueID>9208117</NlmUniqueID>
+            <ISSNLinking>0953-7104</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1080/09537109709169333</ArticleId>
+            <ArticleId IdType="pubmed">20297939</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

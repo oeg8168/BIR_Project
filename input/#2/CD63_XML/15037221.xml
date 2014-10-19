@@ -1,0 +1,179 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15037221</PMID>
+        <DateCreated>
+            <Year>2004</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1567-5769</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International immunopharmacology</Title>
+                <ISOAbbreviation>Int. Immunopharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sulfur mustard primes phagocytosis and degranulation in human polymorphonuclear leukocytes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>437-45</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Sulfur mustard (2,2'-bis-chloroethyl-sulfide; SM) is a chemical warfare vesicant that causes debilitating skin lesions. Although a great deal of work has focused on the direct effects of SM exposure on the epithelium, it is unclear how much the inflammatory response, induced by exposure, contributes to lesion pathogenesis. Keratinocytes exposed to SM express a number of inflammatory mediators and elicit a cellular infiltrate consisting largely of polymorphonuclear leukocytes (PMN). PMN infiltration into SM lesions occurs as early as 30 min and peaks after several hours postexposure, and, despite the relatively short half-life of SM, PMN infiltrating a lesion could be exposed to micromolar concentrations of the agent. Previously, we have shown that exposure to low doses of sulfur mustard prime oxidative function in human PMN. The current study was undertaken to evaluate the effects of low-dose SM exposure on PMN phagocytosis, degranualtion and chemotaxis. PMN exposed to low doses of SM (50-200 microM) showed a dose-dependent enhancement of phagocytic function. Exocytosis of PMN azurophilic and specific granules [determined by analysis of granule-specific intravesicular receptors, Interleukin 10 receptor (IL-10R) and CD63] was also enhanced by SM exposure. Finally, we examined the effect of SM as a chemoattractant for PMN and show that SM is not itself a chemotaxin. These results suggest that SM injury may, in part, be caused by normal inflammatory function, and that therapeutic strategies aimed at down-regulating PMN activation could lessen the severity of SM injury and the time required for its resolution.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vavra</LastName>
+                    <ForeName>Ashley K</ForeName>
+                    <Initials>AK</Initials>
+                    <Affiliation>Michael E. DeBakey Department of Surgery, Baylor College of Medicine, VAMC Building 110, Research Line 151, 2002 Holcombe Blvd., Houston, TX 77030, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laurent</LastName>
+                    <ForeName>Cecilia J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ngo</LastName>
+                    <ForeName>Vinh</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sweeney</LastName>
+                    <ForeName>John F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levitt</LastName>
+                    <ForeName>Jonathan M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>In Vitro</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Immunopharmacol</MedlineTA>
+            <NlmUniqueID>100965259</NlmUniqueID>
+            <ISSNLinking>1567-5769</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Chemical Warfare Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>T8KEC9FH9P</RegistryNumber>
+                <NameOfSubstance>Mustard Gas</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Degranulation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemical Warfare Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chemotaxis</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Keratinocytes</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mustard Gas</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phagocytosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2003</Year>
+                <Month>Oct</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2003</Year>
+                <Month>Dec</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>Jan</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15037221</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.intimp.2004.01.021</ArticleId>
+            <ArticleId IdType="pii">S1567-5769(04)00049-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

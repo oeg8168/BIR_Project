@@ -1,0 +1,175 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19730003</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-943X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>55</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <MedlineDate>2009 Sep-Oct</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ASAIO journal (American Society for Artificial Internal Organs : 1992)</Title>
+                <ISOAbbreviation>ASAIO J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Increased leukocyte-platelet interactions during circulatory support with left ventricular assist devices.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>459-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/MAT.0b013e3181b235af</ELocationID>
+            <Abstract>
+                <AbstractText>The interaction of circulating monocytes and platelets may contribute to thrombosis and inflammation in heart failure. We studied platelet and monocyte activation in 15 patients with end-stage heart failure who underwent left ventricular assist device (LVAD) placement. Blood samples were collected before and at 3, 7, 14, 21, 30, 60, 90, and 180 days after LVAD implantation. We used flow cytometry to measure the expression of platelet surface glycoprotein receptors, platelet activation markers, monocyte markers, the formation of platelet complexes with monocytes (MPC), granulocytes, and lymphocytes, and platelet glycoprotein (GP) IIIa (PLA1/A2) polymorphism. The average preoperative percentage of CD62P-positive platelets was 27% +/- 17%; CD63-positive platelets, 9.7% +/- 8.1%; thrombospondin-positive platelets, 9.9% +/- 6.8%; and MPCs, 10.3% +/- 4.3%. No significant changes were noted in the percent of activated platelets with the three markers. Percentage of MPCs increased over time and peaked at day 21 (26.3% +/- 10.6%, p = 0.0028). In about 40% of patients, activation markers remained high up to 60 days after implantation. We found a significant positive correlation between MPC and CD14 (R = 0.60, p = 0.011), and a negative correlation between MPC and P-selectin glycoprotein ligand-1 (PSGL-1) (R = -0.84, p &lt; 0.0001), and between CD14 and PSGL-1 (R = -0.46, p = 0.022) indicating monocyte activation. These results indicate increased platelet and monocyte activation and interactions in patients undergoing long-term LVAD support.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Radovancevic</LastName>
+                    <ForeName>Rajko</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Center for Cardiac Support, Texas Heart Institute at St. Luke's Episcopal Hospital, Houston, Texas 77225-0345, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matijevic</LastName>
+                    <ForeName>Nena</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bracey</LastName>
+                    <ForeName>Arthur W</ForeName>
+                    <Initials>AW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Radovancevic</LastName>
+                    <ForeName>Branislav</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elayda</LastName>
+                    <ForeName>MacArthur</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gregoric</LastName>
+                    <ForeName>Igor D</ForeName>
+                    <Initials>ID</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frazier</LastName>
+                    <ForeName>O H</ForeName>
+                    <Initials>OH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ASAIO J</MedlineTA>
+            <NlmUniqueID>9204109</NlmUniqueID>
+            <ISSNLinking>1058-2916</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P-Selectin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart-Assist Devices</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Monocytes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">P-Selectin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Aggregation</DescriptorName>
+                <QualifierName MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Stroke</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1097/MAT.0b013e3181b235af</ArticleId>
+            <ArticleId IdType="pii">00002480-200909000-00007</ArticleId>
+            <ArticleId IdType="pubmed">19730003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,198 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22098244</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1608-3040</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry. Biokhimii͡a</Title>
+                <ISOAbbreviation>Biochemistry Mosc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Contents of mRNAs encoding endosome/lysosome components in normal human aorta and in stage II of atherogenesis: a hidden regulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1178-84</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1134/S0006297911100129</ELocationID>
+            <Abstract>
+                <AbstractText>Contents of mRNAs encoding endosome/lysosome components EEA1, Rab5a, Lamp1, Lamp2, p62 (SQSTM1), and CD63 were measured by quantitative PCR and compared in intact fragments of human aorta and in aorta fragments with atherosclerotic lesions of stage II (fatty streaks) of the same donors. During atherogenesis an increase was detected only in the level of p62 mRNA but not in other mRNAs. Nevertheless, correlation analysis revealed a profound rearrangement of inter-gene correlations: only 30% of correlations found in the fatty streaks coincided with the correlations in normal fragments. Thus, new constellations were formed in fatty streaks concurrently with disappearance of correlations between mRNAs under study and mRNAs encoding factors of lipid accumulation, reverse cholesterol transfer, and some lipid sensors/transcription regulators of lipid metabolism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shchelkunova</LastName>
+                    <ForeName>T A</ForeName>
+                    <Initials>TA</Initials>
+                    <Affiliation>Biological Faculty, Lomonosov Moscow State University, Russia.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albert</LastName>
+                    <ForeName>E A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morozov</LastName>
+                    <ForeName>I A</ForeName>
+                    <Initials>IA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rubtsov</LastName>
+                    <ForeName>P M</ForeName>
+                    <Initials>PM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samokhodskaya</LastName>
+                    <ForeName>L M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sobenin</LastName>
+                    <ForeName>I A</ForeName>
+                    <Initials>IA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orekhov</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smirnov</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry (Mosc)</MedlineTA>
+            <NlmUniqueID>0376536</NlmUniqueID>
+            <ISSNLinking>0006-2979</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>P62 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aorta</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Atherosclerosis</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Autophagy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lipid Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Plaque, Atherosclerotic</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA-Binding Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tunica Intima</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BCM76101444</ArticleId>
+            <ArticleId IdType="doi">10.1134/S0006297911100129</ArticleId>
+            <ArticleId IdType="pubmed">22098244</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

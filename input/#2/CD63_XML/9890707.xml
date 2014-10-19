@@ -1,0 +1,164 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">9890707</PMID>
+        <DateCreated>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>16</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1999</Year>
+            <Month>03</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0272-457X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>17</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hybridoma</Title>
+                <ISOAbbreviation>Hybridoma</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Monoclonal antibody FC-5.01, directed against CD63 antigen, is internalized into cytoplasmic vesicles in the IIB-BR-G human breast cancer cell line.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>517-25</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Monoclonal antibody (MAb) FC-5.01, raised against the undifferentiated breast cancer cell line IIB-BR-G, has been recently shown to react with CD63. The antigen (Ag) recognized by MAb FC-5.01 is expressed in plasma membranes of IIB-BR-G and other neoplastic cells, as well as in activated platelets and endothelial cells, as detected by indirect immunofluorescence performed at 4 degrees C on live cells. In permeabilized cells, MAb FC-5.01 colocalizes with acridine orange in acidic vesicles (lysosomal/endosomal compartment). Scatchard plot analysis performed on IB-BR-G cells demonstrated a 1.4+/-0.4 x 10(7) M(-1) affinity constant and 2.1 x 10(6) antigenic sites per cell. MAb FC-5.01 is not able to mediate C fixation or ADCC toward CD63+ cells, but the FC-5.01-CD63 complex is efficiently internalized into cytoplasmic vesicles, as shown by an acid wash immunofluorescence assay. Cellular catabolism of the antibody bound by IIB-BR-G cells was studied using [125I]-FC-5.01. At 18 h, &gt;70% of the radioactivity was present in the supernatant as degraded fragments (TCA-soluble). After internalization, rapid Ag re-expression could be demonstrated in IIB-BR-G cells. MAb FC-5.01 diminished migration of CD63+ cells in a Boyden chamber assay. Some of the above-mentioned properties would enable the use of MAb FC-5.01 as a vehicle to target different compounds inside CD63+ cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barrio</LastName>
+                    <ForeName>M M</ForeName>
+                    <Initials>MM</Initials>
+                    <Affiliation>Instituto de Investigaciones Bioquímicas Fundación Campomar, Capital Federal, Argentina.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Portela</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mordoh</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Hybridoma</MedlineTA>
+            <NlmUniqueID>8202424</NlmUniqueID>
+            <ISSNLinking>0272-457X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigen-Antibody Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoplasmic Granules</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1999</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9890707</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

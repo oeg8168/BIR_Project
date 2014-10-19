@@ -1,0 +1,220 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24825548</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>07</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>74</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular and cellular cardiology</Title>
+                <ISOAbbreviation>J. Mol. Cell. Cardiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cardiomyocytes mediate anti-angiogenesis in type 2 diabetic rats through the exosomal transfer of miR-320 into endothelial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>139-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yjmcc.2014.05.001</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-2828(14)00154-0</ELocationID>
+            <Abstract>
+                <AbstractText>Exosomes, nano-vesicles naturally released from living cells, have been well recognized to play critical roles in mediating cell-to-cell communication. Given that diabetic hearts exhibit insufficient angiogenesis, it is significant to test whether diabetic cardiomyocyte-derived exosomes possess any capacity in regulating angiogenesis. In this study, we first observed that both proliferation and migration of mouse cardiac endothelial cells (MCECs) were inhibited when co-cultured with cardiomyocytes isolated from adult Goto-Kakizaki (GK) rats, a commonly used animal model of type 2 diabetes. However, GK-myocyte-mediated anti-angiogenic effects were negated upon addition of GW4869, an inhibitor of exosome formation/release, into the co-cultures. Next, exosomes were purified from the myocyte culture supernatants by differential centrifugation. While exosomes derived from GK myocytes (GK-exosomes) displayed similar size and molecular markers (CD63 and CD81) to those originated from the control Wistar rat myocytes (WT-exosomes), their regulatory role in angiogenesis is opposite. We observed that the MCEC proliferation, migration and tube-like formation were inhibited by GK-exosomes, but were promoted by WT-exosomes. Mechanistically, we found that GK-exosomes encapsulated higher levels of miR-320 and lower levels of miR-126 compared to WT-exosomes. Furthermore, GK-exosomes were effectively taken up by MCECs and delivered miR-320. In addition, transportation of miR-320 from myocytes to MCECs could be blocked by GW4869. Importantly, the exosomal miR-320 functionally down-regulated its target genes (IGF-1, Hsp20 and Ets2) in recipient MCECs, and overexpression of miR-320 inhibited MCEC migration and tube formation. GK exosome-mediated inhibitory effects on angiogenesis were removed by knockdown of miR-320. Together, these data indicate that cardiomyocytes exert an anti-angiogenic function in type 2 diabetic rats through exosomal transfer of miR-320 into endothelial cells. Thus, our study provides a novel mechanism underlying diabetes mellitus-induced myocardial vascular deficiency which may be caused by secretion of anti-angiogenic exosomes from cardiomyocyes.</AbstractText>
+                <CopyrightInformation>Copyright © 2014 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiaohong</ForeName>
+                    <Initials>X</Initials>
+                    <Affiliation>Department of Pharmacology and Cell Biophysics, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA. Electronic address: wang2xn@ucmail.uc.edu.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Department of Pathology and Laboratory Medicine, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Guansheng</ForeName>
+                    <Initials>G</Initials>
+                    <Affiliation>Department of Pharmacology and Cell Biophysics, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Wenfeng</ForeName>
+                    <Initials>W</Initials>
+                    <Affiliation>Department of Pathology and Laboratory Medicine, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Millard</LastName>
+                    <ForeName>Ronald W</ForeName>
+                    <Initials>RW</Initials>
+                    <Affiliation>Department of Pharmacology and Cell Biophysics, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yigang</ForeName>
+                    <Initials>Y</Initials>
+                    <Affiliation>Department of Pathology and Laboratory Medicine, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Jiang</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Institute of Biosciences and Technology, Texas A&amp;M Health Science Center, TX, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Tianqing</ForeName>
+                    <Initials>T</Initials>
+                    <Affiliation>Critical Illness Research, Lawson Health Research Institute, Ontario N6A 4G5, Canada.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Guo-Chang</ForeName>
+                    <Initials>GC</Initials>
+                    <Affiliation>Department of Pharmacology and Cell Biophysics, University of Cincinnati College of Medicine, Cincinnati, OH 45267, USA. Electronic address: fangg@ucmail.uc.edu.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2R01HL-087861</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K02 HL098956</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K02HL-098956</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL087861</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL102314</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01HL-102314</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Mol Cell Cardiol</MedlineTA>
+            <NlmUniqueID>0262322</NlmUniqueID>
+            <ISSNLinking>0022-2828</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Mol Cell Cardiol. 2014 Sep;74:196-8</RefSource>
+                <PMID Version="1">24874423</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <OtherID Source="NLM">NIHMS595036 [Available on 09/01/15]</OtherID>
+        <OtherID Source="NLM">PMC4120246 [Available on 09/01/15]</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiomyocytes</Keyword>
+            <Keyword MajorTopicYN="N">Exosomes</Keyword>
+            <Keyword MajorTopicYN="N">Myocardial angiogenesis</Keyword>
+            <Keyword MajorTopicYN="N">Type 2 diabetes</Keyword>
+            <Keyword MajorTopicYN="N">miR-320</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24825548</ArticleId>
+            <ArticleId IdType="pii">S0022-2828(14)00154-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yjmcc.2014.05.001</ArticleId>
+            <ArticleId IdType="pmc">PMC4120246</ArticleId>
+            <ArticleId IdType="mid">NIHMS595036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

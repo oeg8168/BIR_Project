@@ -1,0 +1,214 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">1599482</PMID>
+        <DateCreated>
+            <Year>1992</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>1992</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-291X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>185</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1992</Year>
+                        <Month>May</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical and biophysical research communications</Title>
+                <ISOAbbreviation>Biochem. Biophys. Res. Commun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genomic structure of the ME491/CD63 antigen gene and functional analysis of the 5'-flanking regulatory sequences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>436-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Genomic structure of the ME491/CD63 antigen gene and promoter activity of the 5'-flanking regulatory sequences were studied. The antigen gene consists of eight exons that span 4 kilobase-pairs. Primer extension analysis with RNA from cultured human cells identified three major transcription initiation sites. The 5'-flanking region of exon 1 has features characteristic to promoters of many house-keeping genes and growth-regulating genes. The region is highly GC rich and contains potential binding sites for transcription factors such as Sp1 and ETF, but not a TATA box. The 5'-flanking sequence exerted strong promoter activity when linked to a reporter gene. Deletion mutant analysis of the 5'-flanking sequence has strongly suggested that a potential binding site for AP-1 plays an important role in positively regulating the gene expression.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hotta</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <Affiliation>Department of Microbiology, Kobe University School of Medicine, Hyogo, Japan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyamoto</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hara</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Homma</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>D10714</AccessionNumber>
+                        <AccessionNumber>D10715</AccessionNumber>
+                        <AccessionNumber>D10915</AccessionNumber>
+                        <AccessionNumber>D10916</AccessionNumber>
+                        <AccessionNumber>D10917</AccessionNumber>
+                        <AccessionNumber>D10918</AccessionNumber>
+                        <AccessionNumber>D10919</AccessionNumber>
+                        <AccessionNumber>D10920</AccessionNumber>
+                        <AccessionNumber>S37521</AccessionNumber>
+                        <AccessionNumber>S37524</AccessionNumber>
+                        <AccessionNumber>X62654</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Biochem Biophys Res Commun</MedlineTA>
+            <NlmUniqueID>0372516</NlmUniqueID>
+            <ISSNLinking>0006-291X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.28</RegistryNumber>
+                <NameOfSubstance>Chloramphenicol O-Acetyltransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chloramphenicol O-Acetyltransferase</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exons</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Introns</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Regulatory Sequences, Nucleic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1992</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1992</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1992</Year>
+                <Month>5</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1599482</ArticleId>
+            <ArticleId IdType="pii">S0006-291X(05)81004-6</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

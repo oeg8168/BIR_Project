@@ -1,0 +1,173 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">17547562</PMID>
+        <DateCreated>
+            <Year>2007</Year>
+            <Month>06</Month>
+            <Day>05</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>12</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0042-9007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>93</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vox sanguinis</Title>
+                <ISOAbbreviation>Vox Sang.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Storage of buffy-coat-derived platelets in additive solutions at 4 degrees C and 22 degrees C: flow cytometry analysis of platelet glycoprotein expression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>27-36</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The aim of our in vitro study is to compare the effects on platelet membrane glycoproteins that play an important role in the main functions of platelets, when platelets are stored for a period of 21 days at 4 degrees C or 22 degrees C.</AbstractText>
+                <AbstractText Label="STUDY DESIGN AND METHODS" NlmCategory="METHODS">Platelet concentrates (PC) were prepared from pooled buffy-coats (BC) for paired studies (total eight pools from 80 BCs) by using the OrbiSac system. We divided each pool into two PCs and stored them at 4 degrees C or 22 degrees C.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The activation marker CD62 remained almost unchanged during storage in all units. The expression of CD63 was higher in PCs stored at 22 degrees C than in those stored at 4 degrees C. No significant difference in CD41 expression was detected over time. The expression of CD42b declined during storage and even more in PCs stored at 4 degrees C until day 21 [day 14: mean flourscence intensity: 32.5 +/- 13.1 vs. 46.5 +/- 19.1], but the percentage of platelets expressing CD42b remained high in platelets stored at 4 degrees C, but gradually decreased at 22 degrees C (day 14: 95.0 +/- 1.5 vs. 59.0 +/- 9.9). Storage at 4 degrees C reduced the rate of glycolysis and maintained the pH better after day 10 than in PCs stored at 22 degrees C (day 14: 7.009 +/- 0.067 vs. 7.233 +/- 0.125). The concentration of regulated upon activation of normal T-cells expressed and secreted was higher in PCs stored at 22 degrees C than at 4 degrees C (day 7: 414.7 +/- 32.3 vs. 49.6 +/- 19.0). No response to extent of shape change and no swirling were detected at 4 degrees C.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Platelets stored at 4 degrees C retain their in vitro characteristics better than those stored at 22 degrees C, except for parameters that reflect changes in shape. Storage at 4 degrees C is not associated with an increased expression of glycoprotein (GpIb, GpIIb/IIIa) and platelet activation markers (CD62p and CD63) as compared with storage at 22 degrees C.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sandgren</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <Affiliation>Agneta Shanwell Department of Laboratory Medicine, Karolinska Institutet [corrected] Stockholm, Sweden. per.sandgren@karolinska.se</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansson</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gulliksson</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shanwell</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Vox Sang</MedlineTA>
+            <NlmUniqueID>0413606</NlmUniqueID>
+            <ISSNLinking>0042-9007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Organ Preservation Solutions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Vox Sang. 2008 Jan;94(1):86</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Blood Preservation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Shape</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cold Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Organ Preservation Solutions</DescriptorName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Platelet Activation</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">VOX912</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1423-0410.2007.00912.x</ArticleId>
+            <ArticleId IdType="pubmed">17547562</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

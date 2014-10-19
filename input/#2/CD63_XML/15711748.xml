@@ -1,0 +1,188 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">15711748</PMID>
+        <DateCreated>
+            <Year>2005</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>07</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0340-6245</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>93</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thrombosis and haemostasis</Title>
+                <ISOAbbreviation>Thromb. Haemost.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CD63 modulates spreading and tyrosine phosphorylation of platelets on immobilized fibrinogen.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>311-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>CD63 is a member of the tetraspanin superfamily of integral membrane proteins. Present on a variety of cells, tetraspanins can form lateral associations with integrins and may act as 'organizers' of multimolecular networks that modulate integrinmediated signaling, cell morphology, motility and migration. In resting platelets, CD63 is present on the membranes of dense granules and lysosomes but relocates to the plasma membrane following platelet activation and exocytosis where it associates with the platelet integrin alphaIIBbeta3-CD9 complex and with the actin cytoskeleton in an alphaIIBbeta 3-dependent manner. D545, a monoclonal antibody directed at the second extracellular loop of CD63,was used to investigate the role of CD63 in platelet adhesion, spreading and tyrosine phosphorylation. Using immunofluorescence microscopy and confocal imaging, we have demonstrated that D545 does not alter adhesion of platelets to immobilized fibrinogen, but instead platelet spreading. In the presence of buffer or non-specific mouse IgG, activated platelets showed fully spread morphology, F-actin reorganization, redistribution of vinculin and extensive tyrosine phosphorylation, all of which were inhibited by D545. D545 also inhibited the phosphorylation of focal adhesion kinase in thrombin-activated adherent platelets. These results suggest that CD63 may modulate alphaIIBbeta3-dependent cytoskeletal reorganization. To identify signaling enzymes associated with CD63 that could affect this pathway, lipid kinase assays were performed on D545 immunoprecipitates. CD63 co-immunoprecipitated with a lipid kinase which, on the basis of enzymatic properties(stimulated by nonionic detergents, inhibited by adenosine), is consistent with PI 4-kinase type II. The CD63-PI 4-kinase complex was not activation-dependent as the constituents were co-purified from both resting and activated platelets. The linkage of CD63 with PI 4-kinase may result in the recruitment of this signaling enzyme to specific membrane locations in the platelet where it influences phosphoinositide-dependent signaling and platelet spreading.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Israels</LastName>
+                    <ForeName>Sara J</ForeName>
+                    <Initials>SJ</Initials>
+                    <Affiliation>Department of Pediatrics and the Manitoba Institute of Cell Biology, University of Manitoba, 675 McDermot Ave, Winnipeg, Manitoba, R3E 0V9, Canada. israels@cc.umanitoba.ca</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McMillan-Ward</LastName>
+                    <ForeName>Eileen M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Thromb Haemost</MedlineTA>
+            <NlmUniqueID>7608063</NlmUniqueID>
+            <ISSNLinking>0340-6245</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Actins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>CD63 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>42HK56048U</RegistryNumber>
+                <NameOfSubstance>Tyrosine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9001-32-5</RegistryNumber>
+                <NameOfSubstance>Fibrinogen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.67</RegistryNumber>
+                <NameOfSubstance>1-Phosphatidylinositol 4-Kinase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">1-Phosphatidylinositol 4-Kinase</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Actins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Platelets</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cytoskeleton</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fibrinogen</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Adhesiveness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tyrosine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">05020311</ArticleId>
+            <ArticleId IdType="doi">10.1267/THRO05020311</ArticleId>
+            <ArticleId IdType="pubmed">15711748</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

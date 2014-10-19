@@ -1,0 +1,151 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Process">
+        <PMID Version="1">24722878</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-0189</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jun</Month>
+                        <Day>7</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lab on a chip</Title>
+                <ISOAbbreviation>Lab Chip</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Microfluidic device (ExoChip) for on-chip isolation, quantification and characterization of circulating exosomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1891-900</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c4lc00136b</ELocationID>
+            <Abstract>
+                <AbstractText>Membrane bound vesicles, including microvesicles and exosomes, are secreted by both normal and cancerous cells into the extracellular space and in blood circulation. These circulating extracellular vesicles (cirEVs) and exosomes in particular are recognized as a potential source of disease biomarkers. However, to exploit the use of circulatory exosomes as a biomarker, a rapid, high-throughput and reproducible method is required for their isolation and molecular analysis. We have developed a simple, low cost microfluidic-based platform to isolate cirEVs enriched in exosomes directly from blood serum allowing simultaneous capture and quantification of exosomes in a single device. To capture specific exosomes, we employed &quot;ExoChip&quot;, a microfluidic device fabricated in polydimethylsiloxane (PDMS) and functionalized with antibodies against CD63, an antigen commonly overexpressed in exosomes. Subsequent staining with a fluorescent carbocyanine dye (DiO) that specifically labels the exosomes, we quantitated exosomes using a standard plate-reader. Ten independent ExoChip experiments performed using serum obtained from five pancreatic cancer patients and five healthy individuals revealed a statistically significant increase (2.34 ± 0.31 fold, p &lt; 0.001) in exosomes captured in cancer patients when compared to healthy individuals. Exosomal origins of ExoChip immobilized vesicles were further confirmed using immuno-electron-microscopy and Western blotting. In addition, we demonstrate the ability of ExoChip to recover exosomes with intact RNA enabling profiling of exosomal-microRNAs through openarray analysis, which has potential applications in biomarker discovery. Based on our findings, ExoChip is a well suited platform to be used as an exosome-based diagnostic and research tool for molecular screening of human cancers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kanwar</LastName>
+                    <ForeName>Shailender Singh</ForeName>
+                    <Initials>SS</Initials>
+                    <Affiliation>Department of Chemical Engineering, College of Engineering University of Michigan, 2300 Hayward Street, Ann Arbor, Michigan-48109, USA. snagrath@umich.edu.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunlay</LastName>
+                    <ForeName>Christopher James</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simeone</LastName>
+                    <ForeName>Diane M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagrath</LastName>
+                    <ForeName>Sunitha</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1DP2OD006672-01</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA130810</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DP2 OD006672</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA130810</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lab Chip</MedlineTA>
+            <NlmUniqueID>101128948</NlmUniqueID>
+            <ISSNLinking>1473-0189</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherID Source="NLM">NIHMS587147 [Available on 06/07/15]</OtherID>
+        <OtherID Source="NLM">PMC4134440 [Available on 06/07/15]</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1039/c4lc00136b</ArticleId>
+            <ArticleId IdType="pubmed">24722878</ArticleId>
+            <ArticleId IdType="pmc">PMC4134440</ArticleId>
+            <ArticleId IdType="mid">NIHMS587147</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

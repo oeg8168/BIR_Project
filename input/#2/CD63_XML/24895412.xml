@@ -1,0 +1,156 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">24895412</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1557-3125</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cancer research : MCR</Title>
+                <ISOAbbreviation>Mol. Cancer Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TIMP-1 via TWIST1 Induces EMT Phenotypes in Human Breast Epithelial Cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1324-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1158/1541-7786.MCR-14-0105</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Tissue inhibitor of metalloproteinase-1 (TIMP-1) regulates intracellular signaling networks for inhibition of apoptosis. Tetraspanin (CD63), a cell surface binding partner for TIMP-1, was previously shown to regulate integrin-mediated survival pathways in the human breast epithelial cell line MCF10A. In the current study, we show that TIMP-1 expression induces phenotypic changes in cell morphology, cell adhesion, cytoskeletal remodeling, and motility, indicative of an epithelial-mesenchymal transition (EMT). This is evidenced by loss of the epithelial cell adhesion molecule E-cadherin with an increase in the mesenchymal markers vimentin, N-cadherin, and fibronectin. Signaling through TIMP-1, but not TIMP-2, induces the expression of TWIST1, an important EMT transcription factor known to suppress E-cadherin transcription, in a CD63-dependent manner. RNAi-mediated knockdown of TWIST1 rescued E-cadherin expression in TIMP-1-overexpressing cells, demonstrating a functional significance of TWIST1 in TIMP-1-mediated EMT. Furthermore, analysis of TIMP-1 structural mutants reveals that TIMP-1 interactions with CD63 that activate cell survival signaling and EMT do not require the matrix metalloproteinase (MMP)-inhibitory domain of TIMP-1. Taken together, these data demonstrate that TIMP-1 binding to CD63 activates intracellular signal transduction pathways, resulting in EMT-like changes in breast epithelial cells, independent of its MMP-inhibitory function.</AbstractText>
+                <AbstractText Label="IMPLICATIONS" NlmCategory="CONCLUSIONS">TIMP-1's function as an endogenous inhibitor of MMP or as a &quot;cytokine-like&quot; signaling molecule may be a critical determinant for tumor cell behavior. Mol Cancer Res; 12(9); 1324-33. ©2014 AACR.</AbstractText>
+                <CopyrightInformation>©2014 American Association for Cancer Research.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>D'Angelo</LastName>
+                    <ForeName>Rosemarie Chirco</ForeName>
+                    <Initials>RC</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Xu-Wen</ForeName>
+                    <Initials>XW</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Najy</LastName>
+                    <ForeName>Abdo J</ForeName>
+                    <Initials>AJ</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Young Suk</ForeName>
+                    <Initials>YS</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Won</LastName>
+                    <ForeName>Joshua</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chai</LastName>
+                    <ForeName>Karl X</ForeName>
+                    <Initials>KX</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fridman</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hyeong-Reh Choi</ForeName>
+                    <Initials>HR</Initials>
+                    <Affiliation>Department of Pathology, Barbara Ann Karmanos Cancer Institute, Wayne State University School of Medicine, Detroit, Michigan hrckim@med.wayne.edu.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA089113</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cancer Res</MedlineTA>
+            <NlmUniqueID>101150042</NlmUniqueID>
+            <ISSNLinking>1541-7786</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherID Source="NLM">NIHMS600165 [Available on 09/01/15]</OtherID>
+        <OtherID Source="NLM">PMC4171133 [Available on 09/01/15]</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1541-7786.MCR-14-0105</ArticleId>
+            <ArticleId IdType="doi">10.1158/1541-7786.MCR-14-0105</ArticleId>
+            <ArticleId IdType="pubmed">24895412</ArticleId>
+            <ArticleId IdType="pmc">PMC4171133</ArticleId>
+            <ArticleId IdType="mid">NIHMS600165</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

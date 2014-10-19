@@ -1,0 +1,192 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">22116803</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <Article PubModel="Electronic-Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1529-7268</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>86</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biology of reproduction</Title>
+                <ISOAbbreviation>Biol. Reprod.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cell-secreted vesicles in equine ovarian follicular fluid contain miRNAs and proteins: a possible new form of cell communication within the ovarian follicle.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1095/biolreprod.111.093252</ELocationID>
+            <Abstract>
+                <AbstractText>Proper cell communication within the ovarian follicle is critical for the growth and maturation of a healthy oocyte that can be fertilized and develop into an embryo. Cell communication within the follicle involves many signaling molecules and is affected by maternal age. Recent studies indicate that cell communication can be mediated through secretion and uptake of small membrane-enclosed vesicles. The goals of this study were to 1) identify cell-secreted vesicles (microvesicles and exosomes) containing miRNAs and proteins within ovarian follicular fluid and 2) determine if miRNA level differs in exosomes isolated from follicular fluid in young compared to old mares. We demonstrate the presence of vesicles resembling microvesicles and exosomes in ovarian follicular fluid using transmission electron microscopy and CD63-positive and RNA containing vesicles using flow cytometry. Moreover, proteomics analysis reveals that follicular fluid-isolated exosomes contain both known exosomal proteins and proteins not previously reported in isolated exosomes. MicroRNAs were detected in microvesicle and exosomes preparations isolated from follicular fluid by real-time PCR analysis. Uptake of fluorescent-labeled microvesicles by granulosa cells was examined using in vitro and in vivo approaches. MicroRNA expression profiling reveals that miRNAs in microvesicle and exosome preparations isolated from follicular fluid also are present within surrounding granulosa and cumulus cells. These studies revealed that cell communication within the mammalian ovarian follicle may involve transfer of bioactive material by microvesicles and exosomes. Finally, miRNAs present in exosomes from ovarian follicular fluid varied with the age of the mare, and a number of different miRNAs were detected in young vs. old mare follicular fluid.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>da Silveira</LastName>
+                    <ForeName>Juliano C</ForeName>
+                    <Initials>JC</Initials>
+                    <Affiliation>Animal Reproduction and Biotechnology Laboratory, Department of Biomedical Sciences, Colorado State University, Fort Collins, Colorado 80523, USA.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veeramachaneni</LastName>
+                    <ForeName>D N Rao</ForeName>
+                    <Initials>DN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winger</LastName>
+                    <ForeName>Quinton A</ForeName>
+                    <Initials>QA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carnevale</LastName>
+                    <ForeName>Elaine M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bouma</LastName>
+                    <ForeName>Gerrit J</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comparative Study</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biol Reprod</MedlineTA>
+            <NlmUniqueID>0207224</NlmUniqueID>
+            <ISSNLinking>0006-3363</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aging</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Communication</DescriptorName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follicular Fluid</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Horses</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oogenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ovarian Follicle</DescriptorName>
+                <QualifierName MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ovary</DescriptorName>
+                <QualifierName MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Secretory Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ppublish">
+                <Year>2012</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">biolreprod.111.093252</ArticleId>
+            <ArticleId IdType="doi">10.1095/biolreprod.111.093252</ArticleId>
+            <ArticleId IdType="pubmed">22116803</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

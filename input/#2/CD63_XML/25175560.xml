@@ -1,0 +1,127 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">25175560</PMID>
+        <DateCreated>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0006-3002</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1840</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta</Title>
+                <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The sweeter aspects of platelet activation: A lectin-based assay reveals agonist-specific glycosylation patterns.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3423-33</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbagen.2014.08.010</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0304-4165(14)00286-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The diversity of platelet functions implies multiple activation states arising in response to different stimuli. Distinguishing between these states has been challenging.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We used fluorescently labelled carbohydrate binding proteins lectins to investigate agonist-induced changes in platelet surface glycosylation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Each of the seven agonists we used caused a unique set of changes in platelet surface glycosylation, eliciting a unique functional state. Some of these changes could be correlated with the expression of granule-specific markers CD62P and CD63, but lectins proved much more sensitive to differences between agonists than antibodies against those markers. This sensitivity appears to arise from the relation between the surface glycosylation changes and the signalling pathways through which various agonists act. In this context it is interesting that the effects of calcium ionophore were significantly different from those of other agonists. We also found that that P-selectin (CD62P) contains haptens for lectins VFA and PTII, because these lectins compete with the anti-CD62P antibody binding and vice a versa.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We report for the first time that changes in platelet surface glycosylation are agonist-specific and can be distinguished using lectin-binding assays. Lectin fingerprinting represents a new research and diagnostic tool for studying platelet activation.</AbstractText>
+                <AbstractText Label="GENERAL SIGNIFICANCE" NlmCategory="CONCLUSIONS">The observation of agonist-specific platelet surface glycosylation changes is interesting in the context of the diversity of platelet function, because surface glycans mediate contact interactions between platelets and other cells and serve as binding sites for some of the agonists (galectins).</AbstractText>
+                <CopyrightInformation>Copyright © 2014 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Swati</ForeName>
+                    <Initials>S</Initials>
+                    <Affiliation>Biosurfaces Unit, CIC biomaGUNE, Paseo Miramón 182, San Sebastián 20009, Spain; Department of Biochemistry and Molecular Biology, University of the Basque Country, 28940 Leioa, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reviakine</LastName>
+                    <ForeName>Ilya</ForeName>
+                    <Initials>I</Initials>
+                    <Affiliation>Institute of Functional Interfaces (IFG), Karlsruhe Institute of Technology (KIT), Hermann-von Helmholtz-Platz 1, 76344 Eggenstein-Leopoldshafen, Germany; Faculty of Engineering, University of the Basque Country (UPV/EHU), Alameda Urquijo s/n., 48013 Bilbao, Spain. Electronic address: Ilya.Reviakine@kit.edu.</Affiliation>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta</MedlineTA>
+            <NlmUniqueID>0217513</NlmUniqueID>
+            <ISSNLinking>0006-3002</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Glycobiology</Keyword>
+            <Keyword MajorTopicYN="N">Haemostasis</Keyword>
+            <Keyword MajorTopicYN="N">Lectins</Keyword>
+            <Keyword MajorTopicYN="N">Platelet activation</Keyword>
+            <Keyword MajorTopicYN="N">Platelets</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="aheadofprint">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25175560</ArticleId>
+            <ArticleId IdType="pii">S0304-4165(14)00286-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbagen.2014.08.010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

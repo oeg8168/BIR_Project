@@ -1,0 +1,443 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">23098255</PMID>
+        <DateCreated>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8728</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>449</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jan</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem. J.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Generation and characterization of a lysosomally targeted, genetically encoded Ca(2+)-sensor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>449-57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BJ20120898</ELocationID>
+            <Abstract>
+                <AbstractText>Distinct spatiotemporal Ca2+ signalling events regulate fundamental aspects of eukaryotic cell physiology. Complex Ca2+ signals can be driven by release of Ca2+ from intracellular organelles that sequester Ca2+ such as the ER (endoplasmic reticulum) or through the opening of Ca2+-permeable channels in the plasma membrane and influx of extracellular Ca2+. Late endocytic pathway compartments including late-endosomes and lysosomes have recently been observed to sequester Ca2+ to levels comparable with those found within the ER lumen. These organelles harbour ligand-gated Ca2+-release channels and evidence indicates that they can operate as Ca2+-signalling platforms. Lysosomes sequester Ca2+ to a greater extent than any other endocytic compartment, and signalling from this organelle has been postulated to provide 'trigger' release events that can subsequently elicit more extensive Ca2+ signals from stores including the ER. In order to investigate lysosomal-specific Ca2+ signalling a simple method for measuring lysosomal Ca2+ release is essential. In the present study we describe the generation and characterization of a genetically encoded, lysosomally targeted, cameleon sensor which is capable of registering specific Ca2+ release in response to extracellular agonists and intracellular second messengers. This probe represents a novel tool that will permit detailed investigations examining the impact of lysosomal Ca2+ handling on cellular physiology.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McCue</LastName>
+                    <ForeName>Hannah V</ForeName>
+                    <Initials>HV</Initials>
+                    <Affiliation>The Physiological Laboratory, Department of Cellular and Molecular Physiology, Institute of Translational Medicine, University of Liverpool, Crown St, Liverpool L69 3BX, UK.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wardyn</LastName>
+                    <ForeName>Joanna D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burgoyne</LastName>
+                    <ForeName>Robert D</ForeName>
+                    <Initials>RD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haynes</LastName>
+                    <ForeName>Lee P</ForeName>
+                    <Initials>LP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Calmodulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Luminescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Lysosomal-Associated Membrane Protein 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Macrolides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>YCaM3.6 protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>820484N8I3</RegistryNumber>
+                <NameOfSubstance>Histamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>88899-55-2</RegistryNumber>
+                <NameOfSubstance>bafilomycin A1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance>Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2003 Jun;34(2):135-41</RefSource>
+                <PMID Version="1">12776115</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 2003 May 27;13(11):R425</RefSource>
+                <PMID Version="1">12781146</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Calcium. 2003 Aug;34(2):109-19</RefSource>
+                <PMID Version="1">12810053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2003 Jul;4(7):517-29</RefSource>
+                <PMID Version="1">12838335</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2004 Jan 2;279(1):547-55</RefSource>
+                <PMID Version="1">14570872</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jul 20;101(29):10554-9</RefSource>
+                <PMID Version="1">15247428</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Circulation. 1992 Mar;85(3):1046-55</RefSource>
+                <PMID Version="1">1311223</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1992 Aug;17(8):274-6</RefSource>
+                <PMID Version="1">1412699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Pflugers Arch. 1994 Jan;426(1-2):129-38</RefSource>
+                <PMID Version="1">7511800</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 1994 May 15;300 ( Pt 1):229-36</RefSource>
+                <PMID Version="1">8198538</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1996 Apr 12;271(15):8513-6</RefSource>
+                <PMID Version="1">8621471</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Calcium. 1996 Feb;19(2):157-65</RefSource>
+                <PMID Version="1">8689673</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 1997 Aug 28;388(6645):882-7</RefSource>
+                <PMID Version="1">9278050</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biochem. 1999 Jan;190(1-2):185-90</RefSource>
+                <PMID Version="1">10098986</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Biol. 1999 Aug 26;9(16):915-8</RefSource>
+                <PMID Version="1">10469598</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Neurol. 2007 Oct;6(10):933-8</RefSource>
+                <PMID Version="1">17884683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2008 Feb 29;283(9):5780-9</RefSource>
+                <PMID Version="1">18156184</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Physiol Rev. 2008 Jul;88(3):841-86</RefSource>
+                <PMID Version="1">18626062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Chem Biol. 2009 Apr;5(4):220-6</RefSource>
+                <PMID Version="1">19234453</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2009 May 28;459(7246):596-600</RefSource>
+                <PMID Version="1">19387438</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 2009 Jul 27;186(2):201-9</RefSource>
+                <PMID Version="1">19620632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Methods. 2009 Dec;6(12):875-81</RefSource>
+                <PMID Version="1">19898485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Physiol Cell Physiol. 2010 Mar;298(3):C430-41</RefSource>
+                <PMID Version="1">20018950</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Cell Biol. 2010 May;20(5):277-86</RefSource>
+                <PMID Version="1">20303271</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(5):e10534</RefSource>
+                <PMID Version="1">20479890</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Calcium. 2010 Jun;47(6):480-90</RefSource>
+                <PMID Version="1">20621760</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cold Spring Harb Perspect Biol. 2010 Nov;2(11):a003996</RefSource>
+                <PMID Version="1">20961976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proteomics. 2010 Nov;10(22):4053-76</RefSource>
+                <PMID Version="1">20957757</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2010 Nov 16;107(46):19927-32</RefSource>
+                <PMID Version="1">21041635</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2010 Dec 3;285(49):38251-9</RefSource>
+                <PMID Version="1">20870729</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2010 Dec;38(6):1424-31</RefSource>
+                <PMID Version="1">21118101</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2011;6(3):e17853</RefSource>
+                <PMID Version="1">21445352</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2011 May 5;117(18):4968-77</RefSource>
+                <PMID Version="1">21364192</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Soc Trans. 2011 Jun;39(3):789-97</RefSource>
+                <PMID Version="1">21599650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Biosci (Schol Ed). 2011;3:980-4</RefSource>
+                <PMID Version="1">21622247</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell Calcium. 2011 Aug;50(2):200-5</RefSource>
+                <PMID Version="1">21724254</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2011 Nov 1;439(3):349-74</RefSource>
+                <PMID Version="1">21992097</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Channels (Austin). 2011 Sep-Oct;5(5):440-8</RefSource>
+                <PMID Version="1">21832880</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2012 Mar 1;483(7387):108-12</RefSource>
+                <PMID Version="1">22286060</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Commun. 2012;3:731</RefSource>
+                <PMID Version="1">22415822</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Adv Exp Med Biol. 2012;740:305-23</RefSource>
+                <PMID Version="1">22453948</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1953 May;97(5):695-710</RefSource>
+                <PMID Version="1">13052828</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 2006 Jul;140(1):7-12</RefSource>
+                <PMID Version="1">16877763</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2007 Mar;8(3):182-93</RefSource>
+                <PMID Version="1">17311005</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2007 Aug;8(8):622-32</RefSource>
+                <PMID Version="1">17637737</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Neurochem. 2007 Sep;102(5):1426-46</RefSource>
+                <PMID Version="1">17697045</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2000 Apr 13;270(2):370-6</RefSource>
+                <PMID Version="1">10753632</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem J. 2001 Jan 1;353(Pt 1):1-12</RefSource>
+                <PMID Version="1">11115393</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Cell Dev Biol. 2001 Feb;12(1):3-10</RefSource>
+                <PMID Version="1">11162741</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2001 Jun 1;20(11):2666-71</RefSource>
+                <PMID Version="1">11387201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Mol Cell Biol. 2000 Oct;1(1):11-21</RefSource>
+                <PMID Version="1">11413485</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Neurosci. 2002 Nov;3(11):862-72</RefSource>
+                <PMID Version="1">12415294</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 2002 Nov 27;111(5):703-8</RefSource>
+                <PMID Version="1">12464181</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Calmodulin</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fluorescence Resonance Energy Transfer</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">HeLa Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histamine</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Intracellular Space</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Luminescent Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomal-Associated Membrane Protein 1</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Macrolides</DescriptorName>
+                <QualifierName MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Microscopy, Confocal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3526116</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">BJ20120898</ArticleId>
+            <ArticleId IdType="doi">10.1042/BJ20120898</ArticleId>
+            <ArticleId IdType="pubmed">23098255</ArticleId>
+            <ArticleId IdType="pmc">PMC3526116</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

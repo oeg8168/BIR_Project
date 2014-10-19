@@ -1,0 +1,238 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">21946858</PMID>
+        <DateCreated>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-087X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Issue>55</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of visualized experiments : JoVE</Title>
+                <ISOAbbreviation>J Vis Exp</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Basophil activation test for investigation of IgE-mediated mechanisms in drug hypersensitivity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3791/3263</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">3263</ELocationID>
+            <Abstract>
+                <AbstractText>Hypersensitivity reactions against non-steroidal anti-inflammatory drugs (NSAIDs) like propyphenazone (PP) and diclofenac (DF) can manifest as Type I-like allergic reactions (1). In clinical practice, diagnosis of drug hypersensitivity is mainly performed by patient history, as skin testing is not reliable and oral provocation testing bears life-threatening risks for the patient (2). Hence, evidence for an underlying IgE-mediated pathomechanism is hard to obtain. Here, we present an in vitro method based on the use of human basophils derived from drug-hypersensitive patients that mimics the allergic effector reaction in vivo. As basophils of drug-allergic patients carry IgE molecules specific for the culprit drug, they become activated upon IgE receptor crosslinking and release allergic effector molecules. The activation of basophils can be monitored by the determination of the upregulation of CD63 surface expression using flow cytometry (3). In the case of low molecular weight drugs, conjugates are designed to enable IgE receptor crosslinking on basophils. As depicted in Figure 1, two representatives of NSAIDs, PP and DF, are covalently bound to human serum albumin (HSA) via a carboxyl group reacting with the primary amino group of lysine residues. DF carries an intrinsic carboxyl group and, thus, can be used directly (4), whereas a carboxyl group-containing derivative of PP had to be organochemically synthesized prior to the study (1). The coupling degree of the low molecular weight compounds on the protein carrier molecule and their spatial distribution is important to guarantee crosslinking of two IgE receptor molecules. The here described protocol applies high performance-size exclusion chromatography (HPSEC) equipped with a sequential refractive index (RI) and ultra violet (UV) detection system for determination of the coupling degree. As the described methodology may be applied for other drugs, the basophil activation test (BAT) bears the potential to be used for the determination of IgE-mediated mechanisms in drug hypersensitivity. Here, we determine PP hypersensitivity as IgE-mediated and DF hypersensitivity as non-IgE-mediated by BAT.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Steiner</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                    <Affiliation>Department of Molecular Biology, University of Salzburg.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harrer</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lang</LastName>
+                    <ForeName>Roland</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferreira</LastName>
+                    <ForeName>Tima</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hawranek</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Himly</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType>Video-Audio Media</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Vis Exp</MedlineTA>
+            <NlmUniqueID>101313252</NlmUniqueID>
+            <ISSNLinking>1940-087X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Receptors, IgE</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>144O8QL0L1</RegistryNumber>
+                <NameOfSubstance>Diclofenac</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37341-29-0</RegistryNumber>
+                <NameOfSubstance>Immunoglobulin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OED8FV75PY</RegistryNumber>
+                <NameOfSubstance>propyphenazone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>T3CHA1B51H</RegistryNumber>
+                <NameOfSubstance>Antipyrine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2003 Apr;111(4):882-8</RefSource>
+                <PMID Version="1">12704373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anal Biochem. 1996 Sep 5;240(2):155-66</RefSource>
+                <PMID Version="1">8811899</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Arch Allergy Immunol. 2005 Jan;136(1):58-72</RefSource>
+                <PMID Version="1">15608437</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010;5(10):e13707</RefSource>
+                <PMID Version="1">21060839</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2006 Sep;61(9):1028-39</RefSource>
+                <PMID Version="1">16918504</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Allergy. 2008 May;63(5):616-9</RefSource>
+                <PMID Version="1">18394136</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Investig Allergol Clin Immunol. 2008;18(3):143-55</RefSource>
+                <PMID Version="1">18564624</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cytometry B Clin Cytom. 2005 Mar;64(1):28-33</RefSource>
+                <PMID Version="1">15668987</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antipyrine</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Basophils</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatography, Gel</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Diclofenac</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Drug Hypersensitivity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunoglobulin E</DescriptorName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Receptors, IgE</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">PMC3230192</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">3263</ArticleId>
+            <ArticleId IdType="doi">10.3791/3263</ArticleId>
+            <ArticleId IdType="pubmed">21946858</ArticleId>
+            <ArticleId IdType="pmc">PMC3230192</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

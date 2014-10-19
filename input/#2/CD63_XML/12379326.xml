@@ -1,0 +1,192 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">12379326</PMID>
+        <DateCreated>
+            <Year>2002</Year>
+            <Month>10</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1759</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>270</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Dec</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunological methods</Title>
+                <ISOAbbreviation>J. Immunol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Production and characterization of clinical grade exosomes derived from dendritic cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>211-26</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We describe methods for the production, purification, and characterization of clinical grade (cGMP) exosomes derived from antigen presenting cells (APCs). Exosomes have been shown to have immunotherapeutic properties through their presentation of biologically relevant antigens [Nat. Med. 4 (1998) 594] and are being developed as an alternative to cellular therapies. Exosomes are 50-90-nm-diameter vesicles secreted from multivesicular bodies (MVBs) found in a variety of both hematopoietic and tumor cells. These particles contain antigen presenting molecules (MHC class I, MHC class II, and CD1), tetraspan molecules (CD9, CD63, CD81), adhesion molecules (CD11b and CD54), and costimulatory molecules (CD86); hence, providing them the necessary machinery required for generating a potent immune response [J. Biol. Chem. 273 (1998) 20121; J. Cell. Sci. 113 (2000) 3365; J. Immunol. Methods 247 (2001) 163; J. Immunol. 166 (2001) 7309]. Exosomes from monocyte-derived dendritic cells (MDDCs) were rapidly purified (e.g. 4-6 h of a 2-3 l culture) based on their unique size and density. Ultrafiltration of the clarified supernatant through a 500-kDa membrane and ultracentrifugation into a 30% sucrose/deuterium oxide (D2O) (98%) cushion (density 1.210 g/cm3) reduced the volume and protein concentration approximately 200- and 1000-fold, respectively. The percentage recovery of exosomes ranged from 40% to 50% based on the exosome MHC class II concentration of the starting clarified supernatant. This methodology was extended to a miniscale process with comparable results. Conversely, the classical differential centrifugation technique is a more lengthy and variable process resulting in exosomes being contaminated with media proteins and containing only 5-25% of the starting exosome MHC class II concentration; hence, making it difficult for their use in clinical development. Lastly, we developed the following quality control assays to standardize the exosome vaccine: quantity (concentration of MHC class II) and protein characterization (FACS). The combination of a rapid and reproducible purification method and quality control assays for exosomes has allowed for its evaluation as a cancer vaccine in clinical trials [Proc. Am. Soc. Oncol. 21 (2002) 11a].</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lamparski</LastName>
+                    <ForeName>Henry G</ForeName>
+                    <Initials>HG</Initials>
+                    <Affiliation>Anosys Inc., 1014 Hamilton Court, Menlo Park, CA 94025, USA. hlamparski@anosys.com</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metha-Damani</LastName>
+                    <ForeName>Anita</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Jenq-Yuan</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sanjay</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Di-Hwei</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruegg</LastName>
+                    <ForeName>Curtis</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Pecq</LastName>
+                    <ForeName>Jean-Bernard</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R43 CA 86161 01</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Immunol Methods</MedlineTA>
+            <NlmUniqueID>1305440</NlmUniqueID>
+            <ISSNLinking>0022-1759</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Albumins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Culture Media</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Haptoglobins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Histocompatibility Antigens Class II</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Albumins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Centrifugation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Culture Media</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Cytoplasmic Vesicles</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Dendritic Cells</DescriptorName>
+                <QualifierName MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Haptoglobins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Histocompatibility Antigens Class II</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Immunophenotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12379326</ArticleId>
+            <ArticleId IdType="pii">S0022175902003307</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

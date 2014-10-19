@@ -1,0 +1,123 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">20878381</PMID>
+        <DateCreated>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>08</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-1173</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>61</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Der Hautarzt; Zeitschrift für Dermatologie, Venerologie, und verwandte Gebiete</Title>
+                <ISOAbbreviation>Hautarzt</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Cellular in-vitro assays. Applicability in daily routine].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>954-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00105-010-1968-x</ELocationID>
+            <Abstract>
+                <AbstractText>Cellular in-vitro assays are able to detect antigen-dependent cellular processes without any risk for the patient. After antigen stimulation, both the cellular antigen stimulation test assessing sulfidoleukotriene production in leukocyte suspension, and flow cytometric basophil activation assays determining surface activation markers (CD63, CD203c), represent accepted models for in-vivo mast cell stimulation particularly in IgE-dependent reactions of immediate type. The value of these assays should be estimated considering the type of antigen and further diagnostic options. Most studies can not be compared due to different allergen concentrations, conditions of stimulation, methods, and defined cut-offs. Therefore, it is difficult to evaluate published evidence. Because of the logistic effort, cellular assays are often available only in specialized laboratories. However, in daily routine they are important in cases with clear-cut history but negative conventional allergy diagnostic procedures, in case of rare allergens (drugs, exotic food), as well as contraindications for skin and/or provocation test (hymenoptera venom allergy, anaphylaxis).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wedi</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <Affiliation>Klinik für Dermatologie, Allergologie und Venerologie, Medizinische Hochschule Hannover, Ricklinger Str. 5, 30449, Hannover. wedi.bettina@mh-hannover.de</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kapp</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType>English Abstract</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Zelluläre In-vitro-Allergiediagnostik. Eignung für den klinischen Alltag.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Hautarzt</MedlineTA>
+            <NlmUniqueID>0372755</NlmUniqueID>
+            <ISSNLinking>0017-8470</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Allergens</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Allergens</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Assay</DescriptorName>
+                <QualifierName MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Physiological Phenomena</DescriptorName>
+                <QualifierName MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1007/s00105-010-1968-x</ArticleId>
+            <ArticleId IdType="pubmed">20878381</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,531 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+        <PMID Version="1">19367702</PMID>
+        <DateCreated>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>05</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1535-3893</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of proteome research</Title>
+                <ISOAbbreviation>J. Proteome Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization and comprehensive proteome profiling of exosomes secreted by hepatocytes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5157-66</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Exosomes represent a discrete population of vesicles that are secreted from various cell types to the extracellular media. Their protein and lipid composition are a consequence of sorting events at the level of the multivesicular body, a central organelle which integrates endocytic and secretory pathways. Characterization of exosomes from different biological samples has shown the presence of common as well as cell-type specific proteins. Remarkably, the protein content of the exosomes is modified upon pathological or stress conditions. Hepatocytes play a central role in the body response to stress metabolizing potentially harmful endogenous substances as well as xenobiotics. In the present study, we described and characterized for the first time exosome secretion in nontumoral hepatocytes, and with the use of a systematic proteomic approach, we establish the first extensive proteome of a hepatocyte-derived exosome population which should be useful in furthering our understanding of the hepatic function and in the identification of components that may serve as biomarkers for hepatic alterations. Our analysis identifies a significant number of proteins previously described among exosomes derived from others cell types as well as proteins involved in metabolizing lipoproteins, endogenous compounds and xenobiotics, not previously described in exosomes. Furthermore, we demonstrated that exosomal membrane proteins can constitute an interesting tool to express nonexosomal proteins into exosomes with therapeutic purposes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Conde-Vancells</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                    <Affiliation>Metabolomics Unit, CICbioGUNE, CIBERehd, Bizkaia Technology Park, Derio, 48160, Bizkaia, Spain.</Affiliation>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez-Suarez</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Embade</LastName>
+                    <ForeName>Nieves</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gil</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matthiesen</LastName>
+                    <ForeName>Rune</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valle</LastName>
+                    <ForeName>Mikel</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elortza</LastName>
+                    <ForeName>Felix</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Shelly C</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mato</LastName>
+                    <ForeName>Jose M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falcon-Perez</LastName>
+                    <ForeName>Juan M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>AA13847</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AA013847</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AA013847-05</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AT001576</GrantID>
+                    <Acronym>AT</Acronym>
+                    <Agency>NCCAM NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AT001576-05</GrantID>
+                    <Acronym>AT</Acronym>
+                    <Agency>NCCAM NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+                <PublicationType>Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType>Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Proteome Res</MedlineTA>
+            <NlmUniqueID>101128775</NlmUniqueID>
+            <ISSNLinking>1535-3893</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Antigens, CD63</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Biological Markers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Cd63 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Platelet Membrane Glycoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Proteome</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2007 Nov;72(9):1095-102</RefSource>
+                <PMID Version="1">17700640</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2008 Feb 29;319(5867):1244-7</RefSource>
+                <PMID Version="1">18309083</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Can J Biochem. 1976 Jul;54(7):617-28</RefSource>
+                <PMID Version="1">182341</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1983 Jul;33(3):967-78</RefSource>
+                <PMID Version="1">6307529</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochemistry. 1990 Oct 30;29(43):10009-18</RefSource>
+                <PMID Version="1">2125488</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Biol. 1999 Nov 1;147(3):599-610</RefSource>
+                <PMID Version="1">10545503</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 1999 Dec 1;94(11):3791-9</RefSource>
+                <PMID Version="1">10572093</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2001 Mar;7(3):297-303</RefSource>
+                <PMID Version="1">11231627</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2001 Jun 22;276(25):22965-70</RefSource>
+                <PMID Version="1">11304532</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genome Res. 2001 Aug;11(8):1425-33</RefSource>
+                <PMID Version="1">11483584</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2001 Aug;121(2):337-49</RefSource>
+                <PMID Version="1">11487543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Biol. 2002 Feb;22(4):1060-72</RefSource>
+                <PMID Version="1">11809798</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2002 Feb 8;295(5557):1005-9</RefSource>
+                <PMID Version="1">11834813</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 2002 Mar 15;21(6):1289-300</RefSource>
+                <PMID Version="1">11889035</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2002 Apr 1;168(7):3235-41</RefSource>
+                <PMID Version="1">11907077</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2002 May;3(5):321-30</RefSource>
+                <PMID Version="1">11967126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2002 May 20;195(10):1303-16</RefSource>
+                <PMID Version="1">12021310</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2002 Aug 2;277(31):28191-9</RefSource>
+                <PMID Version="1">12019270</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2002 Jul 27;360(9329):295-305</RefSource>
+                <PMID Version="1">12147373</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Aug;2(8):569-79</RefSource>
+                <PMID Version="1">12154376</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol Methods. 2002 Dec 15;270(2):211-26</RefSource>
+                <PMID Version="1">12379326</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2002 Oct 12;360(9340):1155-62</RefSource>
+                <PMID Version="1">12387968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1991 May 1;173(5):1099-109</RefSource>
+                <PMID Version="1">2022921</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 1996 Mar 1;183(3):1161-72</RefSource>
+                <PMID Version="1">8642258</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1996 Apr;7(4):495-504</RefSource>
+                <PMID Version="1">8730094</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Lipid Res. 1997 Nov;38(11):2173-92</RefSource>
+                <PMID Version="1">9392416</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 1997 Dec;8(12):2631-45</RefSource>
+                <PMID Version="1">9398681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 1999 Feb;112 ( Pt 3):349-59</RefSource>
+                <PMID Version="1">9885288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Biochem Sci. 1999 Feb;24(2):68-72</RefSource>
+                <PMID Version="1">10098401</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Fed Proc. 1964 Sep-Oct;23:1010-22</RefSource>
+                <PMID Version="1">14209792</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 1956 Feb 24;123(3191):309-14</RefSource>
+                <PMID Version="1">13298683</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Drug Metab. 2004 Oct;5(5):443-62</RefSource>
+                <PMID Version="1">15544436</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Cancer Res. 2005 Apr 1;11(7):2492-501</RefSource>
+                <PMID Version="1">15814625</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2005 May-Jun;34(3):214-9</RefSource>
+                <PMID Version="1">15885604</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biol Reprod. 2005 Jun;72(6):1452-65</RefSource>
+                <PMID Version="1">15635128</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2005 Jul;17(7):879-87</RefSource>
+                <PMID Version="1">15908444</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Aug 15;175(4):2237-43</RefSource>
+                <PMID Version="1">16081791</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2005 Aug 15;118(Pt 16):3631-8</RefSource>
+                <PMID Version="1">16046478</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood Cells Mol Dis. 2005 Sep-Oct;35(2):149-52</RefSource>
+                <PMID Version="1">16061407</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Cell Neurosci. 2006 Apr;31(4):642-8</RefSource>
+                <PMID Version="1">16446100</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Blood. 2006 May 15;107(10):3907-11</RefSource>
+                <PMID Version="1">16434486</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11172-7</RefSource>
+                <PMID Version="1">16837572</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biochem. 2006 Jul;140(1):13-21</RefSource>
+                <PMID Version="1">16877764</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Mol Biol Cell. 2006 Sep;17(9):4027-38</RefSource>
+                <PMID Version="1">16837549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Cell Sci. 2006 Nov 1;119(Pt 21):4486-98</RefSource>
+                <PMID Version="1">17046995</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Hepatol. 2007 Apr;46(4):708-18</RefSource>
+                <PMID Version="1">17275126</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Drug Metab. 2007 May;8(4):297-306</RefSource>
+                <PMID Version="1">17504219</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Cell Biol. 2007 Jun;9(6):654-9</RefSource>
+                <PMID Version="1">17486113</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Jun 22;282(25):18197-205</RefSource>
+                <PMID Version="1">17468104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Endocrinology. 2007 Aug;148(8):3850-62</RefSource>
+                <PMID Version="1">17478559</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2007 Aug 31;282(35):25779-89</RefSource>
+                <PMID Version="1">17591775</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Traffic. 2008 Jun;9(6):871-81</RefSource>
+                <PMID Version="1">18331451</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Exp Cell Res. 2007 Apr 15;313(7):1473-83</RefSource>
+                <PMID Version="1">17349999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Pharmacol Toxicol. 2003;43:149-73</RefSource>
+                <PMID Version="1">12171978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 2003 Mar 14;278(11):9412-7</RefSource>
+                <PMID Version="1">12524433</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2003 Oct;22(4):578-83</RefSource>
+                <PMID Version="1">14582906</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 2003 Nov;64(11):1064-72</RefSource>
+                <PMID Version="1">14602237</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 2003 Dec;52(12):1690-7</RefSource>
+                <PMID Version="1">14633944</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Lipidol. 2004 Apr;15(2):167-74</RefSource>
+                <PMID Version="1">15017359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Care Med. 2004 Mar;32(3):818-25</RefSource>
+                <PMID Version="1">15090968</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Pathol. 2004 May;164(5):1807-15</RefSource>
+                <PMID Version="1">15111327</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Respir Cell Mol Biol. 2004 Jul;31(1):114-21</RefSource>
+                <PMID Version="1">14975938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9683-8</RefSource>
+                <PMID Version="1">15210972</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Cell Biol. 2004 Aug;16(4):415-21</RefSource>
+                <PMID Version="1">15261674</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13368-73</RefSource>
+                <PMID Version="1">15326289</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Immunol. 2004 Oct;34(10):2834-42</RefSource>
+                <PMID Version="1">15368299</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Antigens, CD63</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Biological Markers</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Databases, Factual</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Endocytosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exosomes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hepatocytes</DescriptorName>
+                <QualifierName MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Platelet Membrane Glycoproteins</DescriptorName>
+                <QualifierName MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proteomics</DescriptorName>
+                <QualifierName MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">NIHMS91193</OtherID>
+        <OtherID Source="NLM">PMC2696236</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19367702</ArticleId>
+            <ArticleId IdType="pmc">PMC2696236</ArticleId>
+            <ArticleId IdType="mid">NIHMS91193</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
