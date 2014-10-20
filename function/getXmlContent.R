@@ -6,7 +6,7 @@
 getXmlContent <- function(xmlFilePath, tag){
     require(XML)
     
-    xmlFile <- xmlParse(xmlFilePath, encoding = "UTF-8")
+    xmlFile <- xmlParse(xmlFilePath)
     tagPath <- paste("//*/", tag)
     content <- xpathSApply(xmlFile, tagPath, xmlValue)
     
