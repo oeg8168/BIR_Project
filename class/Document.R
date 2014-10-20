@@ -31,10 +31,12 @@ setMethod("parseXmlData", signature(self = "Document"),
           function(self) {
               # Regular expression to split content
               regExp <- "[[:space:]]+"
-        
-              self@content <- getXmlContent(self@path, "AbstractText")
+              
+              if(length(self@content) == 0){
+                self@content <- getXmlContent(self@path, "AbstractText")
+              }
               #self@sentences <- parseSentences(self)
-              self@sentences <- unlist(strsplit(self@content, split="[.][[:space:]]+[[:upper:]]"))
+              #self@sentences <- unlist(strsplit(self@content, split="[.][[:space:]]+[[:upper:]]"))
               self@words <- unlist(strsplit(self@content, split=regExp))          
               self@words <- gsub("[[:punct:]]", "", self@words)
               
