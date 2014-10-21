@@ -6,6 +6,8 @@
 rm(list=ls())   # clear all data
 cat("\014")     # clear all console
 
+library(graphics)
+
 # Source all files under "./function" folder
 functions <- list.files(path = "./function/",
                         full.names = T)
@@ -31,9 +33,12 @@ readXmlErrIndex <- numeric(0)
 
 # Read XML files and deal with encoding error
 for(i in 1:length(filesPath)){
-    #tempDoc <- new("Document", path = filesPath[i])
     tryCatch(
+        
+        # Read XML files
         rawContents <- c(rawContents, getXmlContent(filesPath[i], "AbstractText")),
+        
+        # If encoding error occured, record index and then ignore it
         error = function(e){
             cat(paste0("Index: ", i, "\n"))
             readXmlErrIndex <<- c(readXmlErrIndex, i)
@@ -41,11 +46,29 @@ for(i in 1:length(filesPath)){
     )
 }
 
-# have problem
-v <- new("Document")
-lapply(1:length(rawContents), function(i){
-        tempDoc <- new("Document", content = rawContents[i])
-        tempDoc <- parseXmlData(tempDoc)
-        v <<- c(v, tempDoc)
-    }
-)
+# List to store each documents
+docList <- NULL
+
+# Vector to store all words in files
+allWords <- NULL
+
+# For each document, split it and collect all words
+for(i in 1:length(rawContents)){
+    
+    # Parse each document into words
+    tempDoc <- new("Document", content = rawContents[i])
+    tempDoc <- parseXmlData(tempDoc)
+    
+    # All documents combine into a list
+    docList <- c(docList, tempDoc)
+    
+    # All words in all documents combine into a list
+    allWords <- c(allWords, tolower(tempDoc@words))
+}
+
+# Count frequency and sort it by decreasing order
+allWords <- table(allWords)
+allWords <- sort(allWords, decreasing = T)
+
+# Plot the frequency figure
+plot(allWords)
