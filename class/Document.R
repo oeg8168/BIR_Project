@@ -29,6 +29,7 @@ setClass(
 setGeneric("parseXmlData", function(self) {standardGeneric("parseXmlData")})
 setMethod("parseXmlData", signature(self = "Document"),
           function(self) {
+              
               # Regular expression to split content
               regExp <- "[[:space:]]+"
               
@@ -37,8 +38,15 @@ setMethod("parseXmlData", signature(self = "Document"),
               }
               #self@sentences <- parseSentences(self)
               #self@sentences <- unlist(strsplit(self@content, split="[.][[:space:]]+[[:upper:]]"))
+              
+              # Split words using defined regular expression
               self@words <- unlist(strsplit(self@content, split=regExp))          
+              
+              # Remove punctations
               self@words <- gsub("[[:punct:]]", "", self@words)
+              
+              # Remove empty strings
+              self@words <- self@words[self@words != ""]
               
               return(self)
           }
