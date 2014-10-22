@@ -6,6 +6,7 @@
 rm(list=ls())   # clear all data
 cat("\014")     # clear all console
 
+library(Rstem)
 library(graphics)
 
 # Source all files under "./function" folder
@@ -63,7 +64,7 @@ for(i in 1:length(rawContents)){
     docList <- c(docList, tempDoc)
     
     # All words in all documents combine into a list
-    allWords <- c(allWords, tolower(tempDoc@words))
+    allWords <- c(allWords, wordStem(tolower(tempDoc@words)))
 }
 
 # Count frequency and sort it by decreasing order
