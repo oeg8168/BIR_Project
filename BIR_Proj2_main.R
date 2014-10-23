@@ -71,5 +71,21 @@ for(i in 1:length(rawContents)){
 allWords <- table(allWords)
 allWords <- sort(allWords, decreasing = T)
 
+# Convert all encoding to UTF-8, so these "strange" encoding will become "NA"
+row.names(allWords) <- iconv(row.names(allWords), to="UTF-8")
+
+# Create data frame base on previous work
+DF <- data.frame(word = row.names(allWords), freq = allWords)
+
+# Remove rows with "NA"
+DF <- na.omit(DF)
+
+# Index rearrangement
+row.names(DF) <- 1:nrow(DF)
+
 # Plot the frequency figure
-plot(allWords)
+plot(x = sort(DF$freq, decreasing = T), xlab = "ranking", ylab = "frequency")
+
+# Show frequency chart
+View(DF)
+
