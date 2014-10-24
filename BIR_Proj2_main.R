@@ -27,31 +27,34 @@ filesPath <- list.files(path = inputFolder,
                         full.names = T)
 
 # Vector for storing raw contents of XML files
-rawContents <- character(0)
+rawContents <- vector(mode = "character")
 
 # Vector for storing index of encoding error
-readXmlErrIndex <- numeric(0)
+readXmlErrIndex <- vector(mode = "character")
 
 # Read XML files and deal with encoding error
 for(i in 1:length(filesPath)){
     tryCatch(
         
         # Read XML files
-        rawContents <- c(rawContents, getXmlContent(filesPath[i], "AbstractText")),
+        rawContents <- rbind(rawContents, getXmlContent(filesPath[i], "AbstractText")),
         
         # If encoding error occured, record index and then ignore it
         error = function(e){
             cat(paste0("Index: ", i, "\n"))
-            readXmlErrIndex <<- c(readXmlErrIndex, i)
+            readXmlErrIndex <<- rbind(readXmlErrIndex, c(i, filesPath[i]))
         }
     )
 }
 
+# Set column names of vector "readXmlErrIndex"
+colnames(readXmlErrIndex) <- c("file index", "path")
+
 # List to store each documents
-docList <- NULL
+docList <- list()
 
 # Vector to store all words in files
-allWords <- NULL
+allWords <- vector(mode = "character")
 
 # Parse all documents and combine into a list
 docList <- sapply(X = rawContents, 
