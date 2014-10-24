@@ -53,22 +53,21 @@ docList <- NULL
 # Vector to store all words in files
 allWords <- NULL
 
+# Parse all documents and combine into a list
+docList <- sapply(X = rawContents, 
+                  FUN = function(raw) 
+                      parseXmlData(new("Document", content = raw)), 
+                  USE.NAMES = F
+                  )
+
 # For each document, split it and collect all words
-for(i in 1:length(rawContents)){
-    
-    # Parse each document into words
-    tempDoc <- new("Document", content = rawContents[i])
-    tempDoc <- parseXmlData(tempDoc)
-    
-    # All documents combine into a list
-    docList <- c(docList, tempDoc)
-    
-    # All words in all documents combine into a list
-    allWords <- c(allWords, wordStem(tolower(tempDoc@words)))
-}
+allWords <- sapply(X = docList, 
+                   FUN = function(doc) 
+                       wordStem(tolower(doc@words))
+                   )
 
 # Count frequency and sort it by decreasing order
-allWords <- table(allWords)
+allWords <- table(unlist(allWords))
 allWords <- sort(allWords, decreasing = T)
 
 # Convert all encoding to UTF-8, so these "strange" encoding will become "NA"
