@@ -37,7 +37,9 @@ for(i in 1:length(filesPath)){
     tryCatch(
         
         # Read XML files
-        rawContents <- rbind(rawContents, getXmlContent(filesPath[i], "AbstractText")),
+        rawContents <- rbind(rawContents, 
+                             c(filesPath[i], getXmlContent(filesPath[i], "AbstractText"))
+                             ),
         
         # If encoding error occured, record index and then ignore it
         error = function(e){
@@ -47,8 +49,16 @@ for(i in 1:length(filesPath)){
     )
 }
 
-# Set column names of vector "readXmlErrIndex"
-colnames(readXmlErrIndex) <- c("file index", "path")
+# Convert "rawContents" into data frame and set column name
+rawContents <- as.data.frame(rawContents)
+colnames(rawContents) <- c("path", "content")
+
+# Convert "readXmlErrIndex" into data frame and set column name
+readXmlErrIndex <- as.data.frame(readXmlErrIndex)
+colnames(readXmlErrIndex) <- c("index", "path")
+
+# Show list of "readXmlErrIndex"
+View(readXmlErrIndex)
 
 # List to store each documents
 docList <- list()
@@ -57,11 +67,14 @@ docList <- list()
 allWords <- vector(mode = "character")
 
 # Parse all documents and combine into a list
-docList <- sapply(X = rawContents, 
-                  FUN = function(raw) 
-                      parseXmlData(new("Document", content = raw)), 
-                  USE.NAMES = F
-                  )
+docList <- apply(X = rawContents, 
+                 MARGIN = 1,
+                 FUN = function(raw)
+                     parseXmlData(new("Document", 
+                                      path = raw["path"], 
+                                      content = raw["content"]
+                                      ))
+                 )
 
 # For each document, split it and collect all words
 allWords <- sapply(X = docList, 
