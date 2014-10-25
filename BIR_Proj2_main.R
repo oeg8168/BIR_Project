@@ -90,17 +90,21 @@ allWords <- sort(allWords, decreasing = T)
 row.names(allWords) <- iconv(row.names(allWords), to="UTF-8")
 
 # Create data frame base on previous work
-DF <- data.frame(word = row.names(allWords), freq = allWords)
+freqDF <- data.frame(word = names(allWords), freq = allWords)
 
 # Remove rows with "NA"
-DF <- na.omit(DF)
+freqDF <- na.omit(freqDF)
 
 # Index rearrangement
-row.names(DF) <- 1:nrow(DF)
+row.names(freqDF) <- 1:nrow(freqDF)
 
-# Plot the frequency figure
-plot(x = sort(DF$freq, decreasing = T), xlab = "ranking", ylab = "frequency")
+# Plot the frequency chart
+plot(x = sort(freqDF$freq, decreasing = T), xlab = "ranking", ylab = "frequency")
 
-# Show frequency chart
-View(DF)
+# Show frequency table
+View(freqDF)
 
+# sapply(X = freqDF[["word"]], FUN = function(input) input %in% docList[[1]]@words)
+
+# points()
+# which(freqDF$word == "cd63")
