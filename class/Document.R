@@ -14,11 +14,14 @@ setClass(
         # AbstractText of this document
         content = "character",
         
-        # List of splitted sentences
+        # Vector of splitted sentences
         sentences = "vector",
         
-        # List of splitted words
+        # Vector of splitted words
         words = "vector",
+        
+        # Vector of words after stemming
+        stemWords = "vector",
         
         # Number of stopwords
         stopwordSum = "numeric"
@@ -29,12 +32,13 @@ setClass(
 setGeneric("parseXmlData", function(self) {standardGeneric("parseXmlData")})
 setMethod("parseXmlData", signature(self = "Document"),
           function(self) {
+              require(Rstem)
               
               # Regular expression to split content
               regExp <- "[[:space:]]+"
               
               if(length(self@content) == 0){
-                self@content <- getXmlContent(self@path, "AbstractText")
+                  self@content <- getXmlContent(self@path, "AbstractText")
               }
               #self@sentences <- parseSentences(self)
               #self@sentences <- unlist(strsplit(self@content, split="[.][[:space:]]+[[:upper:]]"))
@@ -47,6 +51,9 @@ setMethod("parseXmlData", signature(self = "Document"),
               
               # Remove empty strings
               self@words <- self@words[self@words != ""]
+              
+              # Stem the words using Porter's algorithm
+              self@stemWords <- wordStem(tolower(self@words))      
               
               return(self)
           }
