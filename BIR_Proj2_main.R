@@ -64,7 +64,7 @@ View(readXmlErrIndex)
 docList <- list()
 
 # Vector to store all words in files
-allWords <- vector(mode = "character")
+allStemWords <- vector(mode = "character")
 
 # Parse all documents and combine into a list
 docList <- apply(X = rawContents, 
@@ -76,21 +76,23 @@ docList <- apply(X = rawContents,
                                       ))
                  )
 
-# For each document, split it and collect all words
-allWords <- sapply(X = docList, 
+# Collect all stem words
+allStemWords <- sapply(X = docList, 
                    FUN = function(doc) 
-                       wordStem(tolower(doc@words))
+                       c(allStemWords, doc@stemWords)
                    )
 
 # Count frequency and sort it by decreasing order
-allWords <- table(unlist(allWords))
-allWords <- sort(allWords, decreasing = T)
+allStemWords <- table(unlist(allStemWords))
+allStemWords <- sort(allStemWords, decreasing = T)
 
 # Convert all encoding to UTF-8, so these "strange" encoding will become "NA"
-row.names(allWords) <- iconv(row.names(allWords), to="UTF-8")
+row.names(allStemWords) <- iconv(row.names(allStemWords), to="UTF-8")
+
+##which(is.na(iconv(row.names(allStemWords), to="UTF-8"))))
 
 # Create data frame base on previous work
-freqDF <- data.frame(word = names(allWords), freq = allWords)
+freqDF <- data.frame(word = names(allStemWords), freq = allStemWords)
 
 # Remove rows with "NA"
 freqDF <- na.omit(freqDF)
@@ -101,10 +103,20 @@ row.names(freqDF) <- 1:nrow(freqDF)
 # Plot the frequency chart
 plot(x = sort(freqDF$freq, decreasing = T), xlab = "ranking", ylab = "frequency")
 
-# Show frequency table
+# Get all words category by documents
+docWordList <- lapply(X = docList, 
+                      FUN = function(input) 
+                          c(input@stemWords)
+)
+
+# Compute all word-document relations
+system.time(
+wordRelation <- lapply(freqDF$word, FUN = function(word) inWhichDoc(word, docWordList))
+)
+
+# Combine word-document relations into frequency data frame
+freqDF <- cbind(freqDF, cbind(wordRelation))
+
+# Show frequency table
 View(freqDF)
 
-# sapply(X = freqDF[["word"]], FUN = function(input) input %in% docList[[1]]@words)
-
-# points()
-# which(freqDF$word == "cd63")
