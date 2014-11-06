@@ -15,7 +15,7 @@ source("./function/isIdentical.R")
 # Construct objects and read in stop words
 doc1 <- new("Document", path = "./input/#1/text1.xml")
 doc2 <- new("Document", path = "./input/#1/text3.xml")
-stopWords = scan("./input/#1/stopwords.txt", what = character())
+stopWords <- scan("./input/stopwords.txt", what = character())
 
 # Parse XML data(Tag: AbstractText) from documents
 doc1 <- parseXmlData(doc1)

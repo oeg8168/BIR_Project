@@ -110,12 +110,12 @@ docWordList <- lapply(X = docList,
 )
 
 # Compute all word-document relations
-system.time(
-wordRelation <- lapply(freqDF$word, FUN = function(word) inWhichDoc(word, docWordList))
-)
+#system.time(
+#wordRelation <- lapply(freqDF$word, FUN = function(word) inWhichDoc(word, docWordList))
+#)
 
 # Combine word-document relations into frequency data frame
-freqDF <- cbind(freqDF, cbind(wordRelation))
+#freqDF <- cbind(freqDF, cbind(wordRelation))
 
 # Show frequency table
 View(freqDF)
