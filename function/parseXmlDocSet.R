@@ -36,6 +36,11 @@ parseXmlDocSet <- function(inputXmlDocSet,
     # Start process words
     wordProcessed <- word
     
+    # (optional) Word stemming
+    if(stemming)
+        wordProcessed <- lapply(wordProcessed, 
+                                wordStem)
+    
     # (optional) Remove stop words
     if(removeStopWord)
         wordProcessed <- lapply(wordProcessed, 
@@ -45,11 +50,6 @@ parseXmlDocSet <- function(inputXmlDocSet,
     if(removeNumber)
         wordProcessed <- lapply(wordProcessed, 
                                 function(input) input[!grepl("^[[:digit:]]+$", input)])
-    
-    # (optional) Word stemming
-    if(stemming)
-        wordProcessed <- lapply(wordProcessed, 
-                                wordStem)
     
     # Combine all informations
     raw <- cbind(PMID, content, word, wordProcessed)
