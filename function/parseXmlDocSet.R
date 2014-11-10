@@ -6,15 +6,14 @@
 
 parseXmlDocSet <- function(inputXmlDocSet,
                            stopWordFile = "./input/stopwords.txt",
-                           removeStopWord = TRUE,
-                           removeNumber = TRUE,
                            stemming = TRUE,
-                           wordDocRelation = FALSE,
-                           reportAll = FALSE)
+                           removeStopWord = TRUE,
+                           removeNumber = TRUE
+)
 {
     require(XML)
     require(Rstem)
-        
+    
     # Parse XML file
     xmlFile <- xmlParse(inputXmlDocSet, encoding = "UTF-8")
     
@@ -56,7 +55,7 @@ parseXmlDocSet <- function(inputXmlDocSet,
     
     # Convert result as data frame
     raw <- as.data.frame(raw, stringsAsFactors = FALSE)
-        
+    
     return(raw)
 }
-    
+
