@@ -6,7 +6,7 @@
 getWordFreq <- function(docSet,             # Input document set
                         processed = TRUE,   # Compute (origin / processed) words
                         atLeast = 5,        # Filter of low TF terms
-                        sortBy = "TF",      # Sort the result by (TF / DF)
+                        sortBy = "Freq",      # Sort the result by (TF / DF)
                         relations = FALSE   # Compute word-doc relation or not
                         )
 {
@@ -26,10 +26,12 @@ getWordFreq <- function(docSet,             # Input document set
     freq <- merge(termFreq, docFreq, by = "Var1")
 
     # Set column names
-    colnames(freq) <- c("word", "TF", "DF")
+    colnames(freq) <- c("word", "Freq", "DF")
+    
+    freq$IDF <- log10(nrow(docSet)/freq$DF)
     
     # Filter of low TF terms
-    freq <- freq[freq$TF>atLeast, ]
+    freq <- freq[freq$Freq>atLeast, ]
     
     # (optional) Count word-doc relation
     if(relations){
