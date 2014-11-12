@@ -6,11 +6,11 @@
 inWhichDocPMID <- function(word, docSet, processed = T){
     
     if(processed)
-        docWordList <- docSet$wordProcessed
+        docWordSet <- docSet$wordProcessed
     else
-        docWordList <- docSet$word
+        docWordSet <- docSet$word
     
-    indexList <- which(sapply(X = docWordList,
+    indexList <- which(sapply(X = docWordSet,
                               FUN = function(singleDocWords)
                                   word %in% singleDocWords
                               )
