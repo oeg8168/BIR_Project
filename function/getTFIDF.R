@@ -12,13 +12,19 @@ getTFIDF <- function(doc, wordFreq, processed = T){
     
     result <- data.frame(table(docWord))
     
-    result$Freq <- result$Freq/sum(result$Freq)
+    result$IDF <- wordFreq$IDF[sapply(result$docWord, function(term) which(wordFreq$word %in% term))]
+        
+    TF_WIKI <- result$Freq / sum(result$Freq)
     
-    colnames(result) <- c("word", "TF")
+    TF_PPT <- 1 + log10(result$Freq)
     
-    result$IDF <- wordFreq$IDF[sapply(result$word, function(term) which(wordFreq$word %in% term))]
+    TF_OTHER <- result$Freq # need to be modify
     
-    result$TFIDF <- result$TF * result$IDF
+    result$TFIDF_WIKI <- TF_WIKI * result$IDF
+    
+    result$TFIDF_PPT <- TF_PPT * result$IDF
+    
+    result$TFIDF_OTHER <- TF_OTHER * result$IDF
     
     return(result)    
 }
