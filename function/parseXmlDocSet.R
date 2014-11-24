@@ -9,7 +9,7 @@ parseXmlDocSet <- function(inputXmlDocSet,
                            stemming = TRUE,
                            removeStopWord = TRUE,
                            removeNumber = TRUE
-)
+                           )
 {
     require(XML)
     require(Rstem)
@@ -29,26 +29,11 @@ parseXmlDocSet <- function(inputXmlDocSet,
     # Remove empty words
     word <- lapply(word, function(input) input[input!=""])
     
-    # Get stop words
-    stopWords <- scan(stopWordFile, what = character())
+    # Convert words encoding
+    word <- lapply(word, iconv, to="ASCII", sub = "byte")
     
-    # Start process words
-    wordProcessed <- word
-    
-    # (optional) Word stemming
-    if(stemming)
-        wordProcessed <- lapply(wordProcessed, 
-                                wordStem)
-    
-    # (optional) Remove stop words
-    if(removeStopWord)
-        wordProcessed <- lapply(wordProcessed, 
-                                function(input) input[!input%in%stopWords])
-    
-    # (optional) Remove number
-    if(removeNumber)
-        wordProcessed <- lapply(wordProcessed, 
-                                function(input) input[!grepl("^[[:digit:]]+$", input)])
+    # Process words
+    wordProcessed <- processWord(word)
     
     # Combine all informations
     raw <- cbind(PMID, content, word, wordProcessed)
