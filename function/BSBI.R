@@ -1,7 +1,7 @@
 BSBI <- function(docSet,
-                 blockSize = 10,    #
+                 blockSize = 10,
                  processed = TRUE,   # Compute (origin / processed) words
-                 intermediatePath = "./BSBI_intermediate"
+                 intermediatePath = "./intermediate_BSBI"
                  )
 {
     n <- 0
@@ -43,8 +43,8 @@ BSBI <- function(docSet,
         {
             pairs <- pairs[order(pairs[[1]], pairs[[2]]), ]
             uniquePairs <- unique(pairs)
-            uniquePairs[[1]] <- iconv(uniquePairs[[1]], to="ASCII", sub = "byte")
-            invertedIndex <<- sapply(unique(uniquePairs[[1]]), 
+            
+            invertedIndex <- sapply(unique(uniquePairs[[1]]), 
                                     FUN = function(word)
                                         { c(uniquePairs[[2]][which(uniquePairs[[1]]==word)]) }
                                     )
@@ -65,7 +65,7 @@ BSBI <- function(docSet,
         for(i in 1:length(indexList))
             result <- c(result, indexList[[i]])
         
-        words <- unique(row.names(cbind(result)))
+        words <- sort(unique(row.names(cbind(result))))
         
         result <- sapply(words, 
                          FUN = function(word)
