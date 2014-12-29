@@ -5,6 +5,8 @@ processWord <- function(word,
                         removeNumber = TRUE
                         )
 {
+    require(Rstem)
+    
     # Get stop words
     stopWords <- scan(stopWordFile, what = character())
     
